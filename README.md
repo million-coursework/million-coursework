@@ -48,6 +48,8 @@
 ## Project Impact
 
 ## Technical and Other Constraints
+ The system could now scrap data accurately and efficiently, and we have our own database. However, one thing leave to us is that in order to keep the database up to date, we might need to update it manually, prerequisites change in different years and degrees, we need the latest data to provide a rationally AI system to arrange the degree. Meanwhile, students may start degrees in different semesters, different degrees may have different requirements and rules. Thus, strategies should vary based on different situations or the the data we acquire should be formatted in an universal form.
+Further more, We are currently lack of consideration in safety and access control. Students should only see the courses in their own degrees and one may only have access to their own data, meanwhile the data should be maintained separately and safely when constructing the database. On the other hand, course conveners or professors may need to see how students arrange their courses each semester so that appropriate resources can be allocated in specific area.
 
 ## Resources, Risk and potential Costs
 
