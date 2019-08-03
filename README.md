@@ -34,9 +34,23 @@
 ## Tools and Services
 
 ## Milestones
+The plan for this semester includes five main work objectives. They are, in a rough order of priority, as follows:
+1. **Graphical User Interface**:The graphical user interface is a form of user interface. Good Gui can bring a better user experience. Our job is to improve the existing user interface and add some features.
+2. **CRUD**:Create, read, update, and delete (CRUD) are the four basic functions for this website. The website will read the data from the database and provide the information the user needs.These functions are the basis of access control system.
+3. **Access control**: Access control allow anu staffs to login into the website and change course information. Website administrators can also modify the database by using this system.
+4. **Copy and paste functions**: Copy and paste functions are advanced functions for the website. Students can copy existing timetable from other students or template. These function can help students complete their study plan faster.
+5. **Bug fixing**: There are some bugs in the website. For example,  in some situations, the website will generate incomplete timetable. Our job is to fix these bugs.
 
-## Project Schedule
+## [Semester 2 Project Schedule]
 
+![Project Schedule](Documentation/Audit 1/Images/Schedule.jpg)
+* **Kick-Off**: Weeks 1 - 2. Team member recruitment, onboarding, project definition and setup. 
+* **Sprint 1**: Weeks 3 - 5. Project Audit 1,graphical user interface,bug fixing. 
+* **Sprint 2**: Weeks 6 - 7. Project Audit 2, CRUD functions,copy function and bug fixing. 
+* **Sprint 3**: Weeks 8 - 10. Project Audit 3,paste function,access control and bug fixing.
+
+![Gantt](Documentation/Audit 1/Images/gantt.PNG)
+  
 ## Process Changes
 
 ## Client's Vision
