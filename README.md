@@ -41,7 +41,7 @@ The plan for this semester includes five main work objectives. They are, in a ro
 4. **Copy and paste functions**: Copy and paste functions are advanced functions for the website. Students can copy existing timetable from other students or template. These function can help students complete their study plan faster.
 5. **Bug fixing**: There are some bugs in the website. For example,  in some situations, the website will generate incomplete timetable. Our job is to fix these bugs.
 
-## [Project Schedule]
+## Project Schedule
 
 ![Project Schedule](Documentation/Audit1/Images/Schedule.jpg)
 * **Kick-Off**: Weeks 1 - 2. Team member recruitment, onboarding, project definition and setup. 
