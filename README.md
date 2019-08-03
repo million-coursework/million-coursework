@@ -7,11 +7,11 @@
 
 2. [Tools and Services](#tools-and-services)
 
-3. [Milestones](#semester-2-milestones)
+3. [Milestones](#milestones)
 
-4. [Project Schedule](#semester-2-project-schedule)
+4. [Project Schedule](#project-schedule)
 
-5. [Process Changes](#semester-2-process-changes)
+5. [Process Changes](#project-changes)
 
 6. [Client's Vision](#clients-vision)
 
@@ -28,3 +28,29 @@
 12. [NDA and IP Concerns](#nda-and-ip-concerns)
 
 13. [References](#references)
+
+## Team Members
+
+## Tools and Services
+
+## Milestones
+
+## Project Schedule
+
+## Process Changes
+
+## Client's Vision
+
+## Key Stakeholders
+
+## Client and Stakeholder Expectations
+
+## Project Impact
+
+## Technical and Other Constraints
+
+## Resources, Risk and potential Costs
+
+## NDA and Ip Concerns
+
+## References
