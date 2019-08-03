@@ -43,7 +43,7 @@ The plan for this semester includes five main work objectives. They are, in a ro
 
 ## Project Schedule
 
-![Project Schedule](Documentation/Audit1/Images/Schedule.jpg)
+![Project Schedule](Documentation/Audit1/Images/Schedule.png)
 * **Kick-Off**: Weeks 1 - 2. Team member recruitment, onboarding, project definition and setup. 
 * **Sprint 1**: Weeks 3 - 5. Project Audit 1,graphical user interface,bug fixing. 
 * **Sprint 2**: Weeks 6 - 7. Project Audit 2, CRUD functions,copy function and bug fixing. 
