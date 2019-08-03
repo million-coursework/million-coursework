@@ -1,0 +1,7 @@
+"http://programsandcourses.anu.edu.au/2018/course/SCOM4014",
+"http://programsandcourses.anu.edu.au/2018/course/SCOM1001",
+"http://programsandcourses.anu.edu.au/2018/course/SCOM3004",
+"http://programsandcourses.anu.edu.au/2018/course/SCOM3003",
+"http://programsandcourses.anu.edu.au/2018/course/SCOM2016",
+"http://programsandcourses.anu.edu.au/2018/course/SCOM2031",
+"http://programsandcourses.anu.edu.au/2018/course/SCOM4005"

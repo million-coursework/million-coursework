@@ -1,0 +1,6 @@
+"http://programsandcourses.anu.edu.au/2018/course/ARAB3002",
+"http://programsandcourses.anu.edu.au/2018/course/ARAB3008",
+"http://programsandcourses.anu.edu.au/2018/course/ARAB3007",
+"http://programsandcourses.anu.edu.au/2018/course/ARAB2012",
+"http://programsandcourses.anu.edu.au/2018/course/ARAB1003",
+"http://programsandcourses.anu.edu.au/2018/course/ARAB3006"

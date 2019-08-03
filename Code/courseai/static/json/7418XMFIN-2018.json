@@ -1,0 +1,60 @@
+{
+  "name": "Master of Finance",
+  "code": "7418XMFIN",
+  "year": 2018,
+  "units": 96,
+  "required": {
+    "x_from_here": [
+      {
+        "type": "minimum",
+        "units": 36,
+        "courses": [
+          "BUSN7008",
+          "FINM7006",
+          "FINM7007",
+          "FINM7008",
+          "FINM8007",
+          "STAT7055"
+        ]
+      },
+      {
+        "type": "minimum",
+        "units": 6,
+        "courses": [
+          "ECON8069",
+          "STAT6046"
+        ]
+      },
+      {
+        "type": "minimum",
+        "units": 6,
+        "courses": [
+          "STAT6038",
+          "STAT7001"
+        ]
+      },
+      {
+        "type": "minimum",
+        "units": 36,
+        "courses": [
+          "FINM7041",
+          "FINM7044",
+          "FINM8004",
+          "FINM8006",
+          "FINM8016",
+          "FINM8100",
+          "FINM7045",
+          "FINM8009",
+          "FINM8014",
+          "FINM8017",
+          "STAT7016",
+          "STAT7026",
+          "STAT7030",
+          "STAT7040"
+        ]
+      }
+    ],
+    "one_from_m/m/s": [],
+    "required_m/m/s": []
+  }
+}

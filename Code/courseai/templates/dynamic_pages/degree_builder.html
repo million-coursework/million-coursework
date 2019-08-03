@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<form action="degree" method="post" id="degree_builder">{% csrf_token %}
+
+    <div class="container">
+        Start Year: <input type="text" placeholder="Enter Start Year" name="year" value="{{ start_year }}" required>
+        Start Semester: <input type="text" placeholder="Enter Start Semester" name="semester"
+                               value="{{ start_semester }}" required>
+        <input type="hidden" name="uname" value="{{ username }}">
+        Interests: <input type="text" placeholder="Enter Interests (comma separated)" name="interests"
+                          value="{{ interests }}" required>
+    </div>
+
+    <textarea rows="10" cols="50" name="degree" form="degree_builder">
+        {{ degree }}
+  </textarea>
+    <button type="submit">Update</button>
+
+    <div class="container">
+        {% if recommended_courses %}
+            <p>Recommended Courses</p>
+            {% for course in recommended_courses %}
+                <ul> {{ course }}</ul>
+            {% endfor %}
+        {% endif %}
+    </div>
+</form>
+
+
+</body>
+</html>

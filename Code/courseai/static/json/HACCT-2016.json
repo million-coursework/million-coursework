@@ -1,0 +1,12 @@
+{
+  "name": "Bachelor of Accounting (Honours)",
+  "code": "HACCT",
+  "year": 2016,
+  "units": 48,
+  "required": {
+    "one_from_m/m/s": [],
+    "required_m/m/s": [
+      "ACCT-HSPC"
+    ]
+  }
+}

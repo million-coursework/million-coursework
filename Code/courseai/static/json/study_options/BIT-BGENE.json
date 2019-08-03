@@ -1,0 +1,969 @@
+{
+  "code": "BIT-BGENE",
+  "2014": [
+    [
+      {
+        "code": "CHEM1101",
+        "level": "Chemistry 1",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL1003",
+        "level": "Biology 1: Evolution, Ecology and Genetics",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP1100",
+        "level": "Introduction to Programming and Algorithms",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP1710",
+        "level": "Web Development and Design",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "CHEM1201",
+        "level": "Chemistry 2",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL1004",
+        "level": "Biology 2: Molecular and Cell Biology",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP1110",
+        "level": "Introduction to Software Systems",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1005",
+        "level": "Discrete Mathematical Models",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL2161",
+        "level": "Genes: Replication and Expression",
+        "units": "6 units"
+      },
+      {
+        "code": "Science course",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing course",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL2162",
+        "level": "Molecular Gene Technology",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL2151",
+        "level": "Principles of Genetics",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP2400",
+        "level": "Relational Databases",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP2600",
+        "level": "Formal Methods in Software Engineering",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL3161",
+        "level": "Genomics and its Applications",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL3204",
+        "level": "Human Genetics",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP3120",
+        "level": "Managing Software Development",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "3000 level Science course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level Science course",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing course 3000-level",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "3000 level Science course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level Science course",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing course 3000-level",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing course 3000-level",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Science course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science course",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing course 3000-level",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing course 3000-level",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2015": [
+    [
+      {
+        "code": "CHEM1101",
+        "level": "Chemistry 1",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL1003",
+        "level": "Biology 1: Evolution, Ecology and Genetics",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP1100",
+        "level": "Introduction to Programming and Algorithms",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP1710",
+        "level": "Web Development and Design",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "CHEM1201",
+        "level": "Chemistry 2",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL1004",
+        "level": "Biology 2: Molecular and Cell Biology",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP1110",
+        "level": "Introduction to Software Systems",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1005",
+        "level": "Discrete Mathematical Models",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL2161",
+        "level": "Genes: Replication and Expression",
+        "units": "6 units"
+      },
+      {
+        "code": "Science course",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing course",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL2162",
+        "level": "Molecular Gene Technology",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL2151",
+        "level": "Principles of Genetics",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP2400",
+        "level": "Relational Databases",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP2600",
+        "level": "Formal Methods in Software Engineering",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL3161",
+        "level": "Genomics and its Applications",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL3204",
+        "level": "Human Genetics",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP3120",
+        "level": "Managing Software Development",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "3000 level Science course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level Science course",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing course 3000-level",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "3000 level Science course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level Science course",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing course 3000-level",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing course 3000-level",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Science course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science course",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing course 3000-level",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing course 3000-level",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2016": [
+    [
+      {
+        "code": "CHEM1101",
+        "level": "Chemistry 1",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL1003",
+        "level": "Biology 1: Evolution, Ecology and Genetics",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP1100",
+        "level": "Introduction to Programming and Algorithms",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP1710",
+        "level": "Web Development and Design",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "CHEM1201",
+        "level": "Chemistry 2",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL1004",
+        "level": "Biology 2: Molecular and Cell Biology",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP1110",
+        "level": "Introduction to Software Systems",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1005",
+        "level": "Discrete Mathematical Models",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL2161",
+        "level": "Genes: Replication and Expression",
+        "units": "6 units"
+      },
+      {
+        "code": "Science course",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing course",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL2162",
+        "level": "Molecular Gene Technology",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL2151",
+        "level": "Principles of Genetics",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP2400",
+        "level": "Relational Databases",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP2600",
+        "level": "Formal Methods in Software Engineering",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL3161",
+        "level": "Genomics and its Applications",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL3204",
+        "level": "Human Genetics",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP3120",
+        "level": "Managing Software Development",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "3000 level Science course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level Science course",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing course 3000-level",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "3000 level Science course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level Science course",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing course 3000-level",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing course 3000-level",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Science course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science course",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing course 3000-level",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing course 3000-level",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2017": [
+    [
+      {
+        "code": "CHEM1101",
+        "level": "Chemistry 1",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL1003",
+        "level": "Biology 1: Evolution, Ecology and Genetics",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP1100",
+        "level": "Programming as Problem Solving",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1005",
+        "level": "Discrete Mathematical Models",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "CHEM1201",
+        "level": "Chemistry 2",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL1004",
+        "level": "Biology 2: Molecular and Cell Biology",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP1110",
+        "level": "Structured Programming",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP1600",
+        "level": "Foundations of Computing",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "STAT1003 Statistical Techniques or STAT1008 Quantitative Research Methods or BIOL2001",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL2161",
+        "level": "Genes: Replication and Expression",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP2100",
+        "level": "Software Design Methodologies",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP2300",
+        "level": "Computer Organisation and Program Execution",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL1009 Diversity of Life or COMP1100 Programming as Problem Solving",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL2202",
+        "level": "Experimental Design and Analysis in Biology",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing elective"
+      },
+      {
+        "code": "Computing elective"
+      }
+    ],
+    [
+      {
+        "code": "BIOL2151",
+        "level": "Genetics",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level B.Genetics elective from the list",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP2420",
+        "level": "Introduction to Data Management, Analysis and Security",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level",
+        "level": "Computing elective"
+      }
+    ],
+    [
+      {
+        "code": "BIOL3157",
+        "level": "Bioinformatics and Functional Genomics",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL2162",
+        "level": "Molecular Gene Technology",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level",
+        "level": "Computing elective"
+      },
+      {
+        "code": "3000 level",
+        "level": "Computing elective"
+      }
+    ],
+    [
+      {
+        "code": "BIOL3161",
+        "level": "Genomics and its Applications",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL3204",
+        "level": "Genetics of Human Disease 1",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level",
+        "level": "Computing elective"
+      },
+      {
+        "code": "Computing elective"
+      }
+    ],
+    [
+      {
+        "code": "3000 level B.Genetics elective from the list",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level B.Genetics elective from the list",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level",
+        "level": "Computing elective"
+      },
+      {
+        "code": "Computing elective"
+      }
+    ]
+  ],
+  "2018": [
+    [
+      {
+        "code": "CHEM1101",
+        "level": "Chemistry 1",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL1003",
+        "level": "Biology 1: Evolution, Ecology and Genetics",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP1100",
+        "level": "Programming as Problem Solving",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1005",
+        "level": "Discrete Mathematical Models",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "CHEM1201",
+        "level": "Chemistry 2",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL1004",
+        "level": "Biology 2: Molecular and Cell Biology",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP1110",
+        "level": "Structured Programming",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP1600",
+        "level": "Foundations of Computing",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "STAT1003 Statistical Techniques or STAT1008 Quantitative Research Methods or BIOL2001",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL2161",
+        "level": "Genes: Replication and Expression",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP2100",
+        "level": "Software Design Methodologies",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP2300",
+        "level": "Computer Organisation and Program Execution",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL1009 Diversity of Life or COMP1100 Programming as Problem Solving",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL2202",
+        "level": "Experimental Design and Analysis in Biology",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing elective"
+      },
+      {
+        "code": "Computing elective"
+      }
+    ],
+    [
+      {
+        "code": "BIOL2151",
+        "level": "Genetics",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level B.Genetics elective from the list",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP2420",
+        "level": "Introduction to Data Management, Analysis and Security",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level",
+        "level": "Computing elective"
+      }
+    ],
+    [
+      {
+        "code": "BIOL3157",
+        "level": "Bioinformatics and Functional Genomics",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL2162",
+        "level": "Molecular Gene Technology",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level",
+        "level": "Computing elective"
+      },
+      {
+        "code": "3000 level",
+        "level": "Computing elective"
+      }
+    ],
+    [
+      {
+        "code": "BIOL3161",
+        "level": "Genomics and its Applications",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL3204",
+        "level": "Genetics of Human Disease 1",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level",
+        "level": "Computing elective"
+      },
+      {
+        "code": "Computing elective"
+      }
+    ],
+    [
+      {
+        "code": "3000 level B.Genetics elective from the list",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level B.Genetics elective from the list",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level",
+        "level": "Computing elective"
+      },
+      {
+        "code": "Computing elective"
+      }
+    ]
+  ],
+  "2019": [
+    [
+      {
+        "code": "CHEM1101",
+        "level": "Chemistry 1",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL1003",
+        "level": "Biology 1: Evolution, Ecology and Genetics",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP1100",
+        "level": "Programming as Problem Solving",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1005",
+        "level": "Discrete Mathematical Models",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "CHEM1201",
+        "level": "Chemistry 2",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL1004",
+        "level": "Biology 2: Molecular and Cell Biology",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP1110",
+        "level": "Structured Programming",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP1600",
+        "level": "Foundations of Computing",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "STAT1003 Statistical Techniques or STAT1008 Quantitative Research Methods or BIOL2001",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL2161",
+        "level": "Genes: Replication and Expression",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP2100",
+        "level": "Software Design Methodologies",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP2300",
+        "level": "Computer Organisation and Program Execution",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL1009 Diversity of Life or COMP1100 Programming as Problem Solving",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL2202",
+        "level": "Experimental Design and Analysis in Biology",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing elective"
+      },
+      {
+        "code": "Computing elective"
+      }
+    ],
+    [
+      {
+        "code": "BIOL2151",
+        "level": "Genetics",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level B.Genetics elective from the list",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP2420",
+        "level": "Introduction to Data Management, Analysis and Security",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level",
+        "level": "Computing elective"
+      }
+    ],
+    [
+      {
+        "code": "BIOL3157",
+        "level": "Bioinformatics and Functional Genomics",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL2162",
+        "level": "Molecular Gene Technology",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level",
+        "level": "Computing elective"
+      },
+      {
+        "code": "3000 level",
+        "level": "Computing elective"
+      }
+    ],
+    [
+      {
+        "code": "BIOL3161",
+        "level": "Genomics and its Applications",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL3204",
+        "level": "Genetics of Human Disease 1",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level",
+        "level": "Computing elective"
+      },
+      {
+        "code": "Computing elective"
+      }
+    ],
+    [
+      {
+        "code": "3000 level B.Genetics elective from the list",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level B.Genetics elective from the list",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level",
+        "level": "Computing elective"
+      },
+      {
+        "code": "Computing elective"
+      }
+    ]
+  ]
+}

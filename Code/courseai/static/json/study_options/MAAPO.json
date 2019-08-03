@@ -1,0 +1,135 @@
+{
+  "code": "MAAPO",
+  "2014": [],
+  "2015": [],
+  "2016": [],
+  "2017": [],
+  "2018": [
+    [
+      {
+        "code": "Disciplinary Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Disciplinary Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Disciplinary Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Disciplinary Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ANTH8028",
+        "level": "Social Impact Assessment: Theory and Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "Research Project Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ANU Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ANU Elective Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ANTH8019",
+        "level": "Social Analysis & Community Politics",
+        "units": "6 units"
+      },
+      {
+        "code": "Research Project Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ANU Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ANU Elective Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {},
+      {},
+      {},
+      {}
+    ]
+  ],
+  "2019": [
+    [
+      {
+        "code": "Disciplinary Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Disciplinary Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Disciplinary Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Disciplinary Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ANTH8028",
+        "level": "Social Impact Assessment: Theory and Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "Research Project Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ANU Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ANU Elective Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ANTH8019",
+        "level": "Social Analysis & Community Politics",
+        "units": "6 units"
+      },
+      {
+        "code": "Research Project Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ANU Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ANU Elective Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {},
+      {},
+      {},
+      {}
+    ]
+  ]
+}

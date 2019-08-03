@@ -1,0 +1,103 @@
+{% load static %}
+
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+          integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel='stylesheet' type='text/css' href="{% static "css/style.css" %}"/>
+    <title>AI Enhanced Search</title>
+</head>
+
+<body>
+<div class="jumbotron vertical-center" style="margin-top: -100px; background-color: white">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-10 offset-md-1">
+                <div class="h1 text-center">AI Enhanced ANU Course Search</div>
+            </div>
+        </div>
+        <div class="row mt-4">
+            <div class="col-md-6 offset-md-3">
+                <form id="search-form" action="search" method="get">
+                    <div class="form-row">
+                        <div class="col-10">
+                            <input type="text" name="query" class="form-control"
+                                   placeholder="Type a question, topic, or course...">
+                        </div>
+                        <div class="col-2">
+                            <button type="submit" class="btn btn-primary">Search</button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+        <div class="row mt-4">
+            <table id="course-table" class="table table-striped table-hover">
+            </table>
+        </div>
+    </div>
+</div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"
+        integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+        crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
+        integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+        crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
+        integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+        crossorigin="anonymous"></script>
+<script>
+    $('#search-form').submit(function (e) {
+        e.preventDefault();
+
+        $.ajax({
+            url: 'search/coursesearch?query=' + $('input[name=query]').val(),
+            error: function (data) {
+                console.log("fail");
+            },
+            complete: function (data) {
+                console.log("complete");
+            },
+            success: function (data) {
+                console.log("success");
+                const course_table = $('#course-table');
+                course_table.empty();
+                for (var i = 0; i < data.response.length; i++) {
+                    var result = data.response[i];
+                    const code = result.code;
+                    const title = result.title;
+                    course_table.append(
+                        '<tr>\n' +
+                        '    <td class="course-code">\n' +
+                        '        <a href="http://programsandcourses.anu.edu.au/course/' + code + '" target="_blank">' + code + '</a>\n' +
+                        '    </td>\n    <td class="course-title" data-title="' + code + '">\n' +
+                        '        <a href="http://programsandcourses.anu.edu.au/course/' + code + '" target="_blank">' + title + '</a>\n' +
+                        '    </td>\n' +
+                        '    <td class="max-right"></td>\n' +
+                        '</tr>'
+                    );
+                }
+
+                $('td.course-title').popover({
+                    placement: 'right',
+                    trigger: 'manual',
+                    content: 'Recommended Courses: '
+                });
+
+                course_table.find('td').on('click', function (e) {
+                    const this_course = $(this).parent().find('td.course-title');
+                    var other_courses = $(this).parents('table').find('td.course-title');
+                    for (var i = 0; i < other_courses.length; i++) {
+                        td = other_courses[i];
+                        if (td !== this_course.get(0)) {
+                            $(td).popover('hide');
+                        }
+                    }
+                    this_course.popover('toggle');
+                });
+            }
+        });
+    })
+</script>
+</body>

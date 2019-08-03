@@ -1,0 +1,59 @@
+{
+  "name": "Graduate Diploma of International Affairs",
+  "code": "DIAFF",
+  "year": 2017,
+  "units": 48,
+  "required": {
+    "x_from_here": [
+      {
+        "type": "minimum",
+        "units": 48,
+        "courses": [
+          "ANTH8043",
+          "ANTH8032",
+          "ANTH8106",
+          "ASIA8017",
+          "DIPL8006",
+          "DIPL8008",
+          "DIPL8009",
+          "DIPL8010",
+          "INTR8013",
+          "INTR8018",
+          "INTR8020",
+          "INTR8022",
+          "INTR8032",
+          "INTR8071",
+          "INTR8043",
+          "INTR8045",
+          "INTR8046",
+          "INTR8053",
+          "INTR8060",
+          "INTR8062",
+          "INTR8064",
+          "INTR8069",
+          "INTR8067",
+          "INTR8068",
+          "INTR8072",
+          "INTR8073",
+          "INTR8074",
+          "INTR8076",
+          "STST8001",
+          "STST8002",
+          "STST8004",
+          "STST8013",
+          "STST8010",
+          "STST8017",
+          "STST8021",
+          "STST8026",
+          "STST8027",
+          "STST8032",
+          "STST8033",
+          "STST8051",
+          "STST8052"
+        ]
+      }
+    ],
+    "one_from_m/m/s": [],
+    "required_m/m/s": []
+  }
+}

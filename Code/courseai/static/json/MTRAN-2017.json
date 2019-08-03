@@ -1,0 +1,47 @@
+{
+  "name": "Master of Translation",
+  "code": "MTRAN",
+  "year": 2017,
+  "units": 96,
+  "required": {
+    "x_from_here": [
+      {
+        "type": "minimum",
+        "units": 12,
+        "courses": [
+          "ARAB6505",
+          "ASIA6083",
+          "ASIA6108",
+          "ASIA8051",
+          "CHIN6216",
+          "CHIN6041",
+          "INDN6015",
+          "INDN6104",
+          "JPNS6007",
+          "JPNS6102",
+          "JPNS6513",
+          "LANG6004",
+          "LING6015",
+          "LING6016",
+          "LING6017",
+          "LING6021",
+          "LING6023",
+          "PASI6010"
+        ]
+      },
+      {
+        "type": "minimum",
+        "units": 12,
+        "courses": [
+          "ANIP6503",
+          "HUMN6001",
+          "HUMN8032",
+          "LANG6016",
+          "LING6522"
+        ]
+      }
+    ],
+    "one_from_m/m/s": [],
+    "required_m/m/s": []
+  }
+}

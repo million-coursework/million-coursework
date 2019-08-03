@@ -1,0 +1,839 @@
+{
+  "code": "BPOLS-BMEDS",
+  "2014": [
+    [
+      {
+        "code": "CHEM1101",
+        "level": "Chemistry 1",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL1003",
+        "level": "Biology 1: Evolution, Ecology and Genetics",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1002",
+        "level": "Introduction to Politics",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "CHEM1201",
+        "level": "Chemistry 2",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL1004",
+        "level": "Biology 2: Molecular and Cell Biology",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1102 Macroeconomics 1",
+        "level": "\n OR <b/>ECON1100 Economics 1(H)<b/>6 units",
+        "units": "6 units \r"
+      },
+      {
+        "code": "POPS2001",
+        "level": "Population Studies",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL2161",
+        "level": "Genes: Replication and Expression",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL2103",
+        "level": "Human Physiology",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY1002",
+        "level": "Self and Society",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY2101",
+        "level": "Social Policy: Principles and Practice",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL2142",
+        "level": "General Microbiology",
+        "units": "6 units"
+      },
+      {
+        "code": "Science course",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS2009",
+        "level": "Bureaucracy and Public Policy",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS2105",
+        "level": "Political Leadership and Executive Government",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL2171",
+        "level": "Biochemistry and Nutrition",
+        "units": "6 units"
+      },
+      {
+        "code": "Science 3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "Core Course",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY2038",
+        "level": "Introduction to Quantitative Research Methods",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL2202",
+        "level": "Experimental Design and Analysis in Biology",
+        "units": "6 units"
+      },
+      {
+        "code": "Science 3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "Core Course",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY2043",
+        "level": "Qualitative Research Methods",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL3141",
+        "level": "Infection and Immunity",
+        "units": "6 units"
+      },
+      {
+        "code": "Science 3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY3123",
+        "level": "Policy and Program Evaluation",
+        "units": "6 units"
+      },
+      {
+        "code": "Core Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL3190",
+        "level": "Medical Science in the Workplace",
+        "units": "6 units"
+      },
+      {
+        "code": "Science 3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY3030",
+        "level": "Applied Policy Project",
+        "units": "6 units"
+      },
+      {
+        "code": "Core Course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2015": [
+    [
+      {
+        "code": "CHEM1101",
+        "level": "Chemistry 1",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL1003",
+        "level": "Biology 1: Evolution, Ecology and Genetics",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1002",
+        "level": "Introduction to Politics",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "CHEM1201",
+        "level": "Chemistry 2",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL1004",
+        "level": "Biology 2: Molecular and Cell Biology",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1102 Macroeconomics 1",
+        "level": "\n OR <b/>ECON1100 Economics 1(H)<b/>6 units",
+        "units": "6 units \r"
+      },
+      {
+        "code": "POPS2001"
+      }
+    ],
+    [
+      {
+        "code": "BIOL2161",
+        "level": "Genes: Replication and Expression",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL2103",
+        "level": "Human Physiology",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY1002",
+        "level": "Self and Society",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY2101",
+        "level": "Social Policy: Principles and Practice",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL2142",
+        "level": "General Microbiology",
+        "units": "6 units"
+      },
+      {
+        "code": "Science course",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS2009",
+        "level": "Bureaucracy and Public Policy",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS2105",
+        "level": "Political Leadership and Executive Government",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL2171",
+        "level": "Biochemistry and Nutrition",
+        "units": "6 units"
+      },
+      {
+        "code": "Science 3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "Core Course",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY2038",
+        "level": "Introduction to Quantitative Research Methods",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL2202",
+        "level": "Experimental Design and Analysis in Biology",
+        "units": "6 units"
+      },
+      {
+        "code": "Science 3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "Core Course",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY2043",
+        "level": "Qualitative Research Methods",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL3141",
+        "level": "Infection and Immunity",
+        "units": "6 units"
+      },
+      {
+        "code": "Science 3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY3123",
+        "level": "Research for Public Policy",
+        "units": "6 units"
+      },
+      {
+        "code": "Core Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL3190",
+        "level": "Medical Science in the Workplace",
+        "units": "6 units"
+      },
+      {
+        "code": "Science 3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY3030",
+        "level": "Applied Policy Project",
+        "units": "6 units"
+      },
+      {
+        "code": "Core Course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2016": [
+    [
+      {
+        "code": "CHEM1101",
+        "level": "Chemistry 1",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL1003",
+        "level": "Biology 1: Evolution, Ecology and Genetics",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1002",
+        "level": "Introduction to Politics",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "CHEM1201",
+        "level": "Chemistry 2",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL1004",
+        "level": "Biology 2: Molecular and Cell Biology",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1102",
+        "level": "Macroeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "INTR1022",
+        "level": "Peacebuilding and Conflict Resolution",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL2161",
+        "level": "Genes: Replication and Expression",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL2103",
+        "level": "Human Physiology",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY1002",
+        "level": "Self and Society",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY2101",
+        "level": "Social Policy: Principles and Practice",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL2142",
+        "level": "General Microbiology",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL2202",
+        "level": "Some of the alternative courses to BIOL2202 listed above are in first semester which may allow greater flexibility in elective choices"
+      },
+      {
+        "code": "Core Course",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS2105",
+        "level": "Political Leadership and Executive Government",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL2171",
+        "level": "Biochemistry and Nutrition",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL2151, BIOL3162, BIOL2174",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS2009",
+        "level": "Bureaucracy and Public Policy",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY2038",
+        "level": "Introduction to Quantitative Research Methods",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL3190",
+        "level": "Medical Science in the Workplace",
+        "units": "6 units"
+      },
+      {
+        "code": "B Med Science 3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "Core Course",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY2043",
+        "level": "Introduction to Qualitative Research Methods",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL3141",
+        "level": "Infection and Immunity",
+        "units": "6 units"
+      },
+      {
+        "code": "B Med Science 3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "Core Course",
+        "units": "6 units"
+      },
+      {
+        "code": "DEMO2001",
+        "level": "Population Studies",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "B Med Science 3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "B Med Science 3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "Capstone Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Core Course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2017": [
+    [
+      {
+        "code": "CHEM1101",
+        "level": "Chemistry 1",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL1003",
+        "level": "Biology 1: Evolution, Ecology and Genetics",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1002",
+        "level": "Introduction to Politics",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "CHEM1201",
+        "level": "Chemistry 2",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL1004",
+        "level": "Biology 2: Molecular and Cell Biology",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1102",
+        "level": "Macroeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "INTR1022",
+        "level": "Peacebuilding and Conflict Resolution",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL2161",
+        "level": "Genes: Replication and Expression",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL2171",
+        "level": "Biochemistry and Nutrition",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY1002",
+        "level": "Self and Society",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY2101",
+        "level": "Social Policy: Principles and Practice",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL2142",
+        "level": "General Microbiology",
+        "units": "6 units"
+      },
+      {
+        "code": "2000 level B.MedSc elective from list",
+        "units": "6 units"
+      },
+      {
+        "code": "Core Course",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS2105",
+        "level": "Political Leadership and Executive Government",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "B.MedSc elective from list",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL3141",
+        "level": "Infection and Immunity",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS2009",
+        "level": "Bureaucracy and Public Policy",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY2038",
+        "level": "Introduction to Quantitative Research Methods",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "2000 level B.MedSc elective from list",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL3190",
+        "level": "Medical Science in the Workplace",
+        "units": "6 units"
+      },
+      {
+        "code": "Core Course",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY2043",
+        "level": "Introduction to Qualitative Research Methods",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL3006",
+        "level": "Human Physiology",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level B.MedSc elective from list",
+        "units": "6 units"
+      },
+      {
+        "code": "Core Course",
+        "units": "6 units"
+      },
+      {
+        "code": "DEMO2001",
+        "level": "Population Studies",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "3000 level B.MedSc elective from list",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level Science elective",
+        "units": "6 units"
+      },
+      {
+        "code": "Capstone Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Core Course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2018": [
+    [
+      {
+        "code": "CHEM1101",
+        "level": "Chemistry 1",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL1003",
+        "level": "Biology 1: Evolution, Ecology and Genetics",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1002",
+        "level": "Introduction to Politics",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "CHEM1201",
+        "level": "Chemistry 2",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL1004",
+        "level": "Biology 2: Molecular and Cell Biology",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1102",
+        "level": "Macroeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "Australian Politics Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL2161",
+        "level": "Genes: Replication and Expression",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL2171",
+        "level": "Biochemistry and Nutrition",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY1002",
+        "level": "Self and Society",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY2101",
+        "level": "Social Policy: Principles and Practice",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL2142",
+        "level": "General Microbiology",
+        "units": "6 units"
+      },
+      {
+        "code": "2000 level B.MedSc elective from list",
+        "units": "6 units"
+      },
+      {
+        "code": "Key Issues in Policy Studies Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Political Theory Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "B.MedSc elective from list",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL3141",
+        "level": "Infection and Immunity",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS2009",
+        "level": "Bureaucracy and Public Policy",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY2038",
+        "level": "Introduction to Quantitative Research Methods",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "2000 level B.MedSc elective from list",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL3190",
+        "level": "Medical Science in the Workplace",
+        "units": "6 units"
+      },
+      {
+        "code": "Key Issues in Policy Studies Course",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY2043",
+        "level": "Introduction to Qualitative Research Methods",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL3006",
+        "level": "Human Physiology",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level B.MedSc elective from list",
+        "units": "6 units"
+      },
+      {
+        "code": "Key Issues in Policy Studies Course",
+        "units": "6 units"
+      },
+      {
+        "code": "DEMO2001",
+        "level": "Population Studies",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "3000 level B.MedSc elective from list",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level Science elective",
+        "units": "6 units"
+      },
+      {
+        "code": "Capstone Course",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS3039",
+        "level": "Political Leadership and Executive Government",
+        "units": "6 units"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Master of Social Research",
+  "code": "MSRES",
+  "year": 2019,
+  "units": 96,
+  "required": {
+    "one_from_m/m/s": [],
+    "required_m/m/s": []
+  }
+}

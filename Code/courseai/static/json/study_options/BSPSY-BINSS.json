@@ -1,0 +1,423 @@
+{
+  "code": "BSPSY-BINSS",
+  "2014": [],
+  "2015": [
+    [
+      {
+        "code": "STST1001",
+        "level": "Introduction to International Security Studies",
+        "units": "6 units"
+      },
+      {
+        "code": "1000 level Language Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "STST1003",
+        "level": "Coping with Crisis: The Practice of International Security",
+        "units": "6 units"
+      },
+      {
+        "code": "1000 level Language Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2016": [
+    [
+      {
+        "code": "STST1001",
+        "level": "Introduction to International Security Studies",
+        "units": "6 units"
+      },
+      {
+        "code": "1000 level Language Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "STST1003",
+        "level": "Coping with Crisis: The Practice of International Security",
+        "units": "6 units"
+      },
+      {
+        "code": "1000 level Language Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2017": [
+    [
+      {
+        "code": "STST1001",
+        "level": "Introduction to International Security Studies",
+        "units": "6 units"
+      },
+      {
+        "code": "1000-level course toward completion of minor in List B"
+      },
+      {
+        "code": "Elective",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "STST1003",
+        "level": "Coping with Crisis: The Practice of International Security",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2018": [
+    [
+      {
+        "code": "STST1001",
+        "level": "Introduction to International Security Studies",
+        "units": "6 units"
+      },
+      {
+        "code": "Course toward completion of minor from list B"
+      },
+      {
+        "code": "PSYC1003",
+        "level": "Psychology 1: Understanding Mind, Brain and Behaviour",
+        "units": "6 units"
+      },
+      {
+        "code": "1000 level Science elective",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "STST1003",
+        "level": "Coping with Crisis: The Practice of International Security",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective"
+      },
+      {
+        "code": "PSYC1004",
+        "level": "Psychology 2: Understanding People in Context",
+        "units": "6 units"
+      },
+      {
+        "code": "1000 level Science elective",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "STST2001",
+        "level": "International Security issues in the Asia Pacific",
+        "units": "6 units"
+      },
+      {
+        "code": "Course toward completion of minor from list B"
+      },
+      {
+        "code": "PSYC2009",
+        "level": "Quantitative Methods in Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2002",
+        "level": "Developmental Psychology",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "POLS2132",
+        "level": "Current Issues in International Security",
+        "units": "6 units"
+      },
+      {
+        "code": "Course toward completion of minor from list B"
+      },
+      {
+        "code": "PSYC2001",
+        "level": "Social Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2008",
+        "level": "Cognition",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "STST3002",
+        "level": "Australia's Security in the Asian Century",
+        "units": "6 units"
+      },
+      {
+        "code": "Course toward completion of minor from list B"
+      },
+      {
+        "code": "3000 level PSYC course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science elective",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Elective"
+      },
+      {
+        "code": "Elective"
+      },
+      {
+        "code": "PSYC2007",
+        "level": "Biological Basis of Behaviour",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3018",
+        "level": "Advanced Research Methods",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Course toward completion of 18 unit requirement of list A"
+      },
+      {
+        "code": "Course toward completion of 18 unit requirement of list A"
+      },
+      {
+        "code": "PSYC3025",
+        "level": "Psychopathology Across the Lifespan",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level PSYC course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Course toward completion of 18 unit requirement of list A"
+      },
+      {
+        "code": "Elective"
+      },
+      {
+        "code": "PSYC3026",
+        "level": "Personality Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level PSYC course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2019": [
+    [
+      {
+        "code": "STST1001",
+        "level": "Introduction to International Security Studies",
+        "units": "6 units"
+      },
+      {
+        "code": "Course toward completion of minor from list B"
+      },
+      {
+        "code": "PSYC1003",
+        "level": "Psychology 1: Understanding Mind, Brain and Behaviour",
+        "units": "6 units"
+      },
+      {
+        "code": "1000 level Science elective",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "STST1003",
+        "level": "Coping with Crisis: The Practice of International Security",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective"
+      },
+      {
+        "code": "PSYC1004",
+        "level": "Psychology 2: Understanding People in Context",
+        "units": "6 units"
+      },
+      {
+        "code": "1000 level Science elective",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "STST2001",
+        "level": "International Security issues in the Asia Pacific",
+        "units": "6 units"
+      },
+      {
+        "code": "Course toward completion of minor from list B"
+      },
+      {
+        "code": "PSYC2009",
+        "level": "Quantitative Methods in Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2002",
+        "level": "Developmental Psychology",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "POLS2132",
+        "level": "Current Issues in International Security",
+        "units": "6 units"
+      },
+      {
+        "code": "Course toward completion of minor from list B"
+      },
+      {
+        "code": "PSYC2001",
+        "level": "Social Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2008",
+        "level": "Cognition",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "STST3002",
+        "level": "Australia's Security in the Asian Century",
+        "units": "6 units"
+      },
+      {
+        "code": "Course toward completion of minor from list B"
+      },
+      {
+        "code": "3000 level PSYC course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science elective",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Elective"
+      },
+      {
+        "code": "Elective"
+      },
+      {
+        "code": "PSYC2007",
+        "level": "Biological Basis of Behaviour",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3018",
+        "level": "Advanced Research Methods",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Course toward completion of 18 unit requirement of list A"
+      },
+      {
+        "code": "Course toward completion of 18 unit requirement of list A"
+      },
+      {
+        "code": "PSYC3025",
+        "level": "Psychopathology Across the Lifespan",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level PSYC course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Course toward completion of 18 unit requirement of list A"
+      },
+      {
+        "code": "Elective"
+      },
+      {
+        "code": "PSYC3026",
+        "level": "Personality Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level PSYC course",
+        "units": "6 units"
+      }
+    ]
+  ]
+}

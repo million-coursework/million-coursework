@@ -1,0 +1,234 @@
+{
+  "code": "VBIAN",
+  "2014": [],
+  "2015": [],
+  "2016": [],
+  "2017": [
+    [
+      {
+        "code": "Min 36 unit list course",
+        "units": "6 units \r"
+      },
+      {
+        "code": "Min 36 unit list course",
+        "units": "6 units \r"
+      },
+      {
+        "code": "Min 36 unit list course",
+        "units": "6 units \r"
+      },
+      {
+        "code": "Min 36 unit list course",
+        "units": "6 units \r"
+      }
+    ],
+    [
+      {
+        "code": "BIAN6516",
+        "level": "Research Design and Analysis in Biological Anthropology",
+        "units": "6 units"
+      },
+      {
+        "code": "Min 36 unit list course",
+        "level": "OR Max 12 unit list course",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Min 36 unit list course",
+        "units": "6 units \r"
+      },
+      {
+        "code": "Min 36 unit list course",
+        "units": "6 units \r"
+      }
+    ],
+    [
+      {
+        "code": "BIAN8008",
+        "level": "Data Analysis and Methods in Biological Anthropology",
+        "units": "6 units"
+      },
+      {
+        "code": "BIAN6013",
+        "level": "Human Evolution",
+        "units": "6 units"
+      },
+      {
+        "code": "BIAN6517",
+        "level": "Human Skeletal Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "Min 36 unit list course",
+        "level": "OR Max 12 unit list course",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "-"
+      },
+      {
+        "code": "THES8103",
+        "level": "Thesis",
+        "units": "6 to 24 units"
+      },
+      {
+        "code": "-"
+      },
+      {
+        "code": "-"
+      }
+    ]
+  ],
+  "2018": [
+    [
+      {
+        "code": "Min 36 unit list course",
+        "units": "6 units \r"
+      },
+      {
+        "code": "Min 36 unit list course",
+        "units": "6 units \r"
+      },
+      {
+        "code": "Min 36 unit list course",
+        "units": "6 units \r"
+      },
+      {
+        "code": "Min 36 unit list course",
+        "units": "6 units \r"
+      }
+    ],
+    [
+      {
+        "code": "BIAN6516"
+      },
+      {
+        "code": "Min 36 unit list course",
+        "level": "OR Max 12 unit list course",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Min 36 unit list course",
+        "units": "6 units \r"
+      },
+      {
+        "code": "Min 36 unit list course",
+        "units": "6 units \r"
+      }
+    ],
+    [
+      {
+        "code": "BIAN8008",
+        "level": "Data Analysis and Methods in Biological Anthropology",
+        "units": "6 units"
+      },
+      {
+        "code": "BIAN6013",
+        "level": "Human Evolution",
+        "units": "6 units"
+      },
+      {
+        "code": "BIAN6517",
+        "level": "Human Skeletal Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "Min 36 unit list course",
+        "level": "OR Max 12 unit list course",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "-"
+      },
+      {
+        "code": "THES8103",
+        "level": "Thesis",
+        "units": "6 to 24 units"
+      },
+      {
+        "code": "-"
+      },
+      {
+        "code": "-"
+      }
+    ]
+  ],
+  "2019": [
+    [
+      {
+        "code": "Min 36 unit list course",
+        "units": "6 units \r"
+      },
+      {
+        "code": "Min 36 unit list course",
+        "units": "6 units \r"
+      },
+      {
+        "code": "Min 36 unit list course",
+        "units": "6 units \r"
+      },
+      {
+        "code": "Min 36 unit list course",
+        "units": "6 units \r"
+      }
+    ],
+    [
+      {
+        "code": "BIAN6516"
+      },
+      {
+        "code": "Min 36 unit list course",
+        "level": "OR Max 12 unit list course",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Min 36 unit list course",
+        "units": "6 units \r"
+      },
+      {
+        "code": "Min 36 unit list course",
+        "units": "6 units \r"
+      }
+    ],
+    [
+      {
+        "code": "BIAN8008"
+      },
+      {
+        "code": "BIAN6013",
+        "level": "Human Evolution",
+        "units": "6 units"
+      },
+      {
+        "code": "BIAN6517",
+        "level": "Human Skeletal Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "Min 36 unit list course",
+        "level": "OR Max 12 unit list course",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "-"
+      },
+      {
+        "code": "THES8103",
+        "level": "Thesis",
+        "units": "6 to 24 units"
+      },
+      {
+        "code": "-"
+      },
+      {
+        "code": "-"
+      }
+    ]
+  ]
+}

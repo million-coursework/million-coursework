@@ -1,0 +1,979 @@
+{
+  "code": "BSPSY-ALLB",
+  "2014": [],
+  "2015": [
+    [
+      {
+        "code": "LAWS1201",
+        "level": "Foundations of Australian Law",
+        "units": "6 units"
+      },
+      {
+        "code": "LAWS1203",
+        "level": "Torts",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC1003",
+        "level": "Psychology 1: Understanding Mind, Brain and Behaviour",
+        "units": "6 units"
+      },
+      {
+        "code": "Science course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LAWS1202",
+        "level": "Lawyers Justice and Ethics",
+        "units": "6 units"
+      },
+      {
+        "code": "LAWS1204",
+        "level": "Contracts",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC1004",
+        "level": "Psychology 2: Understanding People in Context",
+        "units": "6 units"
+      },
+      {
+        "code": "Science course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LAWS1205",
+        "level": "Australian Public Law",
+        "units": "6 units"
+      },
+      {
+        "code": "LAWS1206",
+        "level": "Criminal Law and Procedure",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2009",
+        "level": "Quantitative Methods in Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2007",
+        "level": "Biological Basis of Behaviour",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LAWS2250",
+        "level": "International Law",
+        "units": "6 units"
+      },
+      {
+        "code": "LAWS2249",
+        "level": "Legal Theory",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2001",
+        "level": "Social Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2008",
+        "level": "Visual Perception and Cognition",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LAWS2201",
+        "level": "Administrative Law",
+        "units": "6 units"
+      },
+      {
+        "code": "LAWS2203",
+        "level": "Corporations Law",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2002",
+        "level": "Developmental Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "Science course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LAWS2202",
+        "level": "Commonwealth Constitutional Law",
+        "units": "6 units"
+      },
+      {
+        "code": "Law Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3025",
+        "level": "Abnormal Psychology across the Life Span",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3018",
+        "level": "Advanced Research Methods",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LAWS2204",
+        "level": "Property",
+        "units": "6 units"
+      },
+      {
+        "code": "Law Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3026",
+        "level": "Personality Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC 3000 level course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LAWS2205",
+        "level": "Equity and Trusts",
+        "units": "6 units"
+      },
+      {
+        "code": "Law Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC 3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC 3000 level course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LAWS2244",
+        "level": "Litigation and Dispute Management",
+        "units": "6 units"
+      },
+      {
+        "code": "Law Elective Courses",
+        "units": "18 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "LAWS2207",
+        "level": "Evidence",
+        "units": "6 units"
+      },
+      {
+        "code": "Law Elective Courses",
+        "units": "18 units"
+      },
+      {},
+      {}
+    ]
+  ],
+  "2016": [
+    [
+      {
+        "code": "LAWS1201",
+        "level": "Foundations of Australian Law",
+        "units": "6 units"
+      },
+      {
+        "code": "LAWS1203",
+        "level": "Torts",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC1003",
+        "level": "Psychology 1: Understanding Mind, Brain and Behaviour",
+        "units": "6 units"
+      },
+      {
+        "code": "Science course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LAWS1202",
+        "level": "Lawyers Justice and Ethics",
+        "units": "6 units"
+      },
+      {
+        "code": "LAWS1204",
+        "level": "Contracts",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC1004",
+        "level": "Psychology 2: Understanding People in Context",
+        "units": "6 units"
+      },
+      {
+        "code": "Science course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LAWS1205",
+        "level": "Australian Public Law",
+        "units": "6 units"
+      },
+      {
+        "code": "LAWS1206",
+        "level": "Criminal Law and Procedure",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2009",
+        "level": "Quantitative Methods in Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2007",
+        "level": "Biological Basis of Behaviour",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LAWS2250",
+        "level": "International Law",
+        "units": "6 units"
+      },
+      {
+        "code": "LAWS2249",
+        "level": "Legal Theory",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2001",
+        "level": "Social Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2008",
+        "level": "Cognition",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LAWS2201",
+        "level": "Administrative Law",
+        "units": "6 units"
+      },
+      {
+        "code": "LAWS2203",
+        "level": "Corporations Law",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2002",
+        "level": "Developmental Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "Science course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LAWS2202",
+        "level": "Commonwealth Constitutional Law",
+        "units": "6 units"
+      },
+      {
+        "code": "Law Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3025",
+        "level": "Abnormal Psychology across the Life Span",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3018",
+        "level": "Advanced Research Methods",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LAWS2204",
+        "level": "Property",
+        "units": "6 units"
+      },
+      {
+        "code": "Law Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3026",
+        "level": "Personality Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC 3000 level course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LAWS2205",
+        "level": "Equity and Trusts",
+        "units": "6 units"
+      },
+      {
+        "code": "Law Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC 3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC 3000 level course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LAWS2244",
+        "level": "Litigation and Dispute Management",
+        "units": "6 units"
+      },
+      {
+        "code": "Law Elective Courses",
+        "units": "18 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "LAWS2207",
+        "level": "Evidence",
+        "units": "6 units"
+      },
+      {
+        "code": "Law Elective Courses",
+        "units": "18 units"
+      },
+      {},
+      {}
+    ]
+  ],
+  "2017": [
+    [
+      {
+        "code": "LAWS1201",
+        "level": "Foundations of Australian Law",
+        "units": "6 units"
+      },
+      {
+        "code": "LAWS1203",
+        "level": "Torts",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC1003",
+        "level": "Psychology 1: Understanding Mind, Brain and Behaviour",
+        "units": "6 units"
+      },
+      {
+        "code": "1000 level Science elective",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LAWS1202",
+        "level": "Lawyers Justice and Ethics",
+        "units": "6 units"
+      },
+      {
+        "code": "LAWS1204",
+        "level": "Contracts",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC1004",
+        "level": "Psychology 2: Understanding People in Context",
+        "units": "6 units"
+      },
+      {
+        "code": "1000 level Science elective",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LAWS1205",
+        "level": "Australian Public Law",
+        "units": "6 units"
+      },
+      {
+        "code": "LAWS1206",
+        "level": "Criminal Law and Procedure",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2009",
+        "level": "Quantitative Methods in Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2002",
+        "level": "Developmental Psychology",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LAWS2250",
+        "level": "International Law",
+        "units": "6 units"
+      },
+      {
+        "code": "LAWS2249",
+        "level": "Legal Theory",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2001",
+        "level": "Social Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2008",
+        "level": "Cognition",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LAWS2201",
+        "level": "Administrative Law",
+        "units": "6 units"
+      },
+      {
+        "code": "LAWS2203",
+        "level": "Corporations Law",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level PSYC course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science elective",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LAWS2202",
+        "level": "Commonwealth Constitutional Law",
+        "units": "6 units"
+      },
+      {
+        "code": "Law Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2007",
+        "level": "Biological Basis of Behaviour",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3018",
+        "level": "Advanced Research Methods",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LAWS2204",
+        "level": "Property",
+        "units": "6 units"
+      },
+      {
+        "code": "Law Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3025",
+        "level": "Abnormal Psychology across the Life Span",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level PSYC course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LAWS2205",
+        "level": "Equity and Trusts",
+        "units": "6 units"
+      },
+      {
+        "code": "Law Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3026",
+        "level": "Personality Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level PSYC course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LAWS2244",
+        "level": "Litigation and Dispute Management",
+        "units": "6 units"
+      },
+      {
+        "code": "Law Elective Courses",
+        "units": "18 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "LAWS2207",
+        "level": "Evidence",
+        "units": "6 units"
+      },
+      {
+        "code": "Law Elective Courses",
+        "units": "18 units"
+      },
+      {},
+      {}
+    ]
+  ],
+  "2018": [
+    [
+      {
+        "code": "LAWS1201",
+        "level": "Foundations of Australian Law",
+        "units": "6 units"
+      },
+      {
+        "code": "LAWS1203",
+        "level": "Torts",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC1003",
+        "level": "Psychology 1: Understanding Mind, Brain and Behaviour",
+        "units": "6 units"
+      },
+      {
+        "code": "1000 level Science elective",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LAWS1202",
+        "level": "Lawyers Justice and Ethics",
+        "units": "6 units"
+      },
+      {
+        "code": "LAWS1204",
+        "level": "Contracts",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC1004",
+        "level": "Psychology 2: Understanding People in Context",
+        "units": "6 units"
+      },
+      {
+        "code": "1000 level Science elective",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LAWS1205",
+        "level": "Australian Public Law",
+        "units": "6 units"
+      },
+      {
+        "code": "LAWS1206",
+        "level": "Criminal Law and Procedure",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2009",
+        "level": "Quantitative Methods in Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2002",
+        "level": "Developmental Psychology",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LAWS2250",
+        "level": "International Law",
+        "units": "6 units"
+      },
+      {
+        "code": "LAWS2249",
+        "level": "Legal Theory",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2001",
+        "level": "Social Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2008",
+        "level": "Cognition",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LAWS2201",
+        "level": "Administrative Law",
+        "units": "6 units"
+      },
+      {
+        "code": "LAWS2203",
+        "level": "Corporations Law",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level PSYC course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science elective",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LAWS2202",
+        "level": "Commonwealth Constitutional Law",
+        "units": "6 units"
+      },
+      {
+        "code": "Law Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2007",
+        "level": "Biological Basis of Behaviour",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3018",
+        "level": "Advanced Research Methods",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LAWS2204",
+        "level": "Property",
+        "units": "6 units"
+      },
+      {
+        "code": "Law Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3025",
+        "level": "Psychopathology Across the Lifespan",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level PSYC course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LAWS2205",
+        "level": "Equity and Trusts",
+        "units": "6 units"
+      },
+      {
+        "code": "Law Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3026",
+        "level": "Personality Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level PSYC course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LAWS2244",
+        "level": "Litigation and Dispute Management",
+        "units": "6 units"
+      },
+      {
+        "code": "Law Elective Courses",
+        "units": "18 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "LAWS2207",
+        "level": "Evidence",
+        "units": "6 units"
+      },
+      {
+        "code": "Law Elective Courses",
+        "units": "18 units"
+      },
+      {},
+      {}
+    ]
+  ],
+  "2019": [
+    [
+      {
+        "code": "LAWS1201",
+        "level": "Foundations of Australian Law",
+        "units": "6 units"
+      },
+      {
+        "code": "LAWS1203",
+        "level": "Torts",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC1003",
+        "level": "Psychology 1: Understanding Mind, Brain and Behaviour",
+        "units": "6 units"
+      },
+      {
+        "code": "1000 level Science elective",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LAWS1202",
+        "level": "Lawyers Justice and Ethics",
+        "units": "6 units"
+      },
+      {
+        "code": "LAWS1204",
+        "level": "Contracts",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC1004",
+        "level": "Psychology 2: Understanding People in Context",
+        "units": "6 units"
+      },
+      {
+        "code": "1000 level Science elective",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LAWS1205",
+        "level": "Australian Public Law",
+        "units": "6 units"
+      },
+      {
+        "code": "LAWS1206",
+        "level": "Criminal Law and Procedure",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2009",
+        "level": "Quantitative Methods in Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2002",
+        "level": "Developmental Psychology",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LAWS2250",
+        "level": "International Law",
+        "units": "6 units"
+      },
+      {
+        "code": "LAWS2249",
+        "level": "Legal Theory",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2001",
+        "level": "Social Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2008",
+        "level": "Cognition",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LAWS2201",
+        "level": "Administrative Law",
+        "units": "6 units"
+      },
+      {
+        "code": "LAWS2203",
+        "level": "Corporations Law",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level PSYC course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science elective",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LAWS2202",
+        "level": "Commonwealth Constitutional Law",
+        "units": "6 units"
+      },
+      {
+        "code": "Law Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2007",
+        "level": "Biological Basis of Behaviour",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3018",
+        "level": "Advanced Research Methods",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LAWS2204",
+        "level": "Property",
+        "units": "6 units"
+      },
+      {
+        "code": "Law Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3025",
+        "level": "Psychopathology Across the Lifespan",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level PSYC course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LAWS2205",
+        "level": "Equity and Trusts",
+        "units": "6 units"
+      },
+      {
+        "code": "Law Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3026",
+        "level": "Personality Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level PSYC course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LAWS2244",
+        "level": "Litigation and Dispute Management",
+        "units": "6 units"
+      },
+      {
+        "code": "Law Elective Courses",
+        "units": "18 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "LAWS2207",
+        "level": "Evidence",
+        "units": "6 units"
+      },
+      {
+        "code": "Law Elective Courses",
+        "units": "18 units"
+      },
+      {},
+      {}
+    ]
+  ]
+}

@@ -1,0 +1,843 @@
+{
+  "code": "APHSC",
+  "2014": [
+    [
+      {
+        "code": "Science 1000 level Course",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Science 1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science 1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Science 1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science 1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science 1000 level Course including Advanced Studies Extension",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Science 2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science 2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Advanced Studies Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Science 2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science 2000 level Course including Advanced Studies Extension",
+        "units": "6 units"
+      },
+      {
+        "code": "Science 2000 level Course including Advanced Studies Extension",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Science 3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science 3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Advanced Studies Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Science 3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science 3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Advanced Studies Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "4000 level Honours Course",
+        "units": "24 units"
+      },
+      {
+        "code": "4000 level Honours Course"
+      },
+      {
+        "code": "4000 level Honours Course"
+      },
+      {
+        "code": "4000 level Honours Course"
+      }
+    ],
+    [
+      {
+        "code": "4000 level Honours Course",
+        "units": "24 units"
+      },
+      {
+        "code": "4000 level Honours Course"
+      },
+      {
+        "code": "4000 level Honours Course"
+      },
+      {
+        "code": "4000 level Honours Course"
+      }
+    ]
+  ],
+  "2015": [
+    [
+      {
+        "code": "Science 1000 level Course",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Science 1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science 1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Science 1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science 1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science 1000 level Course including Advanced Studies Extension",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Science 2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science 2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Advanced Studies Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Science 2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science 2000 level Course including Advanced Studies Extension",
+        "units": "6 units"
+      },
+      {
+        "code": "Science 2000 level Course including Advanced Studies Extension",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Science 3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science 3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Advanced Studies Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Science 3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science 3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Advanced Studies Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "4000 level Honours Course",
+        "units": "24 units"
+      },
+      {
+        "code": "4000 level Honours Course"
+      },
+      {
+        "code": "4000 level Honours Course"
+      },
+      {
+        "code": "4000 level Honours Course"
+      }
+    ],
+    [
+      {
+        "code": "4000 level Honours Course",
+        "units": "24 units"
+      },
+      {
+        "code": "4000 level Honours Course"
+      },
+      {
+        "code": "4000 level Honours Course"
+      },
+      {
+        "code": "4000 level Honours Course"
+      }
+    ]
+  ],
+  "2016": [
+    [
+      {
+        "code": "Science 1000 level Course",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Science 1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science 1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Science 1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science 1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science 1000 level Course including Advanced Studies Extension",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Science 2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science 2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Advanced Studies Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Science 2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science 2000 level Course including Advanced Studies Extension",
+        "units": "6 units"
+      },
+      {
+        "code": "Science 2000 level Course including Advanced Studies Extension",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Science 3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science 3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Advanced Studies Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Science 3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science 3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Advanced Studies Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "4000 level Honours Course",
+        "units": "24 units"
+      },
+      {
+        "code": "4000 level Honours Course"
+      },
+      {
+        "code": "4000 level Honours Course"
+      },
+      {
+        "code": "4000 level Honours Course"
+      }
+    ],
+    [
+      {
+        "code": "4000 level Honours Course",
+        "units": "24 units"
+      },
+      {
+        "code": "4000 level Honours Course"
+      },
+      {
+        "code": "4000 level Honours Course"
+      },
+      {
+        "code": "4000 level Honours Course"
+      }
+    ]
+  ],
+  "2017": [
+    [
+      {
+        "code": "Science 1000 level Course",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Science 1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science 1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Science 1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science 1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science 1000 level Course including Advanced Studies Extension",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Science 2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science 2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Advanced Studies Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Science 2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science 2000 level Course including Advanced Studies Extension",
+        "units": "6 units"
+      },
+      {
+        "code": "Science 2000 level Course including Advanced Studies Extension",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Science 3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science 3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Advanced Studies Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Science 3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science 3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Advanced Studies Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "4000 level Honours Course",
+        "units": "24 units"
+      },
+      {
+        "code": "4000 level Honours Course"
+      },
+      {
+        "code": "4000 level Honours Course"
+      },
+      {
+        "code": "4000 level Honours Course"
+      }
+    ],
+    [
+      {
+        "code": "4000 level Honours Course",
+        "units": "24 units"
+      },
+      {
+        "code": "4000 level Honours Course"
+      },
+      {
+        "code": "4000 level Honours Course"
+      },
+      {
+        "code": "4000 level Honours Course"
+      }
+    ]
+  ],
+  "2018": [
+    [
+      {
+        "code": "Science 1000 level Course",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Science 1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science 1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Science 1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science 1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science 1000 level Course including Advanced Studies Extension",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Science 2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science 2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Advanced Studies Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Science 2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science 2000 level Course including Advanced Studies Extension",
+        "units": "6 units"
+      },
+      {
+        "code": "Science 2000 level Course including Advanced Studies Extension",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Science 3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science 3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Advanced Studies Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Science 3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science 3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Advanced Studies Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "4000 level Honours Course",
+        "units": "24 units"
+      },
+      {
+        "code": "4000 level Honours Course"
+      },
+      {
+        "code": "4000 level Honours Course"
+      },
+      {
+        "code": "4000 level Honours Course"
+      }
+    ],
+    [
+      {
+        "code": "4000 level Honours Course",
+        "units": "24 units"
+      },
+      {
+        "code": "4000 level Honours Course"
+      },
+      {
+        "code": "4000 level Honours Course"
+      },
+      {
+        "code": "4000 level Honours Course"
+      }
+    ]
+  ],
+  "2019": [
+    [
+      {
+        "code": "Science 1000 level Course",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Science 1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science 1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Science 1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science 1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science 1000 level Course including Advanced Studies Extension",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Science 2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science 2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Advanced Studies Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Science 2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science 2000 level Course including Advanced Studies Extension",
+        "units": "6 units"
+      },
+      {
+        "code": "Science 2000 level Course including Advanced Studies Extension",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Science 3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science 3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Advanced Studies Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Science 3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science 3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Advanced Studies Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "4000 level Honours Course",
+        "units": "24 units"
+      },
+      {
+        "code": "4000 level Honours Course"
+      },
+      {
+        "code": "4000 level Honours Course"
+      },
+      {
+        "code": "4000 level Honours Course"
+      }
+    ],
+    [
+      {
+        "code": "4000 level Honours Course",
+        "units": "24 units"
+      },
+      {
+        "code": "4000 level Honours Course"
+      },
+      {
+        "code": "4000 level Honours Course"
+      },
+      {
+        "code": "4000 level Honours Course"
+      }
+    ]
+  ]
+}

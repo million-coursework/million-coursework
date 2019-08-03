@@ -1,0 +1,10 @@
+{
+  "name": "Master of Philosophy, ANU College of Engineering and Computer Science",
+  "code": "8070XMPHIL",
+  "year": 2015,
+  "units": 60,
+  "required": {
+    "one_from_m/m/s": [],
+    "required_m/m/s": []
+  }
+}

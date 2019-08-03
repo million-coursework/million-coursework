@@ -1,0 +1,26 @@
+{
+  "name": "Graduate Certificate of Military and Defence Studies",
+  "code": "6829XGCMDS",
+  "year": 2014,
+  "units": 24,
+  "required": {
+    "x_from_here": [
+      {
+        "type": "minimum",
+        "units": 6,
+        "courses": [
+          "STST8104"
+        ]
+      },
+      {
+        "type": "minimum",
+        "units": 6,
+        "courses": [
+          "STST8100"
+        ]
+      }
+    ],
+    "one_from_m/m/s": [],
+    "required_m/m/s": []
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "name": "Master of Strategic Studies (Advanced)",
+  "code": "VSTST",
+  "year": 2016,
+  "units": 96,
+  "required": {
+    "compulsory_courses": [
+      "STST8001",
+      "STST8002",
+      "STST8052",
+      "STST8010",
+      "STST8004"
+    ],
+    "x_from_here": [
+      {
+        "type": "minimum",
+        "units": 36,
+        "courses": [
+          "INTR8067",
+          "INTR8053",
+          "MEAS8112",
+          "MEAS8113",
+          "NSPO8010",
+          "NSPO8013",
+          "NSPO8014",
+          "STST8004",
+          "STST8013",
+          "STST8017",
+          "STST8021",
+          "STST8026",
+          "STST8027",
+          "STST8032",
+          "STST8033",
+          "STST8051"
+        ]
+      },
+      {
+        "type": "minimum",
+        "units": 6,
+        "courses": [
+          "STST8004",
+          "STST8051"
+        ]
+      },
+      {
+        "type": "minimum",
+        "units": 24,
+        "courses": [
+          "STST7001",
+          "STST7002"
+        ]
+      }
+    ],
+    "one_from_m/m/s": [],
+    "required_m/m/s": []
+  }
+}

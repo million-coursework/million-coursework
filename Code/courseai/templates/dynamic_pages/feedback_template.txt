@@ -1,0 +1,8 @@
+Your Name:
+{{ name }}
+
+Your Email:
+{{ email }}
+
+Your Feedback:
+{{ comments|safe|striptags }}

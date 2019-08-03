@@ -1,0 +1,58 @@
+{
+  "name": "Master of Design",
+  "code": "MDESN",
+  "year": 2017,
+  "units": 96,
+  "required": {
+    "x_from_here": [
+      {
+        "type": "minimum",
+        "units": 18,
+        "courses": [
+          "ARTV6006",
+          "ARTV6057",
+          "DESN6001",
+          "DESN6002"
+        ]
+      },
+      {
+        "type": "minimum",
+        "units": 12,
+        "courses": [
+          "ARTV8107",
+          "ARTV8207",
+          "ARTV8821",
+          "DART8067",
+          "DART8071"
+        ]
+      },
+      {
+        "type": "minimum",
+        "units": 6,
+        "courses": [
+          "ARTV6008",
+          "ARTV6030",
+          "ARTV6808"
+        ]
+      },
+      {
+        "type": "minimum",
+        "units": 12,
+        "courses": [
+          "ARTV6000",
+          "ARTV6057",
+          "DESA6017",
+          "DESN6001",
+          "DESN6002",
+          "DESN6003",
+          "DESN6004",
+          "DESN6005",
+          "DESN6006",
+          "DESN6010"
+        ]
+      }
+    ],
+    "one_from_m/m/s": [],
+    "required_m/m/s": []
+  }
+}

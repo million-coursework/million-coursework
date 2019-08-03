@@ -1,0 +1,34 @@
+{
+  "required": {
+    "x_from_here": [
+      {
+        "courses": [
+          "PREP1102",
+          "PREP1103",
+          "PREP1104",
+          "PREP1105",
+          "PREP1106",
+          "PREP1107",
+          "PREP1108",
+          "PREP1109",
+          "PREP1110",
+          "PREP1111",
+          "PREP1112",
+          "PREP1113",
+          "PREP1114",
+          "PREP1115",
+          "PREP1116"
+        ],
+        "type": "fixed",
+        "units": 24
+      }
+    ],
+    "compulsory_courses": [
+      "PREP1101"
+    ]
+  },
+  "code": "1003XEXPRS",
+  "year": 2017,
+  "name": "ANU Express",
+  "units": 24
+}

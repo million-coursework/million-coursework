@@ -1,0 +1,202 @@
+{
+  "code": "4050FDD-BMUSI",
+  "2014": [],
+  "2015": [
+    [
+      {
+        "code": "MUSI1104",
+        "level": "Turning Points in Music History 1: A Millennium of Metamorphoses (900-1900)",
+        "units": "6 units"
+      },
+      {
+        "code": "MUSI1105",
+        "level": "Creative Musicianship 1",
+        "units": "6 units"
+      },
+      {
+        "code": "Major or Minor",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective",
+        "level": "1000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "MUSI1109",
+        "level": "Turning Points in Music History 2: A Century of Crisis and Change (1900-2013)",
+        "units": "6 units"
+      },
+      {
+        "code": "MUSI1106",
+        "level": "Creative Musicianship 2",
+        "units": "6 units"
+      },
+      {
+        "code": "Major or MInor",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective",
+        "level": "1000 level Course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2016": [
+    [
+      {
+        "code": "MUSI1104",
+        "level": "Turning Points in Music History 1: A Millennium of Metamorphoses (900-1900)",
+        "units": "6 units"
+      },
+      {
+        "code": "MUSI1105",
+        "level": "Music Theory & Aural Skills 1",
+        "units": "6 units"
+      },
+      {
+        "code": "MUSI1101",
+        "level": "Music Performance 1",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective",
+        "level": "1000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "MUSI1109",
+        "level": "Turning Points in Music History 2: A Century of Crisis and Change (1900 to the Present)",
+        "units": "6 units"
+      },
+      {
+        "code": "MUSI1106",
+        "level": "Music Theory & Aural Skills 2",
+        "units": "6 units"
+      },
+      {
+        "code": "MUSI1102",
+        "level": "Music Performance 2",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective",
+        "level": "1000 level Course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2017": [
+    [
+      {
+        "code": "MUSI1104",
+        "level": "Turning Points in Music History 1: A Millennium of Metamorphoses (900-1900)",
+        "units": "6 units"
+      },
+      {
+        "code": "MUSI1105",
+        "level": "Music Theory & Aural Skills 1",
+        "units": "6 units"
+      },
+      {
+        "code": "MUSI1101",
+        "level": "Music Performance 1",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective",
+        "level": "1000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "MUSI1109",
+        "level": "Turning Points in Music History 2: A Century of Crisis and Change (1900 to the Present)",
+        "units": "6 units"
+      },
+      {
+        "code": "MUSI1106",
+        "level": "Music Theory & Aural Skills 2",
+        "units": "6 units"
+      },
+      {
+        "code": "MUSI1102",
+        "level": "Music Performance 2",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective",
+        "level": "1000 level Course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2018": [
+    [
+      {
+        "code": "-"
+      },
+      {
+        "code": "-"
+      },
+      {
+        "code": "-"
+      },
+      {
+        "code": "-"
+      }
+    ],
+    [
+      {
+        "code": "-"
+      },
+      {
+        "code": "-"
+      },
+      {
+        "code": "-"
+      },
+      {
+        "code": "-"
+      }
+    ]
+  ],
+  "2019": [
+    [
+      {
+        "code": "-"
+      },
+      {
+        "code": "-"
+      },
+      {
+        "code": "-"
+      },
+      {
+        "code": "-"
+      }
+    ],
+    [
+      {
+        "code": "-"
+      },
+      {
+        "code": "-"
+      },
+      {
+        "code": "-"
+      },
+      {
+        "code": "-"
+      }
+    ]
+  ]
+}

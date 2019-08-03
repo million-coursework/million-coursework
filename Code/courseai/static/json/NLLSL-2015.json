@@ -1,0 +1,46 @@
+{
+  "name": "Master of Laws in International Security Law",
+  "code": "NLLSL",
+  "year": 2015,
+  "units": 48,
+  "required": {
+    "compulsory_courses": [
+      "LAWS8179",
+      "LAWS8023",
+      "LAWS8026",
+      "LAWS8018"
+    ],
+    "x_from_here": [
+      {
+        "type": "minimum",
+        "units": 12,
+        "courses": [
+          "LAWS8018",
+          "LAWS8019",
+          "LAWS8035",
+          "LAWS8066",
+          "LAWS8178",
+          "LAWS8182",
+          "LAWS8183",
+          "LAWS8268",
+          "LAWS8239",
+          "LAWS8566"
+        ]
+      }
+    ],
+    "x_from_category": [
+      {
+        "type": "maximum",
+        "level": [
+          8000
+        ],
+        "area": [
+          "LAWS"
+        ],
+        "units": 12
+      }
+    ],
+    "one_from_m/m/s": [],
+    "required_m/m/s": []
+  }
+}

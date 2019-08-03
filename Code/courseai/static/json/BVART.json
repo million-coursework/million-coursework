@@ -1,0 +1,88 @@
+{
+    "name": "Bachelor of Visual Arts",
+    "units": 144,
+    "required": {
+        "compulsory_courses": [
+            "ARTV2819"
+        ],
+        "x_from_here": [
+            {
+                "num": 12,
+                "courses": [
+                    "ARTV1020",
+                    "ARTV1021",
+                    "ARTV1033",
+                    "DESA1021",
+                    "DESA1001",
+                    "DESA1002",
+                    "COMP1720"
+                ]
+            },
+            {
+                "num": 6,
+                "courses": [
+                    "ARTH1006",
+                    "ARTH1007"
+                ]
+            },
+            {
+                "num": 6,
+                "courses": [
+                    "ARTV2027",
+                    "ARTV2038",
+                    "ARTV2909",
+                    "ARTV2921",
+                    "ARTV3601",
+                    "DESA2017"
+                ]
+            },
+            {
+                "num": 18,
+                "courses": [
+                    "ARTV2043",
+                    "ARTV2044",
+                    "ARTV2045",
+                    "ARTV2050",
+                    "ARTV2052",
+                    "ARTV2056",
+                    "ARTV2059",
+                    "ARTV2061",
+                    "ARTV2080",
+                    "ARTV2081",
+                    "ARTV2082",
+                    "ARTV2093",
+                    "ARTV2097",
+                    "ARTV2098",
+                    "ARTV2104",
+                    "ARTV2160",
+                    "ARTV2161",
+                    "ARTV2162",
+                    "ARTV2163",
+                    "ARTV2164",
+                    "ARTV2165",
+                    "ARTV2166",
+                    "ARTV2167",
+                    "ARTV2168",
+                    "ARTV2169",
+                    "ARTV2170",
+                    "ARTV2171",
+                    "ARTV2172"
+                ]
+            }
+        ],
+        "one_from_m/m/s": [
+            "ANVI-MAJ",
+            "FURN-MAJ",
+            "GLAS-MAJ",
+            "GOLD-MAJ",
+            "PAIN-MAJ",
+            "PHOM-MAJ",
+            "PMDR-MAJ",
+            "SCUL-MAJ",
+            "TEXT-MAJ"
+        ],
+        "max_by_level": {
+            "1000": 60
+        }
+    }
+}

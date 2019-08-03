@@ -1,0 +1,763 @@
+{
+  "code": "BPLSC-ALLB",
+  "2014": [],
+  "2015": [],
+  "2016": [
+    [
+      {
+        "code": "LAWS1201",
+        "level": "Foundations of Australian Law",
+        "units": "6 units"
+      },
+      {
+        "code": "LAWS1203",
+        "level": "Torts",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1002",
+        "level": "Introduction to Politics",
+        "units": "6 units"
+      },
+      {
+        "code": "PHIL1004",
+        "level": "Fundamental Ideas in Philosophy: An Introduction",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LAWS1202",
+        "level": "Lawyers Justice and Ethics",
+        "units": "6 units"
+      },
+      {
+        "code": "LAWS1204",
+        "level": "Contracts",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1009",
+        "level": "Research and Writing in Political Science",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level Course from listed award rules",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LAWS1205",
+        "level": "Australian Public Law",
+        "units": "6 units"
+      },
+      {
+        "code": "LAWS1206",
+        "level": "Criminal Law and Procedure",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS2119",
+        "level": "Ideas in Politics",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level Course from listed award rules",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LAWS2250",
+        "level": "International Law",
+        "units": "6 units"
+      },
+      {
+        "code": "LAWS2249",
+        "level": "Legal Theory",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS3025",
+        "level": "Contemporary Political Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level Course from listed award rules",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LAWS2201",
+        "level": "Administrative Law",
+        "units": "6 units"
+      },
+      {
+        "code": "LAWS2203",
+        "level": "Corporations Law",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level Course from listed award rules",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level Course from listed award rules",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LAWS2202",
+        "level": "Commonwealth Constitutional Law",
+        "units": "6 units"
+      },
+      {
+        "code": "Law Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level Course from listed award rules",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level Course from listed award rules",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LAWS2204",
+        "level": "Property",
+        "units": "6 units"
+      },
+      {
+        "code": "Law Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level Course from listed award rules",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level Course from listed award rules",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LAWS2205",
+        "level": "Equity and Trusts",
+        "units": "6 units"
+      },
+      {
+        "code": "Law Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level Course from listed award rules",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level Course from listed award rules",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LAWS2244",
+        "level": "Litigation and Dispute Management",
+        "units": "6 units"
+      },
+      {
+        "code": "Law Elective Courses",
+        "units": "18 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "LAWS2207",
+        "level": "Evidence",
+        "units": "6 units"
+      },
+      {
+        "code": "Law Elective Courses",
+        "units": "18 units"
+      },
+      {},
+      {}
+    ]
+  ],
+  "2017": [
+    [
+      {
+        "code": "LAWS1201",
+        "level": "Foundations of Australian Law",
+        "units": "6 units"
+      },
+      {
+        "code": "LAWS1203",
+        "level": "Torts",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1002",
+        "level": "Introduction to Politics",
+        "units": "6 units"
+      },
+      {
+        "code": "PHIL1004",
+        "level": "Fundamental Ideas in Philosophy: An Introduction",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LAWS1202",
+        "level": "Lawyers Justice and Ethics",
+        "units": "6 units"
+      },
+      {
+        "code": "LAWS1204",
+        "level": "Contracts",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1009",
+        "level": "Research and Writing in Political Science",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level Course from listed award rules",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LAWS1205",
+        "level": "Australian Public Law",
+        "units": "6 units"
+      },
+      {
+        "code": "LAWS1206",
+        "level": "Criminal Law and Procedure",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS2119",
+        "level": "Ideas in Politics",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level Course from listed award rules",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LAWS2250",
+        "level": "International Law",
+        "units": "6 units"
+      },
+      {
+        "code": "LAWS2249",
+        "level": "Legal Theory",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS3025",
+        "level": "Contemporary Political Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level Course from listed award rules",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LAWS2201",
+        "level": "Administrative Law",
+        "units": "6 units"
+      },
+      {
+        "code": "LAWS2203",
+        "level": "Corporations Law",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level Course from listed award rules",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level Course from listed award rules",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LAWS2202",
+        "level": "Commonwealth Constitutional Law",
+        "units": "6 units"
+      },
+      {
+        "code": "Law Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level Course from listed award rules",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level Course from listed award rules",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LAWS2204",
+        "level": "Property",
+        "units": "6 units"
+      },
+      {
+        "code": "Law Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level Course from listed award rules",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level Course from listed award rules",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LAWS2205",
+        "level": "Equity and Trusts",
+        "units": "6 units"
+      },
+      {
+        "code": "Law Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level Course from listed award rules",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level Course from listed award rules",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LAWS2244",
+        "level": "Litigation and Dispute Management",
+        "units": "6 units"
+      },
+      {
+        "code": "Law Elective Courses",
+        "units": "18 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "LAWS2207",
+        "level": "Evidence",
+        "units": "6 units"
+      },
+      {
+        "code": "Law Elective Courses",
+        "units": "18 units"
+      },
+      {},
+      {}
+    ]
+  ],
+  "2018": [
+    [
+      {
+        "code": "LAWS1201",
+        "level": "Foundations of Australian Law",
+        "units": "6 units"
+      },
+      {
+        "code": "LAWS1203",
+        "level": "Torts",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1002",
+        "level": "Introduction to Politics",
+        "units": "6 units"
+      },
+      {
+        "code": "Political Theory and political philosophy list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LAWS1202",
+        "level": "Lawyers Justice and Ethics",
+        "units": "6 units"
+      },
+      {
+        "code": "LAWS1204",
+        "level": "Contracts",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1009",
+        "level": "Research and Writing in Political Science",
+        "units": "6 units"
+      },
+      {
+        "code": "Another course from specified lists",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LAWS1205",
+        "level": "Australian Public Law",
+        "units": "6 units"
+      },
+      {
+        "code": "LAWS1206",
+        "level": "Criminal Law and Procedure",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS2119",
+        "level": "Ideas in Politics",
+        "units": "6 units"
+      },
+      {
+        "code": "Political Theory and political philosophy list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LAWS2250",
+        "level": "International Law",
+        "units": "6 units"
+      },
+      {
+        "code": "LAWS2249",
+        "level": "Legal Theory",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS2044",
+        "level": "Contemporary Political Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "Comparative Politics list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LAWS2201",
+        "level": "Administrative Law",
+        "units": "6 units"
+      },
+      {
+        "code": "LAWS2203",
+        "level": "Corporations Law",
+        "units": "6 units"
+      },
+      {
+        "code": "Comparative Politics list Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Australian Politics list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LAWS2202",
+        "level": "Commonwealth Constitutional Law",
+        "units": "6 units"
+      },
+      {
+        "code": "Law Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Another course from specified lists",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Political Economy list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LAWS2204",
+        "level": "Property",
+        "units": "6 units"
+      },
+      {
+        "code": "Law Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Methodology list Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Another course from specified lists",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LAWS2205",
+        "level": "Equity and Trusts",
+        "units": "6 units"
+      },
+      {
+        "code": "Law Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Methodology list Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Australian Politics list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LAWS2244",
+        "level": "Litigation and Dispute Management",
+        "units": "6 units"
+      },
+      {
+        "code": "Law Elective Courses",
+        "units": "18 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "LAWS2207",
+        "level": "Evidence",
+        "units": "6 units"
+      },
+      {
+        "code": "Law Elective Courses",
+        "units": "18 units"
+      },
+      {},
+      {}
+    ]
+  ],
+  "2019": [
+    [
+      {
+        "code": "LAWS1201",
+        "level": "Foundations of Australian Law",
+        "units": "6 units"
+      },
+      {
+        "code": "LAWS1203",
+        "level": "Torts",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1002",
+        "level": "Introduction to Politics",
+        "units": "6 units"
+      },
+      {
+        "code": "Political Theory and political philosophy list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LAWS1202",
+        "level": "Lawyers Justice and Ethics",
+        "units": "6 units"
+      },
+      {
+        "code": "LAWS1204",
+        "level": "Contracts",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1009",
+        "level": "Research and Writing in Political Science",
+        "units": "6 units"
+      },
+      {
+        "code": "Another course from specified lists",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LAWS1205",
+        "level": "Australian Public Law",
+        "units": "6 units"
+      },
+      {
+        "code": "LAWS1206",
+        "level": "Criminal Law and Procedure",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS2119",
+        "level": "Ideas in Politics",
+        "units": "6 units"
+      },
+      {
+        "code": "Political Theory and political philosophy list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LAWS2250",
+        "level": "International Law",
+        "units": "6 units"
+      },
+      {
+        "code": "LAWS2249",
+        "level": "Legal Theory",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS2044",
+        "level": "Contemporary Political Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "Comparative Politics list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LAWS2201",
+        "level": "Administrative Law",
+        "units": "6 units"
+      },
+      {
+        "code": "LAWS2203",
+        "level": "Corporations Law",
+        "units": "6 units"
+      },
+      {
+        "code": "Comparative Politics list Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Australian Politics list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LAWS2202",
+        "level": "Commonwealth Constitutional Law",
+        "units": "6 units"
+      },
+      {
+        "code": "Law Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Another course from specified lists",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Political Economy list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LAWS2204",
+        "level": "Property",
+        "units": "6 units"
+      },
+      {
+        "code": "Law Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Methodology list Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Another course from specified lists",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LAWS2205",
+        "level": "Equity and Trusts",
+        "units": "6 units"
+      },
+      {
+        "code": "Law Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Methodology list Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Australian Politics list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LAWS2244",
+        "level": "Litigation and Dispute Management",
+        "units": "6 units"
+      },
+      {
+        "code": "Law Elective Courses",
+        "units": "18 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "LAWS2207",
+        "level": "Evidence",
+        "units": "6 units"
+      },
+      {
+        "code": "Law Elective Courses",
+        "units": "18 units"
+      },
+      {},
+      {}
+    ]
+  ]
+}

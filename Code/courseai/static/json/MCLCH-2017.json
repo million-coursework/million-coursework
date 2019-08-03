@@ -1,0 +1,105 @@
+{
+  "name": "Master of Climate Change",
+  "code": "MCLCH",
+  "year": 2017,
+  "units": 96,
+  "required": {
+    "x_from_here": [
+      {
+        "type": "maximum",
+        "units": 18,
+        "courses": [
+          "BUSN7017",
+          "EMDV8001",
+          "EMDV8009",
+          "ENGN6524",
+          "ENVS6005",
+          "ENVS6012",
+          "ENVS6013",
+          "ENVS6014",
+          "ENVS6020",
+          "ENVS6021",
+          "ENVS6024",
+          "ENVS6203",
+          "ENVS6205",
+          "ENVS6304",
+          "ENVS6306",
+          "ENVS6308",
+          "ENVS6514",
+          "ENVS6529",
+          "ENVS6555",
+          "IDEC8001",
+          "MGMT7007",
+          "SCOM8027"
+        ]
+      },
+      {
+        "type": "minimum",
+        "units": 6,
+        "courses": [
+          "EMDV8014",
+          "ENVS8013"
+        ]
+      },
+      {
+        "type": "minimum",
+        "units": 6,
+        "courses": [
+          "EMDV8013",
+          "EMDV8101"
+        ]
+      },
+      {
+        "type": "minimum",
+        "units": 6,
+        "courses": [
+          "ENVS8015",
+          "ENVS8016"
+        ]
+      },
+      {
+        "type": "minimum",
+        "units": 18,
+        "courses": [
+          "ARCH6022",
+          "BIOL6125",
+          "DEMO8088",
+          "EMDV8007",
+          "EMDV8013",
+          "EMDV8026",
+          "EMDV8078",
+          "EMDV8101",
+          "EMDV8108",
+          "EMDV8123",
+          "EMSC8706",
+          "ENGN6516",
+          "ENVS6015",
+          "ENVS6033",
+          "ENVS6204",
+          "ENVS6303",
+          "ENVS6528"
+        ]
+      },
+      {
+        "type": "minimum",
+        "units": 6,
+        "courses": [
+          "EMDV8102",
+          "ENVS6025"
+        ]
+      },
+      {
+        "type": "minimum",
+        "units": 18,
+        "courses": [
+          "EMDV8080",
+          "EMDV8081",
+          "ENVS6307",
+          "ENVS8003"
+        ]
+      }
+    ],
+    "one_from_m/m/s": [],
+    "required_m/m/s": []
+  }
+}

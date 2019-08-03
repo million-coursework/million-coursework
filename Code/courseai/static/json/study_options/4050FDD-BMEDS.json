@@ -1,0 +1,214 @@
+{
+  "code": "4050FDD-BMEDS",
+  "2014": [],
+  "2015": [
+    [
+      {
+        "code": "CHEM1101",
+        "level": "Chemistry 1",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL1003",
+        "level": "Biology 1: Evolution, Ecology and Genetics",
+        "units": "6 units"
+      },
+      {
+        "code": "Science or non-science course",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Science or non-science course",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "CHEM1201",
+        "level": "Chemistry 2",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL1004",
+        "level": "Biology 2: Molecular and Cell Biology",
+        "units": "6 units"
+      },
+      {
+        "code": "Science or non-science course",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Science or non-science course",
+        "units": "6 units\r"
+      }
+    ]
+  ],
+  "2016": [
+    [
+      {
+        "code": "CHEM1101",
+        "level": "Chemistry 1",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL1003",
+        "level": "Biology 1: Evolution, Ecology and Genetics",
+        "units": "6 units"
+      },
+      {
+        "code": "Science or non-science course",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Science or non-science course",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "CHEM1201",
+        "level": "Chemistry 2",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL1004",
+        "level": "Biology 2: Molecular and Cell Biology",
+        "units": "6 units"
+      },
+      {
+        "code": "Science or non-science course",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Science or non-science course",
+        "units": "6 units\r"
+      }
+    ]
+  ],
+  "2017": [
+    [
+      {
+        "code": "CHEM1101",
+        "level": "Chemistry 1",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL1003",
+        "level": "Biology 1: Evolution, Ecology and Genetics",
+        "units": "6 units"
+      },
+      {
+        "code": "Science or non-science course",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Science or non-science course",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "CHEM1201",
+        "level": "Chemistry 2",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL1004",
+        "level": "Biology 2: Molecular and Cell Biology",
+        "units": "6 units"
+      },
+      {
+        "code": "Science or non-science course",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Science or non-science course",
+        "units": "6 units\r"
+      }
+    ]
+  ],
+  "2018": [
+    [
+      {
+        "code": "CHEM1101",
+        "level": "Chemistry 1",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL1003",
+        "level": "Biology 1: Evolution, Ecology and Genetics",
+        "units": "6 units"
+      },
+      {
+        "code": "Science or non-science course",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Science or non-science course",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "CHEM1201",
+        "level": "Chemistry 2",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL1004",
+        "level": "Biology 2: Molecular and Cell Biology",
+        "units": "6 units"
+      },
+      {
+        "code": "Science or non-science course",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Science or non-science course",
+        "units": "6 units\r"
+      }
+    ]
+  ],
+  "2019": [
+    [
+      {
+        "code": "CHEM1101",
+        "level": "Chemistry 1",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL1003",
+        "level": "Biology 1: Evolution, Ecology and Genetics",
+        "units": "6 units"
+      },
+      {
+        "code": "Science or non-science course",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Science or non-science course",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "CHEM1201",
+        "level": "Chemistry 2",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL1004",
+        "level": "Biology 2: Molecular and Cell Biology",
+        "units": "6 units"
+      },
+      {
+        "code": "Science or non-science course",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Science or non-science course",
+        "units": "6 units\r"
+      }
+    ]
+  ]
+}

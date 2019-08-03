@@ -1,0 +1,120 @@
+{
+  "code": "BENSU-BMUSI",
+  "2014": [],
+  "2015": [],
+  "2016": [],
+  "2017": [
+    [
+      {
+        "code": "1000 level course Science Major from list",
+        "units": "6 units\r"
+      },
+      {
+        "code": "1000 level course Science elective",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Science or non-Science elective",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Science or non-Science elective",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "1000 level course Science Major from list",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Science elective",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Science or non-Science elective",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Science or non-Science elective",
+        "units": "6 units\r"
+      }
+    ]
+  ],
+  "2018": [
+    [
+      {
+        "code": "1000 level course Science Major from list",
+        "units": "6 units\r"
+      },
+      {
+        "code": "1000 level course Science elective",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Science or non-Science elective",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Science or non-Science elective",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "1000 level course Science Major from list",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Science elective",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Science or non-Science elective",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Science or non-Science elective",
+        "units": "6 units\r"
+      }
+    ]
+  ],
+  "2019": [
+    [
+      {
+        "code": "1000 level course Science Major from list",
+        "units": "6 units\r"
+      },
+      {
+        "code": "1000 level course Science elective",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Science or non-Science elective",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Science or non-Science elective",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "1000 level course Science Major from list",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Science elective",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Science or non-Science elective",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Science or non-Science elective",
+        "units": "6 units\r"
+      }
+    ]
+  ]
+}

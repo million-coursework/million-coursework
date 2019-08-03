@@ -1,0 +1,28 @@
+{
+  "name": "Master of Computing",
+  "code": "7706XMCOMP",
+  "year": 2015,
+  "units": 96,
+  "required": {
+    "compulsory_courses": [
+      "COMP6442",
+      "COMP8701",
+      "COMP8705"
+    ],
+    "one_from_m/m/s": [
+      [
+        "COMP-SPEC",
+        "COMS-SPEC",
+        "IHCC-SPEC",
+        "SENG-SPEC",
+        "ALGD-SPEC",
+        "AINT-SPEC",
+        "CMSY-SPEC"
+      ],
+      [
+        "PCOM-SPEC"
+      ]
+    ],
+    "required_m/m/s": []
+  }
+}

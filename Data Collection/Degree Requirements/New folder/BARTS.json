@@ -1,0 +1,40 @@
+{
+    "name": "Bachelor of Arts",
+    "required": {   // Must satisfy all conditions in this section
+        "one_from_m/m/s": [
+            "arts_majors_list"      // This is stored separately in the database.
+        ],
+        "max_by_level": {
+            "1000": 48
+        }
+    },
+    "options": {    // Must satisfy one of the three options in this section.
+                    // There is an "Either" "Or" "Or" on the BArts page
+                    // Option 1 is the "Either", option 2 is the first "Or" and option 3 is the last "Or".
+        "option_1": {
+            "x_from_m/m/s": [
+                "arts_minors_list"  // This is stored separately in the database.
+            ],
+            "compulsory_courses": [
+                "ESEN1101"
+            ]
+        },
+        "option_2": {
+            "compulsory_courses": [
+                "ANIP3007"
+            ],
+            "x_from_here": {
+                "num": 24,
+                "courses": [
+                    "all_arts_courses", // This is stored separately in the database.
+                    "ESEN1101"          // Include this with the list
+                ]
+            }
+        },
+        "option_3": {
+            "one_from_m/m/s": [
+                "arts_majors_list"  // This is stored separately in the database.
+            ]
+        }
+    }
+}

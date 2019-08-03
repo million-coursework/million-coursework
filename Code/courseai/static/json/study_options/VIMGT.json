@@ -1,0 +1,276 @@
+{
+  "code": "VIMGT",
+  "2014": [],
+  "2015": [],
+  "2016": [],
+  "2017": [
+    [
+      {
+        "code": "BUSI7280",
+        "level": "Managing in a Global Context",
+        "units": "6 units"
+      },
+      {
+        "code": "MGMT7020",
+        "level": "Technology and Project Management",
+        "units": "6 units"
+      },
+      {
+        "code": "MGMT7250",
+        "level": "Evidence-Based Management",
+        "units": "6 units"
+      },
+      {
+        "code": "MKTG7260",
+        "level": "Marketing and Stakeholder Communications",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "MGMT8270",
+        "level": "Leading People and Change",
+        "units": "6 units"
+      },
+      {
+        "code": "MGMT8015",
+        "level": "Entrepreneurship and Innovation",
+        "units": "6 units"
+      },
+      {
+        "code": "MGMT8022",
+        "level": "Strategic Management",
+        "units": "6 units"
+      },
+      {
+        "code": "MGMT8003",
+        "level": "Organisational Behaviour",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BUSI7001",
+        "level": "Managing the Global Supply Chain",
+        "units": "6 units"
+      },
+      {
+        "code": "MGMT7065",
+        "level": "International Perspectives on Human Resource Management",
+        "units": "6 units"
+      },
+      {
+        "code": "MMIB8006",
+        "level": "Master Sub-Thesis (Business Studies)",
+        "units": "6 to 24 units"
+      },
+      {
+        "code": "MMIB8006",
+        "level": "Master Sub-Thesis (Business Studies)",
+        "units": "6 to 24 units"
+      }
+    ],
+    [
+      {
+        "code": "MGMT7107",
+        "level": "Managing Across Cultures",
+        "units": "6 units"
+      },
+      {
+        "code": "MKTG7035",
+        "level": "Global Marketing",
+        "units": "6 units"
+      },
+      {
+        "code": "MMIB8006",
+        "level": "Master Sub-Thesis (Business Studies)",
+        "units": "6 to 24 units"
+      },
+      {
+        "code": "MMIB8006",
+        "level": "Master Sub-Thesis (Business Studies)",
+        "units": "6 to 24 units"
+      }
+    ]
+  ],
+  "2018": [
+    [
+      {
+        "code": "BUSI7280",
+        "level": "Managing in a Global Context",
+        "units": "6 units"
+      },
+      {
+        "code": "MGMT7020",
+        "level": "Technology and Project Management",
+        "units": "6 units"
+      },
+      {
+        "code": "MGMT7250",
+        "level": "Evidence-Based Management",
+        "units": "6 units"
+      },
+      {
+        "code": "MKTG7260",
+        "level": "Marketing and Stakeholder Communications",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "MGMT8270",
+        "level": "Leading People and Change",
+        "units": "6 units"
+      },
+      {
+        "code": "MGMT8015",
+        "level": "Entrepreneurship and Innovation",
+        "units": "6 units"
+      },
+      {
+        "code": "MGMT8022",
+        "level": "Strategic Management",
+        "units": "6 units"
+      },
+      {
+        "code": "MGMT8003",
+        "level": "Organisational Behaviour",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BUSI7001",
+        "level": "Managing the Global Supply Chain",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSI7033",
+        "level": "International Business Strategies",
+        "units": "6 units"
+      },
+      {
+        "code": "MMIB8006",
+        "level": "Master Sub-Thesis (Business Studies)",
+        "units": "6 to 24 units"
+      },
+      {
+        "code": "MMIB8006",
+        "level": "Master Sub-Thesis (Business Studies)",
+        "units": "6 to 24 units"
+      }
+    ],
+    [
+      {
+        "code": "MGMT7107",
+        "level": "Managing Across Cultures",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSI7055",
+        "level": "Asian Business Systems",
+        "units": "6 units"
+      },
+      {
+        "code": "MMIB8006",
+        "level": "Master Sub-Thesis (Business Studies)",
+        "units": "6 to 24 units"
+      },
+      {
+        "code": "MMIB8006",
+        "level": "Master Sub-Thesis (Business Studies)",
+        "units": "6 to 24 units"
+      }
+    ]
+  ],
+  "2019": [
+    [
+      {
+        "code": "BUSI7280",
+        "level": "Managing in a Global Context",
+        "units": "6 units"
+      },
+      {
+        "code": "MGMT7020",
+        "level": "Technology and Project Management",
+        "units": "6 units"
+      },
+      {
+        "code": "MGMT7250",
+        "level": "Evidence-Based Management",
+        "units": "6 units"
+      },
+      {
+        "code": "MKTG7260",
+        "level": "Marketing and Stakeholder Communications",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "MGMT8270",
+        "level": "Leading People and Change",
+        "units": "6 units"
+      },
+      {
+        "code": "MGMT8015",
+        "level": "Entrepreneurship and Innovation",
+        "units": "6 units"
+      },
+      {
+        "code": "MGMT8022",
+        "level": "Strategic Management",
+        "units": "6 units"
+      },
+      {
+        "code": "MGMT8003",
+        "level": "Organisational Behaviour",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BUSI7001",
+        "level": "Managing the Global Supply Chain",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSI7033",
+        "level": "International Business Strategies",
+        "units": "6 units"
+      },
+      {
+        "code": "MMIB8006",
+        "level": "Master Sub-Thesis (Business Studies)",
+        "units": "6 to 24 units"
+      },
+      {
+        "code": "MMIB8006",
+        "level": "Master Sub-Thesis (Business Studies)",
+        "units": "6 to 24 units"
+      }
+    ],
+    [
+      {
+        "code": "MGMT7107",
+        "level": "Managing Across Cultures",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSI7055",
+        "level": "Asian Business Systems",
+        "units": "6 units"
+      },
+      {
+        "code": "MMIB8006",
+        "level": "Master Sub-Thesis (Business Studies)",
+        "units": "6 to 24 units"
+      },
+      {
+        "code": "MMIB8006",
+        "level": "Master Sub-Thesis (Business Studies)",
+        "units": "6 to 24 units"
+      }
+    ]
+  ]
+}

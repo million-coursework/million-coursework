@@ -1,0 +1,489 @@
+{
+  "code": "7706XMCOMP",
+  "2014": [
+    [
+      {
+        "code": "COMP6442",
+        "level": "Software Construction",
+        "units": "6 units"
+      },
+      {
+        "code": "ESEN6101",
+        "level": "Extended University English",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing Specialisation course",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing Elective course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "COMP8705",
+        "level": "Communication for Computing Professionals",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing Specialisation course",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing Specialisation course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Computing Specialisation course",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing Specialisation course",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing Specialisation course",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing Elective course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "COMP8715",
+        "level": "Computing Project",
+        "units": "12 units"
+      },
+      {},
+      {
+        "code": "Computing Elective course",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing Elective course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2015": [
+    [
+      {
+        "code": "COMP6442",
+        "level": "Software Construction",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP8701",
+        "level": "Communication for Computing Professionals I",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing Specialisation course",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing Elective course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "COMP8705",
+        "level": "Communication for Computing Professionals II",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing Specialisation course",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing Specialisation course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "COMP8715",
+        "level": "Computing Project",
+        "units": "6 to 12 units"
+      },
+      {
+        "code": "Computing Specialisation course",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing Specialisation course",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing Elective course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "COMP8715",
+        "level": "Computing Project",
+        "units": "6 to 12 units"
+      },
+      {
+        "code": "Computing Specialisation course",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing Elective course",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing Elective course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2016": [
+    [
+      {
+        "code": "COMP6442",
+        "level": "Software Construction",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP8701",
+        "level": "Communication for Computing Professionals I",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing Specialisation course",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing Elective course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "COMP8705",
+        "level": "Communication for Computing Professionals II",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing Specialisation course",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing Specialisation course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "COMP8715",
+        "level": "Computing Project",
+        "units": "6 to 12 units"
+      },
+      {
+        "code": "Computing Specialisation course",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing Specialisation course",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing Elective course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "COMP8715",
+        "level": "Computing Project",
+        "units": "6 to 12 units"
+      },
+      {
+        "code": "Computing Specialisation course",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing Elective course",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing Elective course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2017": [
+    [
+      {
+        "code": "COMP6442",
+        "level": "Software Construction",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP6250",
+        "level": "Professional Practice 1",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing Specialisation course",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP6340",
+        "level": "Networked Information Systems",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "COMP8260",
+        "level": "Professional Practice 2",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing Specialisation course",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP6240",
+        "level": "Relational Databases",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP6311",
+        "level": "Software Analysis and Design",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "COMP8715",
+        "level": "Computing Project",
+        "units": "6 to 12 units"
+      },
+      {
+        "code": "Computing Specialisation course",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing Elective course",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing Elective course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "COMP8715",
+        "level": "Computing Project",
+        "units": "6 to 12 units"
+      },
+      {
+        "code": "Computing Specialisation course",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP8110",
+        "level": "Managing Software Projects in a System Context",
+        "units": "6 units"
+      },
+      {
+        "code": "University Elective course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2018": [
+    [
+      {
+        "code": "COMP6710",
+        "level": "Structured Programming",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP6250",
+        "level": "Professional Practice 1",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH6005",
+        "level": "Discrete Mathematical Models",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing Elective",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "COMP6442",
+        "level": "Software Construction",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP8260",
+        "level": "Professional Practice 2",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP6240",
+        "level": "Relational Databases",
+        "units": "6 units"
+      },
+      {
+        "code": "Specialisation Course/ Computing Elective",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "COMP 8715 ",
+        "level": "Computing Project",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP8110",
+        "level": "Managing Software Projects in a System Context",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP6331",
+        "level": "Computer Networks",
+        "units": "6 units"
+      },
+      {
+        "code": "Specialisation Course/ Computing Elective",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "COMP 8715 ",
+        "level": "Computing Project",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP6120",
+        "level": "Software Engineering",
+        "units": "6 units"
+      },
+      {
+        "code": "Specialisation Course/ Computing Elective",
+        "units": "6 units"
+      },
+      {
+        "code": "Specialisation Course/ Computing Elective",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2019": [
+    [
+      {
+        "code": "COMP6710",
+        "level": "Structured Programming",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP6250",
+        "level": "Professional Practice 1",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH6005",
+        "level": "Discrete Mathematical Models",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing Elective",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "COMP6442",
+        "level": "Software Construction",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP8260",
+        "level": "Professional Practice 2",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP6240",
+        "level": "Relational Databases",
+        "units": "6 units"
+      },
+      {
+        "code": "Specialisation Course/ Computing Elective",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "COMP 8715 ",
+        "level": "Computing Project",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP8110",
+        "level": "Managing Software Projects in a System Context",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP6331",
+        "level": "Computer Networks",
+        "units": "6 units"
+      },
+      {
+        "code": "Specialisation Course/ Computing Elective",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "COMP 8715 ",
+        "level": "Computing Project",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP6120",
+        "level": "Software Engineering",
+        "units": "6 units"
+      },
+      {
+        "code": "Specialisation Course/ Computing Elective",
+        "units": "6 units"
+      },
+      {
+        "code": "Specialisation Course/ Computing Elective",
+        "units": "6 units"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Graduate Diploma of Business Information Systems",
+  "code": "DBISY",
+  "year": 2015,
+  "units": 48,
+  "required": {
+    "x_from_here": [
+      {
+        "type": "minimum",
+        "units": 24,
+        "courses": [
+          "BUSI7019",
+          "BUSN7008",
+          "BUSN7017",
+          "BUSN7024",
+          "BUSN7045",
+          "BUSN8062",
+          "COMP6240",
+          "COMP6340",
+          "COMP6390",
+          "COMP6470",
+          "COMP6700",
+          "INFS7004",
+          "INFS7007",
+          "INFS7040",
+          "INFS8004",
+          "INFS8005",
+          "INFS8201",
+          "INFS8205",
+          "MGMT7030",
+          "MKTG7001",
+          "MKTG7035"
+        ]
+      }
+    ],
+    "one_from_m/m/s": [],
+    "required_m/m/s": []
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Joint Degree Program ANU-NUS - Master of Arts (Southeast Asian Studies)",
+  "code": "7504XMSNUS",
+  "year": 2015,
+  "units": 48,
+  "required": {
+    "one_from_m/m/s": [],
+    "required_m/m/s": []
+  }
+}

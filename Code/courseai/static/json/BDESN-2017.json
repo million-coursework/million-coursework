@@ -1,0 +1,74 @@
+{
+  "name": "Bachelor of Design",
+  "code": "BDESN",
+  "year": 2017,
+  "units": 144,
+  "required": {
+    "max_by_level": [
+      {
+        "type": "maximum",
+        "level": [
+          1000
+        ],
+        "units": 60
+      }
+    ],
+    "compulsory_courses": [
+      "DESN1001",
+      "DESN1002",
+      "DESN3010",
+      "ARTV1020"
+    ],
+    "x_from_here": [
+      {
+        "type": "minimum",
+        "units": 12,
+        "courses": [
+          "DESN2002",
+          "DESN2003",
+          "DESN2004",
+          "DESN2011",
+          "DESN2006",
+          "DESN2001",
+          "DESN2005",
+          "DESN2007",
+          "DESN2008",
+          "DESN2009"
+        ]
+      },
+      {
+        "type": "minimum",
+        "units": 12,
+        "courses": [
+          "ARTV1020",
+          "ARTV1021",
+          "ARTV1033",
+          "DESA1021"
+        ]
+      },
+      {
+        "type": "minimum",
+        "units": 6,
+        "courses": [
+          "ARTH2043",
+          "ARTV2018",
+          "ARTV2030",
+          "ARTV2031",
+          "ARTV2035",
+          "ARTV2055",
+          "ARTV2056"
+        ]
+      },
+      {
+        "type": "minimum",
+        "units": 6,
+        "courses": [
+          "ARTH1006",
+          "ARTH1007"
+        ]
+      }
+    ],
+    "one_from_m/m/s": [],
+    "required_m/m/s": []
+  }
+}

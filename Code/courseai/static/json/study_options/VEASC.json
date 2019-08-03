@@ -1,0 +1,222 @@
+{
+  "code": "VEASC",
+  "2014": [],
+  "2015": [],
+  "2016": [],
+  "2017": [
+    [
+      {
+        "code": "EMSC8030",
+        "level": "Earth Science Research Project",
+        "units": "6 to 24 units"
+      },
+      {},
+      {
+        "code": "EMSC8017",
+        "level": "Research Methods and Proposal",
+        "units": "6 units"
+      },
+      {
+        "code": "EMSC8018/ EMSC8019/ EMSC8021",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "EMSC8030",
+        "level": "Earth Science Research Project",
+        "units": "6 to 24 units"
+      },
+      {},
+      {
+        "code": "6000 or 8000 level ",
+        "level": "EMSC",
+        "units": "6 units"
+      },
+      {
+        "code": "EMSC8022/ EMSC8023/ EMSC8024",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "EMSC8030",
+        "level": "Earth Science Research Project",
+        "units": "6 to 24 units"
+      },
+      {},
+      {
+        "code": "6000 or 8000 level ",
+        "level": "EMSC",
+        "units": "6 units"
+      },
+      {
+        "code": "6000 or 8000 level ",
+        "level": "EMSC",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "EMSC8030",
+        "level": "Earth Science Research Project",
+        "units": "6 to 24 units"
+      },
+      {},
+      {
+        "code": "6000 or 8000 level ",
+        "level": "EMSC",
+        "units": "6 units"
+      },
+      {
+        "code": "6000 or 8000 level ",
+        "level": "EMSC",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2018": [
+    [
+      {
+        "code": "EMSC8030",
+        "level": "Earth Science Research Project",
+        "units": "6 to 24 units"
+      },
+      {},
+      {
+        "code": "EMSC8017",
+        "level": "Research Methods and Proposal",
+        "units": "6 units"
+      },
+      {
+        "code": "EMSC8018/ EMSC8019/ EMSC8021",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "EMSC8030",
+        "level": "Earth Science Research Project",
+        "units": "6 to 24 units"
+      },
+      {},
+      {
+        "code": "6000 or 8000 level ",
+        "level": "EMSC",
+        "units": "6 units"
+      },
+      {
+        "code": "EMSC8022/ EMSC8023/ EMSC8024",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "EMSC8030",
+        "level": "Earth Science Research Project",
+        "units": "6 to 24 units"
+      },
+      {},
+      {
+        "code": "6000 or 8000 level ",
+        "level": "EMSC",
+        "units": "6 units"
+      },
+      {
+        "code": "6000 or 8000 level ",
+        "level": "EMSC",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "EMSC8030",
+        "level": "Earth Science Research Project",
+        "units": "6 to 24 units"
+      },
+      {},
+      {
+        "code": "6000 or 8000 level ",
+        "level": "EMSC",
+        "units": "6 units"
+      },
+      {
+        "code": "6000 or 8000 level ",
+        "level": "EMSC",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2019": [
+    [
+      {
+        "code": "EMSC8030",
+        "level": "Earth Science Research Project",
+        "units": "6 to 24 units"
+      },
+      {},
+      {
+        "code": "EMSC8017",
+        "level": "Research Methods and Proposal",
+        "units": "6 units"
+      },
+      {
+        "code": "EMSC8018/ EMSC8019/ EMSC8021",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "EMSC8030",
+        "level": "Earth Science Research Project",
+        "units": "6 to 24 units"
+      },
+      {},
+      {
+        "code": "6000 or 8000 level ",
+        "level": "EMSC",
+        "units": "6 units"
+      },
+      {
+        "code": "EMSC8022/ EMSC8023/ EMSC8024",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "EMSC8030",
+        "level": "Earth Science Research Project",
+        "units": "6 to 24 units"
+      },
+      {},
+      {
+        "code": "6000 or 8000 level ",
+        "level": "EMSC",
+        "units": "6 units"
+      },
+      {
+        "code": "6000 or 8000 level ",
+        "level": "EMSC",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "EMSC8030",
+        "level": "Earth Science Research Project",
+        "units": "6 to 24 units"
+      },
+      {},
+      {
+        "code": "6000 or 8000 level ",
+        "level": "EMSC",
+        "units": "6 units"
+      },
+      {
+        "code": "6000 or 8000 level ",
+        "level": "EMSC",
+        "units": "6 units"
+      }
+    ]
+  ]
+}

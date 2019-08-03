@@ -1,0 +1,67 @@
+{
+  "name": "Bachelor of International Relations",
+  "code": "BIR",
+  "year": 2015,
+  "units": 144,
+  "required": {
+    "max_by_level": [
+      {
+        "type": "maximum",
+        "level": [
+          1000
+        ],
+        "units": 60
+      }
+    ],
+    "one_from_m/m/s": [
+      [
+        "INSE-SPEC",
+        "GOIR-SPEC",
+        "IRTH-SPEC"
+      ],
+      [
+        "AFRE-MIN",
+        "MECA-MIN",
+        "ENVP-MIN",
+        "PERS-MIN",
+        "INDN-MIN",
+        "POLS-MIN",
+        "PHSC-MIN",
+        "THAI-MIN",
+        "EHIS-MIN",
+        "VIET-MIN",
+        "PHIL-MIN",
+        "ELCO-MIN",
+        "AITA-MIN",
+        "ASPA-MIN",
+        "SPAN-MIN",
+        "AGER-MIN",
+        "RUSS-MIN",
+        "SANS-MIN",
+        "SPAH-MIN",
+        "CLCH-MIN",
+        "ICOM-MIN",
+        "GERM-MIN",
+        "HIND-MIN",
+        "EURO-MIN",
+        "CORP-MIN",
+        "JPNS-MIN",
+        "PHOT-MIN",
+        "KORE-MIN",
+        "HMRT-MIN",
+        "CHIN-MIN",
+        "AUIS-MIN",
+        "HIST-MIN",
+        "ITAL-MIN",
+        "LAMS-MIN",
+        "COMPF-MIN",
+        "FREN-MIN",
+        "URDU-MIN",
+        "ARAB-MIN"
+      ]
+    ],
+    "required_m/m/s": [
+      "IREL-MAJ"
+    ]
+  }
+}

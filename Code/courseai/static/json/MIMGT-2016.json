@@ -1,0 +1,44 @@
+{
+  "name": "Master of International Management",
+  "code": "MIMGT",
+  "year": 2016,
+  "units": 96,
+  "required": {
+    "compulsory_courses": [
+      "BUSI7001",
+      "BUSI7019",
+      "BUSI7033",
+      "BUSI7152",
+      "MGMT7029",
+      "MGMT7030",
+      "MKTG7035",
+      "MGMT7107"
+    ],
+    "x_from_here": [
+      {
+        "type": "minimum",
+        "units": 6,
+        "courses": [
+          "MGMT7006",
+          "MGMT7161"
+        ]
+      },
+      {
+        "type": "minimum",
+        "units": 6,
+        "courses": [
+          "BUSI7020",
+          "BUSI7055"
+        ]
+      }
+    ],
+    "one_from_m/m/s": [
+      [
+        "PROM-SPEC",
+        "LEAD-SPEC",
+        "MKTG-SPEC"
+      ]
+    ],
+    "required_m/m/s": []
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Master of Philosophy, Research School of Population Health",
+  "code": "8601XMPHIL",
+  "year": 2016,
+  "units": 60,
+  "required": {
+    "one_from_m/m/s": [],
+    "required_m/m/s": []
+  }
+}

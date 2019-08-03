@@ -1,0 +1,659 @@
+{
+  "code": "BPLSC-BLANG",
+  "2014": [],
+  "2015": [],
+  "2016": [
+    [
+      {
+        "code": "LING1001",
+        "level": "Introduction to the Study of Language",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1002",
+        "level": "Introduction to Politics",
+        "units": "6 units"
+      },
+      {
+        "code": "PHIL1004",
+        "level": "Fundamental Ideas in Philosophy: An Introduction",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Linguistics Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1009",
+        "level": "Research and Writing in Political Science",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level Course from listed award rules",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Minor",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS2119",
+        "level": "Ideas in Politics",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level Course from listed award rules",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LANG Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS3025",
+        "level": "Contemporary Political Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level Course from listed award rules",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LANG Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level Course from listed award rules",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level Course from listed award rules",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Minor",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level Course from listed award rules",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level Course from listed award rules",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Minor",
+        "level": "2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level Course from listed award rules",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level Course from listed award rules",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Minor",
+        "level": "2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level Course from listed award rules",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level Course from listed award rules",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2017": [
+    [
+      {
+        "code": "LING1001",
+        "level": "Introduction to the Study of Language",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1002",
+        "level": "Introduction to Politics",
+        "units": "6 units"
+      },
+      {
+        "code": "PHIL1004",
+        "level": "Fundamental Ideas in Philosophy: An Introduction",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Linguistics Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1009",
+        "level": "Research and Writing in Political Science",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level Course from listed award rules",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Minor",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS2119",
+        "level": "Ideas in Politics",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level Course from listed award rules",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LANG Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS3025",
+        "level": "Contemporary Political Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level Course from listed award rules",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LANG Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level Course from listed award rules",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level Course from listed award rules",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Minor",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level Course from listed award rules",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level Course from listed award rules",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Minor",
+        "level": "2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level Course from listed award rules",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level Course from listed award rules",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Minor",
+        "level": "2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level Course from listed award rules",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level Course from listed award rules",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2018": [
+    [
+      {
+        "code": "LING1001",
+        "level": "Introduction to the Study of Language",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1002",
+        "level": "Introduction to Politics",
+        "units": "6 units"
+      },
+      {
+        "code": "Political Theory and political philosophy list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Linguistics Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1009",
+        "level": "Research and Writing in Political Science",
+        "units": "6 units"
+      },
+      {
+        "code": "Another course from specified lists",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Minor",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS2119",
+        "level": "Ideas in Politics",
+        "units": "6 units"
+      },
+      {
+        "code": "Political Theory and political philosophy list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LANG Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS2044",
+        "level": "Contemporary Political Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "Comparative Politics list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LANG Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Comparative Politics list Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Australian Politics list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Minor",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Another course from specified lists",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Political Economy list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Minor",
+        "level": "2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Methodology list Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Another course from specified lists",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Minor",
+        "level": "2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Methodology list Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Australian Politics list Course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2019": [
+    [
+      {
+        "code": "LING1001",
+        "level": "Introduction to the Study of Language",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1002",
+        "level": "Introduction to Politics",
+        "units": "6 units"
+      },
+      {
+        "code": "Political Theory and political philosophy list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Linguistics Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1009",
+        "level": "Research and Writing in Political Science",
+        "units": "6 units"
+      },
+      {
+        "code": "Another course from specified lists",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Minor",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS2119",
+        "level": "Ideas in Politics",
+        "units": "6 units"
+      },
+      {
+        "code": "Political Theory and political philosophy list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LANG Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS2044",
+        "level": "Contemporary Political Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "Comparative Politics list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LANG Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Comparative Politics list Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Australian Politics list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Minor",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Another course from specified lists",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Political Economy list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Minor",
+        "level": "2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Methodology list Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Another course from specified lists",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Minor",
+        "level": "2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Methodology list Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Australian Politics list Course",
+        "units": "6 units"
+      }
+    ]
+  ]
+}

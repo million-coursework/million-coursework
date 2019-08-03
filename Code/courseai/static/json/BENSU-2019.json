@@ -1,0 +1,34 @@
+{
+  "name": "Bachelor of Environment and Sustainability",
+  "code": "BENSU",
+  "year": 2019,
+  "units": 144,
+  "required": {
+    "max_by_level": [
+      {
+        "type": "maximum",
+        "level": [
+          1000
+        ],
+        "units": 60
+      }
+    ],
+    "x_from_category": [
+      {
+        "type": "minimum",
+        "units": "96",
+        "courses": "Science List"
+      },
+      {
+        "type": "minimum",
+        "level": [
+          3000
+        ],
+        "units": 36,
+        "courses": "Science List"
+      }
+    ],
+    "one_from_m/m/s": [],
+    "required_m/m/s": []
+  }
+}

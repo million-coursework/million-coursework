@@ -1,0 +1,969 @@
+{
+  "code": "BSPSY-BIT",
+  "2014": [
+    [
+      {
+        "code": "COMP1100",
+        "level": "Introduction to Programming and Algorithms",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP1710",
+        "level": "Web Development and Design",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC1003",
+        "level": "Psychology 1: Understanding Mind, Brain and Behaviour",
+        "units": "6 units"
+      },
+      {
+        "code": "Science course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "COMP1110",
+        "level": "Introduction to Software Systems",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1005",
+        "level": "Discrete Mathematical Models",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC1004",
+        "level": "Psychology 2: Understanding People in Context",
+        "units": "6 units"
+      },
+      {
+        "code": "Science course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Computing course",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2009",
+        "level": "Quantitative Methods in Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2007",
+        "level": "Biological Basis of Behaviour",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "COMP2400",
+        "level": "Relational Databases",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP2600",
+        "level": "Formal Methods in Software Engineering",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2001",
+        "level": "Social Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2008",
+        "level": "Visual Perception and Cognition",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "COMP3120",
+        "level": "Managing Software Development",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2002",
+        "level": "Developmental Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3025",
+        "level": "Abnormal Psychology across the Life Span",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Computing course 3000-level",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3018",
+        "level": "Advanced Research Methods",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Computing course 3000-level",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing course 3000-level",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC 3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3026",
+        "level": "Personality Psychology",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Computing course 3000-level",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing course 3000-level",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC 3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC 3000 level course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2015": [
+    [
+      {
+        "code": "COMP1100",
+        "level": "Introduction to Programming and Algorithms",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP1710",
+        "level": "Web Development and Design",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC1003",
+        "level": "Psychology 1: Understanding Mind, Brain and Behaviour",
+        "units": "6 units"
+      },
+      {
+        "code": "Science course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "COMP1110",
+        "level": "Introduction to Software Systems",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1005",
+        "level": "Discrete Mathematical Models",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC1004",
+        "level": "Psychology 2: Understanding People in Context",
+        "units": "6 units"
+      },
+      {
+        "code": "Science course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Computing course",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2009",
+        "level": "Quantitative Methods in Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2007",
+        "level": "Biological Basis of Behaviour",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "COMP2400",
+        "level": "Relational Databases",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP2600",
+        "level": "Formal Methods in Software Engineering",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2001",
+        "level": "Social Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2008",
+        "level": "Visual Perception and Cognition",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "COMP3120",
+        "level": "Managing Software Development",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2002",
+        "level": "Developmental Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "Science course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Computing course 3000-level",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3025",
+        "level": "Abnormal Psychology across the Life Span",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3018",
+        "level": "Advanced Research Methods",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Computing course 3000-level",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing course 3000-level",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3026",
+        "level": "Personality Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC 3000 level course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Computing course 3000-level",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing course 3000-level",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC 3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC 3000 level course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2016": [
+    [
+      {
+        "code": "COMP1100",
+        "level": "Introduction to Programming and Algorithms",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP1710",
+        "level": "Web Development and Design",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC1003",
+        "level": "Psychology 1: Understanding Mind, Brain and Behaviour",
+        "units": "6 units"
+      },
+      {
+        "code": "Science course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "COMP1110",
+        "level": "Introduction to Software Systems",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1005",
+        "level": "Discrete Mathematical Models",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC1004",
+        "level": "Psychology 2: Understanding People in Context",
+        "units": "6 units"
+      },
+      {
+        "code": "Science course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Computing course",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2009",
+        "level": "Quantitative Methods in Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2007",
+        "level": "Biological Basis of Behaviour",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "COMP2400",
+        "level": "Relational Databases",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP2600",
+        "level": "Formal Methods in Software Engineering",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2001",
+        "level": "Social Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2008",
+        "level": "Cognition",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "COMP3120",
+        "level": "Managing Software Development",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2002",
+        "level": "Developmental Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "Science course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Computing course 3000-level",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3025",
+        "level": "Abnormal Psychology across the Life Span",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3018",
+        "level": "Advanced Research Methods",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Computing course 3000-level",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing course 3000-level",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3026",
+        "level": "Personality Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC 3000 level course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Computing course 3000-level",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing course 3000-level",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC 3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC 3000 level course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2017": [
+    [
+      {
+        "code": "COMP1100",
+        "level": "Programming as Problem Solving",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1005",
+        "level": "Discrete Mathematical Models",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC1003",
+        "level": "Psychology 1: Understanding Mind, Brain and Behaviour",
+        "units": "6 units"
+      },
+      {
+        "code": "1000 level Science elective",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "COMP1110",
+        "level": "Structured Programming",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP1600",
+        "level": "Foundations of Computing",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC1004",
+        "level": "Psychology 2: Understanding People in Context",
+        "units": "6 units"
+      },
+      {
+        "code": "1000 level Science elective",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "COMP2100",
+        "level": "Software Design Methodologies",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP2300",
+        "level": "Computer Organisation and Program Execution",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2009",
+        "level": "Quantitative Methods in Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2002",
+        "level": "Developmental Psychology",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Computing elective"
+      },
+      {
+        "code": "Computing elective"
+      },
+      {
+        "code": "PSYC2001",
+        "level": "Social Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2008",
+        "level": "Cognition",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "COMP2420",
+        "level": "Introduction to Data Management, Analysis and Security",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level",
+        "level": "Computing elective"
+      },
+      {
+        "code": "3000 level PSYC course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science elective",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "3000 level",
+        "level": "Computing elective"
+      },
+      {
+        "code": "3000 level",
+        "level": "Computing elective"
+      },
+      {
+        "code": "PSYC2007",
+        "level": "Biological Basis of Behaviour",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3018",
+        "level": "Advanced Research Methods",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "3000 level",
+        "level": "Computing elective"
+      },
+      {
+        "code": "Computing elective"
+      },
+      {
+        "code": "PSYC3025",
+        "level": "Abnormal Psychology across the Life Span",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level PSYC course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "3000 level",
+        "level": "Computing elective"
+      },
+      {
+        "code": "Computing elective"
+      },
+      {
+        "code": "PSYC3026",
+        "level": "Personality Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level PSYC course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2018": [
+    [
+      {
+        "code": "COMP1100",
+        "level": "Programming as Problem Solving",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1005",
+        "level": "Discrete Mathematical Models",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC1003",
+        "level": "Psychology 1: Understanding Mind, Brain and Behaviour",
+        "units": "6 units"
+      },
+      {
+        "code": "1000 level Science elective",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "COMP1110",
+        "level": "Structured Programming",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP1600",
+        "level": "Foundations of Computing",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC1004",
+        "level": "Psychology 2: Understanding People in Context",
+        "units": "6 units"
+      },
+      {
+        "code": "1000 level Science elective",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "COMP2100",
+        "level": "Software Design Methodologies",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP2300",
+        "level": "Computer Organisation and Program Execution",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2009",
+        "level": "Quantitative Methods in Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2002",
+        "level": "Developmental Psychology",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Computing elective"
+      },
+      {
+        "code": "Computing elective"
+      },
+      {
+        "code": "PSYC2001",
+        "level": "Social Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2008",
+        "level": "Cognition",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "COMP2420",
+        "level": "Introduction to Data Management, Analysis and Security",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level",
+        "level": "Computing elective"
+      },
+      {
+        "code": "3000 level PSYC course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science elective",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "3000 level",
+        "level": "Computing elective"
+      },
+      {
+        "code": "3000 level",
+        "level": "Computing elective"
+      },
+      {
+        "code": "PSYC2007",
+        "level": "Biological Basis of Behaviour",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3018",
+        "level": "Advanced Research Methods",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "3000 level",
+        "level": "Computing elective"
+      },
+      {
+        "code": "Computing elective"
+      },
+      {
+        "code": "PSYC3025",
+        "level": "Psychopathology Across the Lifespan",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level PSYC course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "3000 level",
+        "level": "Computing elective"
+      },
+      {
+        "code": "Computing elective"
+      },
+      {
+        "code": "PSYC3026",
+        "level": "Personality Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level PSYC course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2019": [
+    [
+      {
+        "code": "COMP1100",
+        "level": "Programming as Problem Solving",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1005",
+        "level": "Discrete Mathematical Models",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC1003",
+        "level": "Psychology 1: Understanding Mind, Brain and Behaviour",
+        "units": "6 units"
+      },
+      {
+        "code": "1000 level Science elective",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "COMP1110",
+        "level": "Structured Programming",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP1600",
+        "level": "Foundations of Computing",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC1004",
+        "level": "Psychology 2: Understanding People in Context",
+        "units": "6 units"
+      },
+      {
+        "code": "1000 level Science elective",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "COMP2100",
+        "level": "Software Design Methodologies",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP2300",
+        "level": "Computer Organisation and Program Execution",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2009",
+        "level": "Quantitative Methods in Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2002",
+        "level": "Developmental Psychology",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Computing elective"
+      },
+      {
+        "code": "Computing elective"
+      },
+      {
+        "code": "PSYC2001",
+        "level": "Social Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2008",
+        "level": "Cognition",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "COMP2420",
+        "level": "Introduction to Data Management, Analysis and Security",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level",
+        "level": "Computing elective"
+      },
+      {
+        "code": "3000 level PSYC course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science elective",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "3000 level",
+        "level": "Computing elective"
+      },
+      {
+        "code": "3000 level",
+        "level": "Computing elective"
+      },
+      {
+        "code": "PSYC2007",
+        "level": "Biological Basis of Behaviour",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3018",
+        "level": "Advanced Research Methods",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "3000 level",
+        "level": "Computing elective"
+      },
+      {
+        "code": "Computing elective"
+      },
+      {
+        "code": "PSYC3025",
+        "level": "Psychopathology Across the Lifespan",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level PSYC course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "3000 level",
+        "level": "Computing elective"
+      },
+      {
+        "code": "Computing elective"
+      },
+      {
+        "code": "PSYC3026",
+        "level": "Personality Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level PSYC course",
+        "units": "6 units"
+      }
+    ]
+  ]
+}

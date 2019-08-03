@@ -1,0 +1,116 @@
+{
+  "code": "BMASC-BDESN",
+  "2014": [],
+  "2015": [],
+  "2016": [],
+  "2017": [
+    [
+      {
+        "code": "MATH1115",
+        "level": "Advanced Mathematics and Applications 1",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH2222",
+        "level": "Introduction to Mathematical Thinking: Problem-Solving and Proofs",
+        "units": "6 units"
+      },
+      {
+        "code": "Science or non-science course"
+      },
+      {
+        "code": "Science or non-science course"
+      }
+    ],
+    [
+      {
+        "code": "MATH1116",
+        "level": "Advanced Mathematics and Applications  2",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH2322",
+        "level": "Advanced Algebra 1: Groups, Rings and Linear Algebra",
+        "units": "6 units"
+      },
+      {
+        "code": "Science or non-science course"
+      },
+      {
+        "code": "Science or non-science course"
+      }
+    ]
+  ],
+  "2018": [
+    [
+      {
+        "code": "MATH1115",
+        "level": "Advanced Mathematics and Applications 1",
+        "units": "6 units"
+      },
+      {
+        "code": "Science elective",
+        "units": "6 units"
+      },
+      {
+        "code": "Science or non-science course"
+      },
+      {
+        "code": "Science or non-science course"
+      }
+    ],
+    [
+      {
+        "code": "MATH1116",
+        "level": "Advanced Mathematics and Applications  2",
+        "units": "6 units"
+      },
+      {
+        "code": "Science elective",
+        "units": "6 units"
+      },
+      {
+        "code": "Science or non-science course"
+      },
+      {
+        "code": "Science or non-science course"
+      }
+    ]
+  ],
+  "2019": [
+    [
+      {
+        "code": "MATH1115",
+        "level": "Advanced Mathematics and Applications 1",
+        "units": "6 units"
+      },
+      {
+        "code": "Science elective",
+        "units": "6 units"
+      },
+      {
+        "code": "Science or non-science course"
+      },
+      {
+        "code": "Science or non-science course"
+      }
+    ],
+    [
+      {
+        "code": "MATH1116",
+        "level": "Advanced Mathematics and Applications  2",
+        "units": "6 units"
+      },
+      {
+        "code": "Science elective",
+        "units": "6 units"
+      },
+      {
+        "code": "Science or non-science course"
+      },
+      {
+        "code": "Science or non-science course"
+      }
+    ]
+  ]
+}

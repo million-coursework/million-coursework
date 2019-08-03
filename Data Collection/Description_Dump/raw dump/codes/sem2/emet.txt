@@ -1,0 +1,8 @@
+"http://programsandcourses.anu.edu.au/2018/course/EMET4310",
+"http://programsandcourses.anu.edu.au/2018/course/EMET3008",
+"http://programsandcourses.anu.edu.au/2018/course/EMET4312",
+"http://programsandcourses.anu.edu.au/2018/course/EMET3007",
+"http://programsandcourses.anu.edu.au/2018/course/EMET4308",
+"http://programsandcourses.anu.edu.au/2018/course/EMET3004",
+"http://programsandcourses.anu.edu.au/2018/course/EMET1001",
+"http://programsandcourses.anu.edu.au/2018/course/EMET3020"

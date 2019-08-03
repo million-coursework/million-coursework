@@ -1,0 +1,728 @@
+{
+  "code": "BCRIM-BACCT",
+  "2014": [
+    [
+      {
+        "code": "BUSN1001",
+        "level": "Business Reporting and Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT1008",
+        "level": "Quantitative Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM1001",
+        "level": "Foundations of Finance",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BUSN1002",
+        "level": "Accounting Processes and Systems",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1102",
+        "level": "Macroeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN1101",
+        "level": "Introduction to Commercial Law",
+        "units": "6 units"
+      },
+      {
+        "code": "CBE Elective",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2015": [
+    [
+      {
+        "code": "BUSN1001",
+        "level": "Business Reporting and Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT1008",
+        "level": "Quantitative Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM1001",
+        "level": "Foundations of Finance",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BUSN1002",
+        "level": "Accounting Processes and Systems",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1102",
+        "level": "Macroeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN1101",
+        "level": "Introduction to Commercial Law",
+        "units": "6 units"
+      },
+      {
+        "code": "CBE Elective",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2016": [
+    [
+      {
+        "code": "BUSN1001",
+        "level": "Business Reporting and Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT1008",
+        "level": "Quantitative Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "CRIM1001",
+        "level": "The Criminological Imagination: Theory and Understanding",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY1002",
+        "level": "Self and Society",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BUSN1002",
+        "level": "Accounting Processes and Systems",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM1001",
+        "level": "Foundations of Finance",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2011",
+        "level": "Introduction to Forensic and Criminal Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY2043",
+        "level": "Introduction to Qualitative Research Methods",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN2015",
+        "level": "Company Accounting",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY2038",
+        "level": "Introduction to Quantitative Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "CRIM2003",
+        "level": "Controversies in Crime Control",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON1102",
+        "level": "Macroeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN2011",
+        "level": "Management Accounting",
+        "units": "6 units"
+      },
+      {
+        "code": "CRIM2001",
+        "level": "Doing Criminology: Research and Practice in Crime and Criminal Justice",
+        "units": "6 units"
+      },
+      {
+        "code": "CRIM3001",
+        "level": "Criminal Behaviour",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BUSN3001",
+        "level": "Accounting Theory",
+        "units": "6 units"
+      },
+      {
+        "code": "INFS2005",
+        "level": "Accounting Information Systems",
+        "units": "6 units"
+      },
+      {
+        "units": "6 units from BCRIM 36 units List"
+      },
+      {
+        "units": "6 units from BCRIM 36 units List"
+      }
+    ],
+    [
+      {
+        "code": "CBE List 1 course"
+      },
+      {
+        "code": "3000 Level ",
+        "level": "Accounting course"
+      },
+      {
+        "units": "6 units from BCRIM 36 units List"
+      },
+      {
+        "units": "6 units from BCRIM 36 units List"
+      }
+    ],
+    [
+      {
+        "code": "BUSN2036",
+        "level": "Financial Statement Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 Level ",
+        "level": "Accounting course"
+      },
+      {
+        "units": "6 units from BCRIM 36 units List"
+      },
+      {
+        "units": "6 units from BCRIM 36 units List"
+      }
+    ],
+    [
+      {
+        "code": "3000 Level ",
+        "level": "Accounting course"
+      },
+      {
+        "code": "CBE List 1 course"
+      },
+      {
+        "units": "6 units from BCRIM 36 units List or 12 units List"
+      },
+      {
+        "units": "6 units from BCRIM 36 units List or 12 units List"
+      }
+    ]
+  ],
+  "2017": [
+    [
+      {
+        "code": "BUSN1001",
+        "level": "Business Reporting and Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT1008",
+        "level": "Quantitative Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "CRIM1001",
+        "level": "The Criminological Imagination: Theory and Understanding",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY1002",
+        "level": "Self and Society",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BUSN1002",
+        "level": "Accounting Processes and Systems",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM1001",
+        "level": "Foundations of Finance",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2011",
+        "level": "Introduction to Forensic and Criminal Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY2043",
+        "level": "Introduction to Qualitative Research Methods",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN2015",
+        "level": "Company Accounting",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY2038",
+        "level": "Introduction to Quantitative Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "CRIM2003",
+        "level": "Controversies in Crime Control",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON1102",
+        "level": "Macroeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN1101",
+        "level": "Introduction to Commercial Law",
+        "units": "6 units"
+      },
+      {
+        "code": "CRIM2001",
+        "level": "Doing Criminology: Research and Practice in Crime and Criminal Justice",
+        "units": "6 units"
+      },
+      {
+        "code": "CRIM3001",
+        "level": "Criminal Behaviour",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BUSN2011",
+        "level": "Management Accounting",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN2101",
+        "level": "Law of Business Entities",
+        "units": "6 units"
+      },
+      {
+        "units": "6 units from BCRIM 36 units List"
+      },
+      {
+        "units": "6 units from BCRIM 36 units List"
+      }
+    ],
+    [
+      {
+        "code": "BUSN3001",
+        "level": "Accounting Theory",
+        "units": "6 units"
+      },
+      {
+        "code": "INFS2005",
+        "level": "Accounting Information Systems",
+        "units": "6 units"
+      },
+      {
+        "units": "6 units from BCRIM 36 units List"
+      },
+      {
+        "units": "6 units from BCRIM 36 units List"
+      }
+    ],
+    [
+      {
+        "code": "BUSN3014",
+        "level": "Principles of Tax Law",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN3002",
+        "level": "Auditing",
+        "units": "6 units"
+      },
+      {
+        "units": "6 units from BCRIM 36 units List"
+      },
+      {
+        "units": "6 units from BCRIM 36 units List"
+      }
+    ],
+    [
+      {
+        "code": "Accounting course from the List",
+        "units": "6 units"
+      },
+      {
+        "code": " CBE LIST 1 Elective course",
+        "units": "6 units"
+      },
+      {
+        "units": "6 units from BCRIM 36 units List or 12 units List"
+      },
+      {
+        "units": "6 units from BCRIM 36 units List or 12 units List"
+      }
+    ]
+  ],
+  "2018": [
+    [
+      {
+        "code": "BUSN1001",
+        "level": "Business Reporting and Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT1008",
+        "level": "Quantitative Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "CRIM1001",
+        "level": "The Criminological Imagination: Theory and Understanding",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY1002",
+        "level": "Self and Society",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BUSN1002",
+        "level": "Accounting Processes and Systems",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM1001",
+        "level": "Foundations of Finance",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2011",
+        "level": "Introduction to Forensic and Criminal Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY2043",
+        "level": "Introduction to Qualitative Research Methods",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN2015",
+        "level": "Company Accounting",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY2038",
+        "level": "Introduction to Quantitative Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "CRIM2003",
+        "level": "Controversies in Crime Control",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON1102",
+        "level": "Macroeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN1101",
+        "level": "Introduction to Commercial Law",
+        "units": "6 units"
+      },
+      {
+        "code": "CRIM2001",
+        "level": "Doing Criminology: Research and Practice in Crime and Criminal Justice",
+        "units": "6 units"
+      },
+      {
+        "code": "CRIM3001",
+        "level": "Criminal Behaviour",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BUSN2011",
+        "level": "Management Accounting",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN2101",
+        "level": "Law of Business Entities",
+        "units": "6 units"
+      },
+      {
+        "units": "6 units from BCRIM 36 units List"
+      },
+      {
+        "units": "6 units from BCRIM 36 units List"
+      }
+    ],
+    [
+      {
+        "code": "BUSN3001",
+        "level": "Accounting Theory",
+        "units": "6 units"
+      },
+      {
+        "code": "INFS2005",
+        "level": "Accounting Information Systems",
+        "units": "6 units"
+      },
+      {
+        "units": "6 units from BCRIM 36 units List"
+      },
+      {
+        "units": "6 units from BCRIM 36 units List"
+      }
+    ],
+    [
+      {
+        "code": "BUSN3014",
+        "level": "Principles of Tax Law",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN3002",
+        "level": "Auditing",
+        "units": "6 units"
+      },
+      {
+        "units": "6 units from BCRIM 36 units List"
+      },
+      {
+        "units": "6 units from BCRIM 36 units List"
+      }
+    ],
+    [
+      {
+        "code": "Accounting course from the List",
+        "units": "6 units"
+      },
+      {
+        "code": " CBE LIST 1 Elective course",
+        "units": "6 units"
+      },
+      {
+        "units": "6 units from BCRIM 36 units List or 12 units List"
+      },
+      {
+        "units": "6 units from BCRIM 36 units List or 12 units List"
+      }
+    ]
+  ],
+  "2019": [
+    [
+      {
+        "code": "BUSN1001",
+        "level": "Business Reporting and Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT1008",
+        "level": "Quantitative Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "CRIM1001",
+        "level": "The Criminological Imagination: Theory and Understanding",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY1002",
+        "level": "Self and Society",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BUSN1002",
+        "level": "Accounting Processes and Systems",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM1001",
+        "level": "Foundations of Finance",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2011",
+        "level": "Introduction to Forensic and Criminal Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY2043",
+        "level": "Introduction to Qualitative Research Methods",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN2015",
+        "level": "Company Accounting",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY2038",
+        "level": "Introduction to Quantitative Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "CRIM2003",
+        "level": "Controversies in Crime Control",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON1102",
+        "level": "Macroeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN1101",
+        "level": "Introduction to Commercial Law",
+        "units": "6 units"
+      },
+      {
+        "code": "CRIM2001",
+        "level": "Doing Criminology: Research and Practice in Crime and Criminal Justice",
+        "units": "6 units"
+      },
+      {
+        "code": "CRIM3001",
+        "level": "Criminal Behaviour",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BUSN2011",
+        "level": "Management Accounting",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN2101",
+        "level": "Law of Business Entities",
+        "units": "6 units"
+      },
+      {
+        "units": "6 units from BCRIM 36 units List"
+      },
+      {
+        "units": "6 units from BCRIM 36 units List"
+      }
+    ],
+    [
+      {
+        "code": "BUSN3001",
+        "level": "Accounting Theory",
+        "units": "6 units"
+      },
+      {
+        "code": "INFS2005",
+        "level": "Accounting Information Systems",
+        "units": "6 units"
+      },
+      {
+        "units": "6 units from BCRIM 36 units List"
+      },
+      {
+        "units": "6 units from BCRIM 36 units List"
+      }
+    ],
+    [
+      {
+        "code": "BUSN3014",
+        "level": "Principles of Tax Law",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN3002",
+        "level": "Auditing",
+        "units": "6 units"
+      },
+      {
+        "units": "6 units from BCRIM 36 units List"
+      },
+      {
+        "units": "6 units from BCRIM 36 units List"
+      }
+    ],
+    [
+      {
+        "code": "Accounting course from the List",
+        "units": "6 units"
+      },
+      {
+        "code": " CBE LIST 1 Elective course",
+        "units": "6 units"
+      },
+      {
+        "units": "6 units from BCRIM 36 units List or 12 units List"
+      },
+      {
+        "units": "6 units from BCRIM 36 units List or 12 units List"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Master of Philosophy, Translational Medicine",
+  "code": "8712XTMED",
+  "year": 2014,
+  "units": 1,
+  "required": {
+    "one_from_m/m/s": [],
+    "required_m/m/s": []
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Master of Financial Management",
+  "code": "MFINM",
+  "year": 2015,
+  "units": 48,
+  "required": {
+    "compulsory_courses": [
+      "BUSN7008",
+      "FINM7006",
+      "FINM7007",
+      "FINM7008",
+      "FINM7044",
+      "FINM8016",
+      "FINM8007",
+      "STAT7055"
+    ],
+    "one_from_m/m/s": [],
+    "required_m/m/s": []
+  }
+}

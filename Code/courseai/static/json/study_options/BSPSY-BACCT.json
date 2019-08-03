@@ -1,0 +1,768 @@
+{
+  "code": "BSPSY-BACCT",
+  "2014": [
+    [
+      {
+        "code": "BUSN1001",
+        "level": "Business Reporting and Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT1008",
+        "level": "Quantitative Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM1001",
+        "level": "Foundations of Finance",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BUSN1002",
+        "level": "Accounting Processes and Systems",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1102",
+        "level": "Macroeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN1101",
+        "level": "Introduction to Commercial Law",
+        "units": "6 units"
+      },
+      {
+        "code": "CBE Elective",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2015": [
+    [
+      {
+        "code": "BUSN1001",
+        "level": "Business Reporting and Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT1008",
+        "level": "Quantitative Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM1001",
+        "level": "Foundations of Finance",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BUSN1002",
+        "level": "Accounting Processes and Systems",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1102",
+        "level": "Macroeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN1101",
+        "level": "Introduction to Commercial Law",
+        "units": "6 units"
+      },
+      {
+        "code": "CBE Elective",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2016": [
+    [
+      {
+        "code": "BUSN1001",
+        "level": "Business Reporting and Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT1008",
+        "level": "Quantitative Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC1003",
+        "level": "Psychology 1: Understanding Mind, Brain and Behaviour",
+        "units": "6 units"
+      },
+      {
+        "code": "Science course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BUSN1002",
+        "level": "Accounting Processes and Systems",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM1001",
+        "level": "Foundations of Finance",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC1004",
+        "level": "Psychology 2: Understanding People in Context",
+        "units": "6 units"
+      },
+      {
+        "code": "Science course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN2015",
+        "level": "Company Accounting",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2009",
+        "level": "Quantitative Methods in Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2007",
+        "level": "Biological Basis of Behaviour",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON1102",
+        "level": "Macroeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN2011",
+        "level": "Management Accounting",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2001",
+        "level": "Social Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2008",
+        "level": "Cognition",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BUSN3001",
+        "level": "Accounting Theory",
+        "units": "6 units"
+      },
+      {
+        "code": "INFS2005",
+        "level": "Accounting Information Systems",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2002",
+        "level": "Developmental Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "Science course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "CBE List 1 course"
+      },
+      {
+        "code": "3000 Level ",
+        "level": "Accounting course"
+      },
+      {
+        "code": "PSYC3025",
+        "level": "Abnormal Psychology across the Life Span",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3018",
+        "level": "Advanced Research Methods",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BUSN2036",
+        "level": "Financial Statement Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 Level ",
+        "level": "Accounting course"
+      },
+      {
+        "code": "PSYC3026",
+        "level": "Personality Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC 3000 level course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "3000 Level ",
+        "level": "Accounting course"
+      },
+      {
+        "code": "CBE List 1 course"
+      },
+      {
+        "code": "PSYC 3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC 3000 level course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2017": [
+    [
+      {
+        "code": "BUSN1001",
+        "level": "Business Reporting and Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT1008",
+        "level": "Quantitative Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC1003",
+        "level": "Psychology 1: Understanding Mind, Brain and Behaviour",
+        "units": "6 units"
+      },
+      {
+        "code": "1000 level Science elective",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BUSN1002",
+        "level": "Accounting Processes and Systems",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM1001",
+        "level": "Foundations of Finance",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC1004",
+        "level": "Psychology 2: Understanding People in Context",
+        "units": "6 units"
+      },
+      {
+        "code": "1000 level Science elective",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN2015",
+        "level": "Company Accounting",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2009",
+        "level": "Quantitative Methods in Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2002",
+        "level": "Developmental Psychology",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON1102",
+        "level": "Macroeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN1101",
+        "level": "Introduction to Commercial Law",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2001",
+        "level": "Social Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2008",
+        "level": "Cognition",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BUSN2011",
+        "level": "Management Accounting",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN2101",
+        "level": "Law of Business Entities",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level PSYC course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science elective",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BUSN3001",
+        "level": "Accounting Theory",
+        "units": "6 units"
+      },
+      {
+        "code": "INFS2005",
+        "level": "Accounting Information Systems",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2007",
+        "level": "Biological Basis of Behaviour",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3018",
+        "level": "Advanced Research Methods",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BUSN3014",
+        "level": "Principles of Tax Law",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN3002",
+        "level": "Auditing",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3025",
+        "level": "Abnormal Psychology across the Life Span",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level PSYC course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Accounting course from the List",
+        "units": "6 units"
+      },
+      {
+        "code": " CBE LIST 1 Elective course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3026",
+        "level": "Personality Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level PSYC course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2018": [
+    [
+      {
+        "code": "BUSN1001",
+        "level": "Business Reporting and Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT1008",
+        "level": "Quantitative Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC1003",
+        "level": "Psychology 1: Understanding Mind, Brain and Behaviour",
+        "units": "6 units"
+      },
+      {
+        "code": "1000 level Science elective",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BUSN1002",
+        "level": "Accounting Processes and Systems",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM1001",
+        "level": "Foundations of Finance",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC1004",
+        "level": "Psychology 2: Understanding People in Context",
+        "units": "6 units"
+      },
+      {
+        "code": "1000 level Science elective",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN2015",
+        "level": "Company Accounting",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2009",
+        "level": "Quantitative Methods in Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2002",
+        "level": "Developmental Psychology",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON1102",
+        "level": "Macroeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN1101",
+        "level": "Introduction to Commercial Law",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2001",
+        "level": "Social Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2008",
+        "level": "Cognition",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BUSN2011",
+        "level": "Management Accounting",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN2101",
+        "level": "Law of Business Entities",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level PSYC course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science elective",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BUSN3001",
+        "level": "Accounting Theory",
+        "units": "6 units"
+      },
+      {
+        "code": "INFS2005",
+        "level": "Accounting Information Systems",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2007",
+        "level": "Biological Basis of Behaviour",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3018",
+        "level": "Advanced Research Methods",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BUSN3014",
+        "level": "Principles of Tax Law",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN3002",
+        "level": "Auditing",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3025",
+        "level": "Psychopathology Across the Lifespan",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level PSYC course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Accounting course from the List",
+        "units": "6 units"
+      },
+      {
+        "code": " CBE LIST 1 Elective course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3026",
+        "level": "Personality Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level PSYC course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2019": [
+    [
+      {
+        "code": "BUSN1001",
+        "level": "Business Reporting and Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT1008",
+        "level": "Quantitative Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC1003",
+        "level": "Psychology 1: Understanding Mind, Brain and Behaviour",
+        "units": "6 units"
+      },
+      {
+        "code": "1000 level Science elective",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BUSN1002",
+        "level": "Accounting Processes and Systems",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM1001",
+        "level": "Foundations of Finance",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC1004",
+        "level": "Psychology 2: Understanding People in Context",
+        "units": "6 units"
+      },
+      {
+        "code": "1000 level Science elective",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN2015",
+        "level": "Company Accounting",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2009",
+        "level": "Quantitative Methods in Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2002",
+        "level": "Developmental Psychology",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON1102",
+        "level": "Macroeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN1101",
+        "level": "Introduction to Commercial Law",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2001",
+        "level": "Social Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2008",
+        "level": "Cognition",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BUSN2011",
+        "level": "Management Accounting",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN2101",
+        "level": "Law of Business Entities",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level PSYC course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science elective",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BUSN3001",
+        "level": "Accounting Theory",
+        "units": "6 units"
+      },
+      {
+        "code": "INFS2005",
+        "level": "Accounting Information Systems",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2007",
+        "level": "Biological Basis of Behaviour",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3018",
+        "level": "Advanced Research Methods",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BUSN3014",
+        "level": "Principles of Tax Law",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN3002",
+        "level": "Auditing",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3025",
+        "level": "Psychopathology Across the Lifespan",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level PSYC course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Accounting course from the List",
+        "units": "6 units"
+      },
+      {
+        "code": " CBE LIST 1 Elective course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3026",
+        "level": "Personality Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level PSYC course",
+        "units": "6 units"
+      }
+    ]
+  ]
+}

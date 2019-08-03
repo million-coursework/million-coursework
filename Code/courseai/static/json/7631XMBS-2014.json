@@ -1,0 +1,10 @@
+{
+  "name": "Master of Biological Sciences",
+  "code": "7631XMBS",
+  "year": 2014,
+  "units": 48,
+  "required": {
+    "one_from_m/m/s": [],
+    "required_m/m/s": []
+  }
+}

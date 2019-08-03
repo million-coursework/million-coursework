@@ -1,0 +1,64 @@
+{
+    "name": "Bachelor of Medical Science",
+    "units": 144,
+    "required": {
+        "compulsory_courses": [
+            "BIOL1003",
+            "BIOL1004",
+            "BIOL2142",
+            "BIOL2161",
+            "BIOL2171",
+            "BIOL3006",
+            "BIOL3141",
+            "BIOL3190",
+            "CHEM1101",
+            "CHEM1201"
+        ],
+        "x_from_here": [
+            {
+                "num": 6,
+                "courses": [
+                    "BIAN3014",
+                    "BIOL2001",
+                    "BIOL2202",
+                    "ENVS1003",
+                    "PSYC2009"
+                ]
+            },
+            {
+                "num": 12,
+                "courses": [
+                    "BIOL2117",
+                    "BIOL2151",
+                    "BIOL2162",
+                    "BIOL2174"
+                ]
+            },
+            {
+                "num": 18,
+                "courses": [
+                    "BIOL3204",
+                    "BIOL3205",
+                    "BIOL3208",
+                    "BIOL3209",
+                    "BIOL3203",
+                    "BIOL3193",
+                    "BIOL3191",
+                    "BIOL3186",
+                    "BIOL3161",
+                    "BIOL3144",
+                    "BIOL3142",
+                    "BIOL3108",
+                    "BIOL3107",
+                    "NEUR3101",
+                    "NEUR3112",
+                    "POPH3000"
+                ]
+            }
+        ],
+        "max_by_level": {
+            "1000": 60
+        }
+    }
+}
+

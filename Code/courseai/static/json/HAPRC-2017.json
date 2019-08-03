@@ -1,0 +1,18 @@
+{
+  "name": "Bachelor of Archaeological Practice (Honours)",
+  "code": "HAPRC",
+  "year": 2017,
+  "units": 48,
+  "required": {
+    "compulsory_courses": [
+      "ARCH4001",
+      "ARCH4002",
+      "ARCH4003",
+      "ARCH4004",
+      "THES4102",
+      "HONS4100"
+    ],
+    "one_from_m/m/s": [],
+    "required_m/m/s": []
+  }
+}

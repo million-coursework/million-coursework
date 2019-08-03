@@ -1,0 +1,715 @@
+{
+  "code": "BIR",
+  "2014": [
+    [
+      {
+        "code": "POLS1005",
+        "level": "Introduction to International Relations: Foundations and Concepts",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor",
+        "level": "1000 Level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "POLS1006",
+        "level": "Introduction to International Relations:  Contemporary Global Issues",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor",
+        "level": "1000 Level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "International Relations Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "International Relations Specialisation",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "International Relations Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "International Relations Specialisation",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "International Relations Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "International Relations Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "International Relations Specialisation",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "International Relations Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "International Relations Major",
+        "level": "2000/3000  level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "International Relations Specialisation",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective Course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2015": [
+    [
+      {
+        "code": "POLS1005",
+        "level": "Introduction to International Relations: Foundations and Concepts",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor",
+        "level": "1000 Level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "POLS1006",
+        "level": "Introduction to International Relations:  Contemporary Global Issues",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor",
+        "level": "1000 Level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "International Relations Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "International Relations Specialisation",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "International Relations Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "International Relations Specialisation",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "International Relations Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "International Relations Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "International Relations Specialisation",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "International Relations Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "International Relations Major",
+        "level": "2000/3000  level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "International Relations Specialisation",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective Course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2016": [
+    [
+      {
+        "code": "POLS1005",
+        "level": "Introduction to International Relations: Foundations and Concepts",
+        "units": "6 units"
+      },
+      {
+        "code": "ANU Elective",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Areas Studies Course",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Language Minor Course",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "POLS1006",
+        "level": "Introduction to International Relations:  Contemporary Global Issues",
+        "units": "6 units"
+      },
+      {
+        "code": "Areas Studies Course",
+        "units": "6 units\r"
+      },
+      {
+        "code": "ANU Elective",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Language Minor Course",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "POLS2133",
+        "level": "International Organisations in World Politics",
+        "units": "6 units"
+      },
+      {
+        "code": "Theory Course",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Methods Course",
+        "units": "6 units\r"
+      },
+      {
+        "code": "POLS3001",
+        "level": "Foreign Policy Analysis: Understanding Global and Australian Foreign Policy Decision-Making",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "POLS2094",
+        "level": "Issues in International Political Economy",
+        "units": "6 units"
+      },
+      {
+        "code": "ANU Elective",
+        "units": "6 units\r"
+      },
+      {
+        "code": "ANU Elective",
+        "units": "6 units\r"
+      },
+      {
+        "code": "ANU Elective",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "ANIP Internship/VC courses",
+        "units": "12 units"
+      },
+      {
+        "code": "-"
+      },
+      {
+        "code": "ANU Elective",
+        "units": "6 units\r"
+      },
+      {
+        "code": "ANU Elective",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "POLS3017",
+        "level": "International Relations Theory",
+        "units": "6 units"
+      },
+      {
+        "code": "Global Politics Course",
+        "units": "6 units\r"
+      },
+      {
+        "code": "ANU Elective",
+        "units": "6 units"
+      },
+      {
+        "code": "ANU Elective",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2017": [
+    [
+      {
+        "code": "POLS1005",
+        "level": "Introduction to International Relations: Foundations and Concepts",
+        "units": "6 units"
+      },
+      {
+        "code": "ANU Elective",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Areas Studies Course",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Language Minor Course",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "POLS1006",
+        "level": "Introduction to International Relations:  Contemporary Global Issues",
+        "units": "6 units"
+      },
+      {
+        "code": "Areas Studies Course",
+        "units": "6 units\r"
+      },
+      {
+        "code": "ANU Elective",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Language Minor Course",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "POLS2133",
+        "level": "International Organisations in World Politics",
+        "units": "6 units"
+      },
+      {
+        "code": "Theory Course",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Methods Course",
+        "units": "6 units\r"
+      },
+      {
+        "code": "ANU Elective",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "POLS2094",
+        "level": "Issues in International Political Economy",
+        "units": "6 units"
+      },
+      {
+        "code": "ANU Elective",
+        "units": "6 units\r"
+      },
+      {
+        "code": "ANU Elective",
+        "units": "6 units\r"
+      },
+      {
+        "code": "ANU Elective",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "POLS3001",
+        "level": "Foreign Policy Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "ANU Elective",
+        "units": "6 units\r"
+      },
+      {
+        "code": "ANU Elective",
+        "units": "6 units\r"
+      },
+      {
+        "code": "ANU Elective",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "POLS3017",
+        "level": "International Relations Theory",
+        "units": "6 units"
+      },
+      {
+        "code": "Global Politics Course",
+        "units": "6 units\r"
+      },
+      {
+        "code": "ANIP Internship/VC courses",
+        "units": "12 units\r"
+      },
+      {
+        "code": "-"
+      }
+    ]
+  ],
+  "2018": [
+    [
+      {
+        "code": "POLS1005",
+        "level": "Introduction to International Relations: Foundations and Concepts",
+        "units": "6 units"
+      },
+      {
+        "code": "ANU Elective",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Areas Studies Course",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Language Minor Course",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "POLS1006",
+        "level": "Introduction to International Relations:  Contemporary Global Issues",
+        "units": "6 units"
+      },
+      {
+        "code": "Areas Studies Course",
+        "units": "6 units\r"
+      },
+      {
+        "code": "ANU Elective",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Language Minor Course",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "POLS2133",
+        "level": "International Organisations in World Politics",
+        "units": "6 units"
+      },
+      {
+        "code": "Theory Course",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Methods Course",
+        "units": "6 units\r"
+      },
+      {
+        "code": "ANU Elective",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "POLS2094",
+        "level": "Issues in International Political Economy",
+        "units": "6 units"
+      },
+      {
+        "code": "ANU Elective",
+        "units": "6 units\r"
+      },
+      {
+        "code": "ANU Elective",
+        "units": "6 units\r"
+      },
+      {
+        "code": "ANU Elective",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "POLS3001",
+        "level": "Foreign Policy Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "ANU Elective",
+        "units": "6 units\r"
+      },
+      {
+        "code": "ANU Elective",
+        "units": "6 units\r"
+      },
+      {
+        "code": "ANU Elective",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "POLS3017",
+        "level": "International Relations Theory",
+        "units": "6 units"
+      },
+      {
+        "code": "Global Politics Course",
+        "units": "6 units\r"
+      },
+      {
+        "code": "ANIP Internship/VC courses",
+        "units": "12 units\r"
+      },
+      {
+        "code": "-"
+      }
+    ]
+  ],
+  "2019": [
+    [
+      {
+        "code": "POLS1005",
+        "level": "Introduction to International Relations: Foundations and Concepts",
+        "units": "6 units"
+      },
+      {
+        "code": "ANU Elective",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Areas Studies Course",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Language Minor Course",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "POLS1006",
+        "level": "Introduction to International Relations:  Contemporary Global Issues",
+        "units": "6 units"
+      },
+      {
+        "code": "Areas Studies Course",
+        "units": "6 units\r"
+      },
+      {
+        "code": "ANU Elective",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Language Minor Course",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "POLS2133",
+        "level": "International Organisations in World Politics",
+        "units": "6 units"
+      },
+      {
+        "code": "Theory Course",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Methods Course",
+        "units": "6 units\r"
+      },
+      {
+        "code": "ANU Elective",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "POLS2094",
+        "level": "Issues in International Political Economy",
+        "units": "6 units"
+      },
+      {
+        "code": "ANU Elective",
+        "units": "6 units\r"
+      },
+      {
+        "code": "ANU Elective",
+        "units": "6 units\r"
+      },
+      {
+        "code": "ANU Elective",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "POLS3001",
+        "level": "Foreign Policy Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "ANU Elective",
+        "units": "6 units\r"
+      },
+      {
+        "code": "ANU Elective",
+        "units": "6 units\r"
+      },
+      {
+        "code": "ANU Elective",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "POLS3017",
+        "level": "International Relations Theory",
+        "units": "6 units"
+      },
+      {
+        "code": "Global Politics Course",
+        "units": "6 units\r"
+      },
+      {
+        "code": "ANIP Internship/VC courses",
+        "units": "12 units\r"
+      },
+      {
+        "code": "-"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Doctor of Psychology (Clinical)",
+  "code": "9063XDPSYC",
+  "year": 2015,
+  "units": 96,
+  "required": {
+    "one_from_m/m/s": [],
+    "required_m/m/s": []
+  }
+}

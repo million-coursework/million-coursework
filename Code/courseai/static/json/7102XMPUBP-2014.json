@@ -1,0 +1,16 @@
+{
+  "name": "Master of Public Policy",
+  "code": "7102XMPUBP",
+  "year": 2014,
+  "units": 48,
+  "required": {
+    "compulsory_courses": [
+      "CRWF8000",
+      "POGO8081",
+      "POGO8082",
+      "POGO8096"
+    ],
+    "one_from_m/m/s": [],
+    "required_m/m/s": []
+  }
+}

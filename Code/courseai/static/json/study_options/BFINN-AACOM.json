@@ -1,0 +1,1040 @@
+{
+  "code": "BFINN-AACOM",
+  "2014": [
+    [
+      {
+        "code": "COMP1130",
+        "level": "Introduction to Advanced Computing I",
+        "units": "6 units"
+      },
+      {
+        "code": "ENGN1211",
+        "level": "Discovering Engineering",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1013",
+        "level": "Mathematics and Applications 1",
+        "units": "6 units"
+      },
+      {}
+    ],
+    [
+      {
+        "code": "COMP1140",
+        "level": "Introduction to Advanced Computing II",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1014",
+        "level": "Mathematics and Applications 2",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "COMP2100",
+        "level": "Software Construction",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP2300",
+        "level": "Introduction to Computer Systems",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT1003",
+        "level": "Statistical Techniques",
+        "units": "6 units"
+      },
+      {}
+    ],
+    [
+      {
+        "code": "COMP2130",
+        "level": "Software Analysis and Design",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP2310",
+        "level": "Concurrent and Distributed Systems",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "COMP3100",
+        "level": "Software Engineering Group Project",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP3530",
+        "level": "Systems Engineering for Software Engineers",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "COMP3100",
+        "level": "Software Engineering Group Project",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP2600",
+        "level": "Formal Methods in Software Engineering",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "COMP3120",
+        "level": "Managing Software Development",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP3630",
+        "level": "Theory of Computation",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "MGMT3027",
+        "level": "Entrepreneurship and Innovation",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP3600",
+        "level": "Algorithms",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "COMP4550",
+        "level": "Advanced Computing Research Project",
+        "units": "24 units"
+      },
+      {
+        "code": "COMP4550"
+      },
+      {
+        "code": "Computing course 3000/4000-level",
+        "units": "6 units"
+      },
+      {}
+    ],
+    [
+      {
+        "code": "COMP4550",
+        "level": "Advanced Computing Research Project",
+        "units": "24 units"
+      },
+      {
+        "code": "COMP4550"
+      },
+      {
+        "code": "Computing course 3000/4000-level",
+        "units": "6 units"
+      },
+      {}
+    ]
+  ],
+  "2015": [
+    [
+      {
+        "code": "COMP1130",
+        "level": "Introduction to Programming and Algorithms (Advanced)",
+        "units": "6 units"
+      },
+      {
+        "code": "ENGN1211",
+        "level": "Discovering Engineering",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1013",
+        "level": "Mathematics and Applications 1",
+        "units": "6 units"
+      },
+      {}
+    ],
+    [
+      {
+        "code": "COMP1140",
+        "level": "Introduction to Software Systems (Advanced)",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1014",
+        "level": "Mathematics and Applications 2",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "COMP2100",
+        "level": "Software Construction",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP2300",
+        "level": "Introduction to Computer Systems",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT1003",
+        "level": "Statistical Techniques",
+        "units": "6 units"
+      },
+      {}
+    ],
+    [
+      {
+        "code": "COMP2130",
+        "level": "Software Analysis and Design",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP2310",
+        "level": "Concurrent and Distributed Systems",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "COMP3100",
+        "level": "Software Engineering Group Project",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP3530",
+        "level": "Systems Engineering for Software Engineers",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "COMP3100",
+        "level": "Software Engineering Group Project",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP2600",
+        "level": "Formal Methods in Software Engineering",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "COMP3120",
+        "level": "Managing Software Development",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP3630",
+        "level": "Theory of Computation",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "MGMT3027",
+        "level": "Entrepreneurship and Innovation",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP3600",
+        "level": "Algorithms",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "COMP4550",
+        "level": "Advanced Computing Research Project",
+        "units": "12 units"
+      },
+      {
+        "code": "COMP4550"
+      },
+      {
+        "code": "Computing course 3000/4000-level",
+        "units": "6 units"
+      },
+      {}
+    ],
+    [
+      {
+        "code": "COMP4550",
+        "level": "Advanced Computing Research Project",
+        "units": "12 units"
+      },
+      {
+        "code": "COMP4550"
+      },
+      {
+        "code": "Computing course 3000/4000-level",
+        "units": "6 units"
+      },
+      {}
+    ]
+  ],
+  "2016": [
+    [
+      {
+        "code": "COMP1130",
+        "level": "Introduction to Programming and Algorithms (Advanced)",
+        "units": "6 units"
+      },
+      {
+        "code": "ENGN1211",
+        "level": "Discovering Engineering",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1013",
+        "level": "Mathematics and Applications 1",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT1008",
+        "level": "Quantitative Research Methods",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "COMP1140",
+        "level": "Introduction to Software Systems (Advanced)",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1014",
+        "level": "Mathematics and Applications 2",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM1001",
+        "level": "Foundations of Finance",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "COMP2100",
+        "level": "Software Construction",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP2300",
+        "level": "Introduction to Computer Systems",
+        "units": "6 units"
+      },
+      {
+        "code": "EMET1001",
+        "level": "Foundations of Economic and Financial Models",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1102",
+        "level": "Macroeconomics 1",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "COMP2130",
+        "level": "Software Analysis and Design",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP2310",
+        "level": "Concurrent and Distributed Systems",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP2600",
+        "level": "Formal Methods in Software Engineering",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM2001",
+        "level": "Corporate Finance",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "COMP3100",
+        "level": "Software Engineering Group Project",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP3530",
+        "level": "Systems Engineering for Software Engineers",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM2002",
+        "level": "Derivatives",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT2008",
+        "level": "Regression Modelling",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "COMP3100",
+        "level": "Software Engineering Group Project",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP2600",
+        "level": "Formal Methods in Software Engineering",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM2003",
+        "level": "Investments",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN1001",
+        "level": "Business Reporting and Analysis",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "COMP3120",
+        "level": "Managing Software Development",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP3630",
+        "level": "Theory of Computation",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM3006",
+        "level": "Financial Intermediation and Debt Markets",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON2101",
+        "level": "Microeconomics 2(P)",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "MGMT3027",
+        "level": "Entrepreneurship and Innovation",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP3600",
+        "level": "Algorithms",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM3008",
+        "level": "Applied Portfolio Construction",
+        "units": "6 units"
+      },
+      {
+        "code": "CBE List 1 Elective",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "COMP4550",
+        "level": "Advanced Computing Research Project",
+        "units": "12 units"
+      },
+      {
+        "code": "COMP4550"
+      },
+      {
+        "code": "Computing course 3000/4000-level",
+        "units": "6 units"
+      },
+      {
+        "code": "MGMT3015",
+        "level": "Corporate Strategy",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "COMP4550",
+        "level": "Advanced Computing Research Project",
+        "units": "12 units"
+      },
+      {
+        "code": "COMP4550"
+      },
+      {
+        "code": "Computing course 3000/4000-level",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM3005",
+        "level": "Corporate Valuation",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2017": [
+    [
+      {
+        "code": "COMP1100",
+        "level": "Programming as Problem Solving",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1005",
+        "level": "Discrete Mathematical Models",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT1008",
+        "level": "Quantitative Research Methods",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "COMP1110",
+        "level": "Structured Programming",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP1600",
+        "level": "Foundations of Computing",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM1001",
+        "level": "Foundations of Finance",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "COMP2100",
+        "level": "Software Design Methodologies",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP2300",
+        "level": "Computer Organisation and Program Execution",
+        "units": "6 units"
+      },
+      {
+        "code": "EMET1001",
+        "level": "Foundations of Economic and Financial Models",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1102",
+        "level": "Macroeconomics 1",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "COMP2120",
+        "level": "Software Engineering",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP2310",
+        "level": "Systems, Networks and Concurrency",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM2001",
+        "level": "Corporate Finance",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "COMP2420",
+        "level": "Introduction to Data Management, Analysis and Security",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP3120",
+        "level": "Managing Software Development",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM2002",
+        "level": "Derivatives",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT2008",
+        "level": "Regression Modelling",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ENGN3230",
+        "level": "Engineering Innovation",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP3600",
+        "level": "Algorithms",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM2003",
+        "level": "Investments",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN1001",
+        "level": "Business Reporting and Analysis",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "COMP4450",
+        "level": "Advanced Computing Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing Specialisation course",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM3006",
+        "level": "Financial Intermediation and Debt Markets",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON2101",
+        "level": "Microeconomics 2(P)",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Computing or VC elective course",
+        "level": "3000 or 4000 level",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing or VC elective course",
+        "level": "3000 or 4000 level",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM3008",
+        "level": "Portfolio Construction",
+        "units": "6 units"
+      },
+      {
+        "code": "CBE List 1 Elective",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "COMP4560",
+        "level": "Advanced Computing Project",
+        "units": "6 to 12 units"
+      },
+      {
+        "code": "Computing Elective course",
+        "level": "4000 level",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing Specialisation course",
+        "units": "6 units"
+      },
+      {
+        "code": "MGMT3015",
+        "level": "Corporate Strategy",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "COMP4560",
+        "level": "Advanced Computing Project",
+        "units": "6 to 12 units"
+      },
+      {
+        "code": "Computing Elective course",
+        "level": "4000 level",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing Specialisation course",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM3005",
+        "level": "Corporate Valuation",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2018": [
+    [
+      {
+        "code": "COMP1100",
+        "level": "Programming as Problem Solving",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1005",
+        "level": "Discrete Mathematical Models",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing Elective",
+        "units": "6 units"
+      },
+      {}
+    ],
+    [
+      {
+        "code": "COMP1110",
+        "level": "Structured Programming",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP1600",
+        "level": "Foundations of Computing",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "COMP2100",
+        "level": "Software Design Methodologies",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP2300",
+        "level": "Computer Organisation and Program Execution",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "COMP2120",
+        "level": "Software Engineering",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP2310",
+        "level": "Systems, Networks and Concurrency",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing Elective",
+        "units": "6 units"
+      },
+      {}
+    ],
+    [
+      {
+        "code": "COMP2420",
+        "level": "Introduction to Data Management, Analysis and Security",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing Specialisation Course",
+        "level": "6 Units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "Computing Elective",
+        "level": "3000 or 4000 level<b/>6 Units"
+      },
+      {
+        "code": "COMP3600",
+        "level": "Algorithms",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "COMP4450",
+        "level": "Advanced Computing Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing Specialisation course",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "Computing elective",
+        "level": "3000 or 4000 level",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing elective",
+        "level": "3000 or 4000 level",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "COMP4560",
+        "level": "Advanced Computing Project",
+        "units": "6 to 12 units"
+      },
+      {
+        "code": "Computing Elective course",
+        "level": "4000 level",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing Specialisation course",
+        "units": "6 units"
+      },
+      {}
+    ],
+    [
+      {
+        "code": "COMP4560",
+        "level": "Advanced Computing Project",
+        "units": "6 to 12 units"
+      },
+      {
+        "code": "Computing Elective course",
+        "level": "4000 level",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing Specialisation course",
+        "units": "6 units"
+      },
+      {}
+    ]
+  ],
+  "2019": [
+    [
+      {
+        "code": "COMP1100",
+        "level": "Programming as Problem Solving",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1005",
+        "level": "Discrete Mathematical Models",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing Elective",
+        "units": "6 units"
+      },
+      {}
+    ],
+    [
+      {
+        "code": "COMP1110",
+        "level": "Structured Programming",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP1600",
+        "level": "Foundations of Computing",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "COMP2100",
+        "level": "Software Design Methodologies",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP2300",
+        "level": "Computer Organisation and Program Execution",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "COMP2120",
+        "level": "Software Engineering",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP2310",
+        "level": "Systems, Networks and Concurrency",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing Elective",
+        "units": "6 units"
+      },
+      {}
+    ],
+    [
+      {
+        "code": "COMP2420",
+        "level": "Introduction to Data Management, Analysis and Security",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing Specialisation Course",
+        "level": "6 Units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "Computing Elective",
+        "level": "3000 or 4000 level<b/>6 Units"
+      },
+      {
+        "code": "COMP3600",
+        "level": "Algorithms",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "COMP4450",
+        "level": "Advanced Computing Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing Specialisation course",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "Computing elective",
+        "level": "3000 or 4000 level",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing elective",
+        "level": "3000 or 4000 level",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "COMP4560",
+        "level": "Advanced Computing Project",
+        "units": "6 to 12 units"
+      },
+      {
+        "code": "Computing Elective course",
+        "level": "4000 level",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing Specialisation course",
+        "units": "6 units"
+      },
+      {}
+    ],
+    [
+      {
+        "code": "COMP4560",
+        "level": "Advanced Computing Project",
+        "units": "6 to 12 units"
+      },
+      {
+        "code": "Computing Elective course",
+        "level": "4000 level",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing Specialisation course",
+        "units": "6 units"
+      },
+      {}
+    ]
+  ]
+}

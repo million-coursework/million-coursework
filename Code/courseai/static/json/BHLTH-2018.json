@@ -1,0 +1,111 @@
+{
+  "name": "Bachelor of Health Science",
+  "code": "BHLTH",
+  "year": 2018,
+  "units": 144,
+  "required": {
+    "max_by_level": [
+      {
+        "type": "maximum",
+        "level": [
+          1000
+        ],
+        "units": 60
+      }
+    ],
+    "compulsory_courses": [
+      "BIOL1004",
+      "BIOL1008",
+      "HLTH1001",
+      "HLTH1002",
+      "HLTH3001",
+      "HLTH3002",
+      "MEDN2001",
+      "MEDN2002",
+      "POPH3000",
+      "SCOM3303"
+    ],
+    "x_from_here": [
+      {
+        "type": "minimum",
+        "units": 18,
+        "courses": [
+          "ANTH1002",
+          "ANTH1003",
+          "ANTH2026",
+          "BIAN2119",
+          "BIAN2130",
+          "BIOL2142",
+          "BIOL2151",
+          "BIOL2161",
+          "BIOL2171",
+          "BIOL2174",
+          "BIOL2191",
+          "CHEM1101",
+          "CHEM1201",
+          "PHYS1004",
+          "PSYC1003",
+          "PSYC1004",
+          "PSYC2007",
+          "PSYC2009",
+          "SCOM1001",
+          "SCOM1002",
+          "SCOM2031",
+          "SOCY2162"
+        ]
+      },
+      {
+        "type": "minimum",
+        "units": 12,
+        "courses": [
+          "BIOL3006",
+          "BIOL3108",
+          "BIOL3141",
+          "BIOL3142",
+          "BIOL3144",
+          "BIOL3186",
+          "BIOL3203",
+          "BIOL3204",
+          "BIOL3205",
+          "BIOL3208",
+          "BIOL3209",
+          "NEUR3101",
+          "NEUR3112"
+        ]
+      },
+      {
+        "type": "minimum",
+        "units": 12,
+        "courses": [
+          "BIAN3125",
+          "BIOL3006",
+          "BIOL3108",
+          "BIOL3141",
+          "BIOL3142",
+          "BIOL3144",
+          "BIOL3186",
+          "BIOL3193",
+          "BIOL3204",
+          "BIOL3205",
+          "ECON3004",
+          "NEUR3101",
+          "NEUR3112",
+          "PSYC3020",
+          "SCOM3027"
+        ]
+      },
+      {
+        "type": "minimum",
+        "units": 6,
+        "courses": [
+          "BIOL2142",
+          "BIOL2161",
+          "BIOL2174",
+          "PHYS1004"
+        ]
+      }
+    ],
+    "one_from_m/m/s": [],
+    "required_m/m/s": []
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "name": "Master of Applied Anthropology and Participatory Development - Online",
+  "code": "MAAOL",
+  "year": 2016,
+  "units": 96,
+  "required": {
+    "x_from_here": [
+      {
+        "type": "minimum",
+        "units": 18,
+        "courses": [
+          "ANTH8007",
+          "ANTH8009",
+          "ANTH8038"
+        ]
+      },
+      {
+        "type": "minimum",
+        "units": 18,
+        "courses": [
+          "ANTH8006",
+          "ANTH8028"
+        ]
+      },
+      {
+        "type": "minimum",
+        "units": 36,
+        "courses": [
+          "ANTH6009",
+          "ANTH6026",
+          "ANTH6065",
+          "ANTH6066",
+          "ANTH8009",
+          "ANTH8014",
+          "ANTH8016",
+          "ANTH8029",
+          "ANTH8030",
+          "ANTH8032",
+          "ANTH8042",
+          "ANTH8047",
+          "ANTH8049",
+          "ANTH8056",
+          "ANTH8057",
+          "ANTH8060",
+          "ANTH8106",
+          "ANTH8107",
+          "CHMD8006",
+          "DEMO8048",
+          "DIPL8010",
+          "EMDV8009",
+          "EMDV8013",
+          "EMDV8082",
+          "EMDV8123",
+          "EMDV8124",
+          "EMDV8101",
+          "INDG8001",
+          "HUMN8023",
+          "PASI6003",
+          "POGO8003",
+          "POGO8061",
+          "POGO8898",
+          "SOCY6045",
+          "STST8032"
+        ]
+      },
+      {
+        "type": "minimum",
+        "units": 18,
+        "courses": [
+          "ANTH8008",
+          "ANTH8019"
+        ]
+      },
+      {
+        "type": "minimum",
+        "units": 12,
+        "courses": [
+          "ANTH8019",
+          "ANTH8028"
+        ]
+      }
+    ],
+    "one_from_m/m/s": [
+      [
+        "HUAC-SPEC",
+        "SOEN-SPEC",
+        "INPO-SPEC",
+        "CODE-SPEC",
+        "GEDE-SPEC"
+      ]
+    ],
+    "required_m/m/s": []
+  }
+}

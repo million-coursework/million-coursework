@@ -1,0 +1,584 @@
+{
+  "code": "BINSS-BCRIM",
+  "2014": [],
+  "2015": [
+    [
+      {
+        "code": "SOCY1002",
+        "level": "Self and Society",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY2156"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "SOCY1004",
+        "level": "Introduction to Social Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2011",
+        "level": "Introduction to Forensic and Criminal Psychology",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "SOCY2062"
+      },
+      {
+        "code": "SOCY2038",
+        "level": "Introduction to Quantitative Research Methods",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "SOCY2043",
+        "level": "Qualitative Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "BIAN2128",
+        "level": "Forensic Anthropology and Archaeology",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "SOCY3016"
+      },
+      {
+        "code": "PHIL2020",
+        "level": "Theories of Social Justice",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "SOCY2157",
+        "level": "Surveillance and Society",
+        "units": "6 units"
+      },
+      {
+        "code": "ANTH2130",
+        "level": "Violence and Terror",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "Core Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Core Course",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "Core Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Core Course",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ]
+  ],
+  "2016": [
+    [
+      {
+        "code": "CRIM1001",
+        "level": "The Criminological Imagination: Theory and Understanding",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY1002",
+        "level": "Self and Society",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "PSYC2011",
+        "level": "Introduction to Forensic and Criminal Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY2043",
+        "level": "Introduction to Qualitative Research Methods",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "SOCY2038",
+        "level": "Introduction to Quantitative Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "CRIM2003",
+        "level": "Controversies in Crime Control",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "CRIM2001",
+        "level": "Doing Criminology: Research and Practice in Crime and Criminal Justice",
+        "units": "6 units"
+      },
+      {
+        "code": "CRIM3001",
+        "level": "Criminal Behaviour",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "units": "6 units from BCRIM 36 units List"
+      },
+      {
+        "units": "6 units from BCRIM 36 units List"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "units": "6 units from BCRIM 36 units List"
+      },
+      {
+        "units": "6 units from BCRIM 36 units List"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "units": "6 units from BCRIM 36 units List"
+      },
+      {
+        "units": "6 units from BCRIM 36 units List"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "units": "6 units from BCRIM 36 units List or 12 units List"
+      },
+      {
+        "units": "6 units from BCRIM 36 units List or 12 units List"
+      },
+      {},
+      {}
+    ]
+  ],
+  "2017": [
+    [
+      {
+        "code": "CRIM1001",
+        "level": "The Criminological Imagination: Theory and Understanding",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY1002",
+        "level": "Self and Society",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "PSYC2011",
+        "level": "Introduction to Forensic and Criminal Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY2043",
+        "level": "Introduction to Qualitative Research Methods",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "SOCY2038",
+        "level": "Introduction to Quantitative Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "CRIM2003",
+        "level": "Controversies in Crime Control",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "CRIM2001",
+        "level": "Doing Criminology: Research and Practice in Crime and Criminal Justice",
+        "units": "6 units"
+      },
+      {
+        "code": "CRIM3001",
+        "level": "Criminal Behaviour",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "units": "6 units from BCRIM 36 units List"
+      },
+      {
+        "units": "6 units from BCRIM 36 units List"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "units": "6 units from BCRIM 36 units List"
+      },
+      {
+        "units": "6 units from BCRIM 36 units List"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "units": "6 units from BCRIM 36 units List"
+      },
+      {
+        "units": "6 units from BCRIM 36 units List"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "units": "6 units from BCRIM 36 units List or 12 units List"
+      },
+      {
+        "units": "6 units from BCRIM 36 units List or 12 units List"
+      },
+      {},
+      {}
+    ]
+  ],
+  "2018": [
+    [
+      {
+        "code": "CRIM1001",
+        "level": "The Criminological Imagination: Theory and Understanding",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY1002",
+        "level": "Self and Society",
+        "units": "6 units"
+      },
+      {
+        "code": "STST1001",
+        "level": "Introduction to International Security Studies",
+        "units": "6 units"
+      },
+      {
+        "code": "Course toward completion of minor from list B"
+      }
+    ],
+    [
+      {
+        "code": "PSYC2011",
+        "level": "Introduction to Forensic and Criminal Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY2043",
+        "level": "Introduction to Qualitative Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "STST1003",
+        "level": "Coping with Crisis: The Practice of International Security",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective"
+      }
+    ],
+    [
+      {
+        "code": "SOCY2038",
+        "level": "Introduction to Quantitative Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "CRIM2003",
+        "level": "Controversies in Crime Control",
+        "units": "6 units"
+      },
+      {
+        "code": "STST2001",
+        "level": "International Security issues in the Asia Pacific",
+        "units": "6 units"
+      },
+      {
+        "code": "Course toward completion of minor from list B"
+      }
+    ],
+    [
+      {
+        "code": "CRIM2001",
+        "level": "Doing Criminology: Research and Practice in Crime and Criminal Justice",
+        "units": "6 units"
+      },
+      {
+        "code": "CRIM3001",
+        "level": "Criminal Behaviour",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS2132",
+        "level": "Current Issues in International Security",
+        "units": "6 units"
+      },
+      {
+        "code": "Course toward completion of minor from list B"
+      }
+    ],
+    [
+      {
+        "units": "6 units from BCRIM 36 units List"
+      },
+      {
+        "units": "6 units from BCRIM 36 units List"
+      },
+      {
+        "code": "STST3002",
+        "level": "Australia's Security in the Asian Century",
+        "units": "6 units"
+      },
+      {
+        "code": "Course toward completion of minor from list B"
+      }
+    ],
+    [
+      {
+        "units": "6 units from BCRIM 36 units List"
+      },
+      {
+        "units": "6 units from BCRIM 36 units List"
+      },
+      {
+        "code": "Elective"
+      },
+      {
+        "code": "Elective"
+      }
+    ],
+    [
+      {
+        "units": "6 units from BCRIM 36 units List"
+      },
+      {
+        "units": "6 units from BCRIM 36 units List"
+      },
+      {
+        "code": "Course toward completion of 18 unit requirement of list A"
+      },
+      {
+        "code": "Course toward completion of 18 unit requirement of list A"
+      }
+    ],
+    [
+      {
+        "units": "6 units from BCRIM 36 units List or 12 units List"
+      },
+      {
+        "units": "6 units from BCRIM 36 units List or 12 units List"
+      },
+      {
+        "code": "Course toward completion of 18 unit requirement of list A"
+      },
+      {
+        "code": "Elective"
+      }
+    ]
+  ],
+  "2019": [
+    [
+      {
+        "code": "CRIM1001",
+        "level": "The Criminological Imagination: Theory and Understanding",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY1002",
+        "level": "Self and Society",
+        "units": "6 units"
+      },
+      {
+        "code": "STST1001",
+        "level": "Introduction to International Security Studies",
+        "units": "6 units"
+      },
+      {
+        "code": "Course toward completion of minor from list B"
+      }
+    ],
+    [
+      {
+        "code": "PSYC2011",
+        "level": "Introduction to Forensic and Criminal Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY2043",
+        "level": "Introduction to Qualitative Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "STST1003",
+        "level": "Coping with Crisis: The Practice of International Security",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective"
+      }
+    ],
+    [
+      {
+        "code": "SOCY2038",
+        "level": "Introduction to Quantitative Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "CRIM2003",
+        "level": "Controversies in Crime Control",
+        "units": "6 units"
+      },
+      {
+        "code": "STST2001",
+        "level": "International Security issues in the Asia Pacific",
+        "units": "6 units"
+      },
+      {
+        "code": "Course toward completion of minor from list B"
+      }
+    ],
+    [
+      {
+        "code": "CRIM2001",
+        "level": "Doing Criminology: Research and Practice in Crime and Criminal Justice",
+        "units": "6 units"
+      },
+      {
+        "code": "CRIM3001",
+        "level": "Criminal Behaviour",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS2132",
+        "level": "Current Issues in International Security",
+        "units": "6 units"
+      },
+      {
+        "code": "Course toward completion of minor from list B"
+      }
+    ],
+    [
+      {
+        "units": "6 units from BCRIM 36 units List"
+      },
+      {
+        "units": "6 units from BCRIM 36 units List"
+      },
+      {
+        "code": "STST3002",
+        "level": "Australia's Security in the Asian Century",
+        "units": "6 units"
+      },
+      {
+        "code": "Course toward completion of minor from list B"
+      }
+    ],
+    [
+      {
+        "units": "6 units from BCRIM 36 units List"
+      },
+      {
+        "units": "6 units from BCRIM 36 units List"
+      },
+      {
+        "code": "Elective"
+      },
+      {
+        "code": "Elective"
+      }
+    ],
+    [
+      {
+        "units": "6 units from BCRIM 36 units List"
+      },
+      {
+        "units": "6 units from BCRIM 36 units List"
+      },
+      {
+        "code": "Course toward completion of 18 unit requirement of list A"
+      },
+      {
+        "code": "Course toward completion of 18 unit requirement of list A"
+      }
+    ],
+    [
+      {
+        "units": "6 units from BCRIM 36 units List or 12 units List"
+      },
+      {
+        "units": "6 units from BCRIM 36 units List or 12 units List"
+      },
+      {
+        "code": "Course toward completion of 18 unit requirement of list A"
+      },
+      {
+        "code": "Elective"
+      }
+    ]
+  ]
+}

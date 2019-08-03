@@ -1,0 +1,10 @@
+{
+  "name": "Master of Music Advanced",
+  "code": "7133XMMUSA",
+  "year": 2014,
+  "units": 72,
+  "required": {
+    "one_from_m/m/s": [],
+    "required_m/m/s": []
+  }
+}

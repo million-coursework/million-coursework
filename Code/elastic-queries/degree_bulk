@@ -1,0 +1,184 @@
+{ "index" : { "_index": "degrees", "_type": "_doc" ,"_id": "1"}}
+{ "code":"BACCT", "name":"Bachelor of Accounting" }
+{ "index" : { "_index": "degrees", "_type": "_doc" ,"_id": "2"}}
+{ "code":"nan", "name":"nan" }
+{ "index" : { "_index": "degrees", "_type": "_doc" ,"_id": "3"}}
+{ "code":"HACCT", "name":"Bachelor of Accounting (Honours)" }
+{ "index" : { "_index": "degrees", "_type": "_doc" ,"_id": "4"}}
+{ "code":"BACTS", "name":"Bachelor of Actuarial Studies" }
+{ "index" : { "_index": "degrees", "_type": "_doc" ,"_id": "5"}}
+{ "code":"HACTS", "name":"Bachelor of Actuarial Studies (Honours)" }
+{ "index" : { "_index": "degrees", "_type": "_doc" ,"_id": "6"}}
+{ "code":"AACOM", "name":"Bachelor of Advanced Computing (Honours)" }
+{ "index" : { "_index": "degrees", "_type": "_doc" ,"_id": "7"}}
+{ "code":"AACRD", "name":"Bachelor of Advanced Computing (Research and Development) (Honours)" }
+{ "index" : { "_index": "degrees", "_type": "_doc" ,"_id": "8"}}
+{ "code":"BADAN", "name":"Bachelor of Applied Data Analytics" }
+{ "index" : { "_index": "degrees", "_type": "_doc" ,"_id": "9"}}
+{ "code":"HADAN", "name":"Bachelor of Applied Data Analytics (Honours)" }
+{ "index" : { "_index": "degrees", "_type": "_doc" ,"_id": "10"}}
+{ "code":"BAPRC", "name":"Bachelor of Archaeological Practice" }
+{ "index" : { "_index": "degrees", "_type": "_doc" ,"_id": "11"}}
+{ "code":"HAPRC", "name":"Bachelor of Archaeological Practice (Honours)" }
+{ "index" : { "_index": "degrees", "_type": "_doc" ,"_id": "12"}}
+{ "code":"BAHCR", "name":"Bachelor of Art History and Curatorship" }
+{ "index" : { "_index": "degrees", "_type": "_doc" ,"_id": "13"}}
+{ "code":"HAHCR", "name":"Bachelor of Art History and Curatorship (Honours)" }
+{ "index" : { "_index": "degrees", "_type": "_doc" ,"_id": "14"}}
+{ "code":"BARTS", "name":"Bachelor of Arts" }
+{ "index" : { "_index": "degrees", "_type": "_doc" ,"_id": "15"}}
+{ "code":"HART2", "name":"Bachelor of Arts (Honours)" }
+{ "index" : { "_index": "degrees", "_type": "_doc" ,"_id": "16"}}
+{ "code":"BASIA", "name":"Bachelor of Asian Studies" }
+{ "index" : { "_index": "degrees", "_type": "_doc" ,"_id": "17"}}
+{ "code":"HASIA", "name":"Bachelor of Asian Studies (Honours)" }
+{ "index" : { "_index": "degrees", "_type": "_doc" ,"_id": "18"}}
+{ "code":"BAPYA", "name":"Bachelor of Asia-Pacific Studies (Year in Asia)" }
+{ "index" : { "_index": "degrees", "_type": "_doc" ,"_id": "19"}}
+{ "code":"BBIOT", "name":"Bachelor of Biotechnology" }
+{ "index" : { "_index": "degrees", "_type": "_doc" ,"_id": "20"}}
+{ "code":"HBIOT", "name":"Bachelor of Biotechnology (Honours)" }
+{ "index" : { "_index": "degrees", "_type": "_doc" ,"_id": "21"}}
+{ "code":"nan", "name":"Bachelor of Business Administration" }
+{ "index" : { "_index": "degrees", "_type": "_doc" ,"_id": "22"}}
+{ "code":"HBUSA", "name":"Bachelor of Business Administration (Honours)" }
+{ "index" : { "_index": "degrees", "_type": "_doc" ,"_id": "23"}}
+{ "code":"BCLAS", "name":"Bachelor of Classical Studies" }
+{ "index" : { "_index": "degrees", "_type": "_doc" ,"_id": "24"}}
+{ "code":"HCLAS", "name":"Bachelor of Classical Studies (Honours)" }
+{ "index" : { "_index": "degrees", "_type": "_doc" ,"_id": "25"}}
+{ "code":"BCOMM", "name":"Bachelor of Commerce" }
+{ "index" : { "_index": "degrees", "_type": "_doc" ,"_id": "26"}}
+{ "code":"HCOMM", "name":"Bachelor of Commerce (Honours)" }
+{ "index" : { "_index": "degrees", "_type": "_doc" ,"_id": "27"}}
+{ "code":"BCRIM", "name":"Bachelor of Criminology" }
+{ "index" : { "_index": "degrees", "_type": "_doc" ,"_id": "28"}}
+{ "code":"HCRIM", "name":"Bachelor of Criminology (Honours)" }
+{ "index" : { "_index": "degrees", "_type": "_doc" ,"_id": "29"}}
+{ "code":"BDESN", "name":"Bachelor of Design" }
+{ "index" : { "_index": "degrees", "_type": "_doc" ,"_id": "30"}}
+{ "code":"HDESA", "name":"Bachelor of Design Arts (Honours)" }
+{ "index" : { "_index": "degrees", "_type": "_doc" ,"_id": "31"}}
+{ "code":"BDEVS", "name":"Bachelor of Development Studies" }
+{ "index" : { "_index": "degrees", "_type": "_doc" ,"_id": "32"}}
+{ "code":"HDEVS", "name":"Bachelor of Development Studies (Honours)" }
+{ "index" : { "_index": "degrees", "_type": "_doc" ,"_id": "33"}}
+{ "code":"BECON", "name":"Bachelor of Economics" }
+{ "index" : { "_index": "degrees", "_type": "_doc" ,"_id": "34"}}
+{ "code":"HECON", "name":"Bachelor of Economics (Honours)" }
+{ "index" : { "_index": "degrees", "_type": "_doc" ,"_id": "35"}}
+{ "code":"AENGI", "name":"Bachelor of Engineering (Honours)" }
+{ "index" : { "_index": "degrees", "_type": "_doc" ,"_id": "36"}}
+{ "code":"AENRD", "name":"Bachelor of Engineering (Research and Development) (Honours)" }
+{ "index" : { "_index": "degrees", "_type": "_doc" ,"_id": "37"}}
+{ "code":"BENSU", "name":"Bachelor of Environment and Sustainability" }
+{ "index" : { "_index": "degrees", "_type": "_doc" ,"_id": "38"}}
+{ "code":"HENSU", "name":"Bachelor of Environment and Sustainability (Honours)" }
+{ "index" : { "_index": "degrees", "_type": "_doc" ,"_id": "39"}}
+{ "code":"AENSU", "name":"Bachelor of Environment and Sustainability Advanced (Honours)" }
+{ "index" : { "_index": "degrees", "_type": "_doc" ,"_id": "40"}}
+{ "code":"HENVS", "name":"Bachelor of Environmental Studies (Honours)" }
+{ "index" : { "_index": "degrees", "_type": "_doc" ,"_id": "41"}}
+{ "code":"BFINN", "name":"Bachelor of Finance" }
+{ "index" : { "_index": "degrees", "_type": "_doc" ,"_id": "42"}}
+{ "code":"HFINN", "name":"Bachelor of Finance (Honours)" }
+{ "index" : { "_index": "degrees", "_type": "_doc" ,"_id": "43"}}
+{ "code":"AFEST", "name":"Bachelor of Finance, Economics and Statistics (Honours)" }
+{ "index" : { "_index": "degrees", "_type": "_doc" ,"_id": "44"}}
+{ "code":"BGENE", "name":"Bachelor of Genetics" }
+{ "index" : { "_index": "degrees", "_type": "_doc" ,"_id": "45"}}
+{ "code":"HGENE", "name":"Bachelor of Genetics (Honours)" }
+{ "index" : { "_index": "degrees", "_type": "_doc" ,"_id": "46"}}
+{ "code":"BHLTH", "name":"Bachelor of Health Science" }
+{ "index" : { "_index": "degrees", "_type": "_doc" ,"_id": "47"}}
+{ "code":"BIT", "name":"Bachelor of Information Technology" }
+{ "index" : { "_index": "degrees", "_type": "_doc" ,"_id": "48"}}
+{ "code":"HIT", "name":"Bachelor of Information Technology (Honours)" }
+{ "index" : { "_index": "degrees", "_type": "_doc" ,"_id": "49"}}
+{ "code":"BINBS", "name":"Bachelor of International Business" }
+{ "index" : { "_index": "degrees", "_type": "_doc" ,"_id": "50"}}
+{ "code":"HINBS", "name":"Bachelor of International Business (Honours)" }
+{ "index" : { "_index": "degrees", "_type": "_doc" ,"_id": "51"}}
+{ "code":"BIR", "name":"Bachelor of International Relations" }
+{ "index" : { "_index": "degrees", "_type": "_doc" ,"_id": "52"}}
+{ "code":"HIR", "name":"Bachelor of International Relations (Honours)" }
+{ "index" : { "_index": "degrees", "_type": "_doc" ,"_id": "53"}}
+{ "code":"BINSS", "name":"Bachelor of International Security Studies" }
+{ "index" : { "_index": "degrees", "_type": "_doc" ,"_id": "54"}}
+{ "code":"HINSS", "name":"Bachelor of International Security Studies (Honours)" }
+{ "index" : { "_index": "degrees", "_type": "_doc" ,"_id": "55"}}
+{ "code":"BLANG", "name":"Bachelor of Languages" }
+{ "index" : { "_index": "degrees", "_type": "_doc" ,"_id": "56"}}
+{ "code":"HLANG", "name":"Bachelor of Languages (Honours)" }
+{ "index" : { "_index": "degrees", "_type": "_doc" ,"_id": "57"}}
+{ "code":"HLAMS", "name":"Bachelor of Latin American Studies (Honours)" }
+{ "index" : { "_index": "degrees", "_type": "_doc" ,"_id": "58"}}
+{ "code":"ALLB", "name":"Bachelor of Laws (Honours)" }
+{ "index" : { "_index": "degrees", "_type": "_doc" ,"_id": "59"}}
+{ "code":"BMASC", "name":"Bachelor of Mathematical Sciences" }
+{ "index" : { "_index": "degrees", "_type": "_doc" ,"_id": "60"}}
+{ "code":"HMASC", "name":"Bachelor of Mathematical Sciences (Honours)" }
+{ "index" : { "_index": "degrees", "_type": "_doc" ,"_id": "61"}}
+{ "code":"BMEDS", "name":"Bachelor of Medical Science" }
+{ "index" : { "_index": "degrees", "_type": "_doc" ,"_id": "62"}}
+{ "code":"HMDSA", "name":"Bachelor of Medical Science (Honours)" }
+{ "index" : { "_index": "degrees", "_type": "_doc" ,"_id": "63"}}
+{ "code":"BMECA", "name":"Bachelor of Middle Eastern and Central Asian Studies" }
+{ "index" : { "_index": "degrees", "_type": "_doc" ,"_id": "64"}}
+{ "code":"HMECA", "name":"Bachelor of Middle Eastern and Central Asian Studies (Honours)" }
+{ "index" : { "_index": "degrees", "_type": "_doc" ,"_id": "65"}}
+{ "code":"BMUSI", "name":"Bachelor of Music" }
+{ "index" : { "_index": "degrees", "_type": "_doc" ,"_id": "66"}}
+{ "code":"HMUSI", "name":"Bachelor of Music (Honours)" }
+{ "index" : { "_index": "degrees", "_type": "_doc" ,"_id": "67"}}
+{ "code":"BPAST", "name":"Bachelor of Pacific Studies" }
+{ "index" : { "_index": "degrees", "_type": "_doc" ,"_id": "68"}}
+{ "code":"APHAR", "name":"Bachelor of Philosophy (Honours) - Arts and Social Science" }
+{ "index" : { "_index": "degrees", "_type": "_doc" ,"_id": "69"}}
+{ "code":"APASP", "name":"Bachelor of Philosophy (Honours) - Asia and the Pacific" }
+{ "index" : { "_index": "degrees", "_type": "_doc" ,"_id": "70"}}
+{ "code":"APHSC", "name":"Bachelor of Philosophy (Honours) - Science" }
+{ "index" : { "_index": "degrees", "_type": "_doc" ,"_id": "71"}}
+{ "code":"APNAR", "name":"Bachelor of Philosophy (Honours) / Bachelor of Arts (Honours)" }
+{ "index" : { "_index": "degrees", "_type": "_doc" ,"_id": "72"}}
+{ "code":"APNSC", "name":"Bachelor of Philosophy (Honours) / Bachelor of Science (Honours) - ANU as home institution" }
+{ "index" : { "_index": "degrees", "_type": "_doc" ,"_id": "73"}}
+{ "code":"APNSN", "name":"Bachelor of Philosophy (Honours) / Bachelor of Science (Honours) - NUS as home institution" }
+{ "index" : { "_index": "degrees", "_type": "_doc" ,"_id": "74"}}
+{ "code":"BPOLS", "name":"Bachelor of Policy Studies" }
+{ "index" : { "_index": "degrees", "_type": "_doc" ,"_id": "75"}}
+{ "code":"HPOLS", "name":"Bachelor of Policy Studies (Honours)" }
+{ "index" : { "_index": "degrees", "_type": "_doc" ,"_id": "76"}}
+{ "code":"BPLSC", "name":"Bachelor of Political Science" }
+{ "index" : { "_index": "degrees", "_type": "_doc" ,"_id": "77"}}
+{ "code":"HPLSC", "name":"Bachelor of Political Science (Honours)" }
+{ "index" : { "_index": "degrees", "_type": "_doc" ,"_id": "78"}}
+{ "code":"BPPE", "name":"Bachelor of Politics, Philosophy and Economics" }
+{ "index" : { "_index": "degrees", "_type": "_doc" ,"_id": "79"}}
+{ "code":"HPPE", "name":"Bachelor of Politics, Philosophy and Economics (Honours)" }
+{ "index" : { "_index": "degrees", "_type": "_doc" ,"_id": "80"}}
+{ "code":"APSYC", "name":"Bachelor of Psychology (Honours)" }
+{ "index" : { "_index": "degrees", "_type": "_doc" ,"_id": "81"}}
+{ "code":"BSC", "name":"Bachelor of Science" }
+{ "index" : { "_index": "degrees", "_type": "_doc" ,"_id": "82"}}
+{ "code":"ASCAD", "name":"Bachelor of Science (Advanced) (Honours)" }
+{ "index" : { "_index": "degrees", "_type": "_doc" ,"_id": "83"}}
+{ "code":"HSC", "name":"Bachelor of Science (Honours)" }
+{ "index" : { "_index": "degrees", "_type": "_doc" ,"_id": "84"}}
+{ "code":"BSPSY", "name":"Bachelor of Science (Psychology)" }
+{ "index" : { "_index": "degrees", "_type": "_doc" ,"_id": "85"}}
+{ "code":"HSPSY", "name":"Bachelor of Science (Psychology) (Honours)" }
+{ "index" : { "_index": "degrees", "_type": "_doc" ,"_id": "86"}}
+{ "code":"ASSAE", "name":"Bachelor of Social Sciences (Honours in Actuarial Studies and Economics)" }
+{ "index" : { "_index": "degrees", "_type": "_doc" ,"_id": "87"}}
+{ "code":"ASENG", "name":"Bachelor of Software Engineering (Honours)" }
+{ "index" : { "_index": "degrees", "_type": "_doc" ,"_id": "88"}}
+{ "code":"BSTAT", "name":"Bachelor of Statistics" }
+{ "index" : { "_index": "degrees", "_type": "_doc" ,"_id": "89"}}
+{ "code":"HSTAT", "name":"Bachelor of Statistics (Honours)" }
+{ "index" : { "_index": "degrees", "_type": "_doc" ,"_id": "90"}}
+{ "code":"BSTUD", "name":"Bachelor of Studies" }
+{ "index" : { "_index": "degrees", "_type": "_doc" ,"_id": "91"}}
+{ "code":"BVART", "name":"Bachelor of Visual Arts" }
+{ "index" : { "_index": "degrees", "_type": "_doc" ,"_id": "92"}}
+{ "code":"HVART", "name":"Bachelor of Visual Arts (Honours)" }

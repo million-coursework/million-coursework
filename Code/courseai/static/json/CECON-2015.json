@@ -1,0 +1,25 @@
+{
+  "name": "Graduate Certificate of Economics",
+  "code": "CECON",
+  "year": 2015,
+  "units": 24,
+  "required": {
+    "compulsory_courses": [
+      "ECON7073",
+      "ECON7074",
+      "STAT7055"
+    ],
+    "x_from_here": [
+      {
+        "type": "minimum",
+        "units": 6,
+        "courses": [
+          "ECHI1006",
+          "EMET7001"
+        ]
+      }
+    ],
+    "one_from_m/m/s": [],
+    "required_m/m/s": []
+  }
+}

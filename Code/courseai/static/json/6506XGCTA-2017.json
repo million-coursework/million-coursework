@@ -1,0 +1,16 @@
+{
+  "name": "Graduate Certificate of Teaching Asia",
+  "code": "6506XGCTA",
+  "year": 2017,
+  "units": 24,
+  "required": {
+    "compulsory_courses": [
+      "ASIA8035",
+      "ASIA6001",
+      "ASIA8036",
+      "ASIA8037"
+    ],
+    "one_from_m/m/s": [],
+    "required_m/m/s": []
+  }
+}

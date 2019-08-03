@@ -1,0 +1,73 @@
+{
+  "name": "Graduate Certificate in National Security Policy",
+  "code": "6250XGCNSP",
+  "year": 2014,
+  "units": 24,
+  "required": {
+    "x_from_here": [
+      {
+        "type": "minimum",
+        "units": 12,
+        "courses": [
+          "ANTH8032",
+          "ANTH8043",
+          "INTR8032",
+          "INTR8062",
+          "INTR8065",
+          "MEAS8111",
+          "NSPO8004",
+          "NSPO8006",
+          "NSPO8007",
+          "NSPO8010",
+          "NSPO8013",
+          "NSPO8014",
+          "NSPO8015",
+          "NSPO8016",
+          "NSPO8017",
+          "NSPO8018",
+          "NSPO8019",
+          "NSPO8022",
+          "POGO8045",
+          "STST8001",
+          "STST8002",
+          "STST8004",
+          "STST8013",
+          "STST8021",
+          "STST8026",
+          "STST8027",
+          "STST8051",
+          "STST8052"
+        ]
+      },
+      {
+        "type": "minimum",
+        "units": 6,
+        "courses": [
+          "NSPO8004",
+          "NSPO8006",
+          "NSPO8007",
+          "NSPO8010",
+          "NSPO8013",
+          "NSPO8014",
+          "NSPO8015",
+          "NSPO8016",
+          "NSPO8017",
+          "NSPO8018",
+          "NSPO8019",
+          "NSPO8022"
+        ]
+      },
+      {
+        "type": "minimum",
+        "units": 6,
+        "courses": [
+          "NSPO8006",
+          "NSPO8007",
+          "POGO8045"
+        ]
+      }
+    ],
+    "one_from_m/m/s": [],
+    "required_m/m/s": []
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "name": "Bachelor of International Relations",
+  "code": "BIR",
+  "year": 2016,
+  "units": 144,
+  "required": {
+    "max_by_level": [
+      {
+        "type": "maximum",
+        "level": [
+          1000
+        ],
+        "units": 60
+      }
+    ],
+    "compulsory_courses": [
+      "POLS1005",
+      "POLS1006",
+      "POLS2094",
+      "POLS2133",
+      "POLS3001",
+      "POLS3017"
+    ],
+    "x_from_here": [
+      {
+        "type": "minimum",
+        "units": 12,
+        "courses": [
+          "ASIA2109",
+          "EURO1004",
+          "EURO2003",
+          "INTR2010",
+          "INTR2028",
+          "MEAS1001",
+          "MEAS2001",
+          "MEAS2105",
+          "POLS1007",
+          "POLS2095",
+          "POLS2117"
+        ]
+      },
+      {
+        "type": "maximum",
+        "units": 12,
+        "courses": [
+          "ANIP3003",
+          "ANIP3005",
+          "VCUG1001",
+          "VCUG2001",
+          "VCUG2002",
+          "VCUG3001",
+          "VCUG3002"
+        ]
+      },
+      {
+        "type": "minimum",
+        "units": 6,
+        "courses": [
+          "INTR2012",
+          "INTR2014",
+          "INTR2016",
+          "INTR2018",
+          "INTR2020",
+          "INTR2024",
+          "POLS2099",
+          "POLS2123",
+          "POLS2124",
+          "POLS2131",
+          "POLS3033",
+          "STST1001",
+          "STST2001",
+          "STST3001",
+          "STST2003",
+          "STST3002"
+        ]
+      },
+      {
+        "type": "minimum",
+        "units": 6,
+        "courses": [
+          "HIST2136",
+          "HIST2140",
+          "HIST2141",
+          "PHIL2064",
+          "PHIL2113",
+          "PHIL2120",
+          "POLS2011",
+          "POLS2064",
+          "POLS2096",
+          "POLS2100",
+          "POLS2101",
+          "POLS2113",
+          "SOCY2030"
+        ]
+      },
+      {
+        "type": "minimum",
+        "units": 6,
+        "courses": [
+          "PHIL2064",
+          "PHIL2115",
+          "PHIL2120",
+          "POLS2063",
+          "POLS2075",
+          "POLS2102",
+          "POLS3032",
+          "POLS2119",
+          "POLS2120"
+        ]
+      },
+      {
+        "type": "minimum",
+        "units": 6,
+        "courses": [
+          "POLS2125",
+          "POLS3025",
+          "POLS3028",
+          "SOCY2038",
+          "SOCY2043"
+        ]
+      }
+    ],
+    "one_from_m/m/s": [],
+    "required_m/m/s": []
+  }
+}

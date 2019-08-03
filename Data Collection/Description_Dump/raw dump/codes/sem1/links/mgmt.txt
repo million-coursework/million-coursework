@@ -1,0 +1,13 @@
+"http://programsandcourses.anu.edu.au/2018/course/MGMT3102",
+"http://programsandcourses.anu.edu.au/2018/course/MGMT2005",
+"http://programsandcourses.anu.edu.au/2018/course/MGMT2100",
+"http://programsandcourses.anu.edu.au/2018/course/MGMT3015",
+"http://programsandcourses.anu.edu.au/2018/course/MGMT2001",
+"http://programsandcourses.anu.edu.au/2018/course/MGMT4019",
+"http://programsandcourses.anu.edu.au/2018/course/MGMT2030",
+"http://programsandcourses.anu.edu.au/2018/course/MGMT3025",
+"http://programsandcourses.anu.edu.au/2018/course/MGMT4500",
+"http://programsandcourses.anu.edu.au/2018/course/MGMT4006",
+"http://programsandcourses.anu.edu.au/2018/course/MGMT1003",
+"http://programsandcourses.anu.edu.au/2018/course/MGMT2006",
+"http://programsandcourses.anu.edu.au/2018/course/MGMT4018"

@@ -1,0 +1,139 @@
+{
+  "code": "MSTST",
+  "2014": [],
+  "2015": [],
+  "2016": [],
+  "2017": [],
+  "2018": [
+    [
+      {
+        "code": "STST8001",
+        "level": "Strategic Studies",
+        "units": "12 units"
+      },
+      {
+        "code": "STST8002",
+        "level": "The New Power Politics of Asia",
+        "units": "6 units"
+      },
+      {
+        "code": "STST8010",
+        "level": "Strategic Studies Concepts and Methods",
+        "units": "6 units"
+      },
+      {}
+    ],
+    [
+      {
+        "code": "STST8052",
+        "level": "The Resort to Force: Understanding Military Power",
+        "units": "6 units"
+      },
+      {
+        "code": "STST8004",
+        "level": "Australian Strategic and Defence Policy",
+        "units": "6 units"
+      },
+      {
+        "code": "Graduate Strategy Course elective"
+      },
+      {
+        "code": "Graduate Strategy Course elective"
+      }
+    ],
+    [
+      {
+        "code": "Graduate Strategy Course elective"
+      },
+      {
+        "code": "Graduate Strategy Course elective"
+      },
+      {
+        "code": "Graduate Strategy Course Elective"
+      },
+      {
+        "code": "Graduate Strategy Course Elective"
+      }
+    ],
+    [
+      {
+        "code": "Strategic Studies Elective"
+      },
+      {
+        "code": "Strategic Studies Elective"
+      },
+      {
+        "code": "Strategic Studies Elective"
+      },
+      {
+        "code": "Strategic Studies Elective"
+      }
+    ]
+  ],
+  "2019": [
+    [
+      {
+        "code": "STST8001",
+        "level": "Strategic Studies",
+        "units": "12 units"
+      },
+      {
+        "code": "STST8002",
+        "level": "The New Power Politics of Asia",
+        "units": "6 units"
+      },
+      {
+        "code": "STST8010",
+        "level": "Strategic Studies Concepts and Methods",
+        "units": "6 units"
+      },
+      {}
+    ],
+    [
+      {
+        "code": "STST8052",
+        "level": "The Resort to Force: Understanding Military Power",
+        "units": "6 units"
+      },
+      {
+        "code": "STST8004",
+        "level": "Australian Strategic and Defence Policy",
+        "units": "6 units"
+      },
+      {
+        "code": "Graduate Strategy Course elective"
+      },
+      {
+        "code": "Graduate Strategy Course elective"
+      }
+    ],
+    [
+      {
+        "code": "Graduate Strategy Course elective"
+      },
+      {
+        "code": "Graduate Strategy Course elective"
+      },
+      {
+        "code": "Graduate Strategy Course Elective"
+      },
+      {
+        "code": "Graduate Strategy Course Elective"
+      }
+    ],
+    [
+      {
+        "code": "Strategic Studies Elective"
+      },
+      {
+        "code": "Strategic Studies Elective"
+      },
+      {
+        "code": "Strategic Studies Elective"
+      },
+      {
+        "code": "Strategic Studies Elective"
+      }
+    ]
+  ]
+}

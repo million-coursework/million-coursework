@@ -1,0 +1,1029 @@
+{
+  "code": "BLANG-BARTS",
+  "2014": [
+    [
+      {
+        "code": "Arts Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Minor",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "LING1001",
+        "level": "Introduction to the Study of Language",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Arts Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Minor",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Linguistics Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Arts Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Minor",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Arts Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Minor",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "LANG Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Arts Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Elective",
+        "units": "6 units"
+      },
+      {
+        "code": "LANG Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Arts Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Elective",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Arts Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Elective",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor",
+        "level": "2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Arts Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Elective",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor",
+        "level": "2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2015": [
+    [
+      {
+        "code": "Arts Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Minor",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "LING1001",
+        "level": "Introduction to the Study of Language",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Arts Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Minor",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Linguistics Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Arts Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Minor",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Arts Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Minor",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "LANG Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Arts Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Elective",
+        "units": "6 units"
+      },
+      {
+        "code": "LANG Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Arts Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Elective",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Arts Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Elective",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor",
+        "level": "2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Arts Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Elective",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor",
+        "level": "2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2016": [
+    [
+      {
+        "code": "Arts Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Minor",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "LING1001",
+        "level": "Introduction to the Study of Language",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Arts Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Minor",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Linguistics Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Arts Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Minor",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Arts Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Minor",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "LANG Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Arts Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Elective",
+        "units": "6 units"
+      },
+      {
+        "code": "LANG Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Arts Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Elective",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Arts Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Elective",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor",
+        "level": "2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Arts Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Elective",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor",
+        "level": "2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2017": [
+    [
+      {
+        "code": "Arts Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Minor",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "LING1001",
+        "level": "Introduction to the Study of Language",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Arts Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Minor",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Linguistics Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Arts Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Minor",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Arts Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Minor",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "LANG Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Arts Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Elective",
+        "units": "6 units"
+      },
+      {
+        "code": "LANG Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Arts Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Elective",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Arts Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Elective",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor",
+        "level": "2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Arts Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Elective",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor",
+        "level": "2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2018": [
+    [
+      {
+        "code": "Arts Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Minor",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "LING1001",
+        "level": "Introduction to the Study of Language",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Arts Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Minor",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Linguistics Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Arts Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Minor",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Arts Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Minor",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "LANG Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Arts Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Elective",
+        "units": "6 units"
+      },
+      {
+        "code": "LANG Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Arts Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Elective",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Arts Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Elective",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor",
+        "level": "2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Arts Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Elective",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor",
+        "level": "2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2019": [
+    [
+      {
+        "code": "Arts Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Minor",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "LING1001",
+        "level": "Introduction to the Study of Language",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Arts Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Minor",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Linguistics Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Arts Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Minor",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Arts Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Minor",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "LANG Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Arts Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Elective",
+        "units": "6 units"
+      },
+      {
+        "code": "LANG Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Arts Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Elective",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Arts Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Elective",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor",
+        "level": "2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Arts Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Elective",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor",
+        "level": "2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      }
+    ]
+  ]
+}

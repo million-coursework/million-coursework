@@ -1,0 +1,10 @@
+{
+  "name": "Doctor of Philosophy, Research School of Humanities and the Arts",
+  "code": "9552XPHD",
+  "year": 2014,
+  "units": 24,
+  "required": {
+    "one_from_m/m/s": [],
+    "required_m/m/s": []
+  }
+}

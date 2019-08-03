@@ -1,0 +1,17 @@
+{
+  "name": "Graduate Certificate of Arts",
+  "code": "CARTS",
+  "year": 2017,
+  "units": 24,
+  "required": {
+    "one_from_m/m/s": [
+      [
+        "DESN-SPEC",
+        "DART-SPEC",
+        "AHCS-SPEC",
+        "ARTV-SPEC"
+      ]
+    ],
+    "required_m/m/s": []
+  }
+}

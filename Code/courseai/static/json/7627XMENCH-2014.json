@@ -1,0 +1,14 @@
+{
+  "name": "Master of Energy Change",
+  "code": "7627XMENCH",
+  "year": 2014,
+  "units": 48,
+  "required": {
+    "compulsory_courses": [
+      "PHYS8013",
+      "ENGN6516"
+    ],
+    "one_from_m/m/s": [],
+    "required_m/m/s": []
+  }
+}

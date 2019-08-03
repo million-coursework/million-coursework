@@ -1,0 +1,69 @@
+{
+    "name": "Bachelor of Criminology",
+    "units": 144,
+    "required": {
+        "compulsory_courses": [
+            "CRIM1001",
+            "CRIM2001",
+            "CRIM3001",
+            "PSYC2011",
+            "SOCY2038",
+            "SOCY2043"
+        ],
+        "x_from_here": [
+            {
+                "num": 42,
+                "courses": [
+                    "ANTH2130",
+                    "CRIM2000",
+                    "CRIM2002",
+                    "CRIM2003",
+                    "CRIM2004",
+                    "CRIM2005",
+                    "CRIM2006",
+                    "CRIM2007",
+                    "CRIM2008",
+                    "CRIM2011",
+                    "CRIM2010",
+                    "CRIM2009",
+                    "CRIM3002",
+                    "HIST2232",
+                    "PHIL2020",
+                    "POLS2100",
+                    "POLS3036",
+                    "SOCY2026",
+                    "SOCY2157"
+                ]
+            },
+            {
+                "num": 6,
+                "courses": [
+                    "SOCY1002",
+                    "SOCY1004"
+                ]
+            }
+        ],
+        "max_from_here": [
+            {
+                "num": 12,
+                "courses": [
+                    "ANIP3003",
+                    "ANIP3005",
+                    "ANTH2136",
+                    "BIAN2128",
+                    "ENGL2081",
+                    "GEND2021",
+                    "HIST1209",
+                    "HIST2238",
+                    "INDG1001",
+                    "LING2105",
+                    "LING3032",
+                    "SOCY3001"
+                ]
+            }
+        ],
+        "max_by_level": {
+            "1000": 60
+        }
+    }
+}

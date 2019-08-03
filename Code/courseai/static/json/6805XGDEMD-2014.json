@@ -1,0 +1,36 @@
+{
+  "name": "Graduate Diploma in Environmental Management and Development",
+  "code": "6805XGDEMD",
+  "year": 2014,
+  "units": 48,
+  "required": {
+    "compulsory_courses": [
+      "EMDV8013",
+      "EMDV8101"
+    ],
+    "x_from_here": [
+      {
+        "type": "minimum",
+        "units": 18,
+        "courses": [
+          "ANTH6009",
+          "ANTH8106",
+          "BUSN7017",
+          "EMDV8001",
+          "EMDV8007",
+          "EMDV8009",
+          "EMDV8026",
+          "EMDV8078",
+          "EMDV8108",
+          "ENVS6015",
+          "ENVS6304",
+          "ENVS6555",
+          "HGEO8001",
+          "SOCY6045"
+        ]
+      }
+    ],
+    "one_from_m/m/s": [],
+    "required_m/m/s": []
+  }
+}

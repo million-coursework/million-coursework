@@ -1,0 +1,11 @@
+"http://programsandcourses.anu.edu.au/2018/course/CHIN3015",
+"http://programsandcourses.anu.edu.au/2018/course/CHIN3024",
+"http://programsandcourses.anu.edu.au/2018/course/CHIN2024",
+"http://programsandcourses.anu.edu.au/2018/course/CHIN1202",
+"http://programsandcourses.anu.edu.au/2018/course/CHIN3211",
+"http://programsandcourses.anu.edu.au/2018/course/CHIN3216",
+"http://programsandcourses.anu.edu.au/2018/course/CHIN2019",
+"http://programsandcourses.anu.edu.au/2018/course/CHIN1012",
+"http://programsandcourses.anu.edu.au/2018/course/CHIN1013",
+"http://programsandcourses.anu.edu.au/2018/course/CHIN2014",
+"http://programsandcourses.anu.edu.au/2018/course/CHIN3022"

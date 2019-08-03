@@ -1,0 +1,1026 @@
+{
+  "code": "BMUSI-BMEDS",
+  "2014": [
+    [
+      {
+        "code": "CHEM1101",
+        "level": "Chemistry 1",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL1003",
+        "level": "Biology 1: Evolution, Ecology and Genetics",
+        "units": "6 units"
+      },
+      {
+        "code": "MUSI1105",
+        "level": "Creative Musicianship 1",
+        "units": "6 units"
+      },
+      {
+        "code": "Music Major Course",
+        "level": "1000 level",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "CHEM1201",
+        "level": "Chemistry 2",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL1004",
+        "level": "Biology 2: Molecular and Cell Biology",
+        "units": "6 units"
+      },
+      {
+        "code": "MUSI1106",
+        "level": "Creative Musicianship 2",
+        "units": "6 units"
+      },
+      {
+        "code": "Music Major Course",
+        "level": "1000 level",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL2161",
+        "level": "Genes: Replication and Expression",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL2103",
+        "level": "Human Physiology",
+        "units": "6 units"
+      },
+      {
+        "code": "MUSI1103"
+      },
+      {
+        "code": "Music Major Course",
+        "level": "2000/3000 level",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL2142",
+        "level": "General Microbiology",
+        "units": "6 units"
+      },
+      {
+        "code": "Science course",
+        "units": "6 units"
+      },
+      {
+        "code": "MUSI1104",
+        "level": "Turning Points in Music History 1: A Millennium of Metamorphoses (900-1900)",
+        "units": "6 units"
+      },
+      {
+        "code": "Music Major Course",
+        "level": "2000/3000 level",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL2171",
+        "level": "Biochemistry and Nutrition",
+        "units": "6 units"
+      },
+      {
+        "code": "Science 3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "Music Inquiry Minor",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Music Major Course",
+        "level": "2000/3000 level",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL2202",
+        "level": "Experimental Design and Analysis in Biology",
+        "units": "6 units"
+      },
+      {
+        "code": "Science 3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "Music Inquiry Minor",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Music Major Course",
+        "level": "2000/3000 level",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL3141",
+        "level": "Infection and Immunity",
+        "units": "6 units"
+      },
+      {
+        "code": "Science 3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "MUSI course",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Music Major Course",
+        "level": "2000/3000 level",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL3190",
+        "level": "Medical Science in the Workplace",
+        "units": "6 units"
+      },
+      {
+        "code": "Science 3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "MUSI course",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Music Major Course",
+        "level": "2000/3000 level",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2015": [
+    [
+      {
+        "code": "CHEM1101",
+        "level": "Chemistry 1",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL1003",
+        "level": "Biology 1: Evolution, Ecology and Genetics",
+        "units": "6 units"
+      },
+      {
+        "code": "MUSI1105",
+        "level": "Creative Musicianship 1",
+        "units": "6 units"
+      },
+      {
+        "code": "Music Major Course",
+        "level": "1000 level",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "CHEM1201",
+        "level": "Chemistry 2",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL1004",
+        "level": "Biology 2: Molecular and Cell Biology",
+        "units": "6 units"
+      },
+      {
+        "code": "MUSI1106",
+        "level": "Creative Musicianship 2",
+        "units": "6 units"
+      },
+      {
+        "code": "Music Major Course",
+        "level": "1000 level",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL2161",
+        "level": "Genes: Replication and Expression",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL2103",
+        "level": "Human Physiology",
+        "units": "6 units"
+      },
+      {
+        "code": "MUSI1103"
+      },
+      {
+        "code": "Music Major Course",
+        "level": "2000/3000 level",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL2142",
+        "level": "General Microbiology",
+        "units": "6 units"
+      },
+      {
+        "code": "Science course",
+        "units": "6 units"
+      },
+      {
+        "code": "MUSI1104",
+        "level": "Turning Points in Music History 1: A Millennium of Metamorphoses (900-1900)",
+        "units": "6 units"
+      },
+      {
+        "code": "Music Major Course",
+        "level": "2000/3000 level",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL2171",
+        "level": "Biochemistry and Nutrition",
+        "units": "6 units"
+      },
+      {
+        "code": "Science 3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "Music Inquiry Minor",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Music Major Course",
+        "level": "2000/3000 level",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL2202",
+        "level": "Experimental Design and Analysis in Biology",
+        "units": "6 units"
+      },
+      {
+        "code": "Science 3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "Music Inquiry Minor",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Music Major Course",
+        "level": "2000/3000 level",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL3141",
+        "level": "Infection and Immunity",
+        "units": "6 units"
+      },
+      {
+        "code": "Science 3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "MUSI course",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Music Major Course",
+        "level": "2000/3000 level",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL3190",
+        "level": "Medical Science in the Workplace",
+        "units": "6 units"
+      },
+      {
+        "code": "Science 3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "MUSI course",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Music Major Course",
+        "level": "2000/3000 level",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2016": [
+    [
+      {
+        "code": "CHEM1101",
+        "level": "Chemistry 1",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL1003",
+        "level": "Biology 1: Evolution, Ecology and Genetics",
+        "units": "6 units"
+      },
+      {
+        "code": "MUSI1105",
+        "level": "Music Theory & Aural Skills 1",
+        "units": "6 units"
+      },
+      {
+        "code": "Music Major Course",
+        "level": "1000 level",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "CHEM1201",
+        "level": "Chemistry 2",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL1004",
+        "level": "Biology 2: Molecular and Cell Biology",
+        "units": "6 units"
+      },
+      {
+        "code": "MUSI1106",
+        "level": "Music Theory & Aural Skills 2",
+        "units": "6 units"
+      },
+      {
+        "code": "Music Major Course",
+        "level": "1000 level",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL2161",
+        "level": "Genes: Replication and Expression",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL2103",
+        "level": "Human Physiology",
+        "units": "6 units"
+      },
+      {
+        "code": "MUSI1103"
+      },
+      {
+        "code": "Music Major Course",
+        "level": "2000/3000 level",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL2142",
+        "level": "General Microbiology",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL2202",
+        "level": "Some of the alternative courses to BIOL2202 listed above are in first semester which may allow greater flexibility in elective choices"
+      },
+      {
+        "code": "MUSI1104",
+        "level": "Turning Points in Music History 1: A Millennium of Metamorphoses (900-1900)",
+        "units": "6 units"
+      },
+      {
+        "code": "Music Major Course",
+        "level": "2000/3000 level",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL2171",
+        "level": "Biochemistry and Nutrition",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL2151, BIOL3162, BIOL2174",
+        "units": "6 units"
+      },
+      {
+        "code": "Music Inquiry Minor",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Music Major Course",
+        "level": "2000/3000 level",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL3190",
+        "level": "Medical Science in the Workplace",
+        "units": "6 units"
+      },
+      {
+        "code": "B Med Science 3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "Music Inquiry Minor",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Music Major Course",
+        "level": "2000/3000 level",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL3141",
+        "level": "Infection and Immunity",
+        "units": "6 units"
+      },
+      {
+        "code": "B Med Science 3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "MUSI course",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Music Major Course",
+        "level": "2000/3000 level",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "B Med Science 3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "B Med Science 3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "MUSI course",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Music Major Course",
+        "level": "2000/3000 level",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2017": [
+    [
+      {
+        "code": "CHEM1101",
+        "level": "Chemistry 1",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL1003",
+        "level": "Biology 1: Evolution, Ecology and Genetics",
+        "units": "6 units"
+      },
+      {
+        "code": "MUSI1105",
+        "level": "Music Theory & Aural Skills 1",
+        "units": "6 units"
+      },
+      {
+        "code": "Music Major Course",
+        "level": "1000 level",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "CHEM1201",
+        "level": "Chemistry 2",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL1004",
+        "level": "Biology 2: Molecular and Cell Biology",
+        "units": "6 units"
+      },
+      {
+        "code": "MUSI1106",
+        "level": "Music Theory & Aural Skills 2",
+        "units": "6 units"
+      },
+      {
+        "code": "Music Major Course",
+        "level": "1000 level",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL2161",
+        "level": "Genes: Replication and Expression",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL2171",
+        "level": "Biochemistry and Nutrition",
+        "units": "6 units"
+      },
+      {
+        "code": "MUSI1103"
+      },
+      {
+        "code": "Music Major Course",
+        "level": "2000/3000 level",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL2142",
+        "level": "General Microbiology",
+        "units": "6 units"
+      },
+      {
+        "code": "2000 level B.MedSc elective from list",
+        "units": "6 units"
+      },
+      {
+        "code": "MUSI1104",
+        "level": "Turning Points in Music History 1: A Millennium of Metamorphoses (900-1900)",
+        "units": "6 units"
+      },
+      {
+        "code": "Music Major Course",
+        "level": "2000/3000 level",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "B.MedSc elective from list",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL3141",
+        "level": "Infection and Immunity",
+        "units": "6 units"
+      },
+      {
+        "code": "Music Inquiry Minor",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Music Major Course",
+        "level": "2000/3000 level",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "2000 level B.MedSc elective from list",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL3190",
+        "level": "Medical Science in the Workplace",
+        "units": "6 units"
+      },
+      {
+        "code": "Music Inquiry Minor",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Music Major Course",
+        "level": "2000/3000 level",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL3006",
+        "level": "Human Physiology",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level B.MedSc elective from list",
+        "units": "6 units"
+      },
+      {
+        "code": "MUSI course",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Music Major Course",
+        "level": "2000/3000 level",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "3000 level B.MedSc elective from list",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level Science elective",
+        "units": "6 units"
+      },
+      {
+        "code": "MUSI course",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Music Major Course",
+        "level": "2000/3000 level",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2018": [
+    [
+      {
+        "code": "CHEM1101",
+        "level": "Chemistry 1",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL1003",
+        "level": "Biology 1: Evolution, Ecology and Genetics",
+        "units": "6 units"
+      },
+      {
+        "code": "MUSI1101",
+        "level": "Music Performance 1",
+        "units": "6 units"
+      },
+      {
+        "code": "MUSI1110",
+        "level": "Introduction to Music Technology",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "CHEM1201",
+        "level": "Chemistry 2",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL1004",
+        "level": "Biology 2: Molecular and Cell Biology",
+        "units": "6 units"
+      },
+      {
+        "code": "MUSI1102",
+        "level": "Music Performance 2",
+        "units": "6 units"
+      },
+      {
+        "code": "MUSI1105",
+        "level": "Music Theory & Aural Skills 1",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL2161",
+        "level": "Genes: Replication and Expression",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL2171",
+        "level": "Biochemistry and Nutrition",
+        "units": "6 units"
+      },
+      {
+        "code": "MUSI2201",
+        "level": "Music Performance 3",
+        "units": "6 units"
+      },
+      {
+        "code": "MUSI2203",
+        "level": "Music Theory & Aural Skills 3",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL2142",
+        "level": "General Microbiology",
+        "units": "6 units"
+      },
+      {
+        "code": "2000 level B.MedSc elective from list",
+        "units": "6 units"
+      },
+      {
+        "code": "MUSI2202",
+        "level": "Music Performance 4",
+        "units": "6 units"
+      },
+      {
+        "code": "MUSI2204",
+        "level": "Music Theory & Aural Skills 4",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "B.MedSc elective from list",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL3141",
+        "level": "Infection and Immunity",
+        "units": "6 units"
+      },
+      {
+        "code": "MUSI Course",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "MUSI course",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "2000 level B.MedSc elective from list",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL3190",
+        "level": "Medical Science in the Workplace",
+        "units": "6 units"
+      },
+      {
+        "code": "MUSI course",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "MUSI course",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL3006",
+        "level": "Human Physiology",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level B.MedSc elective from list",
+        "units": "6 units"
+      },
+      {
+        "code": "MUSI3301",
+        "level": "Music Performance 5",
+        "units": "6 units"
+      },
+      {
+        "code": "Min 6 Units List Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "3000 level B.MedSc elective from list",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level Science elective",
+        "units": "6 units"
+      },
+      {
+        "code": "MUSI3302",
+        "level": "Music Performance 6",
+        "units": "6 units"
+      },
+      {
+        "code": "MUSI Course",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2019": [
+    [
+      {
+        "code": "CHEM1101",
+        "level": "Chemistry 1",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL1003",
+        "level": "Biology 1: Evolution, Ecology and Genetics",
+        "units": "6 units"
+      },
+      {
+        "code": "MUSI1101",
+        "level": "Music Performance 1",
+        "units": "6 units"
+      },
+      {
+        "code": "MUSI1110",
+        "level": "Introduction to Music Technology",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "CHEM1201",
+        "level": "Chemistry 2",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL1004",
+        "level": "Biology 2: Molecular and Cell Biology",
+        "units": "6 units"
+      },
+      {
+        "code": "MUSI1102",
+        "level": "Music Performance 2",
+        "units": "6 units"
+      },
+      {
+        "code": "MUSI1105",
+        "level": "Music Theory & Aural Skills 1",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL2161",
+        "level": "Genes: Replication and Expression",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL2171",
+        "level": "Biochemistry and Nutrition",
+        "units": "6 units"
+      },
+      {
+        "code": "MUSI2201",
+        "level": "Music Performance 3",
+        "units": "6 units"
+      },
+      {
+        "code": "MUSI2203",
+        "level": "Music Theory & Aural Skills 3",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL2142",
+        "level": "General Microbiology",
+        "units": "6 units"
+      },
+      {
+        "code": "2000 level B.MedSc elective from list",
+        "units": "6 units"
+      },
+      {
+        "code": "MUSI2202",
+        "level": "Music Performance 4",
+        "units": "6 units"
+      },
+      {
+        "code": "MUSI2204",
+        "level": "Music Theory & Aural Skills 4",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "MEDN2001",
+        "level": "Medical Physiology and Pharmacology",
+        "units": "6 units"
+      },
+      {
+        "code": "2000 level B.MedSc elective from list",
+        "units": "6 units"
+      },
+      {
+        "code": "MUSI Course",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "MUSI course",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "3000 level B.MedSc elective from list",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL3190",
+        "level": "Medical Science in the Workplace",
+        "units": "6 units"
+      },
+      {
+        "code": "MUSI course",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "MUSI course",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "3000 level B.MedSc elective from list",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level B.MedSc elective from list",
+        "units": "6 units"
+      },
+      {
+        "code": "MUSI3301",
+        "level": "Music Performance 5",
+        "units": "6 units"
+      },
+      {
+        "code": "Min 6 Units List Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "3000 level B.MedSc elective from list",
+        "units": "6 units"
+      },
+      {
+        "code": "B.MedSc elective from list",
+        "units": "6 units"
+      },
+      {
+        "code": "MUSI3302",
+        "level": "Music Performance 6",
+        "units": "6 units"
+      },
+      {
+        "code": "MUSI Course",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      }
+    ]
+  ]
+}

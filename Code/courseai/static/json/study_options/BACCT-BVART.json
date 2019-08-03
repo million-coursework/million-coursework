@@ -1,0 +1,776 @@
+{
+  "code": "BACCT-BVART",
+  "2014": [
+    [
+      {
+        "code": "BUSN1001",
+        "level": "Business Reporting and Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT1008",
+        "level": "Quantitative Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM1001",
+        "level": "Foundations of Finance",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BUSN1002",
+        "level": "Accounting Processes and Systems",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1102",
+        "level": "Macroeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN1101",
+        "level": "Introduction to Commercial Law",
+        "units": "6 units"
+      },
+      {
+        "code": "CBE Elective",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2015": [
+    [
+      {
+        "code": "BUSN1001",
+        "level": "Business Reporting and Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT1008",
+        "level": "Quantitative Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM1001",
+        "level": "Foundations of Finance",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BUSN1002",
+        "level": "Accounting Processes and Systems",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1102",
+        "level": "Macroeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN1101",
+        "level": "Introduction to Commercial Law",
+        "units": "6 units"
+      },
+      {
+        "code": "CBE Elective",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2016": [
+    [
+      {
+        "code": "BUSN1001",
+        "level": "Business Reporting and Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT1008",
+        "level": "Quantitative Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTV1020",
+        "level": "Figure & Life",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTV1021",
+        "level": "Image and Object",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BUSN1002",
+        "level": "Accounting Processes and Systems",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM1001",
+        "level": "Foundations of Finance",
+        "units": "6 units"
+      },
+      {
+        "code": "DESA1022",
+        "level": "Vision and Perception",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTV1032",
+        "level": "Foundation Computer Studies",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN2015",
+        "level": "Company Accounting",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTH1006",
+        "level": "Art and Design Histories: Form and Space",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON1102",
+        "level": "Macroeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN2011",
+        "level": "Management Accounting",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTH1007",
+        "level": "Art and Design Histories: Making and Meaning",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BUSN3001",
+        "level": "Accounting Theory",
+        "units": "6 units"
+      },
+      {
+        "code": "INFS2005",
+        "level": "Accounting Information Systems",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "CBE List 1 course"
+      },
+      {
+        "code": "3000 Level ",
+        "level": "Accounting course"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "BUSN2036",
+        "level": "Financial Statement Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 Level ",
+        "level": "Accounting course"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Art Theory Minor",
+        "level": "2000/3000 level course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "3000 Level ",
+        "level": "Accounting course"
+      },
+      {
+        "code": "CBE List 1 course"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Art Theory Minor",
+        "level": "2000/3000 level course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2017": [
+    [
+      {
+        "code": "BUSN1001",
+        "level": "Business Reporting and Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT1008",
+        "level": "Quantitative Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTV1020",
+        "level": "Figure & Life",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTV1021",
+        "level": "Image and Object",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BUSN1002",
+        "level": "Accounting Processes and Systems",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM1001",
+        "level": "Foundations of Finance",
+        "units": "6 units"
+      },
+      {
+        "code": "DESA1022",
+        "level": "Vision and Perception",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTV1032",
+        "level": "Foundation Computer Studies",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN2015",
+        "level": "Company Accounting",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTH1006",
+        "level": "Art and Design Histories: Form and Space",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON1102",
+        "level": "Macroeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN1101",
+        "level": "Introduction to Commercial Law",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTH1007",
+        "level": "Art and Design Histories: Making and Meaning",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BUSN2011",
+        "level": "Management Accounting",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN2101",
+        "level": "Law of Business Entities",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "BUSN3001",
+        "level": "Accounting Theory",
+        "units": "6 units"
+      },
+      {
+        "code": "INFS2005",
+        "level": "Accounting Information Systems",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "BUSN3014",
+        "level": "Principles of Tax Law",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN3002",
+        "level": "Auditing",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Art Theory Minor",
+        "level": "2000/3000 level course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Accounting course from the List",
+        "units": "6 units"
+      },
+      {
+        "code": " CBE LIST 1 Elective course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Art Theory Minor",
+        "level": "2000/3000 level course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2018": [
+    [
+      {
+        "code": "BUSN1001",
+        "level": "Business Reporting and Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT1008",
+        "level": "Quantitative Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "Introductory Art and Design History Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Introductory Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BUSN1002",
+        "level": "Accounting Processes and Systems",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM1001",
+        "level": "Foundations of Finance",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTV2819",
+        "level": "Vision and Perception",
+        "units": "6 units"
+      },
+      {
+        "code": "Introductory Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN2015",
+        "level": "Company Accounting",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Art History and Theory Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON1102",
+        "level": "Macroeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN1101",
+        "level": "Introduction to Commercial Law",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Art History and Theory Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BUSN2011",
+        "level": "Management Accounting",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN2101",
+        "level": "Law of Business Entities",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BUSN3001",
+        "level": "Accounting Theory",
+        "units": "6 units"
+      },
+      {
+        "code": "INFS2005",
+        "level": "Accounting Information Systems",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BUSN3014",
+        "level": "Principles of Tax Law",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN3002",
+        "level": "Auditing",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Art History and Theory Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Accounting course from the List",
+        "units": "6 units"
+      },
+      {
+        "code": " CBE LIST 1 Elective course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Engagement Course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2019": [
+    [
+      {
+        "code": "BUSN1001",
+        "level": "Business Reporting and Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT1008",
+        "level": "Quantitative Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "Introductory Art and Design History Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Introductory Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BUSN1002",
+        "level": "Accounting Processes and Systems",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM1001",
+        "level": "Foundations of Finance",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTV2819"
+      },
+      {
+        "code": "Introductory Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN2015",
+        "level": "Company Accounting",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Art History and Theory Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON1102",
+        "level": "Macroeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN1101",
+        "level": "Introduction to Commercial Law",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Art History and Theory Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BUSN2011",
+        "level": "Management Accounting",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN2101",
+        "level": "Law of Business Entities",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BUSN3001",
+        "level": "Accounting Theory",
+        "units": "6 units"
+      },
+      {
+        "code": "INFS2005",
+        "level": "Accounting Information Systems",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BUSN3014",
+        "level": "Principles of Tax Law",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN3002",
+        "level": "Auditing",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Art History and Theory Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Accounting course from the List",
+        "units": "6 units"
+      },
+      {
+        "code": " CBE LIST 1 Elective course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Engagement Course",
+        "units": "6 units"
+      }
+    ]
+  ]
+}

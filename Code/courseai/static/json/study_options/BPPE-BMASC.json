@@ -1,0 +1,654 @@
+{
+  "code": "BPPE-BMASC",
+  "2014": [],
+  "2015": [],
+  "2016": [
+    [
+      {
+        "code": "MATH1115",
+        "level": "Advanced Mathematics and Applications 1",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT1008 or STAT1003",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1002",
+        "level": "Introduction to Politics",
+        "units": "6 units"
+      },
+      {
+        "code": "PHIL1004",
+        "level": "Fundamental Ideas in Philosophy: An Introduction",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "MATH1116",
+        "level": "Advanced Mathematics and Applications  2",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP1100 or ",
+        "level": "COMP1130 or<b/>COMP1730",
+        "units": "6 units\r"
+      },
+      {
+        "code": "POLS1009",
+        "level": "Research and Writing in Political Science",
+        "units": "6 units"
+      },
+      {
+        "code": "PHIL1005",
+        "level": "Logic and Critical Thinking",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "MATH2301",
+        "level": "Games, Graphs and Machines",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH2320",
+        "level": "Advanced Analysis 1: Metric Spaces and Applications",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Politics list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "MATH2322",
+        "level": "Advanced Algebra 1: Groups, Rings and Linear Algebra",
+        "units": "6 units"
+      },
+      {
+        "code": "Science course",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1008",
+        "level": "PPE Integrative Seminar Year 1: Puzzles in Politics, Philosophy and Economics",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Philosophy list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "MATH2305",
+        "level": "Applied Mathematics I",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level MATH coded course",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON2101",
+        "level": "Microeconomics 2(P)",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Economics list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "3000 level MATH coded course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level MATH coded course",
+        "units": "6 units"
+      },
+      {
+        "code": "PHIL2116",
+        "level": "PPE Integrative Seminar Year 2",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Politics list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "3000 level MATH coded course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level MATH coded course",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Philosophy list Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ANIP/ECON/PHIL/POLS",
+        "level": "2000/3000 Level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "3000 level MATH coded course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level MATH coded course",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON3056",
+        "level": "PPE Integrative Seminar Year 3: Classic Literature in PPE",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Economics list Course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2017": [
+    [
+      {
+        "code": "MATH1115",
+        "level": "Advanced Mathematics and Applications 1",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH2222",
+        "level": "Introduction to Mathematical Thinking: Problem-Solving and Proofs",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1002",
+        "level": "Introduction to Politics",
+        "units": "6 units"
+      },
+      {
+        "code": "PHIL1004",
+        "level": "Fundamental Ideas in Philosophy: An Introduction",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "MATH1116",
+        "level": "Advanced Mathematics and Applications  2",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH2322",
+        "level": "Advanced Algebra 1: Groups, Rings and Linear Algebra",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1009",
+        "level": "Research and Writing in Political Science",
+        "units": "6 units"
+      },
+      {
+        "code": "PHIL1005",
+        "level": "Logic and Critical Thinking",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "MATH2305",
+        "level": "Applied Mathematics I",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH2320",
+        "level": "Advanced Analysis 1: Metric Spaces and Applications",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Politics list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Science elective",
+        "units": "6 units"
+      },
+      {
+        "code": "Science elective",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1008",
+        "level": "PPE Integrative Seminar Year 1: Puzzles in Politics, Philosophy and Economics",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Philosophy list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Science elective",
+        "units": "6 units"
+      },
+      {
+        "code": "Science elective",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON2101",
+        "level": "Microeconomics 2(P)",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Economics list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "3000 or 4000 level MATH course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 or 4000 level MATH course",
+        "units": "6 units"
+      },
+      {
+        "code": "PHIL2116",
+        "level": "PPE Integrative Seminar Year 2",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Politics list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "3000 or 4000 level MATH course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 or 4000 level MATH course",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Philosophy list Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ANIP/ECON/PHIL/POLS",
+        "level": "2000/3000 Level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "3000 or 4000 level MATH course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 or 4000 level MATH course",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON3056",
+        "level": "PPE Integrative Seminar Year 3: Classic Literature in PPE",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Economics list Course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2018": [
+    [
+      {
+        "code": "MATH1115",
+        "level": "Advanced Mathematics and Applications 1",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH2222",
+        "level": "Introduction to Mathematical Thinking: Problem-Solving and Proofs",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1002",
+        "level": "Introduction to Politics",
+        "units": "6 units"
+      },
+      {
+        "code": "PHIL1004",
+        "level": "Fundamental Ideas in Philosophy: An Introduction",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "MATH1116",
+        "level": "Advanced Mathematics and Applications  2",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH2322",
+        "level": "Advanced Algebra 1: Groups, Rings and Linear Algebra",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1009",
+        "level": "Research and Writing in Political Science",
+        "units": "6 units"
+      },
+      {
+        "code": "PHIL1005",
+        "level": "Logic and Critical Thinking",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "MATH2305",
+        "level": "Applied Mathematics I",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH2320",
+        "level": "Advanced Analysis 1: Metric Spaces and Applications",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Politics list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Science elective",
+        "units": "6 units"
+      },
+      {
+        "code": "Science elective",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1008",
+        "level": "PPE Integration 1",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Philosophy list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Science elective",
+        "units": "6 units"
+      },
+      {
+        "code": "Science elective",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON2101",
+        "level": "Microeconomics 2(P)",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Economics list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "3000 or 4000 level MATH course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 or 4000 level MATH course",
+        "units": "6 units"
+      },
+      {
+        "code": "PHIL2116",
+        "level": "PPE Integration 2",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Politics list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "3000 or 4000 level MATH course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 or 4000 level MATH course",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Philosophy list Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ANIP/ECON/PHIL/POLS",
+        "level": "2000/3000 Level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "3000 or 4000 level MATH course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 or 4000 level MATH course",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON3056",
+        "level": "PPE Integration 3: Classic Literature in PPE",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Economics list Course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2019": [
+    [
+      {
+        "code": "MATH1115",
+        "level": "Advanced Mathematics and Applications 1",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH2222",
+        "level": "Introduction to Mathematical Thinking: Problem-Solving and Proofs",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1002",
+        "level": "Introduction to Politics",
+        "units": "6 units"
+      },
+      {
+        "code": "PHIL1004",
+        "level": "Fundamental Ideas in Philosophy: An Introduction",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "MATH1116",
+        "level": "Advanced Mathematics and Applications  2",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH2322",
+        "level": "Advanced Algebra 1: Groups, Rings and Linear Algebra",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1009",
+        "level": "Research and Writing in Political Science",
+        "units": "6 units"
+      },
+      {
+        "code": "PHIL1005",
+        "level": "Logic and Critical Thinking",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "MATH2305",
+        "level": "Applied Mathematics I",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH2320",
+        "level": "Advanced Analysis 1: Metric Spaces and Applications",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Politics list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Science elective",
+        "units": "6 units"
+      },
+      {
+        "code": "Science elective",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1008",
+        "level": "PPE Integration 1",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Philosophy list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Science elective",
+        "units": "6 units"
+      },
+      {
+        "code": "Science elective",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON2101",
+        "level": "Microeconomics 2(P)",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Economics list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "3000 or 4000 level MATH course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 or 4000 level MATH course",
+        "units": "6 units"
+      },
+      {
+        "code": "PHIL2116",
+        "level": "PPE Integration 2",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Politics list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "3000 or 4000 level MATH course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 or 4000 level MATH course",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Philosophy list Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ANIP/ECON/PHIL/POLS",
+        "level": "2000/3000 Level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "3000 or 4000 level MATH course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 or 4000 level MATH course",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON3056",
+        "level": "PPE Integration 3: Classic Literature in PPE",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Economics list Course",
+        "units": "6 units"
+      }
+    ]
+  ]
+}

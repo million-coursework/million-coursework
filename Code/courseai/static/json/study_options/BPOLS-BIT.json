@@ -1,0 +1,814 @@
+{
+  "code": "BPOLS-BIT",
+  "2014": [
+    [
+      {
+        "code": "COMP1100",
+        "level": "Introduction to Programming and Algorithms",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP1710",
+        "level": "Web Development and Design",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1002",
+        "level": "Introduction to Politics",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "COMP1110",
+        "level": "Introduction to Software Systems",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1005",
+        "level": "Discrete Mathematical Models",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1102 Macroeconomics 1",
+        "level": "\n OR <b/>ECON1100 Economics 1(H)<b/>6 units",
+        "units": "6 units \r"
+      },
+      {
+        "code": "POPS2001",
+        "level": "Population Studies",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Computing course",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing course",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY1002",
+        "level": "Self and Society",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY2101",
+        "level": "Social Policy: Principles and Practice",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "COMP2400",
+        "level": "Relational Databases",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP2600",
+        "level": "Formal Methods in Software Engineering",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS2009",
+        "level": "Bureaucracy and Public Policy",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS2105",
+        "level": "Political Leadership and Executive Government",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "COMP3120",
+        "level": "Managing Software Development",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing course",
+        "units": "6 units"
+      },
+      {
+        "code": "Core Course",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY2038",
+        "level": "Introduction to Quantitative Research Methods",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Computing course 3000-level",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing course",
+        "units": "6 units"
+      },
+      {
+        "code": "Core Course",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY2043",
+        "level": "Qualitative Research Methods",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Computing course 3000-level",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing course 3000-level",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY3123",
+        "level": "Policy and Program Evaluation",
+        "units": "6 units"
+      },
+      {
+        "code": "Core Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Computing course 3000-level",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing course 3000-level",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY3030",
+        "level": "Applied Policy Project",
+        "units": "6 units"
+      },
+      {
+        "code": "Core Course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2015": [
+    [
+      {
+        "code": "COMP1100",
+        "level": "Introduction to Programming and Algorithms",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP1710",
+        "level": "Web Development and Design",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1002",
+        "level": "Introduction to Politics",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "COMP1110",
+        "level": "Introduction to Software Systems",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1005",
+        "level": "Discrete Mathematical Models",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1102 Macroeconomics 1",
+        "level": "\n OR <b/>ECON1100 Economics 1(H)<b/>6 units",
+        "units": "6 units \r"
+      },
+      {
+        "code": "POPS2001"
+      }
+    ],
+    [
+      {
+        "code": "Computing course",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing course",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY1002",
+        "level": "Self and Society",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY2101",
+        "level": "Social Policy: Principles and Practice",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "COMP2400",
+        "level": "Relational Databases",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP2600",
+        "level": "Formal Methods in Software Engineering",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS2009",
+        "level": "Bureaucracy and Public Policy",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS2105",
+        "level": "Political Leadership and Executive Government",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "COMP3120",
+        "level": "Managing Software Development",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing course",
+        "units": "6 units"
+      },
+      {
+        "code": "Core Course",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY2038",
+        "level": "Introduction to Quantitative Research Methods",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Computing course 3000-level",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing course",
+        "units": "6 units"
+      },
+      {
+        "code": "Core Course",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY2043",
+        "level": "Qualitative Research Methods",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Computing course 3000-level",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing course 3000-level",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY3123",
+        "level": "Research for Public Policy",
+        "units": "6 units"
+      },
+      {
+        "code": "Core Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Computing course 3000-level",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing course 3000-level",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY3030",
+        "level": "Applied Policy Project",
+        "units": "6 units"
+      },
+      {
+        "code": "Core Course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2016": [
+    [
+      {
+        "code": "COMP1100",
+        "level": "Introduction to Programming and Algorithms",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP1710",
+        "level": "Web Development and Design",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1002",
+        "level": "Introduction to Politics",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "COMP1110",
+        "level": "Introduction to Software Systems",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1005",
+        "level": "Discrete Mathematical Models",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1102",
+        "level": "Macroeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "INTR1022",
+        "level": "Peacebuilding and Conflict Resolution",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Computing course",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing course",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY1002",
+        "level": "Self and Society",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY2101",
+        "level": "Social Policy: Principles and Practice",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "COMP2400",
+        "level": "Relational Databases",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP2600",
+        "level": "Formal Methods in Software Engineering",
+        "units": "6 units"
+      },
+      {
+        "code": "Core Course",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS2105",
+        "level": "Political Leadership and Executive Government",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "COMP3120",
+        "level": "Managing Software Development",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing course",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS2009",
+        "level": "Bureaucracy and Public Policy",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY2038",
+        "level": "Introduction to Quantitative Research Methods",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Computing course 3000-level",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing course",
+        "units": "6 units"
+      },
+      {
+        "code": "Core Course",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY2043",
+        "level": "Introduction to Qualitative Research Methods",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Computing course 3000-level",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing course 3000-level",
+        "units": "6 units"
+      },
+      {
+        "code": "Core Course",
+        "units": "6 units"
+      },
+      {
+        "code": "DEMO2001",
+        "level": "Population Studies",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Computing course 3000-level",
+        "units": "6 units"
+      },
+      {
+        "code": "Computing course 3000-level",
+        "units": "6 units"
+      },
+      {
+        "code": "Capstone Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Core Course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2017": [
+    [
+      {
+        "code": "COMP1100",
+        "level": "Programming as Problem Solving",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1005",
+        "level": "Discrete Mathematical Models",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1002",
+        "level": "Introduction to Politics",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "COMP1110",
+        "level": "Structured Programming",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP1600",
+        "level": "Foundations of Computing",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1102",
+        "level": "Macroeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "INTR1022",
+        "level": "Peacebuilding and Conflict Resolution",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "COMP2100",
+        "level": "Software Design Methodologies",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP2300",
+        "level": "Computer Organisation and Program Execution",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY1002",
+        "level": "Self and Society",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY2101",
+        "level": "Social Policy: Principles and Practice",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Computing elective"
+      },
+      {
+        "code": "Computing elective"
+      },
+      {
+        "code": "Core Course",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS2105",
+        "level": "Political Leadership and Executive Government",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "COMP2420",
+        "level": "Introduction to Data Management, Analysis and Security",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level",
+        "level": "Computing elective"
+      },
+      {
+        "code": "POLS2009",
+        "level": "Bureaucracy and Public Policy",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY2038",
+        "level": "Introduction to Quantitative Research Methods",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "3000 level",
+        "level": "Computing elective"
+      },
+      {
+        "code": "3000 level",
+        "level": "Computing elective"
+      },
+      {
+        "code": "Core Course",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY2043",
+        "level": "Introduction to Qualitative Research Methods",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "3000 level",
+        "level": "Computing elective"
+      },
+      {
+        "code": "Computing elective"
+      },
+      {
+        "code": "Core Course",
+        "units": "6 units"
+      },
+      {
+        "code": "DEMO2001",
+        "level": "Population Studies",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "3000 level",
+        "level": "Computing elective"
+      },
+      {
+        "code": "Computing elective"
+      },
+      {
+        "code": "Capstone Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Core Course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2018": [
+    [
+      {
+        "code": "COMP1100",
+        "level": "Programming as Problem Solving",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1005",
+        "level": "Discrete Mathematical Models",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1002",
+        "level": "Introduction to Politics",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "COMP1110",
+        "level": "Structured Programming",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP1600",
+        "level": "Foundations of Computing",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1102",
+        "level": "Macroeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "Australian Politics Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "COMP2100",
+        "level": "Software Design Methodologies",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP2300",
+        "level": "Computer Organisation and Program Execution",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY1002",
+        "level": "Self and Society",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY2101",
+        "level": "Social Policy: Principles and Practice",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Computing elective"
+      },
+      {
+        "code": "Computing elective"
+      },
+      {
+        "code": "Key Issues in Policy Studies Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Political Theory Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "COMP2420",
+        "level": "Introduction to Data Management, Analysis and Security",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level",
+        "level": "Computing elective"
+      },
+      {
+        "code": "POLS2009",
+        "level": "Bureaucracy and Public Policy",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY2038",
+        "level": "Introduction to Quantitative Research Methods",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "3000 level",
+        "level": "Computing elective"
+      },
+      {
+        "code": "3000 level",
+        "level": "Computing elective"
+      },
+      {
+        "code": "Key Issues in Policy Studies Course",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY2043",
+        "level": "Introduction to Qualitative Research Methods",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "3000 level",
+        "level": "Computing elective"
+      },
+      {
+        "code": "Computing elective"
+      },
+      {
+        "code": "Key Issues in Policy Studies Course",
+        "units": "6 units"
+      },
+      {
+        "code": "DEMO2001",
+        "level": "Population Studies",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "3000 level",
+        "level": "Computing elective"
+      },
+      {
+        "code": "Computing elective"
+      },
+      {
+        "code": "Capstone Course",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS3039",
+        "level": "Political Leadership and Executive Government",
+        "units": "6 units"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "code": "BVART-BDESN",
+  "2014": [],
+  "2015": [],
+  "2016": [],
+  "2017": [
+    [
+      {
+        "code": "Visual Arts Major",
+        "level": "1000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTV1020",
+        "level": "Figure & Life",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTV1021",
+        "level": "Image and Object",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTH1006",
+        "level": "Art and Design Histories: Form and Space",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Visual Arts Major",
+        "level": "1000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "DESA1022",
+        "level": "Vision and Perception",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTV1032",
+        "level": "Foundation Computer Studies",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTH1007",
+        "level": "Art and Design Histories: Making and Meaning",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2018": [
+    [
+      {
+        "code": "-"
+      },
+      {
+        "code": "-"
+      },
+      {
+        "code": "-"
+      },
+      {
+        "code": "-"
+      }
+    ],
+    [
+      {
+        "code": "-"
+      },
+      {
+        "code": "-"
+      },
+      {
+        "code": "-"
+      },
+      {
+        "code": "-"
+      }
+    ]
+  ],
+  "2019": [
+    [
+      {
+        "code": "-"
+      },
+      {
+        "code": "-"
+      },
+      {
+        "code": "-"
+      },
+      {
+        "code": "-"
+      }
+    ],
+    [
+      {
+        "code": "-"
+      },
+      {
+        "code": "-"
+      },
+      {
+        "code": "-"
+      },
+      {
+        "code": "-"
+      }
+    ]
+  ]
+}

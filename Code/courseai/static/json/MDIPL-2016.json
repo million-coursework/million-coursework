@@ -1,0 +1,62 @@
+{
+  "name": "Master of Diplomacy",
+  "code": "MDIPL",
+  "year": 2016,
+  "units": 96,
+  "required": {
+    "compulsory_courses": [
+      "DIPL8001",
+      "DIPL8002",
+      "DIPL8003",
+      "DIPL8004",
+      "DIPL8000",
+      "DIPL8006"
+    ],
+    "x_from_here": [
+      {
+        "type": "minimum",
+        "units": 60,
+        "courses": [
+          "DIPL8000",
+          "DIPL8006",
+          "DIPL8008",
+          "DIPL8009",
+          "DIPL8010",
+          "DIPL8012",
+          "DIPL8014",
+          "INTR8011",
+          "INTR8013",
+          "INTR8032",
+          "INTR8036",
+          "INTR8045",
+          "INTR8053",
+          "INTR8055",
+          "INTR8060",
+          "INTR8062",
+          "INTR8064",
+          "INTR8065",
+          "INTR8067",
+          "INTR8068",
+          "INTR8070",
+          "MEAS8111",
+          "MEAS8112",
+          "MEAS8115",
+          "NSPO8004",
+          "NSPO8006",
+          "NSPO8007",
+          "NSPO8010",
+          "NSPO8013",
+          "NSPO8015",
+          "NSPO8016",
+          "NSPO8017",
+          "NSPO8019",
+          "POGO8115",
+          "SOCY8004",
+          "STST8017"
+        ]
+      }
+    ],
+    "one_from_m/m/s": [],
+    "required_m/m/s": []
+  }
+}

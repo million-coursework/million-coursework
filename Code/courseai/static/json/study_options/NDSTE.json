@@ -1,0 +1,255 @@
+{
+  "code": "NDSTE",
+  "2014": [],
+  "2015": [],
+  "2016": [],
+  "2017": [
+    [
+      {
+        "code": "ENGN8100",
+        "level": "Introduction to Systems Engineering",
+        "units": "6 units"
+      },
+      {
+        "code": "ENGN6250",
+        "level": "Professional Practice 1",
+        "units": "6 units"
+      },
+      {
+        "code": "ENGN6213",
+        "level": "Digital Systems and Microprocessors",
+        "units": "6 units"
+      },
+      {
+        "code": "ENGN6537",
+        "level": "Discrete-Time Signal Processing",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ENGN8120",
+        "level": "Systems Modelling",
+        "units": "6 units"
+      },
+      {
+        "code": "ENGN8260",
+        "level": "Professional Practice 2",
+        "units": "6 units"
+      },
+      {
+        "code": "ENGN6536",
+        "level": "Wireless Communications",
+        "units": "6 units"
+      },
+      {
+        "code": "ENGN6625",
+        "level": "Power Electronics",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ENGN8538",
+        "level": "Probability and Stochastic Processes in Engineering",
+        "units": "6 units"
+      },
+      {
+        "code": "ENGN8637",
+        "level": "Advanced Topics in Communications and Signal Processing",
+        "units": "6 units"
+      },
+      {
+        "code": "ENGN8170",
+        "level": "Group Project",
+        "units": "12 units"
+      }
+    ],
+    [
+      {
+        "code": "ENGN8534",
+        "level": "Information Theory",
+        "units": "6 units"
+      },
+      {
+        "code": "ENGN8537",
+        "level": "Embedded Systems and Real Time Digital Signal Processing",
+        "units": "6 units"
+      },
+      {
+        "code": "University elective",
+        "units": "6 units"
+      },
+      {
+        "code": "University elective",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2018": [
+    [
+      {
+        "code": "ENGN8100",
+        "level": "Introduction to Systems Engineering",
+        "units": "6 units"
+      },
+      {
+        "code": "ENGN6250",
+        "level": "Professional Practice 1",
+        "units": "6 units"
+      },
+      {
+        "code": "ENGN6213",
+        "level": "Digital Systems and Microprocessors",
+        "units": "6 units"
+      },
+      {
+        "code": "ENGN6537",
+        "level": "Discrete-Time Signal Processing",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ENGN8120",
+        "level": "Systems Modelling",
+        "units": "6 units"
+      },
+      {
+        "code": "ENGN8260",
+        "level": "Professional Practice 2",
+        "units": "6 units"
+      },
+      {
+        "code": "ENGN6536",
+        "level": "Wireless Communications",
+        "units": "6 units"
+      },
+      {
+        "code": "ENGN6625",
+        "level": "Power Electronics",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ENGN8538",
+        "level": "Probability and Stochastic Processes in Engineering",
+        "units": "6 units"
+      },
+      {
+        "code": "ENGN8637",
+        "level": "Advanced Topics in Communications and Signal Processing",
+        "units": "6 units"
+      },
+      {
+        "code": "ENGN8170",
+        "level": "Group Project",
+        "units": "12 units"
+      }
+    ],
+    [
+      {
+        "code": "ENGN8534",
+        "level": "Information Theory",
+        "units": "6 units"
+      },
+      {
+        "code": "ENGN8537",
+        "level": "Embedded Systems and Real Time Digital Signal Processing",
+        "units": "6 units"
+      },
+      {
+        "code": "University elective",
+        "units": "6 units"
+      },
+      {
+        "code": "University elective",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2019": [
+    [
+      {
+        "code": "ENGN8100",
+        "level": "Introduction to Systems Engineering",
+        "units": "6 units"
+      },
+      {
+        "code": "ENGN6250",
+        "level": "Professional Practice 1",
+        "units": "6 units"
+      },
+      {
+        "code": "ENGN6213",
+        "level": "Digital Systems and Microprocessors",
+        "units": "6 units"
+      },
+      {
+        "code": "ENGN6537",
+        "level": "Digital Signal Processing",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ENGN8120",
+        "level": "Systems Modelling",
+        "units": "6 units"
+      },
+      {
+        "code": "ENGN8260",
+        "level": "Professional Practice 2",
+        "units": "6 units"
+      },
+      {
+        "code": "ENGN6536",
+        "level": "Wireless Communications",
+        "units": "6 units"
+      },
+      {
+        "code": "ENGN6625",
+        "level": "Power Systems and Power Electronics",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ENGN8538",
+        "level": "Probability and Stochastic Processes in Engineering",
+        "units": "6 units"
+      },
+      {
+        "code": "ENGN8637",
+        "level": "Advanced Topics in Communications and Signal Processing",
+        "units": "6 units"
+      },
+      {
+        "code": "ENGN8170",
+        "level": "Group Project",
+        "units": "12 units"
+      }
+    ],
+    [
+      {
+        "code": "ENGN8534",
+        "level": "Information Theory",
+        "units": "6 units"
+      },
+      {
+        "code": "ENGN8537",
+        "level": "Embedded Systems and Real Time Digital Signal Processing",
+        "units": "6 units"
+      },
+      {
+        "code": "University elective",
+        "units": "6 units"
+      },
+      {
+        "code": "University elective",
+        "units": "6 units"
+      }
+    ]
+  ]
+}

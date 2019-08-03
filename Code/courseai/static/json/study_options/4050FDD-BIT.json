@@ -1,0 +1,216 @@
+{
+  "code": "4050FDD-BIT",
+  "2014": [],
+  "2015": [
+    [
+      {
+        "code": "COMP1100",
+        "level": "Introduction to Programming and Algorithms",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP1710",
+        "level": "Web Development and Design",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "COMP1110",
+        "level": "Introduction to Software Systems",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP2400",
+        "level": "Relational Databases",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1005",
+        "level": "Discrete Mathematical Models",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2016": [
+    [
+      {
+        "code": "COMP1030",
+        "level": "Art of Computing",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP1710",
+        "level": "Web Development and Design",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "COMP1040",
+        "level": "The Craft of Computing",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP2400",
+        "level": "Relational Databases",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1005",
+        "level": "Discrete Mathematical Models",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2017": [
+    [
+      {
+        "code": "COMP1100",
+        "level": "Programming as Problem Solving",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1005",
+        "level": "Discrete Mathematical Models",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "COMP1110",
+        "level": "Structured Programming",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP1600",
+        "level": "Foundations of Computing",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2018": [
+    [
+      {
+        "code": "COMP1100",
+        "level": "Programming as Problem Solving",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1005",
+        "level": "Discrete Mathematical Models",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "COMP1110",
+        "level": "Structured Programming",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP1600",
+        "level": "Foundations of Computing",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2019": [
+    [
+      {
+        "code": "COMP1100",
+        "level": "Programming as Problem Solving",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1005",
+        "level": "Discrete Mathematical Models",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "COMP1110",
+        "level": "Structured Programming",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP1600",
+        "level": "Foundations of Computing",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective course",
+        "units": "6 units"
+      }
+    ]
+  ]
+}

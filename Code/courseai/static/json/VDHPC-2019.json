@@ -1,0 +1,90 @@
+{
+  "name": "Master of Digital Humanities and Public Culture (Advanced)",
+  "code": "VDHPC",
+  "year": 2019,
+  "units": 96,
+  "required": {
+    "x_from_here": [
+      {
+        "type": "minimum",
+        "units": 12,
+        "courses": [
+          "HUMN6001",
+          "HUMN6003",
+          "HUMN8026",
+          "HUMN8028",
+          "HUMN8029",
+          "HUMN8032"
+        ]
+      },
+      {
+        "type": "minimum",
+        "units": 24,
+        "courses": [
+          "ARCH8104",
+          "ARTH6162",
+          "ARTV6000",
+          "ARTV6003",
+          "ARTV6059",
+          "ASIA8046",
+          "COMP6240",
+          "COMP6261",
+          "COMP6262",
+          "COMP6300",
+          "COMP6340",
+          "COMP6466",
+          "COMP6490",
+          "COMP6700",
+          "COMP6710",
+          "COMP6720",
+          "COMP6780",
+          "DESN6001",
+          "DESN6002",
+          "DESN6003",
+          "DESN6004",
+          "DESN6006",
+          "ENGL6086",
+          "GEND6021",
+          "GEND6501",
+          "HIST6234",
+          "HIST6236",
+          "HIST6237",
+          "HIST8011",
+          "HUMN6001",
+          "HUMN6002",
+          "HUMN6003",
+          "HUMN8001",
+          "HUMN8019",
+          "HUMN8026",
+          "HUMN8027",
+          "HUMN8033",
+          "HUMN8036",
+          "LING6023",
+          "LING8026",
+          "LING8027",
+          "MUSC8017",
+          "MUSI6009",
+          "SOCR8001",
+          "SOCR8003",
+          "SOCR8006",
+          "SOCR8008",
+          "SOCR8009",
+          "SOCY6066"
+        ]
+      },
+      {
+        "type": "minimum",
+        "units": 12,
+        "courses": [
+          "ANIP6503",
+          "ANIP6505",
+          "HUMN8012",
+          "HUMN8030",
+          "HUMN8031"
+        ]
+      }
+    ],
+    "one_from_m/m/s": [],
+    "required_m/m/s": []
+  }
+}

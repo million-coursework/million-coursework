@@ -1,0 +1,34 @@
+{
+  "name": "Graduate Certificate of Arts",
+  "code": "CARTS",
+  "year": 2016,
+  "units": 24,
+  "required": {
+    "one_from_m/m/s": [
+      [
+        "INPO-SPEC",
+        "GALI-SPEC",
+        "HIST-SPEC",
+        "BIAN-SPEC",
+        "LIBA-SPEC",
+        "HUMN-SPEC",
+        "DESN-SPEC",
+        "SORE-SPEC",
+        "CLAS-SPEC",
+        "AHCS-SPEC",
+        "MCS1-SPEC",
+        "MEM1-SPEC",
+        "DEVL-SPEC",
+        "MUP1-SPEC",
+        "CHME-SPEC",
+        "CRIM-SPEC",
+        "MECA-SPEC",
+        "ARTV-SPEC",
+        "ARSC-SPEC",
+        "ANTH-SPEC",
+        "DART-SPEC"
+      ]
+    ],
+    "required_m/m/s": []
+  }
+}

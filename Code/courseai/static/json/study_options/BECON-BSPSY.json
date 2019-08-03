@@ -1,0 +1,993 @@
+{
+  "code": "BECON-BSPSY",
+  "2014": [
+    [
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT1008",
+        "level": "Quantitative Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC1003",
+        "level": "Psychology 1: Understanding Mind, Brain and Behaviour",
+        "units": "6 units"
+      },
+      {
+        "code": "Science course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON1102",
+        "level": "Macroeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "EMET1001",
+        "level": "Foundations of Economic and Financial Models",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC1004",
+        "level": "Psychology 2: Understanding People in Context",
+        "units": "6 units"
+      },
+      {
+        "code": "Science course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON2101",
+        "level": "Microeconomics 2(P)",
+        "units": "6 units"
+      },
+      {
+        "code": "EMET2007",
+        "level": "Econometrics I: Econometric Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2009",
+        "level": "Quantitative Methods in Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2007",
+        "level": "Biological Basis of Behaviour",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON2102",
+        "level": "Macroeconomics 2(P)",
+        "units": "6 units"
+      },
+      {
+        "code": "List 2 Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2001",
+        "level": "Social Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2008",
+        "level": "Visual Perception and Cognition",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON3101",
+        "level": "Microeconomics 3",
+        "units": "6 units"
+      },
+      {
+        "code": "List 2 Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2002",
+        "level": "Developmental Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3025",
+        "level": "Abnormal Psychology across the Life Span",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON3102",
+        "level": "Macroeconomics 3",
+        "units": "6 units"
+      },
+      {
+        "code": "List 2 Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3018",
+        "level": "Advanced Research Methods",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECHI Course",
+        "units": "6 units"
+      },
+      {
+        "code": "List 1 Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC 3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3026",
+        "level": "Personality Psychology",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "List 1 Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "List 1 Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC 3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC 3000 level course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2015": [
+    [
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT1008",
+        "level": "Quantitative Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC1003",
+        "level": "Psychology 1: Understanding Mind, Brain and Behaviour",
+        "units": "6 units"
+      },
+      {
+        "code": "Science course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON1102",
+        "level": "Macroeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "EMET1001",
+        "level": "Foundations of Economic and Financial Models",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC1004",
+        "level": "Psychology 2: Understanding People in Context",
+        "units": "6 units"
+      },
+      {
+        "code": "Science course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON2101",
+        "level": "Microeconomics 2(P)",
+        "units": "6 units"
+      },
+      {
+        "code": "EMET2007",
+        "level": "Econometrics I: Econometric Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2009",
+        "level": "Quantitative Methods in Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2007",
+        "level": "Biological Basis of Behaviour",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON2102",
+        "level": "Macroeconomics 2(P)",
+        "units": "6 units"
+      },
+      {
+        "code": "List 2 Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2001",
+        "level": "Social Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2008",
+        "level": "Visual Perception and Cognition",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON3101",
+        "level": "Microeconomics 3",
+        "units": "6 units"
+      },
+      {
+        "code": "List 2 Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2002",
+        "level": "Developmental Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "Science course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON3102",
+        "level": "Macroeconomics 3",
+        "units": "6 units"
+      },
+      {
+        "code": "List 2 Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3025",
+        "level": "Abnormal Psychology across the Life Span",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3018",
+        "level": "Advanced Research Methods",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECHI Course",
+        "units": "6 units"
+      },
+      {
+        "code": "List 1 Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3026",
+        "level": "Personality Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC 3000 level course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "List 1 Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "List 1 Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC 3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC 3000 level course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2016": [
+    [
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT1008",
+        "level": "Quantitative Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC1003",
+        "level": "Psychology 1: Understanding Mind, Brain and Behaviour",
+        "units": "6 units"
+      },
+      {
+        "code": "Science course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON1102",
+        "level": "Macroeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "EMET1001",
+        "level": "Foundations of Economic and Financial Models",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC1004",
+        "level": "Psychology 2: Understanding People in Context",
+        "units": "6 units"
+      },
+      {
+        "code": "Science course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON2101",
+        "level": "Microeconomics 2(P)",
+        "units": "6 units"
+      },
+      {
+        "code": "EMET2007",
+        "level": "Econometrics I: Econometric Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2009",
+        "level": "Quantitative Methods in Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2007",
+        "level": "Biological Basis of Behaviour",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON2102",
+        "level": "Macroeconomics 2(P)",
+        "units": "6 units"
+      },
+      {
+        "code": "List 2 Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2001",
+        "level": "Social Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2008",
+        "level": "Cognition",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON3101",
+        "level": "Microeconomics 3",
+        "units": "6 units"
+      },
+      {
+        "code": "List 2 Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2002",
+        "level": "Developmental Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "Science course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON3102",
+        "level": "Macroeconomics 3",
+        "units": "6 units"
+      },
+      {
+        "code": "List 2 Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3025",
+        "level": "Abnormal Psychology across the Life Span",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3018",
+        "level": "Advanced Research Methods",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON Core Course",
+        "units": "6 units"
+      },
+      {
+        "code": "List 1 Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3026",
+        "level": "Personality Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC 3000 level course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "List 1 Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "List 1 Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC 3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC 3000 level course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2017": [
+    [
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT1008",
+        "level": "Quantitative Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC1003",
+        "level": "Psychology 1: Understanding Mind, Brain and Behaviour",
+        "units": "6 units"
+      },
+      {
+        "code": "1000 level Science elective",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON1102",
+        "level": "Macroeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "EMET1001",
+        "level": "Foundations of Economic and Financial Models",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC1004",
+        "level": "Psychology 2: Understanding People in Context",
+        "units": "6 units"
+      },
+      {
+        "code": "1000 level Science elective",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON2101",
+        "level": "Microeconomics 2(P)",
+        "units": "6 units"
+      },
+      {
+        "code": "EMET2007",
+        "level": "Econometrics I: Econometric Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2009",
+        "level": "Quantitative Methods in Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2002",
+        "level": "Developmental Psychology",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON2102",
+        "level": "Macroeconomics 2(P)",
+        "units": "6 units"
+      },
+      {
+        "code": "List 2 Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2001",
+        "level": "Social Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2008",
+        "level": "Cognition",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON3101",
+        "level": "Microeconomics 3",
+        "units": "6 units"
+      },
+      {
+        "code": "List 2 Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level PSYC course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science elective",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON3102",
+        "level": "Macroeconomics 3",
+        "units": "6 units"
+      },
+      {
+        "code": "List 2 Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2007",
+        "level": "Biological Basis of Behaviour",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3018",
+        "level": "Advanced Research Methods",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON Core Course",
+        "units": "6 units"
+      },
+      {
+        "code": "List 1 Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3025",
+        "level": "Abnormal Psychology across the Life Span",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level PSYC course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "List 1 Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "List 1 Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3026",
+        "level": "Personality Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level PSYC course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2018": [
+    [
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT1008",
+        "level": "Quantitative Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC1003",
+        "level": "Psychology 1: Understanding Mind, Brain and Behaviour",
+        "units": "6 units"
+      },
+      {
+        "code": "1000 level Science elective",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON1102",
+        "level": "Macroeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "EMET1001",
+        "level": "Foundations of Economic and Financial Models",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC1004",
+        "level": "Psychology 2: Understanding People in Context",
+        "units": "6 units"
+      },
+      {
+        "code": "1000 level Science elective",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON2101",
+        "level": "Microeconomics 2(P)",
+        "units": "6 units"
+      },
+      {
+        "code": "EMET2007",
+        "level": "Econometrics I: Econometric Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2009",
+        "level": "Quantitative Methods in Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2002",
+        "level": "Developmental Psychology",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON2102",
+        "level": "Macroeconomics 2(P)",
+        "units": "6 units"
+      },
+      {
+        "code": "List 2 Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2001",
+        "level": "Social Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2008",
+        "level": "Cognition",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON3101",
+        "level": "Microeconomics 3",
+        "units": "6 units"
+      },
+      {
+        "code": "List 2 Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level PSYC course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science elective",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON3102",
+        "level": "Macroeconomics 3",
+        "units": "6 units"
+      },
+      {
+        "code": "List 2 Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2007",
+        "level": "Biological Basis of Behaviour",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3018",
+        "level": "Advanced Research Methods",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON Core Course",
+        "units": "6 units"
+      },
+      {
+        "code": "List 1 Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3025",
+        "level": "Psychopathology Across the Lifespan",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level PSYC course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "List 1 Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "List 1 Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3026",
+        "level": "Personality Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level PSYC course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2019": [
+    [
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT1008",
+        "level": "Quantitative Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC1003",
+        "level": "Psychology 1: Understanding Mind, Brain and Behaviour",
+        "units": "6 units"
+      },
+      {
+        "code": "1000 level Science elective",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON1102",
+        "level": "Macroeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "EMET1001",
+        "level": "Foundations of Economic and Financial Models",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC1004",
+        "level": "Psychology 2: Understanding People in Context",
+        "units": "6 units"
+      },
+      {
+        "code": "1000 level Science elective",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON2101",
+        "level": "Microeconomics 2(P)",
+        "units": "6 units"
+      },
+      {
+        "code": "EMET2007",
+        "level": "Econometrics I: Econometric Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2009",
+        "level": "Quantitative Methods in Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2002",
+        "level": "Developmental Psychology",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON2102",
+        "level": "Macroeconomics 2(P)",
+        "units": "6 units"
+      },
+      {
+        "code": "List 2 Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2001",
+        "level": "Social Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2008",
+        "level": "Cognition",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON3101",
+        "level": "Microeconomics 3",
+        "units": "6 units"
+      },
+      {
+        "code": "List 2 Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level PSYC course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science elective",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON3102",
+        "level": "Macroeconomics 3",
+        "units": "6 units"
+      },
+      {
+        "code": "List 2 Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2007",
+        "level": "Biological Basis of Behaviour",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3018",
+        "level": "Advanced Research Methods",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON Core Course",
+        "units": "6 units"
+      },
+      {
+        "code": "List 1 Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3025",
+        "level": "Psychopathology Across the Lifespan",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level PSYC course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "List 1 Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "List 1 Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3026",
+        "level": "Personality Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level PSYC course",
+        "units": "6 units"
+      }
+    ]
+  ]
+}

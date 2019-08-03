@@ -1,0 +1,1037 @@
+{
+  "code": "BVART-BFINN",
+  "2014": [
+    [
+      {
+        "code": "FINM1001",
+        "level": "Foundations of Finance",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT1008",
+        "level": "Quantitative Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTV1020",
+        "level": "Figure & Life",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTV1021",
+        "level": "Image and Object",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "EMET1001",
+        "level": "Foundations of Economic and Financial Models",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM2001",
+        "level": "Corporate Finance",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTV1022",
+        "level": "Vision and Perception",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTV1032",
+        "level": "Foundation Computer Studies",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT2008",
+        "level": "Regression Modelling",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Art Theory Minor",
+        "level": "1000 level course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BUSN1001",
+        "level": "Business Reporting and Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1102",
+        "level": "Macroeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Art Theory Minor",
+        "level": "1000 level course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "FINM2003",
+        "level": "Investments",
+        "units": "6 units"
+      },
+      {
+        "code": "MGMT3015",
+        "level": "Corporate Strategy",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "FINM2002",
+        "level": "Derivatives",
+        "units": "6 units"
+      },
+      {
+        "code": "CBE List 1 Elective",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "FINM3005",
+        "level": "Corporate Valuation",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM3006",
+        "level": "Financial Intermediation and Debt Markets",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Art Theory Minor",
+        "level": "2000 level course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "FINM3008",
+        "level": "Applied Portfolio Construction",
+        "units": "6 units"
+      },
+      {
+        "code": "CBE List 1 Elective",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Art Theory Minor",
+        "level": "2000 level course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2015": [
+    [
+      {
+        "code": "FINM1001",
+        "level": "Foundations of Finance",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT1008",
+        "level": "Quantitative Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTV1020",
+        "level": "Figure & Life",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTV1021",
+        "level": "Image and Object",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "EMET1001",
+        "level": "Foundations of Economic and Financial Models",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM2001",
+        "level": "Corporate Finance",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTV1022",
+        "level": "Vision and Perception",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTV1032",
+        "level": "Foundation Computer Studies",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT2008",
+        "level": "Regression Modelling",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Art Theory Minor",
+        "level": "1000 level course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BUSN1001",
+        "level": "Business Reporting and Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1102",
+        "level": "Macroeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Art Theory Minor",
+        "level": "1000 level course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "FINM2003",
+        "level": "Investments",
+        "units": "6 units"
+      },
+      {
+        "code": "MGMT3015",
+        "level": "Corporate Strategy",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "FINM2002",
+        "level": "Derivatives",
+        "units": "6 units"
+      },
+      {
+        "code": "CBE List 1 Elective",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "FINM3005",
+        "level": "Corporate Valuation",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM3006",
+        "level": "Financial Intermediation and Debt Markets",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Art Theory Minor",
+        "level": "2000/3000 level course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "FINM3008",
+        "level": "Applied Portfolio Construction",
+        "units": "6 units"
+      },
+      {
+        "code": "CBE List 1 Elective",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Art Theory Minor",
+        "level": "2000/3000 level course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2016": [
+    [
+      {
+        "code": "FINM1001",
+        "level": "Foundations of Finance",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT1008",
+        "level": "Quantitative Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTV1020",
+        "level": "Figure & Life",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTV1021",
+        "level": "Image and Object",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "EMET1001",
+        "level": "Foundations of Economic and Financial Models",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM2001",
+        "level": "Corporate Finance",
+        "units": "6 units"
+      },
+      {
+        "code": "DESA1022",
+        "level": "Vision and Perception",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTV1032",
+        "level": "Foundation Computer Studies",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT2008",
+        "level": "Regression Modelling",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTH1006",
+        "level": "Art and Design Histories: Form and Space",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BUSN1001",
+        "level": "Business Reporting and Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1102",
+        "level": "Macroeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTH1007",
+        "level": "Art and Design Histories: Making and Meaning",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "FINM2003",
+        "level": "Investments",
+        "units": "6 units"
+      },
+      {
+        "code": "MGMT3015",
+        "level": "Corporate Strategy",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "FINM2002",
+        "level": "Derivatives",
+        "units": "6 units"
+      },
+      {
+        "code": "CBE List 1 Elective",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "ECON2101",
+        "level": "Microeconomics 2(P)",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM3006",
+        "level": "Financial Intermediation and Debt Markets",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Art Theory Minor",
+        "level": "2000/3000 level course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "FINM3008",
+        "level": "Applied Portfolio Construction",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM3005",
+        "level": "Corporate Valuation",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Art Theory Minor",
+        "level": "2000/3000 level course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2017": [
+    [
+      {
+        "code": "FINM1001",
+        "level": "Foundations of Finance",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT1008",
+        "level": "Quantitative Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTV1020",
+        "level": "Figure & Life",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTV1021",
+        "level": "Image and Object",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "EMET1001",
+        "level": "Foundations of Economic and Financial Models",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM2001",
+        "level": "Corporate Finance",
+        "units": "6 units"
+      },
+      {
+        "code": "DESA1022",
+        "level": "Vision and Perception",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTV1032",
+        "level": "Foundation Computer Studies",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT2008",
+        "level": "Regression Modelling",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTH1006",
+        "level": "Art and Design Histories: Form and Space",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BUSN1001",
+        "level": "Business Reporting and Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1102",
+        "level": "Macroeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTH1007",
+        "level": "Art and Design Histories: Making and Meaning",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "FINM2003",
+        "level": "Investments",
+        "units": "6 units"
+      },
+      {
+        "code": "MGMT3015",
+        "level": "Corporate Strategy",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "FINM2002",
+        "level": "Derivatives",
+        "units": "6 units"
+      },
+      {
+        "code": "CBE List 1 Elective",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "ECON2101",
+        "level": "Microeconomics 2(P)",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM3006",
+        "level": "Financial Intermediation and Debt Markets",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Art Theory Minor",
+        "level": "2000/3000 level course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "FINM3008",
+        "level": "Portfolio Construction",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM3005",
+        "level": "Corporate Valuation",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Art Theory Minor",
+        "level": "2000/3000 level course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2018": [
+    [
+      {
+        "code": "FINM1001",
+        "level": "Foundations of Finance",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT1008",
+        "level": "Quantitative Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "Introductory Art and Design History Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Introductory Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Compulsory Course from the List (",
+        "units": "6 units)"
+      },
+      {
+        "code": "FINM2001",
+        "level": "Corporate Finance",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTV2819",
+        "level": "Vision and Perception",
+        "units": "6 units"
+      },
+      {
+        "code": "Introductory Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT2008",
+        "level": "Regression Modelling",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Art History and Theory Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BUSN1001",
+        "level": "Business Reporting and Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1102",
+        "level": "Macroeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Art History and Theory Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "FINM2003",
+        "level": "Investments",
+        "units": "6 units"
+      },
+      {
+        "code": "Finance Major",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "FINM2002",
+        "level": "Derivatives",
+        "units": "6 units"
+      },
+      {
+        "code": "CBE List 1 Elective",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON2101",
+        "level": "Microeconomics 2(P)",
+        "units": "6 units"
+      },
+      {
+        "code": "Finance Major",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Art History and Theory Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Finance Major",
+        "units": "6 units"
+      },
+      {
+        "code": "Finance Major",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Engagement Course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2019": [
+    [
+      {
+        "code": "FINM1001",
+        "level": "Foundations of Finance",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT1008",
+        "level": "Quantitative Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "Introductory Art and Design History Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Introductory Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Compulsory Course from the List (",
+        "units": "6 units)"
+      },
+      {
+        "code": "FINM2001",
+        "level": "Corporate Finance",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTV2819"
+      },
+      {
+        "code": "Introductory Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT2008",
+        "level": "Regression Modelling",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Art History and Theory Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BUSN1001",
+        "level": "Business Reporting and Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1102",
+        "level": "Macroeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Art History and Theory Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "FINM2003",
+        "level": "Investments",
+        "units": "6 units"
+      },
+      {
+        "code": "Finance Major",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "FINM2002",
+        "level": "Derivatives",
+        "units": "6 units"
+      },
+      {
+        "code": "CBE List 1 Elective",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON2101",
+        "level": "Microeconomics 2(P)",
+        "units": "6 units"
+      },
+      {
+        "code": "Finance Major",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Art History and Theory Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Finance Major",
+        "units": "6 units"
+      },
+      {
+        "code": "Finance Major",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Engagement Course",
+        "units": "6 units"
+      }
+    ]
+  ]
+}

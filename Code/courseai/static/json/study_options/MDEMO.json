@@ -1,0 +1,243 @@
+{
+  "code": "MDEMO",
+  "2014": [],
+  "2015": [],
+  "2016": [],
+  "2017": [
+    [
+      {
+        "code": "Introductory Graduate Demography Course",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Introductory Graduate Demography Course",
+        "units": "6 units"
+      },
+      {
+        "code": "DEMO8008",
+        "level": "Principles of Population Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCR8001",
+        "level": "Statistics for Social Scientists",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Introductory Graduate Demography Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Introductory Graduate Demography Course",
+        "units": "6 units"
+      },
+      {
+        "code": "DEMO8091",
+        "level": "Population Projections and Dynamics",
+        "units": "6 units"
+      },
+      {
+        "code": "DEMO8092",
+        "level": "Demographic Modelling",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "DEMO8024",
+        "level": "Population and Society: Theory and Empirical Perspectives",
+        "units": "6 units"
+      },
+      {
+        "code": "Discipline Specific course",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Research Experience course",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Research Experience course",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "ANU Elective course",
+        "units": "6 units\r"
+      },
+      {
+        "code": "ANU Elective course",
+        "units": "6 units\r"
+      },
+      {
+        "code": "ANU Elective course",
+        "units": "6 units\r"
+      },
+      {
+        "code": "ANU Elective course",
+        "units": "6 units\r"
+      }
+    ]
+  ],
+  "2018": [
+    [
+      {
+        "code": "Introductory Graduate Demography Course",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Introductory Graduate Demography Course",
+        "units": "6 units"
+      },
+      {
+        "code": "DEMO8008",
+        "level": "Principles of Population Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCR8001",
+        "level": "Statistics for Social Scientists",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Introductory Graduate Demography Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Introductory Graduate Demography Course",
+        "units": "6 units"
+      },
+      {
+        "code": "DEMO8091",
+        "level": "Population Projections and Dynamics",
+        "units": "6 units"
+      },
+      {
+        "code": "DEMO8092",
+        "level": "Life Course Analytics",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "DEMO8024",
+        "level": "Population and Society: Theory and Empirical Perspectives",
+        "units": "6 units"
+      },
+      {
+        "code": "Discipline Specific course",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Research Experience course",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Research Experience course",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "ANU Elective course",
+        "units": "6 units\r"
+      },
+      {
+        "code": "ANU Elective course",
+        "units": "6 units\r"
+      },
+      {
+        "code": "ANU Elective course",
+        "units": "6 units\r"
+      },
+      {
+        "code": "ANU Elective course",
+        "units": "6 units\r"
+      }
+    ]
+  ],
+  "2019": [
+    [
+      {
+        "code": "Introductory Graduate Demography Course",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Introductory Graduate Demography Course",
+        "units": "6 units"
+      },
+      {
+        "code": "DEMO8008",
+        "level": "Principles of Population Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCR8001",
+        "level": "Statistics for Social Scientists",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Introductory Graduate Demography Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Introductory Graduate Demography Course",
+        "units": "6 units"
+      },
+      {
+        "code": "DEMO8091",
+        "level": "Population Projections and Dynamics",
+        "units": "6 units"
+      },
+      {
+        "code": "DEMO8092",
+        "level": "Life Course Analytics",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "DEMO8024",
+        "level": "Population and Society: Theory and Empirical Perspectives",
+        "units": "6 units"
+      },
+      {
+        "code": "Discipline Specific course",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Research Experience course",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Research Experience course",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "ANU Elective course",
+        "units": "6 units\r"
+      },
+      {
+        "code": "ANU Elective course",
+        "units": "6 units\r"
+      },
+      {
+        "code": "ANU Elective course",
+        "units": "6 units\r"
+      },
+      {
+        "code": "ANU Elective course",
+        "units": "6 units\r"
+      }
+    ]
+  ]
+}

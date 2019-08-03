@@ -1,0 +1,110 @@
+{
+  "name": "Bachelor of Languages",
+  "code": "BLANG",
+  "year": 2017,
+  "units": 144,
+  "required": {
+    "max_by_level": [
+      {
+        "type": "maximum",
+        "level": [
+          1000
+        ],
+        "units": 60
+      }
+    ],
+    "one_from_m/m/s": [
+      [
+        "ITAL-MAJ",
+        "KORE-MAJ",
+        "VIET-MAJ",
+        "FREN-MAJ",
+        "THAI-MAJ",
+        "GERM-MAJ",
+        "LATN-MAJ",
+        "PERS-MAJ",
+        "SPAH-MAJ",
+        "INDN-MAJ",
+        "AGRK-MAJ",
+        "HIND-MAJ",
+        "SANS-MAJ",
+        "JPNS-MAJ",
+        "ARAB-MAJ",
+        "CHIN-MAJ"
+      ],
+      [
+        "AITA-MIN",
+        "ASPA-MIN",
+        "ADHC-MIN",
+        "AFRE-MIN",
+        "AGER-MIN",
+        "ADHL-MIN",
+        "AAGR-MIN",
+        "ALAT-MIN"
+      ],
+      [
+        "AGRK-MIN",
+        "HIND-MIN",
+        "GERM-MIN",
+        "ITAL-MIN",
+        "URDU-MIN",
+        "SPAH-MIN",
+        "COMPF-MIN",
+        "PERS-MIN",
+        "INDN-MIN",
+        "JPNS-MIN",
+        "RUSS-MIN",
+        "JPLN-MIN",
+        "LATN-MIN",
+        "FREN-MIN",
+        "THAI-MIN",
+        "VIET-MIN",
+        "SANS-MIN",
+        "KORE-MIN",
+        "ARAB-MIN"
+      ],
+      [
+        "PERS-MIN",
+        "INDN-MIN",
+        "JPLN-MIN",
+        "THAI-MIN",
+        "VIET-MIN",
+        "AITA-MIN",
+        "ASPA-MIN",
+        "AGRK-MIN",
+        "ADHC-MIN",
+        "AGER-MIN",
+        "RUSS-MIN",
+        "LATN-MIN",
+        "SANS-MIN",
+        "SPAH-MIN",
+        "ALAT-MIN",
+        "GERM-MIN",
+        "HIND-MIN",
+        "JPNS-MIN",
+        "ADHL-MIN",
+        "AAGR-MIN",
+        "KORE-MIN",
+        "CHIN-MIN",
+        "ITAL-MIN",
+        "COMPF-MIN",
+        "FREN-MIN",
+        "URDU-MIN",
+        "ARAB-MIN"
+      ],
+      [
+        "MECA-MAJ",
+        "ASIA-MAJ",
+        "EURO-MAJ",
+        "LAMS-MAJ",
+        "ENGL-MAJ",
+        "MTSY-MAJ",
+        "PAST-MAJ",
+        "MMOD-MAJ",
+        "ICOM-MAJ",
+        "CSCI-MAJ"
+      ]
+    ],
+    "required_m/m/s": []
+  }
+}

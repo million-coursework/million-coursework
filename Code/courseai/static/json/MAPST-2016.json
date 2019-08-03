@@ -1,0 +1,63 @@
+{
+  "name": "Master of Asia-Pacific Studies",
+  "code": "MAPST",
+  "year": 2016,
+  "units": 96,
+  "required": {
+    "compulsory_courses": [
+      "ASIA8020",
+      "ASIA8021",
+      "ASIA8512"
+    ],
+    "x_from_here": [
+      {
+        "type": "minimum",
+        "units": 12,
+        "courses": [
+          "ASIA2065",
+          "ASIA2301",
+          "ASIA2302",
+          "ASIA2303",
+          "ASIA2304",
+          "ASIA2307",
+          "ASIA2308",
+          "INTR2010",
+          "INTR2010",
+          "STST2001"
+        ]
+      },
+      {
+        "type": "minimum",
+        "units": 42,
+        "courses": [
+          "ARCH6022",
+          "ASIA8051",
+          "ASIA8040",
+          "ASIA6114",
+          "ASIA6151",
+          "ASIA6516",
+          "ASIA8012",
+          "ASIA8013",
+          "ASIA8028",
+          "ASIA8038",
+          "ASIA8108",
+          "ASIA8610",
+          "ASIA8048",
+          "ASIA8049",
+          "ASIA8046",
+          "ASIA8050",
+          "ASIA8047",
+          "ASIA8513",
+          "ASIA8514",
+          "EMDV8009",
+          "INTR8058",
+          "INTR8064",
+          "PASI6005",
+          "PASI8008"
+        ]
+      }
+    ],
+    "one_from_m/m/s": [],
+    "required_m/m/s": []
+  }
+}

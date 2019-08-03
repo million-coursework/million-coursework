@@ -1,0 +1,10 @@
+{
+  "name": "Graduate Certificate of Science",
+  "code": "CSCIE",
+  "year": 2017,
+  "units": 24,
+  "required": {
+    "one_from_m/m/s": [],
+    "required_m/m/s": []
+  }
+}

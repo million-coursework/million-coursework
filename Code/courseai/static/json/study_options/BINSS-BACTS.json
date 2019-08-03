@@ -1,0 +1,653 @@
+{
+  "code": "BINSS-BACTS",
+  "2014": [],
+  "2015": [
+    [
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT1008",
+        "level": "Quantitative Research Methods",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "ECON1102",
+        "level": "Macroeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN1001",
+        "level": "Business Reporting and Analysis",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "STAT2008",
+        "level": "Regression Modelling",
+        "units": "6 units"
+      },
+      {
+        "code": "CBE List 1 elective",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "ECON2102",
+        "level": "Macroeconomics 2(P)",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1113",
+        "level": "Mathematical Foundations for Actuarial Studies",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "STAT2001",
+        "level": "Introductory Mathematical Statistics",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT2032",
+        "level": "Financial Mathematics",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "STAT3004",
+        "level": "Stochastic Modelling",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT3037",
+        "level": "Life Contingencies",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "STAT3035",
+        "level": "Risk Theory",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT3032",
+        "level": "Survival Models",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "STAT3036",
+        "level": "Credibility Theory",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT3038",
+        "level": "Actuarial Techniques",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ]
+  ],
+  "2016": [
+    [
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT1008",
+        "level": "Quantitative Research Methods",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "ECON1102",
+        "level": "Macroeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN1001",
+        "level": "Business Reporting and Analysis",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "STAT2008",
+        "level": "Regression Modelling",
+        "units": "6 units"
+      },
+      {
+        "code": "CBE List 1 elective",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "ECON2102",
+        "level": "Macroeconomics 2(P)",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1113",
+        "level": "Mathematical Foundations for Actuarial Studies",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "STAT2001",
+        "level": "Introductory Mathematical Statistics",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT2032",
+        "level": "Financial Mathematics",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "STAT3004",
+        "level": "Stochastic Modelling",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT3037",
+        "level": "Life Contingencies",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "STAT3035",
+        "level": "Risk Theory",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT3032",
+        "level": "Survival Models",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "STAT3036",
+        "level": "Credibility Theory",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT3038",
+        "level": "Actuarial Techniques",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ]
+  ],
+  "2017": [
+    [
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT1008",
+        "level": "Quantitative Research Methods",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "ECON1102",
+        "level": "Macroeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN1001",
+        "level": "Business Reporting and Analysis",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "STAT2008",
+        "level": "Regression Modelling",
+        "units": "6 units"
+      },
+      {
+        "code": "CBE List 1 elective",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "ECON2102",
+        "level": "Macroeconomics 2(P)",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1113",
+        "level": "Mathematical Foundations for Actuarial Studies",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "STAT2001",
+        "level": "Introductory Mathematical Statistics",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT2032",
+        "level": "Financial Mathematics",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "STAT2005",
+        "level": "Introduction to Stochastic Processes",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT3037",
+        "level": "Life Contingencies",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "STAT3035",
+        "level": "Risk Theory",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT3032",
+        "level": "Survival Models",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "STAT3036",
+        "level": "Credibility Theory",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT3038",
+        "level": "Actuarial Techniques",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ]
+  ],
+  "2018": [
+    [
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT1008",
+        "level": "Quantitative Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "STST1001",
+        "level": "Introduction to International Security Studies",
+        "units": "6 units"
+      },
+      {
+        "code": "Course toward completion of minor from list B"
+      }
+    ],
+    [
+      {
+        "code": "ECON1102",
+        "level": "Macroeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN1001",
+        "level": "Business Reporting and Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "STST1003",
+        "level": "Coping with Crisis: The Practice of International Security",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective"
+      }
+    ],
+    [
+      {
+        "code": "STAT2008",
+        "level": "Regression Modelling",
+        "units": "6 units"
+      },
+      {
+        "code": "CBE List 1 elective",
+        "units": "6 units"
+      },
+      {
+        "code": "STST2001",
+        "level": "International Security issues in the Asia Pacific",
+        "units": "6 units"
+      },
+      {
+        "code": "Course toward completion of minor from list B"
+      }
+    ],
+    [
+      {
+        "code": "ECON2102",
+        "level": "Macroeconomics 2(P)",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1113",
+        "level": "Mathematical Foundations for Actuarial Studies",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS2132",
+        "level": "Current Issues in International Security",
+        "units": "6 units"
+      },
+      {
+        "code": "Course toward completion of minor from list B"
+      }
+    ],
+    [
+      {
+        "code": "STAT2001",
+        "level": "Introductory Mathematical Statistics",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT2032",
+        "level": "Financial Mathematics",
+        "units": "6 units"
+      },
+      {
+        "code": "STST3002",
+        "level": "Australia's Security in the Asian Century",
+        "units": "6 units"
+      },
+      {
+        "code": "Course toward completion of minor from list B"
+      }
+    ],
+    [
+      {
+        "code": "STAT2005",
+        "level": "Introduction to Stochastic Processes",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT3037",
+        "level": "Life Contingencies",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective"
+      },
+      {
+        "code": "Elective"
+      }
+    ],
+    [
+      {
+        "code": "STAT3035",
+        "level": "Risk Theory",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT3032",
+        "level": "Survival Models",
+        "units": "6 units"
+      },
+      {
+        "code": "Course toward completion of 18 unit requirement of list A"
+      },
+      {
+        "code": "Course toward completion of 18 unit requirement of list A"
+      }
+    ],
+    [
+      {
+        "code": "STAT3036",
+        "level": "Credibility Theory",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT3038",
+        "level": "Actuarial Techniques",
+        "units": "6 units"
+      },
+      {
+        "code": "Course toward completion of 18 unit requirement of list A"
+      },
+      {
+        "code": "Elective"
+      }
+    ]
+  ],
+  "2019": [
+    [
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT1008",
+        "level": "Quantitative Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "STST1001",
+        "level": "Introduction to International Security Studies",
+        "units": "6 units"
+      },
+      {
+        "code": "Course toward completion of minor from list B"
+      }
+    ],
+    [
+      {
+        "code": "ECON1102",
+        "level": "Macroeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN1001",
+        "level": "Business Reporting and Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "STST1003",
+        "level": "Coping with Crisis: The Practice of International Security",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective"
+      }
+    ],
+    [
+      {
+        "code": "STAT2008",
+        "level": "Regression Modelling",
+        "units": "6 units"
+      },
+      {
+        "code": "CBE List 1 elective",
+        "units": "6 units"
+      },
+      {
+        "code": "STST2001",
+        "level": "International Security issues in the Asia Pacific",
+        "units": "6 units"
+      },
+      {
+        "code": "Course toward completion of minor from list B"
+      }
+    ],
+    [
+      {
+        "code": "ECON2102",
+        "level": "Macroeconomics 2(P)",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1113",
+        "level": "Mathematical Foundations for Actuarial Studies",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS2132",
+        "level": "Current Issues in International Security",
+        "units": "6 units"
+      },
+      {
+        "code": "Course toward completion of minor from list B"
+      }
+    ],
+    [
+      {
+        "code": "STAT2001",
+        "level": "Introductory Mathematical Statistics",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT2032",
+        "level": "Financial Mathematics",
+        "units": "6 units"
+      },
+      {
+        "code": "STST3002",
+        "level": "Australia's Security in the Asian Century",
+        "units": "6 units"
+      },
+      {
+        "code": "Course toward completion of minor from list B"
+      }
+    ],
+    [
+      {
+        "code": "STAT2005",
+        "level": "Introduction to Stochastic Processes",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT3037",
+        "level": "Life Contingencies",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective"
+      },
+      {
+        "code": "Elective"
+      }
+    ],
+    [
+      {
+        "code": "STAT3035",
+        "level": "Risk Theory",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT3032",
+        "level": "Survival Models",
+        "units": "6 units"
+      },
+      {
+        "code": "Course toward completion of 18 unit requirement of list A"
+      },
+      {
+        "code": "Course toward completion of 18 unit requirement of list A"
+      }
+    ],
+    [
+      {
+        "code": "STAT3036",
+        "level": "Credibility Theory",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT3038",
+        "level": "Actuarial Techniques",
+        "units": "6 units"
+      },
+      {
+        "code": "Course toward completion of 18 unit requirement of list A"
+      },
+      {
+        "code": "Elective"
+      }
+    ]
+  ]
+}

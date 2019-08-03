@@ -1,0 +1,190 @@
+{
+  "code": "4050FDD-BARTS",
+  "2014": [],
+  "2015": [
+    [
+      {
+        "code": "Arts Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Minor",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Arts Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Minor",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective Course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2016": [
+    [
+      {
+        "code": "Arts Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Minor",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Arts Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Minor",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective Course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2017": [
+    [
+      {
+        "code": "Arts Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Minor",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Arts Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Minor",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective Course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2018": [
+    [
+      {
+        "code": "-"
+      },
+      {
+        "code": "-"
+      },
+      {
+        "code": "-"
+      },
+      {
+        "code": "-"
+      }
+    ],
+    [
+      {
+        "code": "-"
+      },
+      {
+        "code": "-"
+      },
+      {
+        "code": "-"
+      },
+      {
+        "code": "-"
+      }
+    ]
+  ],
+  "2019": [
+    [
+      {
+        "code": "-"
+      },
+      {
+        "code": "-"
+      },
+      {
+        "code": "-"
+      },
+      {
+        "code": "-"
+      }
+    ],
+    [
+      {
+        "code": "-"
+      },
+      {
+        "code": "-"
+      },
+      {
+        "code": "-"
+      },
+      {
+        "code": "-"
+      }
+    ]
+  ]
+}

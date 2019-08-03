@@ -1,0 +1,80 @@
+{
+  "name": "Bachelor of International Security Studies",
+  "code": "BINSS",
+  "year": 2017,
+  "units": 144,
+  "required": {
+    "max_by_level": [
+      {
+        "type": "maximum",
+        "level": [
+          1000
+        ],
+        "units": 60
+      }
+    ],
+    "compulsory_courses": [
+      "POLS2132",
+      "STST1001",
+      "STST1003",
+      "STST2001",
+      "STST3002"
+    ],
+    "x_from_here": [
+      {
+        "type": "minimum",
+        "units": 18,
+        "courses": [
+          "ASIA2053",
+          "ASIA2060",
+          "ASIA2093",
+          "ASIA2110",
+          "HIST2141",
+          "INTR2012",
+          "INTR2014",
+          "INTR2016",
+          "INTR2018",
+          "INTR2020",
+          "INTR2024",
+          "MEAS2001",
+          "STST2124",
+          "STST2131",
+          "POLS3033",
+          "POLS3036",
+          "STST1002",
+          "STST2003",
+          "STST2004",
+          "STST3003",
+          "STST3004"
+        ]
+      }
+    ],
+    "one_from_m/m/s": [
+      [
+        "BURM-MIN",
+        "GERM-MIN",
+        "VIET-MIN",
+        "RUSS-MIN",
+        "FREN-MIN",
+        "IREL-MIN",
+        "JPNS-MIN",
+        "URDU-MIN",
+        "KORE-MIN",
+        "SANS-MIN",
+        "HIND-MIN",
+        "CHIN-MIN",
+        "INDN-MIN",
+        "TETM-MIN",
+        "HINS-MIN",
+        "PECO-MIN",
+        "PERS-MIN",
+        "MNGL-MIN",
+        "ARAB-MIN",
+        "SPAH-MIN",
+        "THAI-MIN",
+        "ITAL-MIN"
+      ]
+    ],
+    "required_m/m/s": []
+  }
+}

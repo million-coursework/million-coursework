@@ -1,0 +1,49 @@
+{
+  "name": "Master of Energy Change",
+  "code": "MENCH",
+  "year": 2017,
+  "units": 96,
+  "required": {
+    "compulsory_courses": [
+      "ENGN6516",
+      "PHYS8013"
+    ],
+    "x_from_here": [
+      {
+        "type": "minimum",
+        "units": 6,
+        "courses": [
+          "LAWS8189",
+          "POGO8212"
+        ]
+      },
+      {
+        "type": "minimum",
+        "units": 6,
+        "courses": [
+          "ENGN6410",
+          "ENVS6025"
+        ]
+      },
+      {
+        "type": "minimum",
+        "units": 6,
+        "courses": [
+          "EMDV8080",
+          "EMDV8081",
+          "IDEC8089"
+        ]
+      },
+      {
+        "type": "minimum",
+        "units": 6,
+        "courses": [
+          "ENVS6307",
+          "ENVS8003"
+        ]
+      }
+    ],
+    "one_from_m/m/s": [],
+    "required_m/m/s": []
+  }
+}

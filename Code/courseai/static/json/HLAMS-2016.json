@@ -1,0 +1,17 @@
+{
+  "name": "Bachelor of Latin American Studies (Honours)",
+  "code": "HLAMS",
+  "year": 2016,
+  "units": 48,
+  "required": {
+    "compulsory_courses": [
+      "POLS4009",
+      "POLS4010",
+      "POLS4011",
+      "THES4103",
+      "HONS4100"
+    ],
+    "one_from_m/m/s": [],
+    "required_m/m/s": []
+  }
+}

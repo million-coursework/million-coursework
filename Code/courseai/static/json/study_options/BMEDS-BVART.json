@@ -1,0 +1,1020 @@
+{
+  "code": "BMEDS-BVART",
+  "2014": [
+    [
+      {
+        "code": "CHEM1101",
+        "level": "Chemistry 1",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL1003",
+        "level": "Biology 1: Evolution, Ecology and Genetics",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTV1020",
+        "level": "Figure & Life",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTV1021",
+        "level": "Image and Object",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "CHEM1201",
+        "level": "Chemistry 2",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL1004",
+        "level": "Biology 2: Molecular and Cell Biology",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTV1022",
+        "level": "Vision and Perception",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTV1032",
+        "level": "Foundation Computer Studies",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL2161",
+        "level": "Genes: Replication and Expression",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL2103",
+        "level": "Human Physiology",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Art Theory Minor",
+        "level": "1000 level course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL2142",
+        "level": "General Microbiology",
+        "units": "6 units"
+      },
+      {
+        "code": "Science course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Art Theory Minor",
+        "level": "1000 level course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL2171",
+        "level": "Biochemistry and Nutrition",
+        "units": "6 units"
+      },
+      {
+        "code": "Science 3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL2202",
+        "level": "Experimental Design and Analysis in Biology",
+        "units": "6 units"
+      },
+      {
+        "code": "Science 3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL3141",
+        "level": "Infection and Immunity",
+        "units": "6 units"
+      },
+      {
+        "code": "Science 3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Art Theory Minor",
+        "level": "2000 level course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL3190",
+        "level": "Medical Science in the Workplace",
+        "units": "6 units"
+      },
+      {
+        "code": "Science 3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Art Theory Minor",
+        "level": "2000 level course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2015": [
+    [
+      {
+        "code": "CHEM1101",
+        "level": "Chemistry 1",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL1003",
+        "level": "Biology 1: Evolution, Ecology and Genetics",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTV1020",
+        "level": "Figure & Life",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTV1021",
+        "level": "Image and Object",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "CHEM1201",
+        "level": "Chemistry 2",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL1004",
+        "level": "Biology 2: Molecular and Cell Biology",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTV1022",
+        "level": "Vision and Perception",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTV1032",
+        "level": "Foundation Computer Studies",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL2161",
+        "level": "Genes: Replication and Expression",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL2103",
+        "level": "Human Physiology",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Art Theory Minor",
+        "level": "1000 level course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL2142",
+        "level": "General Microbiology",
+        "units": "6 units"
+      },
+      {
+        "code": "Science course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Art Theory Minor",
+        "level": "1000 level course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL2171",
+        "level": "Biochemistry and Nutrition",
+        "units": "6 units"
+      },
+      {
+        "code": "Science 3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "BIOL2202",
+        "level": "Experimental Design and Analysis in Biology",
+        "units": "6 units"
+      },
+      {
+        "code": "Science 3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "BIOL3141",
+        "level": "Infection and Immunity",
+        "units": "6 units"
+      },
+      {
+        "code": "Science 3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Art Theory Minor",
+        "level": "2000/3000 level course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL3190",
+        "level": "Medical Science in the Workplace",
+        "units": "6 units"
+      },
+      {
+        "code": "Science 3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Art Theory Minor",
+        "level": "2000/3000 level course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2016": [
+    [
+      {
+        "code": "CHEM1101",
+        "level": "Chemistry 1",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL1003",
+        "level": "Biology 1: Evolution, Ecology and Genetics",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTV1020",
+        "level": "Figure & Life",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTV1021",
+        "level": "Image and Object",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "CHEM1201",
+        "level": "Chemistry 2",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL1004",
+        "level": "Biology 2: Molecular and Cell Biology",
+        "units": "6 units"
+      },
+      {
+        "code": "DESA1022",
+        "level": "Vision and Perception",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTV1032",
+        "level": "Foundation Computer Studies",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL2161",
+        "level": "Genes: Replication and Expression",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL2103",
+        "level": "Human Physiology",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTH1006",
+        "level": "Art and Design Histories: Form and Space",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL2142",
+        "level": "General Microbiology",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL2202",
+        "level": "Some of the alternative courses to BIOL2202 listed above are in first semester which may allow greater flexibility in elective choices"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTH1007",
+        "level": "Art and Design Histories: Making and Meaning",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL2171",
+        "level": "Biochemistry and Nutrition",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL2151, BIOL3162, BIOL2174",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "BIOL3190",
+        "level": "Medical Science in the Workplace",
+        "units": "6 units"
+      },
+      {
+        "code": "B Med Science 3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "BIOL3141",
+        "level": "Infection and Immunity",
+        "units": "6 units"
+      },
+      {
+        "code": "B Med Science 3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Art Theory Minor",
+        "level": "2000/3000 level course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "B Med Science 3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "B Med Science 3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Art Theory Minor",
+        "level": "2000/3000 level course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2017": [
+    [
+      {
+        "code": "CHEM1101",
+        "level": "Chemistry 1",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL1003",
+        "level": "Biology 1: Evolution, Ecology and Genetics",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTV1020",
+        "level": "Figure & Life",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTV1021",
+        "level": "Image and Object",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "CHEM1201",
+        "level": "Chemistry 2",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL1004",
+        "level": "Biology 2: Molecular and Cell Biology",
+        "units": "6 units"
+      },
+      {
+        "code": "DESA1022",
+        "level": "Vision and Perception",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTV1032",
+        "level": "Foundation Computer Studies",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL2161",
+        "level": "Genes: Replication and Expression",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL2171",
+        "level": "Biochemistry and Nutrition",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTH1006",
+        "level": "Art and Design Histories: Form and Space",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL2142",
+        "level": "General Microbiology",
+        "units": "6 units"
+      },
+      {
+        "code": "2000 level B.MedSc elective from list",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTH1007",
+        "level": "Art and Design Histories: Making and Meaning",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "B.MedSc elective from list",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL3141",
+        "level": "Infection and Immunity",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "2000 level B.MedSc elective from list",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL3190",
+        "level": "Medical Science in the Workplace",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "BIOL3006",
+        "level": "Human Physiology",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level B.MedSc elective from list",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Art Theory Minor",
+        "level": "2000/3000 level course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "3000 level B.MedSc elective from list",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level Science elective",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Art Theory Minor",
+        "level": "2000/3000 level course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2018": [
+    [
+      {
+        "code": "CHEM1101",
+        "level": "Chemistry 1",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL1003",
+        "level": "Biology 1: Evolution, Ecology and Genetics",
+        "units": "6 units"
+      },
+      {
+        "code": "Introductory Art and Design History Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Introductory Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "CHEM1201",
+        "level": "Chemistry 2",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL1004",
+        "level": "Biology 2: Molecular and Cell Biology",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTV2819",
+        "level": "Vision and Perception",
+        "units": "6 units"
+      },
+      {
+        "code": "Introductory Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL2161",
+        "level": "Genes: Replication and Expression",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL2171",
+        "level": "Biochemistry and Nutrition",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Art History and Theory Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL2142",
+        "level": "General Microbiology",
+        "units": "6 units"
+      },
+      {
+        "code": "2000 level B.MedSc elective from list",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Art History and Theory Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "B.MedSc elective from list",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL3141",
+        "level": "Infection and Immunity",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "2000 level B.MedSc elective from list",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL3190",
+        "level": "Medical Science in the Workplace",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL3006",
+        "level": "Human Physiology",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level B.MedSc elective from list",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Art History and Theory Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "3000 level B.MedSc elective from list",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level Science elective",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Engagement Course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2019": [
+    [
+      {
+        "code": "CHEM1101",
+        "level": "Chemistry 1",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL1003",
+        "level": "Biology 1: Evolution, Ecology and Genetics",
+        "units": "6 units"
+      },
+      {
+        "code": "Introductory Art and Design History Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Introductory Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "CHEM1201",
+        "level": "Chemistry 2",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL1004",
+        "level": "Biology 2: Molecular and Cell Biology",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTV2819"
+      },
+      {
+        "code": "Introductory Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL2161",
+        "level": "Genes: Replication and Expression",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL2171",
+        "level": "Biochemistry and Nutrition",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Art History and Theory Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL2142",
+        "level": "General Microbiology",
+        "units": "6 units"
+      },
+      {
+        "code": "2000 level B.MedSc elective from list",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Art History and Theory Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "MEDN2001",
+        "level": "Medical Physiology and Pharmacology",
+        "units": "6 units"
+      },
+      {
+        "code": "2000 level B.MedSc elective from list",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "3000 level B.MedSc elective from list",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL3190",
+        "level": "Medical Science in the Workplace",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "3000 level B.MedSc elective from list",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level B.MedSc elective from list",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Art History and Theory Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "3000 level B.MedSc elective from list",
+        "units": "6 units"
+      },
+      {
+        "code": "B.MedSc elective from list",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Engagement Course",
+        "units": "6 units"
+      }
+    ]
+  ]
+}

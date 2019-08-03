@@ -1,0 +1,10 @@
+{
+  "name": "Graduate Certificate in Public Administration",
+  "code": "6908XGCPA",
+  "year": 2014,
+  "units": 24,
+  "required": {
+    "one_from_m/m/s": [],
+    "required_m/m/s": []
+  }
+}

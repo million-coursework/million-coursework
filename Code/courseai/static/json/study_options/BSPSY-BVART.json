@@ -1,0 +1,1019 @@
+{
+  "code": "BSPSY-BVART",
+  "2014": [
+    [
+      {
+        "code": "PSYC1003",
+        "level": "Psychology 1: Understanding Mind, Brain and Behaviour",
+        "units": "6 units"
+      },
+      {
+        "code": "Science course",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTV1020",
+        "level": "Figure & Life",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTV1021",
+        "level": "Image and Object",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "PSYC1004",
+        "level": "Psychology 2: Understanding People in Context",
+        "units": "6 units"
+      },
+      {
+        "code": "Science course",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTV1022",
+        "level": "Vision and Perception",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTV1032",
+        "level": "Foundation Computer Studies",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "PSYC2009",
+        "level": "Quantitative Methods in Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2007",
+        "level": "Biological Basis of Behaviour",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Art Theory Minor",
+        "level": "1000 level course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "PSYC2001",
+        "level": "Social Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2008",
+        "level": "Visual Perception and Cognition",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Art Theory Minor",
+        "level": "1000 level course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "PSYC2002",
+        "level": "Developmental Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3025",
+        "level": "Abnormal Psychology across the Life Span",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Science course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3018",
+        "level": "Advanced Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "PSYC 3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3026",
+        "level": "Personality Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Art Theory Minor",
+        "level": "2000 level course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "PSYC 3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC 3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Art Theory Minor",
+        "level": "2000 level course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2015": [
+    [
+      {
+        "code": "PSYC1003",
+        "level": "Psychology 1: Understanding Mind, Brain and Behaviour",
+        "units": "6 units"
+      },
+      {
+        "code": "Science course",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTV1020",
+        "level": "Figure & Life",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTV1021",
+        "level": "Image and Object",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "PSYC1004",
+        "level": "Psychology 2: Understanding People in Context",
+        "units": "6 units"
+      },
+      {
+        "code": "Science course",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTV1022",
+        "level": "Vision and Perception",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTV1032",
+        "level": "Foundation Computer Studies",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "PSYC2009",
+        "level": "Quantitative Methods in Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2007",
+        "level": "Biological Basis of Behaviour",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Art Theory Minor",
+        "level": "1000 level course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "PSYC2001",
+        "level": "Social Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2008",
+        "level": "Visual Perception and Cognition",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Art Theory Minor",
+        "level": "1000 level course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "PSYC2002",
+        "level": "Developmental Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "Science course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "PSYC3025",
+        "level": "Abnormal Psychology across the Life Span",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3018",
+        "level": "Advanced Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "PSYC3026",
+        "level": "Personality Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC 3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Art Theory Minor",
+        "level": "2000/3000 level course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "PSYC 3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC 3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Art Theory Minor",
+        "level": "2000/3000 level course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2016": [
+    [
+      {
+        "code": "PSYC1003",
+        "level": "Psychology 1: Understanding Mind, Brain and Behaviour",
+        "units": "6 units"
+      },
+      {
+        "code": "Science course",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTV1020",
+        "level": "Figure & Life",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTV1021",
+        "level": "Image and Object",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "PSYC1004",
+        "level": "Psychology 2: Understanding People in Context",
+        "units": "6 units"
+      },
+      {
+        "code": "Science course",
+        "units": "6 units"
+      },
+      {
+        "code": "DESA1022",
+        "level": "Vision and Perception",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTV1032",
+        "level": "Foundation Computer Studies",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "PSYC2009",
+        "level": "Quantitative Methods in Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2007",
+        "level": "Biological Basis of Behaviour",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTH1006",
+        "level": "Art and Design Histories: Form and Space",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "PSYC2001",
+        "level": "Social Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2008",
+        "level": "Cognition",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTH1007",
+        "level": "Art and Design Histories: Making and Meaning",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "PSYC2002",
+        "level": "Developmental Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "Science course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "PSYC3025",
+        "level": "Abnormal Psychology across the Life Span",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3018",
+        "level": "Advanced Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "PSYC3026",
+        "level": "Personality Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC 3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Art Theory Minor",
+        "level": "2000/3000 level course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "PSYC 3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC 3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Art Theory Minor",
+        "level": "2000/3000 level course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2017": [
+    [
+      {
+        "code": "PSYC1003",
+        "level": "Psychology 1: Understanding Mind, Brain and Behaviour",
+        "units": "6 units"
+      },
+      {
+        "code": "1000 level Science elective",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTV1020",
+        "level": "Figure & Life",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTV1021",
+        "level": "Image and Object",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "PSYC1004",
+        "level": "Psychology 2: Understanding People in Context",
+        "units": "6 units"
+      },
+      {
+        "code": "1000 level Science elective",
+        "units": "6 units"
+      },
+      {
+        "code": "DESA1022",
+        "level": "Vision and Perception",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTV1032",
+        "level": "Foundation Computer Studies",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "PSYC2009",
+        "level": "Quantitative Methods in Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2002",
+        "level": "Developmental Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTH1006",
+        "level": "Art and Design Histories: Form and Space",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "PSYC2001",
+        "level": "Social Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2008",
+        "level": "Cognition",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTH1007",
+        "level": "Art and Design Histories: Making and Meaning",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "3000 level PSYC course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science elective",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "PSYC2007",
+        "level": "Biological Basis of Behaviour",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3018",
+        "level": "Advanced Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "PSYC3025",
+        "level": "Abnormal Psychology across the Life Span",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level PSYC course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Art Theory Minor",
+        "level": "2000/3000 level course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "PSYC3026",
+        "level": "Personality Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level PSYC course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Art Theory Minor",
+        "level": "2000/3000 level course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2018": [
+    [
+      {
+        "code": "PSYC1003",
+        "level": "Psychology 1: Understanding Mind, Brain and Behaviour",
+        "units": "6 units"
+      },
+      {
+        "code": "1000 level Science elective",
+        "units": "6 units"
+      },
+      {
+        "code": "Introductory Art and Design History Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Introductory Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "PSYC1004",
+        "level": "Psychology 2: Understanding People in Context",
+        "units": "6 units"
+      },
+      {
+        "code": "1000 level Science elective",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTV2819",
+        "level": "Vision and Perception",
+        "units": "6 units"
+      },
+      {
+        "code": "Introductory Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "PSYC2009",
+        "level": "Quantitative Methods in Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2002",
+        "level": "Developmental Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Art History and Theory Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "PSYC2001",
+        "level": "Social Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2008",
+        "level": "Cognition",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Art History and Theory Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "3000 level PSYC course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science elective",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "PSYC2007",
+        "level": "Biological Basis of Behaviour",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3018",
+        "level": "Advanced Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "PSYC3025",
+        "level": "Psychopathology Across the Lifespan",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level PSYC course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Art History and Theory Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "PSYC3026",
+        "level": "Personality Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level PSYC course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Engagement Course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2019": [
+    [
+      {
+        "code": "PSYC1003",
+        "level": "Psychology 1: Understanding Mind, Brain and Behaviour",
+        "units": "6 units"
+      },
+      {
+        "code": "1000 level Science elective",
+        "units": "6 units"
+      },
+      {
+        "code": "Introductory Art and Design History Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Introductory Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "PSYC1004",
+        "level": "Psychology 2: Understanding People in Context",
+        "units": "6 units"
+      },
+      {
+        "code": "1000 level Science elective",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTV2819"
+      },
+      {
+        "code": "Introductory Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "PSYC2009",
+        "level": "Quantitative Methods in Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2002",
+        "level": "Developmental Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Art History and Theory Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "PSYC2001",
+        "level": "Social Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2008",
+        "level": "Cognition",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Art History and Theory Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "3000 level PSYC course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science elective",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "PSYC2007",
+        "level": "Biological Basis of Behaviour",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3018",
+        "level": "Advanced Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "PSYC3025",
+        "level": "Psychopathology Across the Lifespan",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level PSYC course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Art History and Theory Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "PSYC3026",
+        "level": "Personality Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level PSYC course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Engagement Course",
+        "units": "6 units"
+      }
+    ]
+  ]
+}

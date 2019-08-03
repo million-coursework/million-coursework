@@ -1,0 +1,522 @@
+{
+  "code": "BADAN-BPPE",
+  "2014": [],
+  "2015": [],
+  "2016": [],
+  "2017": [
+    [
+      {
+        "code": "COMP1030",
+        "level": "Art of Computing",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT1003",
+        "level": "Statistical Techniques",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1002",
+        "level": "Introduction to Politics",
+        "units": "6 units"
+      },
+      {
+        "code": "PHIL1004",
+        "level": "Fundamental Ideas in Philosophy: An Introduction",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "SOCR1001",
+        "level": "Foundations of Social Research",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP1040",
+        "level": "The Craft of Computing",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1009",
+        "level": "Research and Writing in Political Science",
+        "units": "6 units"
+      },
+      {
+        "code": "PHIL1005",
+        "level": "Logic and Critical Thinking",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "DEMO2002",
+        "level": "Population Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP3425",
+        "level": "Data Mining",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Politics list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "COMP2400",
+        "level": "Relational Databases",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1113",
+        "level": "Mathematical Foundations for Actuarial Studies",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1008",
+        "level": "PPE Integrative Seminar Year 1: Puzzles in Politics, Philosophy and Economics",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Philosophy list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "SOCY2166",
+        "level": "Social Science of the Internet",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT2001",
+        "level": "Introductory Mathematical Statistics",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON2101",
+        "level": "Microeconomics 2(P)",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Economics list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "COMP3430",
+        "level": "Data Wrangling",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY2169",
+        "level": "Online Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "PHIL2116",
+        "level": "PPE Integrative Seminar Year 2",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Politics list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "STAT2008",
+        "level": "Regression Modelling",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT3040",
+        "level": "Statistical Learning",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Philosophy list Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ANIP/ECON/PHIL/POLS",
+        "level": "2000/3000 Level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "SOCR3001",
+        "level": "Data for Decision Making",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT3011",
+        "level": "Graphical Data Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON3056",
+        "level": "PPE Integrative Seminar Year 3: Classic Literature in PPE",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Economics list Course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2018": [
+    [
+      {
+        "code": "COMP1100",
+        "level": "Programming as Problem Solving",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT1003",
+        "level": "Statistical Techniques",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1002",
+        "level": "Introduction to Politics",
+        "units": "6 units"
+      },
+      {
+        "code": "PHIL1004",
+        "level": "Fundamental Ideas in Philosophy: An Introduction",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "SOCR1001",
+        "level": "Foundations of Social Research",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP1110",
+        "level": "Structured Programming",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1009",
+        "level": "Research and Writing in Political Science",
+        "units": "6 units"
+      },
+      {
+        "code": "PHIL1005",
+        "level": "Logic and Critical Thinking",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "DEMO2002",
+        "level": "Population Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP3425",
+        "level": "Data Mining",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Politics list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "COMP2400",
+        "level": "Relational Databases",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1113",
+        "level": "Mathematical Foundations for Actuarial Studies",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1008",
+        "level": "PPE Integration 1",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Philosophy list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "SOCY2166",
+        "level": "Social Science of the Internet",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT2001",
+        "level": "Introductory Mathematical Statistics",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON2101",
+        "level": "Microeconomics 2(P)",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Economics list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "COMP3430",
+        "level": "Data Wrangling",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY2169",
+        "level": "Online Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "PHIL2116",
+        "level": "PPE Integration 2",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Politics list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "STAT2008",
+        "level": "Regression Modelling",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT3040",
+        "level": "Statistical Learning",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Philosophy list Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ANIP/ECON/PHIL/POLS",
+        "level": "2000/3000 Level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "SOCR3001",
+        "level": "Data for Decision Making",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT3011",
+        "level": "Graphical Data Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON3056",
+        "level": "PPE Integration 3: Classic Literature in PPE",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Economics list Course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2019": [
+    [
+      {
+        "code": "COMP1100",
+        "level": "Programming as Problem Solving",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT1003",
+        "level": "Statistical Techniques",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1002",
+        "level": "Introduction to Politics",
+        "units": "6 units"
+      },
+      {
+        "code": "PHIL1004",
+        "level": "Fundamental Ideas in Philosophy: An Introduction",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "SOCR1001",
+        "level": "Foundations of Social Research",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP1110",
+        "level": "Structured Programming",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1009",
+        "level": "Research and Writing in Political Science",
+        "units": "6 units"
+      },
+      {
+        "code": "PHIL1005",
+        "level": "Logic and Critical Thinking",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "DEMO2002",
+        "level": "Population Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP3425",
+        "level": "Data Mining",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Politics list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "COMP2400",
+        "level": "Relational Databases",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1113",
+        "level": "Mathematical Foundations for Actuarial Studies",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1008",
+        "level": "PPE Integration 1",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Philosophy list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "SOCY2166",
+        "level": "Social Science of the Internet",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT2001",
+        "level": "Introductory Mathematical Statistics",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON2101",
+        "level": "Microeconomics 2(P)",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Economics list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "COMP3430",
+        "level": "Data Wrangling",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY2169",
+        "level": "Online Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "PHIL2116",
+        "level": "PPE Integration 2",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Politics list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "STAT2008",
+        "level": "Regression Modelling",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT3040",
+        "level": "Statistical Learning",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Philosophy list Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ANIP/ECON/PHIL/POLS",
+        "level": "2000/3000 Level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "SOCR3001",
+        "level": "Data for Decision Making",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT3011",
+        "level": "Graphical Data Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON3056",
+        "level": "PPE Integration 3: Classic Literature in PPE",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Economics list Course",
+        "units": "6 units"
+      }
+    ]
+  ]
+}

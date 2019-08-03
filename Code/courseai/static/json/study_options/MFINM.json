@@ -1,0 +1,234 @@
+{
+  "code": "MFINM",
+  "2014": [],
+  "2015": [
+    [
+      {
+        "code": "BUSN7008",
+        "level": "Financial Statements and Reporting",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM7006",
+        "level": "Foundations of Finance",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT7055",
+        "level": "Introductory Statistics for Business and Finance",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM7007",
+        "level": "Applied Corporate Finance",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "FINM7008",
+        "level": "Applied Investments",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM7044",
+        "level": "Applied Valuation",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM8007",
+        "level": "Topics in International Finance",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM8016",
+        "level": "Portfolio Construction",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2016": [
+    [
+      {
+        "code": "BUSN7008",
+        "level": "Financial Statements and Reporting",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM7006",
+        "level": "Applied Foundations of Finance",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT7055",
+        "level": "Introductory Statistics for Business and Finance",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM7007",
+        "level": "Applied Corporate Finance",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "FINM7008",
+        "level": "Applied Investments",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM7044",
+        "level": "Applied Valuation",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM8007",
+        "level": "Topics in International Finance",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM8016",
+        "level": "Portfolio Construction",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2017": [
+    [
+      {
+        "code": "BUSN7008",
+        "level": "Financial Statements and Reporting",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM7006",
+        "level": "Applied Foundations of Finance",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT7055",
+        "level": "Introductory Statistics for Business and Finance",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON8069",
+        "level": "Business Economics",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "FINM7007",
+        "level": "Applied Corporate Finance",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM7008",
+        "level": "Applied Investments",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM8007",
+        "level": "Topics in International Finance",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT6038",
+        "level": "Regression Modelling",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2018": [
+    [
+      {
+        "code": "BUSN7008",
+        "level": "Financial Statements and Reporting",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM7006",
+        "level": "Applied Foundations of Finance",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT7055",
+        "level": "Introductory Statistics for Business and Finance",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON8069",
+        "level": "Business Economics",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "FINM7007",
+        "level": "Applied Corporate Finance",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM7008",
+        "level": "Applied Investments",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM8007",
+        "level": "Topics in International Finance",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT6038",
+        "level": "Regression Modelling",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2019": [
+    [
+      {
+        "code": "BUSN7008",
+        "level": "Financial Statements and Reporting",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM7006",
+        "level": "Applied Foundations of Finance",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT7055",
+        "level": "Introductory Statistics for Business and Finance",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON8069",
+        "level": "Business Economics",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "FINM7007",
+        "level": "Applied Corporate Finance",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM7008",
+        "level": "Applied Investments",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM8007",
+        "level": "Topics in International Finance",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT6038",
+        "level": "Regression Modelling",
+        "units": "6 units"
+      }
+    ]
+  ]
+}

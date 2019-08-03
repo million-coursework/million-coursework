@@ -1,0 +1,487 @@
+{
+  "code": "BEURO-BSC",
+  "2014": [
+    [
+      {
+        "code": "Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective",
+        "level": "1000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective",
+        "level": "1000 level Course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2015": [
+    [
+      {
+        "code": "Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective",
+        "level": "1000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective",
+        "level": "1000 level Course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2016": [
+    [
+      {
+        "code": "Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective",
+        "level": "1000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective",
+        "level": "1000 level Course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2017": [
+    [
+      {
+        "code": "Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective",
+        "level": "1000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective",
+        "level": "1000 level Course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2018": [
+    [
+      {
+        "code": "HIST1214",
+        "level": "Clash of Empires: 1450 to the Present",
+        "units": "6 units"
+      },
+      {
+        "code": "Language Major Course",
+        "units": "6 units"
+      },
+      {
+        "code": "1000 level course Science Major",
+        "units": "6 units"
+      },
+      {
+        "code": "1000 level Science elective or minor course",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "EURO1004",
+        "level": "Europe in the Modern Era",
+        "units": "6 units"
+      },
+      {
+        "code": "Language Major Course",
+        "units": "6 units"
+      },
+      {
+        "code": "1000 level course Science Major",
+        "units": "6 units"
+      },
+      {
+        "code": "1000 level Science elective or minor course",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "EURO2012",
+        "level": "Uniting Europe: history, politics, theory",
+        "units": "6 units"
+      },
+      {
+        "code": "Language Major Course",
+        "units": "6 units"
+      },
+      {
+        "code": "2000 level course Science Major",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Science elective",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "European History Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Language Major Course",
+        "units": "6 units"
+      },
+      {
+        "code": "2000 level course Science Major",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Science elective or minor or specialisation course",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "European History Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Language Major Course",
+        "units": "6 units"
+      },
+      {
+        "code": "2000 level course Science Major",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Science elective or minor or specialisation course",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "EURO3002",
+        "level": "Comparative European Politics",
+        "units": "6 units"
+      },
+      {
+        "code": "Language Major Course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level course Science Major",
+        "units": "6 units\r"
+      },
+      {
+        "code": "3000 level Science elective or specialisation course",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "Contemporary Europe Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Language Major Course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level course Science Major",
+        "units": "6 units\r"
+      },
+      {
+        "code": "3000 level course Science elective",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "Contemporary Europe Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Language Major Course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level course Science Major",
+        "units": "6 units\r"
+      },
+      {
+        "code": "3000 level Science elective or specialisation course",
+        "units": "6 units\r"
+      }
+    ]
+  ],
+  "2019": [
+    [
+      {
+        "code": "HIST1214",
+        "level": "Clash of Empires: 1450 to the Present",
+        "units": "6 units"
+      },
+      {
+        "code": "Language Major Course",
+        "units": "6 units"
+      },
+      {
+        "code": "1000 level course Science Major",
+        "units": "6 units"
+      },
+      {
+        "code": "1000 level Science elective or minor course",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "EURO1004",
+        "level": "Europe in the Modern Era",
+        "units": "6 units"
+      },
+      {
+        "code": "Language Major Course",
+        "units": "6 units"
+      },
+      {
+        "code": "1000 level course Science Major",
+        "units": "6 units"
+      },
+      {
+        "code": "1000 level Science elective or minor course",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "EURO2012",
+        "level": "Uniting Europe: history, politics, theory",
+        "units": "6 units"
+      },
+      {
+        "code": "Language Major Course",
+        "units": "6 units"
+      },
+      {
+        "code": "2000 level course Science Major",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Science elective",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "European History Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Language Major Course",
+        "units": "6 units"
+      },
+      {
+        "code": "2000 level course Science Major",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Science elective or minor or specialisation course",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "European History Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Language Major Course",
+        "units": "6 units"
+      },
+      {
+        "code": "2000 level course Science Major",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Science elective or minor or specialisation course",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "EURO3002",
+        "level": "Comparative European Politics",
+        "units": "6 units"
+      },
+      {
+        "code": "Language Major Course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level course Science Major",
+        "units": "6 units\r"
+      },
+      {
+        "code": "3000 level Science elective or specialisation course",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "Contemporary Europe Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Language Major Course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level course Science Major",
+        "units": "6 units\r"
+      },
+      {
+        "code": "3000 level course Science elective",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "Contemporary Europe Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Language Major Course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level course Science Major",
+        "units": "6 units\r"
+      },
+      {
+        "code": "3000 level Science elective or specialisation course",
+        "units": "6 units\r"
+      }
+    ]
+  ]
+}

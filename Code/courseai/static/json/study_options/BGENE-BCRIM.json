@@ -1,0 +1,955 @@
+{
+  "code": "BGENE-BCRIM",
+  "2014": [
+    [
+      {
+        "code": "SOCY1002",
+        "level": "Self and Society",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY2156"
+      },
+      {
+        "code": "CHEM1101",
+        "level": "Chemistry 1",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL1003",
+        "level": "Biology 1: Evolution, Ecology and Genetics",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "SOCY1004",
+        "level": "Introduction to Social Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2011",
+        "level": "Perspectives on Crime from Psychology and Criminology",
+        "units": "6 units"
+      },
+      {
+        "code": "CHEM1201",
+        "level": "Chemistry 2",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL1004",
+        "level": "Biology 2: Molecular and Cell Biology",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "SOCY2062",
+        "level": "Dimensions of Crime: Identifying and Controlling Offenders",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY2038",
+        "level": "Introduction to Quantitative Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL2161",
+        "level": "Genes: Replication and Expression",
+        "units": "6 units"
+      },
+      {
+        "code": "Science course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "SOCY2043",
+        "level": "Qualitative Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "BIAN2128",
+        "level": "Forensic Anthropology and Archaeology",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL2162",
+        "level": "Molecular Gene Technology",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL2151",
+        "level": "Principles of Genetics",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "SOCY3016",
+        "level": "Controversies in Crime Control",
+        "units": "6 units"
+      },
+      {
+        "code": "PHIL2020",
+        "level": "Theories of Social Justice",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL3161",
+        "level": "Genomics and its Applications",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL3204",
+        "level": "Human Genetics",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "SOCY2157",
+        "level": "Surveillance and Society",
+        "units": "6 units"
+      },
+      {
+        "code": "ANTH2130",
+        "level": "Violence and Terror",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level Science course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level Science course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Core Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Core Course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level Science course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level Science course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Core Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Core Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2015": [
+    [
+      {
+        "code": "SOCY1002",
+        "level": "Self and Society",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY2156"
+      },
+      {
+        "code": "CHEM1101",
+        "level": "Chemistry 1",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL1003",
+        "level": "Biology 1: Evolution, Ecology and Genetics",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "SOCY1004",
+        "level": "Introduction to Social Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2011",
+        "level": "Introduction to Forensic and Criminal Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "CHEM1201",
+        "level": "Chemistry 2",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL1004",
+        "level": "Biology 2: Molecular and Cell Biology",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "SOCY2062"
+      },
+      {
+        "code": "SOCY2038",
+        "level": "Introduction to Quantitative Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL2161",
+        "level": "Genes: Replication and Expression",
+        "units": "6 units"
+      },
+      {
+        "code": "Science course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "SOCY2043",
+        "level": "Qualitative Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "BIAN2128",
+        "level": "Forensic Anthropology and Archaeology",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL2162",
+        "level": "Molecular Gene Technology",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL2151",
+        "level": "Principles of Genetics",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "SOCY3016"
+      },
+      {
+        "code": "PHIL2020",
+        "level": "Theories of Social Justice",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL3161",
+        "level": "Genomics and its Applications",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL3204",
+        "level": "Human Genetics",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "SOCY2157",
+        "level": "Surveillance and Society",
+        "units": "6 units"
+      },
+      {
+        "code": "ANTH2130",
+        "level": "Violence and Terror",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level Science course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level Science course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Core Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Core Course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level Science course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level Science course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Core Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Core Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2016": [
+    [
+      {
+        "code": "CRIM1001",
+        "level": "The Criminological Imagination: Theory and Understanding",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY1002",
+        "level": "Self and Society",
+        "units": "6 units"
+      },
+      {
+        "code": "CHEM1101",
+        "level": "Chemistry 1",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL1003",
+        "level": "Biology 1: Evolution, Ecology and Genetics",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "PSYC2011",
+        "level": "Introduction to Forensic and Criminal Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY2043",
+        "level": "Introduction to Qualitative Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "CHEM1201",
+        "level": "Chemistry 2",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL1004",
+        "level": "Biology 2: Molecular and Cell Biology",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "SOCY2038",
+        "level": "Introduction to Quantitative Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "CRIM2003",
+        "level": "Controversies in Crime Control",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL2161",
+        "level": "Genes: Replication and Expression",
+        "units": "6 units"
+      },
+      {
+        "code": "Science course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "CRIM2001",
+        "level": "Doing Criminology: Research and Practice in Crime and Criminal Justice",
+        "units": "6 units"
+      },
+      {
+        "code": "CRIM3001",
+        "level": "Criminal Behaviour",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL2162",
+        "level": "Molecular Gene Technology",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL2151",
+        "level": "Principles of Genetics",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "units": "6 units from BCRIM 36 units List"
+      },
+      {
+        "units": "6 units from BCRIM 36 units List"
+      },
+      {
+        "code": "BIOL3161",
+        "level": "Genomics and its Applications",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL3204",
+        "level": "Human Genetics",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "units": "6 units from BCRIM 36 units List"
+      },
+      {
+        "units": "6 units from BCRIM 36 units List"
+      },
+      {
+        "code": "3000 level Science course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level Science course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "units": "6 units from BCRIM 36 units List"
+      },
+      {
+        "units": "6 units from BCRIM 36 units List"
+      },
+      {
+        "code": "3000 level Science course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level Science course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "units": "6 units from BCRIM 36 units List or 12 units List"
+      },
+      {
+        "units": "6 units from BCRIM 36 units List or 12 units List"
+      },
+      {
+        "code": "Science course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2017": [
+    [
+      {
+        "code": "CRIM1001",
+        "level": "The Criminological Imagination: Theory and Understanding",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY1002",
+        "level": "Self and Society",
+        "units": "6 units"
+      },
+      {
+        "code": "CHEM1101",
+        "level": "Chemistry 1",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL1003",
+        "level": "Biology 1: Evolution, Ecology and Genetics",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "PSYC2011",
+        "level": "Introduction to Forensic and Criminal Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY2043",
+        "level": "Introduction to Qualitative Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "CHEM1201",
+        "level": "Chemistry 2",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL1004",
+        "level": "Biology 2: Molecular and Cell Biology",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "SOCY2038",
+        "level": "Introduction to Quantitative Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "CRIM2003",
+        "level": "Controversies in Crime Control",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT1003 Statistical Techniques or STAT1008 Quantitative Research Methods or BIOL2001",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL2161",
+        "level": "Genes: Replication and Expression",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "CRIM2001",
+        "level": "Doing Criminology: Research and Practice in Crime and Criminal Justice",
+        "units": "6 units"
+      },
+      {
+        "code": "CRIM3001",
+        "level": "Criminal Behaviour",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL1009 Diversity of Life or COMP1100 Programming as Problem Solving",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL2202",
+        "level": "Experimental Design and Analysis in Biology",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "units": "6 units from BCRIM 36 units List"
+      },
+      {
+        "units": "6 units from BCRIM 36 units List"
+      },
+      {
+        "code": "BIOL2151",
+        "level": "Genetics",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level B.Genetics elective from the list",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "units": "6 units from BCRIM 36 units List"
+      },
+      {
+        "units": "6 units from BCRIM 36 units List"
+      },
+      {
+        "code": "BIOL3157",
+        "level": "Bioinformatics and Functional Genomics",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL2162",
+        "level": "Molecular Gene Technology",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "units": "6 units from BCRIM 36 units List"
+      },
+      {
+        "units": "6 units from BCRIM 36 units List"
+      },
+      {
+        "code": "BIOL3161",
+        "level": "Genomics and its Applications",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL3204",
+        "level": "Genetics of Human Disease 1",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "units": "6 units from BCRIM 36 units List or 12 units List"
+      },
+      {
+        "units": "6 units from BCRIM 36 units List or 12 units List"
+      },
+      {
+        "code": "3000 level B.Genetics elective from the list",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level B.Genetics elective from the list",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2018": [
+    [
+      {
+        "code": "CRIM1001",
+        "level": "The Criminological Imagination: Theory and Understanding",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY1002",
+        "level": "Self and Society",
+        "units": "6 units"
+      },
+      {
+        "code": "CHEM1101",
+        "level": "Chemistry 1",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL1003",
+        "level": "Biology 1: Evolution, Ecology and Genetics",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "PSYC2011",
+        "level": "Introduction to Forensic and Criminal Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY2043",
+        "level": "Introduction to Qualitative Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "CHEM1201",
+        "level": "Chemistry 2",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL1004",
+        "level": "Biology 2: Molecular and Cell Biology",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "SOCY2038",
+        "level": "Introduction to Quantitative Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "CRIM2003",
+        "level": "Controversies in Crime Control",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT1003 Statistical Techniques or STAT1008 Quantitative Research Methods or BIOL2001",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL2161",
+        "level": "Genes: Replication and Expression",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "CRIM2001",
+        "level": "Doing Criminology: Research and Practice in Crime and Criminal Justice",
+        "units": "6 units"
+      },
+      {
+        "code": "CRIM3001",
+        "level": "Criminal Behaviour",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL1009 Diversity of Life or COMP1100 Programming as Problem Solving",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL2202",
+        "level": "Experimental Design and Analysis in Biology",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "units": "6 units from BCRIM 36 units List"
+      },
+      {
+        "units": "6 units from BCRIM 36 units List"
+      },
+      {
+        "code": "BIOL2151",
+        "level": "Genetics",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level B.Genetics elective from the list",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "units": "6 units from BCRIM 36 units List"
+      },
+      {
+        "units": "6 units from BCRIM 36 units List"
+      },
+      {
+        "code": "BIOL3157",
+        "level": "Bioinformatics and Functional Genomics",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL2162",
+        "level": "Molecular Gene Technology",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "units": "6 units from BCRIM 36 units List"
+      },
+      {
+        "units": "6 units from BCRIM 36 units List"
+      },
+      {
+        "code": "BIOL3161",
+        "level": "Genomics and its Applications",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL3204",
+        "level": "Genetics of Human Disease 1",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "units": "6 units from BCRIM 36 units List or 12 units List"
+      },
+      {
+        "units": "6 units from BCRIM 36 units List or 12 units List"
+      },
+      {
+        "code": "3000 level B.Genetics elective from the list",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level B.Genetics elective from the list",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2019": [
+    [
+      {
+        "code": "CRIM1001",
+        "level": "The Criminological Imagination: Theory and Understanding",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY1002",
+        "level": "Self and Society",
+        "units": "6 units"
+      },
+      {
+        "code": "CHEM1101",
+        "level": "Chemistry 1",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL1003",
+        "level": "Biology 1: Evolution, Ecology and Genetics",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "PSYC2011",
+        "level": "Introduction to Forensic and Criminal Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY2043",
+        "level": "Introduction to Qualitative Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "CHEM1201",
+        "level": "Chemistry 2",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL1004",
+        "level": "Biology 2: Molecular and Cell Biology",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "SOCY2038",
+        "level": "Introduction to Quantitative Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "CRIM2003",
+        "level": "Controversies in Crime Control",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT1003 Statistical Techniques or STAT1008 Quantitative Research Methods or BIOL2001",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL2161",
+        "level": "Genes: Replication and Expression",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "CRIM2001",
+        "level": "Doing Criminology: Research and Practice in Crime and Criminal Justice",
+        "units": "6 units"
+      },
+      {
+        "code": "CRIM3001",
+        "level": "Criminal Behaviour",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL1009 Diversity of Life or COMP1100 Programming as Problem Solving",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL2202",
+        "level": "Experimental Design and Analysis in Biology",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "units": "6 units from BCRIM 36 units List"
+      },
+      {
+        "units": "6 units from BCRIM 36 units List"
+      },
+      {
+        "code": "BIOL2151",
+        "level": "Genetics",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level B.Genetics elective from the list",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "units": "6 units from BCRIM 36 units List"
+      },
+      {
+        "units": "6 units from BCRIM 36 units List"
+      },
+      {
+        "code": "BIOL3157",
+        "level": "Bioinformatics and Functional Genomics",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL2162",
+        "level": "Molecular Gene Technology",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "units": "6 units from BCRIM 36 units List"
+      },
+      {
+        "units": "6 units from BCRIM 36 units List"
+      },
+      {
+        "code": "BIOL3161",
+        "level": "Genomics and its Applications",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL3204",
+        "level": "Genetics of Human Disease 1",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "units": "6 units from BCRIM 36 units List or 12 units List"
+      },
+      {
+        "units": "6 units from BCRIM 36 units List or 12 units List"
+      },
+      {
+        "code": "3000 level B.Genetics elective from the list",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level B.Genetics elective from the list",
+        "units": "6 units"
+      }
+    ]
+  ]
+}

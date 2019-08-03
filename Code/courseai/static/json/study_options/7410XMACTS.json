@@ -1,0 +1,360 @@
+{
+  "code": "7410XMACTS",
+  "2014": [
+    [
+      {
+        "code": "STAT6039",
+        "level": "Principles of Mathematical Statistics",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT6046",
+        "level": "Financial Mathematics",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM7006",
+        "level": "Foundations of Finance",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN7008",
+        "level": "Financial Statements and Reporting",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "STAT6045",
+        "level": "Actuarial Techniques",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT7018",
+        "level": "Stochastic Modelling",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT6043",
+        "level": "Life Contingencies",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON8069",
+        "level": "Business Economics",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2015": [
+    [
+      {
+        "code": "STAT6039",
+        "level": "Principles of Mathematical Statistics",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT6046",
+        "level": "Financial Mathematics",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM7006",
+        "level": "Foundations of Finance",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN7008",
+        "level": "Financial Statements and Reporting",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "STAT6045",
+        "level": "Actuarial Techniques",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT7018",
+        "level": "Stochastic Modelling",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT6043",
+        "level": "Life Contingencies",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM7007",
+        "level": "Applied Corporate Finance",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2016": [],
+  "2017": [
+    [
+      {
+        "code": "STAT6039",
+        "level": "Principles of Mathematical Statistics",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN7008",
+        "level": "Financial Statements and Reporting",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM7006",
+        "level": "Applied Foundations of Finance",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT6046",
+        "level": "Financial Mathematics",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "STAT6043",
+        "level": "Life Contingencies",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT6045",
+        "level": "Actuarial Techniques",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT7004",
+        "level": "Introduction to Stochastic Processes",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM7007",
+        "level": "Applied Corporate Finance",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ACST8040",
+        "level": "Actuarial Control Cycle 1",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT7042",
+        "level": "Survival Models",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT8035",
+        "level": "Risk Theory",
+        "units": "6 units"
+      },
+      {
+        "code": "One course from",
+        "level": "ACST8060;ACST8045;FINM8006"
+      }
+    ],
+    [
+      {
+        "code": "ACST8033",
+        "level": "Investment and Asset Modelling",
+        "units": "6 units"
+      },
+      {
+        "code": "ACST8041",
+        "level": "Actuarial Control Cycle 2",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT8036",
+        "level": "Credibility Theory",
+        "units": "6 units"
+      },
+      {
+        "code": "One course from ",
+        "level": "ACST8061;FINM8006"
+      }
+    ]
+  ],
+  "2018": [
+    [
+      {
+        "code": "STAT6039",
+        "level": "Principles of Mathematical Statistics",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN7008",
+        "level": "Financial Statements and Reporting",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM7006",
+        "level": "Applied Foundations of Finance",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT6046",
+        "level": "Financial Mathematics",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "STAT6043",
+        "level": "Life Contingencies",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT6045",
+        "level": "Actuarial Techniques",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT7004",
+        "level": "Introduction to Stochastic Processes",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM7007",
+        "level": "Applied Corporate Finance",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ACST8040",
+        "level": "Actuarial Control Cycle 1",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT7042",
+        "level": "Survival Models",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT8035",
+        "level": "Risk Theory",
+        "units": "6 units"
+      },
+      {
+        "code": "One course from",
+        "level": "ACST8060;ACST8045;FINM8006"
+      }
+    ],
+    [
+      {
+        "code": "ACST8033",
+        "level": "Investment and Asset Modelling",
+        "units": "6 units"
+      },
+      {
+        "code": "ACST8041",
+        "level": "Actuarial Control Cycle 2",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT8036",
+        "level": "Credibility Theory",
+        "units": "6 units"
+      },
+      {
+        "code": "One course from ",
+        "level": "ACST8061;FINM8006"
+      }
+    ]
+  ],
+  "2019": [
+    [
+      {
+        "code": "STAT6039",
+        "level": "Principles of Mathematical Statistics",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN7008",
+        "level": "Financial Statements and Reporting",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM7006",
+        "level": "Applied Foundations of Finance",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT6046",
+        "level": "Financial Mathematics",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "STAT6043",
+        "level": "Life Contingencies",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT6045",
+        "level": "Actuarial Techniques",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT7004",
+        "level": "Introduction to Stochastic Processes",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM7007",
+        "level": "Applied Corporate Finance",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ACST8040",
+        "level": "Actuarial Control Cycle 1",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT7042",
+        "level": "Survival Models",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT8035",
+        "level": "Risk Theory",
+        "units": "6 units"
+      },
+      {
+        "code": "One course from",
+        "level": "ACST8060;ACST8045;FINM8006"
+      }
+    ],
+    [
+      {
+        "code": "ACST8033",
+        "level": "Investment and Asset Modelling",
+        "units": "6 units"
+      },
+      {
+        "code": "ACST8041",
+        "level": "Actuarial Control Cycle 2",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT8036",
+        "level": "Credibility Theory",
+        "units": "6 units"
+      },
+      {
+        "code": "One course from ",
+        "level": "ACST8061;FINM8006"
+      }
+    ]
+  ]
+}

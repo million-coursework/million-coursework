@@ -1,0 +1,996 @@
+{
+  "code": "BSTAT-BSPSY",
+  "2014": [
+    [
+      {
+        "code": "PSYC1003",
+        "level": "Psychology 1: Understanding Mind, Brain and Behaviour",
+        "units": "6 units"
+      },
+      {
+        "code": "Science course",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP1100",
+        "level": "Introduction to Programming and Algorithms",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1115",
+        "level": "Mathematics and Applications 1 Honours",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "PSYC1004",
+        "level": "Psychology 2: Understanding People in Context",
+        "units": "6 units"
+      },
+      {
+        "code": "Science course",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT1003",
+        "level": "Statistical Techniques",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1116",
+        "level": "Mathematics and Applications 2 Honours",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "PSYC2009",
+        "level": "Quantitative Methods in Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2007",
+        "level": "Biological Basis of Behaviour",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT2001",
+        "level": "Introductory Mathematical Statistics",
+        "units": "6 units"
+      },
+      {
+        "code": "Sequence Pre-requisite Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "PSYC2001",
+        "level": "Social Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2008",
+        "level": "Visual Perception and Cognition",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT3004",
+        "level": "Stochastic Modelling",
+        "units": "6 units"
+      },
+      {
+        "code": "Sequence Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "PSYC2002",
+        "level": "Developmental Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3025",
+        "level": "Abnormal Psychology across the Life Span",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT2008",
+        "level": "Regression Modelling",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH3511",
+        "level": "Scientific Computing",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Science course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3018",
+        "level": "Advanced Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT3011",
+        "level": "Graphical Data Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "Sequence Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "PSYC 3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3026",
+        "level": "Personality Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT3012",
+        "level": "Design of Experiments and Surveys",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT3013",
+        "level": "Statistical Inference",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "PSYC 3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC 3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "Sequence Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Sequence Course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2015": [
+    [
+      {
+        "code": "PSYC1003",
+        "level": "Psychology 1: Understanding Mind, Brain and Behaviour",
+        "units": "6 units"
+      },
+      {
+        "code": "Science course",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP1100",
+        "level": "Introduction to Programming and Algorithms",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1115",
+        "level": "Advanced Mathematics and Applications 1",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "PSYC1004",
+        "level": "Psychology 2: Understanding People in Context",
+        "units": "6 units"
+      },
+      {
+        "code": "Science course",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT1003",
+        "level": "Statistical Techniques",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1116",
+        "level": "Advanced Mathematics and Applications  2",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "PSYC2009",
+        "level": "Quantitative Methods in Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2007",
+        "level": "Biological Basis of Behaviour",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT2001",
+        "level": "Introductory Mathematical Statistics",
+        "units": "6 units"
+      },
+      {
+        "code": "Sequence Pre-requisite Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "PSYC2001",
+        "level": "Social Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2008",
+        "level": "Visual Perception and Cognition",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT3004",
+        "level": "Stochastic Modelling",
+        "units": "6 units"
+      },
+      {
+        "code": "Sequence Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "PSYC2002",
+        "level": "Developmental Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "Science course",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT2008",
+        "level": "Regression Modelling",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH3511",
+        "level": "Scientific Computing",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "PSYC3025",
+        "level": "Abnormal Psychology across the Life Span",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3018",
+        "level": "Advanced Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT3011",
+        "level": "Graphical Data Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "Sequence Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "PSYC3026",
+        "level": "Personality Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC 3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT3012",
+        "level": "Design of Experiments and Surveys",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT3013",
+        "level": "Statistical Inference",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "PSYC 3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC 3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "Sequence Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Sequence Course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2016": [
+    [
+      {
+        "code": "PSYC1003",
+        "level": "Psychology 1: Understanding Mind, Brain and Behaviour",
+        "units": "6 units"
+      },
+      {
+        "code": "Science course",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP1100",
+        "level": "Introduction to Programming and Algorithms",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1115",
+        "level": "Advanced Mathematics and Applications 1",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "PSYC1004",
+        "level": "Psychology 2: Understanding People in Context",
+        "units": "6 units"
+      },
+      {
+        "code": "Science course",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT1003",
+        "level": "Statistical Techniques",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1116",
+        "level": "Advanced Mathematics and Applications  2",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "PSYC2009",
+        "level": "Quantitative Methods in Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2007",
+        "level": "Biological Basis of Behaviour",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT2001",
+        "level": "Introductory Mathematical Statistics",
+        "units": "6 units"
+      },
+      {
+        "code": "Sequence Pre-requisite Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "PSYC2001",
+        "level": "Social Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2008",
+        "level": "Cognition",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT3004",
+        "level": "Stochastic Modelling",
+        "units": "6 units"
+      },
+      {
+        "code": "Sequence Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "PSYC2002",
+        "level": "Developmental Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "Science course",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT2008",
+        "level": "Regression Modelling",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH3511",
+        "level": "Scientific Computing",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "PSYC3025",
+        "level": "Abnormal Psychology across the Life Span",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3018",
+        "level": "Advanced Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT3011",
+        "level": "Graphical Data Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "Sequence Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "PSYC3026",
+        "level": "Personality Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC 3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT3012",
+        "level": "Design of Experiments and Surveys",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT3013",
+        "level": "Statistical Inference",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "PSYC 3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC 3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "Sequence Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Sequence Course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2017": [
+    [
+      {
+        "code": "PSYC1003",
+        "level": "Psychology 1: Understanding Mind, Brain and Behaviour",
+        "units": "6 units"
+      },
+      {
+        "code": "1000 level Science elective",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT1008",
+        "level": "Quantitative Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1115",
+        "level": "Advanced Mathematics and Applications 1",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "PSYC1004",
+        "level": "Psychology 2: Understanding People in Context",
+        "units": "6 units"
+      },
+      {
+        "code": "1000 level Science elective",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP1100",
+        "level": "Programming as Problem Solving",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1116",
+        "level": "Advanced Mathematics and Applications  2",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "PSYC2009",
+        "level": "Quantitative Methods in Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2002",
+        "level": "Developmental Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT2001",
+        "level": "Introductory Mathematical Statistics",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT2008",
+        "level": "Regression Modelling",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "PSYC2001",
+        "level": "Social Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2008",
+        "level": "Cognition",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT2005",
+        "level": "Introduction to Stochastic Processes",
+        "units": "6 units"
+      },
+      {
+        "code": "Major Course",
+        "level": "Applied stats major STAT3011"
+      }
+    ],
+    [
+      {
+        "code": "3000 level PSYC course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science elective",
+        "units": "6 units"
+      },
+      {
+        "code": "Major Course",
+        "level": "Applied stats major STAT3012"
+      },
+      {
+        "code": "MATH3511",
+        "level": "Scientific Computing",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "PSYC2007",
+        "level": "Biological Basis of Behaviour",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3018",
+        "level": "Advanced Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "Major Course",
+        "level": "Applied stats major STAT3015"
+      },
+      {
+        "code": "Major Course",
+        "level": "Applied stats major STAT3008 or STAT3016 "
+      }
+    ],
+    [
+      {
+        "code": "PSYC3025",
+        "level": "Abnormal Psychology across the Life Span",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level PSYC course",
+        "units": "6 units"
+      },
+      {
+        "code": "Major Course",
+        "level": "Applied stats major  STAT3032 "
+      },
+      {
+        "code": "Major Course",
+        "level": "Applied stats major (STAT Course)"
+      }
+    ],
+    [
+      {
+        "code": "PSYC3026",
+        "level": "Personality Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level PSYC course",
+        "units": "6 units"
+      },
+      {
+        "code": "Major Course ",
+        "level": "Applied stats major (EMET course)"
+      },
+      {
+        "code": "Major Course ",
+        "level": "Applied stats major (STAT Course)"
+      }
+    ]
+  ],
+  "2018": [
+    [
+      {
+        "code": "PSYC1003",
+        "level": "Psychology 1: Understanding Mind, Brain and Behaviour",
+        "units": "6 units"
+      },
+      {
+        "code": "1000 level Science elective",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT1008",
+        "level": "Quantitative Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1115",
+        "level": "Advanced Mathematics and Applications 1",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "PSYC1004",
+        "level": "Psychology 2: Understanding People in Context",
+        "units": "6 units"
+      },
+      {
+        "code": "1000 level Science elective",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP1100",
+        "level": "Programming as Problem Solving",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1116",
+        "level": "Advanced Mathematics and Applications  2",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "PSYC2009",
+        "level": "Quantitative Methods in Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2002",
+        "level": "Developmental Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT2001",
+        "level": "Introductory Mathematical Statistics",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT2008",
+        "level": "Regression Modelling",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "PSYC2001",
+        "level": "Social Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2008",
+        "level": "Cognition",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT2005",
+        "level": "Introduction to Stochastic Processes",
+        "units": "6 units"
+      },
+      {
+        "code": "Major Course",
+        "level": "Applied stats major STAT3011"
+      }
+    ],
+    [
+      {
+        "code": "3000 level PSYC course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science elective",
+        "units": "6 units"
+      },
+      {
+        "code": "Major Course",
+        "level": "Applied stats major STAT3012"
+      },
+      {
+        "code": "MATH3511",
+        "level": "Scientific Computing",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "PSYC2007",
+        "level": "Biological Basis of Behaviour",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3018",
+        "level": "Advanced Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "Major Course",
+        "level": "Applied stats major STAT3015"
+      },
+      {
+        "code": "Major Course",
+        "level": "Applied stats major STAT3008 or STAT3016 "
+      }
+    ],
+    [
+      {
+        "code": "PSYC3025",
+        "level": "Psychopathology Across the Lifespan",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level PSYC course",
+        "units": "6 units"
+      },
+      {
+        "code": "Major Course",
+        "level": "Applied stats major  STAT3032 "
+      },
+      {
+        "code": "Major Course",
+        "level": "Applied stats major (STAT Course)"
+      }
+    ],
+    [
+      {
+        "code": "PSYC3026",
+        "level": "Personality Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level PSYC course",
+        "units": "6 units"
+      },
+      {
+        "code": "Major Course ",
+        "level": "Applied stats major (EMET course)"
+      },
+      {
+        "code": "Major Course ",
+        "level": "Applied stats major (STAT Course)"
+      }
+    ]
+  ],
+  "2019": [
+    [
+      {
+        "code": "PSYC1003",
+        "level": "Psychology 1: Understanding Mind, Brain and Behaviour",
+        "units": "6 units"
+      },
+      {
+        "code": "1000 level Science elective",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT1008",
+        "level": "Quantitative Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1115",
+        "level": "Advanced Mathematics and Applications 1",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "PSYC1004",
+        "level": "Psychology 2: Understanding People in Context",
+        "units": "6 units"
+      },
+      {
+        "code": "1000 level Science elective",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP1100",
+        "level": "Programming as Problem Solving",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1116",
+        "level": "Advanced Mathematics and Applications  2",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "PSYC2009",
+        "level": "Quantitative Methods in Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2002",
+        "level": "Developmental Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT2001",
+        "level": "Introductory Mathematical Statistics",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT2008",
+        "level": "Regression Modelling",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "PSYC2001",
+        "level": "Social Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2008",
+        "level": "Cognition",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT2005",
+        "level": "Introduction to Stochastic Processes",
+        "units": "6 units"
+      },
+      {
+        "code": "Major Course",
+        "level": "Applied stats major STAT3011"
+      }
+    ],
+    [
+      {
+        "code": "3000 level PSYC course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science elective",
+        "units": "6 units"
+      },
+      {
+        "code": "Major Course",
+        "level": "Applied stats major STAT3012"
+      },
+      {
+        "code": "MATH3511",
+        "level": "Scientific Computing",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "PSYC2007",
+        "level": "Biological Basis of Behaviour",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3018",
+        "level": "Advanced Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "Major Course",
+        "level": "Applied stats major STAT3015"
+      },
+      {
+        "code": "Major Course",
+        "level": "Applied stats major STAT3008 or STAT3016 "
+      }
+    ],
+    [
+      {
+        "code": "PSYC3025",
+        "level": "Psychopathology Across the Lifespan",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level PSYC course",
+        "units": "6 units"
+      },
+      {
+        "code": "Major Course",
+        "level": "Applied stats major  STAT3032 "
+      },
+      {
+        "code": "Major Course",
+        "level": "Applied stats major (STAT Course)"
+      }
+    ],
+    [
+      {
+        "code": "PSYC3026",
+        "level": "Personality Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level PSYC course",
+        "units": "6 units"
+      },
+      {
+        "code": "Major Course ",
+        "level": "Applied stats major (EMET course)"
+      },
+      {
+        "code": "Major Course ",
+        "level": "Applied stats major (STAT Course)"
+      }
+    ]
+  ]
+}

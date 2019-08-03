@@ -1,0 +1,967 @@
+{
+  "code": "BBUSA-BAHCR",
+  "2014": [
+    [
+      {
+        "code": "Art History Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Language Minor",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "MGMT1003",
+        "level": "Management, People and Organisations",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Art History Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Language Minor",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN1001",
+        "level": "Business Reporting and Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1102",
+        "level": "Macroeconomics 1",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Art History Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Language Minor",
+        "level": "2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "MGMT2100",
+        "level": "Communication for Business",
+        "units": "6 units"
+      },
+      {
+        "code": "BBA Core Course"
+      }
+    ],
+    [
+      {
+        "code": "Art History Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Language Minor",
+        "level": "2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "MKTG2004",
+        "level": "Marketing",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSI2025",
+        "level": "International Business",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Art History Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Curatorship Minor",
+        "level": "2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "MGMT2030",
+        "level": "Human Resource Management and Strategy",
+        "units": "6 units"
+      },
+      {
+        "code": "List 1 Elective Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Art History Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Curatorship Minor",
+        "level": "2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "MGMT3027",
+        "level": "Entrepreneurship and Innovation",
+        "units": "6 units"
+      },
+      {
+        "code": "List 1 Elective Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Curatorship Minor Internship",
+        "units": "12 units"
+      },
+      {
+        "code": "Curatorship Minor",
+        "level": "Internship"
+      },
+      {
+        "code": "MGMT3015",
+        "level": "Corporate Strategy",
+        "units": "6 units"
+      },
+      {
+        "code": "List 1 Elective Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Art History Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Art History Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "MGMT3021",
+        "level": "Leadership",
+        "units": "6 units"
+      },
+      {
+        "code": "List 1 Elective Course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2015": [
+    [
+      {
+        "code": "Art History Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Language Minor",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "MGMT1003",
+        "level": "Management, People and Organisations",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Art History Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Language Minor",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN1001",
+        "level": "Business Reporting and Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1102",
+        "level": "Macroeconomics 1",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Art History Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Language Minor",
+        "level": "2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "MGMT2100",
+        "level": "Communication for Business",
+        "units": "6 units"
+      },
+      {
+        "code": "BBA Core Course"
+      }
+    ],
+    [
+      {
+        "code": "Art History Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Language Minor",
+        "level": "2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "MKTG2004",
+        "level": "Marketing",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSI2025",
+        "level": "International Business",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Art History Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Curatorship Minor",
+        "level": "2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "MGMT2030",
+        "level": "Human Resource Management and Strategy",
+        "units": "6 units"
+      },
+      {
+        "code": "List 1 Elective Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Art History Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Curatorship Minor",
+        "level": "2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "MGMT3027",
+        "level": "Entrepreneurship and Innovation",
+        "units": "6 units"
+      },
+      {
+        "code": "List 1 Elective Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Curatorship Minor Internship",
+        "units": "12 units"
+      },
+      {
+        "code": "Curatorship Minor",
+        "level": "Internship"
+      },
+      {
+        "code": "MGMT3015",
+        "level": "Corporate Strategy",
+        "units": "6 units"
+      },
+      {
+        "code": "List 1 Elective Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Art History Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Art History Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "MGMT3021",
+        "level": "Leadership",
+        "units": "6 units"
+      },
+      {
+        "code": "List 1 Elective Course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2016": [
+    [
+      {
+        "code": "ARTH1006",
+        "level": "Art and Design Histories: Form and Space",
+        "units": "6 units"
+      },
+      {
+        "units": "6 units from Language Minor or Major/Minor List"
+      },
+      {
+        "code": "MGMT1003",
+        "level": "Management, People and Organisations",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ARTH1007",
+        "level": "Art and Design Histories: Making and Meaning",
+        "units": "6 units"
+      },
+      {
+        "units": "6 units from Language Minor or Major/Minor List"
+      },
+      {
+        "code": "BUSN1001",
+        "level": "Business Reporting and Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1102",
+        "level": "Macroeconomics 1",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ARTH2044",
+        "level": "Art and Its Context: Materials, Techniques, Display",
+        "units": "6 units"
+      },
+      {
+        "units": "6 units from Language Minor or Major/Minor List"
+      },
+      {
+        "code": "MGMT2100",
+        "level": "Communication for Business",
+        "units": "6 units"
+      },
+      {
+        "code": "BBA Core Course"
+      }
+    ],
+    [
+      {
+        "code": "ARTH2045",
+        "level": "Curatorship Theory and Practice",
+        "units": "6 units"
+      },
+      {
+        "units": "6 units from Language Minor or Major/Minor List"
+      },
+      {
+        "code": "MKTG2004",
+        "level": "Marketing",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSI2025",
+        "level": "International Business",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "units": "6 units from 36 units list"
+      },
+      {
+        "units": "6 units from 36 units list"
+      },
+      {
+        "code": "MGMT2030",
+        "level": "Human Resource Management and Strategy",
+        "units": "6 units"
+      },
+      {
+        "code": "List 1 Elective Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ARTH3001",
+        "level": "Art History and Curatorship Internship",
+        "units": "12 units"
+      },
+      {
+        "code": "."
+      },
+      {
+        "code": "MGMT3027",
+        "level": "Entrepreneurship and Innovation",
+        "units": "6 units"
+      },
+      {
+        "code": "List 1 Elective Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "units": "6 units from 36 units list"
+      },
+      {
+        "units": "6 units from 36 units list"
+      },
+      {
+        "code": "MGMT3015",
+        "level": "Corporate Strategy",
+        "units": "6 units"
+      },
+      {
+        "code": "List 1 Elective Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "units": "6 units from 36 units list"
+      },
+      {
+        "units": "6 units from 36 units list"
+      },
+      {
+        "code": "MGMT3021",
+        "level": "Leadership",
+        "units": "6 units"
+      },
+      {
+        "code": "List 1 Elective Course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2017": [
+    [
+      {
+        "code": "ARTH1006",
+        "level": "Art and Design Histories: Form and Space",
+        "units": "6 units"
+      },
+      {
+        "units": "6 units from Language Minor or Major/Minor List"
+      },
+      {
+        "code": "MGMT1003",
+        "level": "Management, People and Organisations",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ARTH1007",
+        "level": "Art and Design Histories: Making and Meaning",
+        "units": "6 units"
+      },
+      {
+        "units": "6 units from Language Minor or Major/Minor List"
+      },
+      {
+        "code": "BUSN1001",
+        "level": "Business Reporting and Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1102",
+        "level": "Macroeconomics 1",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ARTH2044",
+        "level": "Art and Its Context: Materials, Techniques, Display",
+        "units": "6 units"
+      },
+      {
+        "units": "6 units from Language Minor or Major/Minor List"
+      },
+      {
+        "code": "MGMT2100",
+        "level": "Communication for Business",
+        "units": "6 units"
+      },
+      {
+        "code": "BBA Core Course"
+      }
+    ],
+    [
+      {
+        "code": "ARTH2045",
+        "level": "Curatorship Theory and Practice",
+        "units": "6 units"
+      },
+      {
+        "units": "6 units from Language Minor or Major/Minor List"
+      },
+      {
+        "code": "MKTG2004",
+        "level": "Marketing",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSI2025",
+        "level": "International Business",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "units": "6 units from 36 units list"
+      },
+      {
+        "units": "6 units from 36 units list"
+      },
+      {
+        "code": "MGMT2030",
+        "level": "Human Resource Management and Strategy",
+        "units": "6 units"
+      },
+      {
+        "code": "List 1 Elective Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ARTH3001",
+        "level": "Art History and Curatorship Internship",
+        "units": "12 units"
+      },
+      {
+        "code": "."
+      },
+      {
+        "code": "MGMT3027",
+        "level": "Entrepreneurship and Innovation",
+        "units": "6 units"
+      },
+      {
+        "code": "List 1 Elective Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "units": "6 units from 36 units list"
+      },
+      {
+        "units": "6 units from 36 units list"
+      },
+      {
+        "code": "MGMT3015",
+        "level": "Corporate Strategy",
+        "units": "6 units"
+      },
+      {
+        "code": "List 1 Elective Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "units": "6 units from 36 units list"
+      },
+      {
+        "units": "6 units from 36 units list"
+      },
+      {
+        "code": "MGMT3021",
+        "level": "Leadership",
+        "units": "6 units"
+      },
+      {
+        "code": "List 1 Elective Course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2018": [
+    [
+      {
+        "code": "ARTH1006",
+        "level": "Art and Design Histories: Form and Space",
+        "units": "6 units"
+      },
+      {
+        "code": "Language Minor",
+        "level": "or Major/Minor List",
+        "units": "6 units"
+      },
+      {
+        "code": "MGMT1003",
+        "level": "Management, People and Organisations",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ARTH1007",
+        "level": "Art and Design Histories: Making and Meaning",
+        "units": "6 units"
+      },
+      {
+        "code": "Language Minor",
+        "level": "or Major/Minor List",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN1001",
+        "level": "Business Reporting and Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1102",
+        "level": "Macroeconomics 1",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Curatorship List Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Language Minor",
+        "level": "or Major/Minor List",
+        "units": "6 units"
+      },
+      {
+        "code": "MGMT2100",
+        "level": "Communication for Business",
+        "units": "6 units"
+      },
+      {
+        "code": "BBA Core Course"
+      }
+    ],
+    [
+      {
+        "code": "Curatorship List Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Language Minor",
+        "level": "or Major/Minor List",
+        "units": "6 units"
+      },
+      {
+        "code": "MKTG2004",
+        "level": "Marketing",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSI2025",
+        "level": "International Business",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Art History and Theory List",
+        "units": "6 units"
+      },
+      {
+        "code": "Art History and Theory List",
+        "units": "6 units"
+      },
+      {
+        "code": "MGMT2030",
+        "level": "Human Resource Management and Strategy",
+        "units": "6 units"
+      },
+      {
+        "code": "List 1 Elective Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ARTH3001",
+        "level": "Art History and Curatorship Internship",
+        "units": "12 units"
+      },
+      {
+        "code": "."
+      },
+      {
+        "code": "MGMT3027",
+        "level": "Entrepreneurship and Innovation",
+        "units": "6 units"
+      },
+      {
+        "code": "List 1 Elective Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Art History and Theory List",
+        "units": "6 units"
+      },
+      {
+        "code": "Art History and Theory List",
+        "units": "6 units"
+      },
+      {
+        "code": "MGMT3015",
+        "level": "Corporate Strategy",
+        "units": "6 units"
+      },
+      {
+        "code": "List 1 Elective Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Art History and Theory List",
+        "units": "6 units"
+      },
+      {
+        "code": "Art History and Theory List",
+        "units": "6 units"
+      },
+      {
+        "code": "MGMT3021",
+        "level": "Leadership",
+        "units": "6 units"
+      },
+      {
+        "code": "List 1 Elective Course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2019": [
+    [
+      {
+        "code": "ARTH1006",
+        "level": "Art and Design Histories: Form and Space",
+        "units": "6 units"
+      },
+      {
+        "code": "Language Minor",
+        "level": "or Major/Minor List",
+        "units": "6 units"
+      },
+      {
+        "code": "MGMT1003",
+        "level": "Management, People and Organisations",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ARTH1007",
+        "level": "Art and Design Histories: Making and Meaning",
+        "units": "6 units"
+      },
+      {
+        "code": "Language Minor",
+        "level": "or Major/Minor List",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN1001",
+        "level": "Business Reporting and Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1102",
+        "level": "Macroeconomics 1",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Curatorship List Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Language Minor",
+        "level": "or Major/Minor List",
+        "units": "6 units"
+      },
+      {
+        "code": "MGMT2100",
+        "level": "Communication for Business",
+        "units": "6 units"
+      },
+      {
+        "code": "BBA Core Course"
+      }
+    ],
+    [
+      {
+        "code": "Curatorship List Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Language Minor",
+        "level": "or Major/Minor List",
+        "units": "6 units"
+      },
+      {
+        "code": "MKTG2004",
+        "level": "Marketing",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSI2025",
+        "level": "International Business",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Art History and Theory List",
+        "units": "6 units"
+      },
+      {
+        "code": "Art History and Theory List",
+        "units": "6 units"
+      },
+      {
+        "code": "MGMT2030",
+        "level": "Human Resource Management and Strategy",
+        "units": "6 units"
+      },
+      {
+        "code": "List 1 Elective Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ARTH3001",
+        "level": "Art History and Curatorship Internship",
+        "units": "12 units"
+      },
+      {
+        "code": "."
+      },
+      {
+        "code": "MGMT3027",
+        "level": "Entrepreneurship and Innovation",
+        "units": "6 units"
+      },
+      {
+        "code": "List 1 Elective Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Art History and Theory List",
+        "units": "6 units"
+      },
+      {
+        "code": "Art History and Theory List",
+        "units": "6 units"
+      },
+      {
+        "code": "MGMT3015",
+        "level": "Corporate Strategy",
+        "units": "6 units"
+      },
+      {
+        "code": "List 1 Elective Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Art History and Theory List",
+        "units": "6 units"
+      },
+      {
+        "code": "Art History and Theory List",
+        "units": "6 units"
+      },
+      {
+        "code": "MGMT3021",
+        "level": "Leadership",
+        "units": "6 units"
+      },
+      {
+        "code": "List 1 Elective Course",
+        "units": "6 units"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,12 @@
+"http://programsandcourses.anu.edu.au/2018/course/PSYC2002",
+"http://programsandcourses.anu.edu.au/2018/course/PSYC3016",
+"http://programsandcourses.anu.edu.au/2018/course/PSYC2595",
+"http://programsandcourses.anu.edu.au/2018/course/PSYC1003",
+"http://programsandcourses.anu.edu.au/2018/course/PSYC4011",
+"http://programsandcourses.anu.edu.au/2018/course/PSYC4005F",
+"http://programsandcourses.anu.edu.au/2018/course/PSYC4005P",
+"http://programsandcourses.anu.edu.au/2018/course/PSYC3030",
+"http://programsandcourses.anu.edu.au/2018/course/PSYC3025",
+"http://programsandcourses.anu.edu.au/2018/course/PSYC2009",
+"http://programsandcourses.anu.edu.au/2018/course/PSYC3023",
+"http://programsandcourses.anu.edu.au/2018/course/PSYC3002"

@@ -1,0 +1,110 @@
+{
+  "name": "Bachelor of Political Science",
+  "code": "BPLSC",
+  "year": 2016,
+  "units": 144,
+  "required": {
+    "max_by_level": [
+      {
+        "type": "maximum",
+        "level": [
+          1000
+        ],
+        "units": 60
+      }
+    ],
+    "compulsory_courses": [
+      "POLS1002",
+      "POLS1009",
+      "POLS2119",
+      "POLS3025"
+    ],
+    "x_from_here": [
+      {
+        "type": "minimum",
+        "units": 12,
+        "courses": [
+          "PHIL1004",
+          "PHIL2020",
+          "PHIL2113",
+          "PHIL2115",
+          "POLS2063",
+          "POLS2075",
+          "POLS2102",
+          "POLS2120"
+        ]
+      },
+      {
+        "type": "minimum",
+        "units": 12,
+        "courses": [
+          "ECON2141",
+          "POLS2125",
+          "POLS2130",
+          "SOCY2038",
+          "SOCY2043"
+        ]
+      },
+      {
+        "type": "minimum",
+        "units": 12,
+        "courses": [
+          "ASIA2026",
+          "ASIA2031",
+          "ASIA2049",
+          "ASIA2070",
+          "ASIA2109",
+          "ASIA2516",
+          "EURO2003",
+          "MEAS2001",
+          "POLS2025",
+          "POLS2031",
+          "POLS2055",
+          "POLS2069",
+          "POLS2070",
+          "POLS2095",
+          "POLS2118",
+          "POLS2127",
+          "POLS3030"
+        ]
+      },
+      {
+        "type": "maximum",
+        "units": 6,
+        "courses": [
+          "ECON2013",
+          "MEAS2105",
+          "PHIL2120",
+          "POLS2011",
+          "POLS2094"
+        ]
+      },
+      {
+        "type": "minimum",
+        "units": 12,
+        "courses": [
+          "HIST2227",
+          "POLS2009",
+          "POLS2111",
+          "POLS2114",
+          "POLS2121"
+        ]
+      },
+      {
+        "type": "minimum",
+        "units": 12,
+        "courses": [
+          "ASIA2065",
+          "POLS2043",
+          "POLS2104",
+          "POLS2105",
+          "POLS2126",
+          "POLS3029",
+          "POLS3031"
+        ]
+      }
+    ],
+    "one_from_m/m/s": [],
+    "required_m/m/s": []
+  }
+}

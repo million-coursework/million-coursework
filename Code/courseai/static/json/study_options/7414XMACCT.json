@@ -1,0 +1,290 @@
+{
+  "code": "7414XMACCT",
+  "2014": [
+    [
+      {
+        "code": "BUSN7008",
+        "level": "Financial Statements and Reporting",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN7052",
+        "level": "Commercial Law",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT7055",
+        "level": "Introductory Statistics for Business and Finance",
+        "units": "6 units"
+      },
+      {
+        "code": "INFS7040",
+        "level": "Electronic Commerce for Managers",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BUSN7031",
+        "level": "Management Accounting and Cost Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN7057",
+        "level": "Business Association Law",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM7006",
+        "level": "Foundations of Finance",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN7050",
+        "level": "Corporate Accounting",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2015": [
+    [
+      {
+        "code": "BUSN7008",
+        "level": "Financial Statements and Reporting",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN7052",
+        "level": "Commercial Law",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM7006",
+        "level": "Foundations of Finance",
+        "units": "6 units"
+      },
+      {
+        "code": "INFS7040",
+        "level": "Electronic Commerce for Managers",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BUSN7031",
+        "level": "Management Accounting and Cost Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN7057",
+        "level": "Business Association Law",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT7055",
+        "level": "Introductory Statistics for Business and Finance",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN7050",
+        "level": "Corporate Accounting",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2016": [],
+  "2017": [
+    [
+      {},
+      {},
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "BUSN7008",
+        "level": "Financial Statements and Reporting",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN7052",
+        "level": "Commercial Law",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM7006",
+        "level": "Applied Foundations of Finance",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT7055",
+        "level": "Introductory Statistics for Business and Finance",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2018": [
+    [
+      {
+        "code": "BUSN7008",
+        "level": "Financial Statements and Reporting",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM7006",
+        "level": "Applied Foundations of Finance",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT7055",
+        "level": "Introductory Statistics for Business and Finance",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN7052",
+        "level": "Commercial Law",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BUSN7031",
+        "level": "Management Accounting and Cost Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN7050",
+        "level": "Corporate Accounting",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN7057",
+        "level": "Business Association Law",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON8069",
+        "level": "Business Economics",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BUSN7005",
+        "level": "Contemporary Issues in Accounting",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN7049",
+        "level": "Corporate Financial Reporting",
+        "units": "6 units"
+      },
+      {
+        "code": "Two from BUSN7045 BUSN7006 BUSN7036 BUSN7051 "
+      },
+      {}
+    ],
+    [
+      {
+        "code": "INFS7004",
+        "level": "Accounting Information Systems",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN7054",
+        "level": "Auditing and Assurance Services",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN7021",
+        "level": "Taxation Law",
+        "units": "6 units"
+      },
+      {
+        "code": "One from BUSN7017 BUSN7051 BUSN7045 BUSN8003"
+      }
+    ]
+  ],
+  "2019": [
+    [
+      {
+        "code": "BUSN7008",
+        "level": "Financial Statements and Reporting",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM7006",
+        "level": "Applied Foundations of Finance",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT7055",
+        "level": "Introductory Statistics for Business and Finance",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN7052",
+        "level": "Commercial Law",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BUSN7031",
+        "level": "Management Accounting and Cost Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN7050",
+        "level": "Corporate Accounting",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN7057",
+        "level": "Business Association Law",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON8069",
+        "level": "Business Economics",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BUSN7005",
+        "level": "Contemporary Issues in Accounting",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN7049",
+        "level": "Corporate Financial Reporting",
+        "units": "6 units"
+      },
+      {
+        "code": "Two from BUSN7045 BUSN7006 BUSN7036 BUSN7051 "
+      },
+      {}
+    ],
+    [
+      {
+        "code": "INFS7004",
+        "level": "Accounting Information Systems",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN7054",
+        "level": "Auditing and Assurance Services",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN7021",
+        "level": "Taxation Law",
+        "units": "6 units"
+      },
+      {
+        "code": "One from BUSN7017 BUSN7051 BUSN7045 BUSN8003"
+      }
+    ]
+  ]
+}

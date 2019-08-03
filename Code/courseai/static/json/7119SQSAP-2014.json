@@ -1,0 +1,10 @@
+{
+  "name": "Master of Archaeological Science (Quaternary Studies and Palaeoenvironments)",
+  "code": "7119SQSAP",
+  "year": 2014,
+  "units": 48,
+  "required": {
+    "one_from_m/m/s": [],
+    "required_m/m/s": []
+  }
+}

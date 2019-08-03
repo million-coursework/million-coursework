@@ -1,0 +1,645 @@
+{
+  "code": "AFEST",
+  "2014": [],
+  "2015": [],
+  "2016": [
+    [
+      {
+        "code": "STAT1008",
+        "level": "Quantitative Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM1001",
+        "level": "Foundations of Finance",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1115",
+        "level": "Advanced Mathematics and Applications 1",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BUSN1001",
+        "level": "Business Reporting and Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM2001",
+        "level": "Corporate Finance",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1100",
+        "level": "Economics I (H)",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1116",
+        "level": "Advanced Mathematics and Applications  2",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "STAT2001",
+        "level": "Introductory Mathematical Statistics",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM2002",
+        "level": "Derivatives",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON2101",
+        "level": "Microeconomics 2(P)",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM2003",
+        "level": "Investments",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON3153",
+        "level": "Game Theory (H)",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON Elective",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON2016",
+        "level": "Economics II (H)",
+        "units": "6 units"
+      },
+      {
+        "code": "Course from MATH list",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "EMET2007",
+        "level": "Econometrics I: Econometric Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT3013",
+        "level": "Statistical Inference",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON3101",
+        "level": "Microeconomics 3",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM3005",
+        "level": "Corporate Valuation",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON3100",
+        "level": "Economics 3 (H)",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT3056",
+        "level": "Advanced Mathematical Statistics",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON3102",
+        "level": "Macroeconomics 3",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT2032",
+        "level": "Financial Mathematics",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Honours Year"
+      },
+      {
+        "code": "Honours Year"
+      },
+      {
+        "code": "Honours Year"
+      },
+      {
+        "code": "Honours Year"
+      }
+    ],
+    [
+      {
+        "code": "Honours Year"
+      },
+      {
+        "code": "Honours Year"
+      },
+      {
+        "code": "Honours Year"
+      },
+      {
+        "code": "Honours Year"
+      }
+    ]
+  ],
+  "2017": [
+    [
+      {
+        "code": "STAT1008",
+        "level": "Quantitative Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM1001",
+        "level": "Foundations of Finance",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1115",
+        "level": "Advanced Mathematics and Applications 1",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BUSN1001",
+        "level": "Business Reporting and Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM2001",
+        "level": "Corporate Finance",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1100",
+        "level": "Economics I (H)",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1116",
+        "level": "Advanced Mathematics and Applications  2",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "STAT2001",
+        "level": "Introductory Mathematical Statistics",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM2002",
+        "level": "Derivatives",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON2101",
+        "level": "Microeconomics 2(P)",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM2003",
+        "level": "Investments",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON3153",
+        "level": "Game Theory (H)",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON Elective",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON2016",
+        "level": "Economics II (H)",
+        "units": "6 units"
+      },
+      {
+        "code": "Course from MATH list",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "EMET2007",
+        "level": "Econometrics I: Econometric Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT3013",
+        "level": "Statistical Inference",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON3101",
+        "level": "Microeconomics 3",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM3005",
+        "level": "Corporate Valuation",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON3100",
+        "level": "Economics 3 (H)",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT3056",
+        "level": "Advanced Mathematical Statistics",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON3102",
+        "level": "Macroeconomics 3",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT2032",
+        "level": "Financial Mathematics",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Honours Year"
+      },
+      {
+        "code": "Honours Year"
+      },
+      {
+        "code": "Honours Year"
+      },
+      {
+        "code": "Honours Year"
+      }
+    ],
+    [
+      {
+        "code": "Honours Year"
+      },
+      {
+        "code": "Honours Year"
+      },
+      {
+        "code": "Honours Year"
+      },
+      {
+        "code": "Honours Year"
+      }
+    ]
+  ],
+  "2018": [
+    [
+      {
+        "code": "STAT1008",
+        "level": "Quantitative Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM1001",
+        "level": "Foundations of Finance",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1115",
+        "level": "Advanced Mathematics and Applications 1",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BUSN1001",
+        "level": "Business Reporting and Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM2001",
+        "level": "Corporate Finance",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1100",
+        "level": "Economics I (H)",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1116",
+        "level": "Advanced Mathematics and Applications  2",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "STAT2001",
+        "level": "Introductory Mathematical Statistics",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM2002",
+        "level": "Derivatives",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON2101",
+        "level": "Microeconomics 2(P)",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM2003",
+        "level": "Investments",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON3153",
+        "level": "Game Theory (H)",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON Elective",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON2016",
+        "level": "Economics II (H)",
+        "units": "6 units"
+      },
+      {
+        "code": "Course from MATH list",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "EMET2007",
+        "level": "Econometrics I: Econometric Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT3013",
+        "level": "Statistical Inference",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON3101",
+        "level": "Microeconomics 3",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM3005",
+        "level": "Corporate Valuation",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON3100",
+        "level": "Economics 3 (H)",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT3056",
+        "level": "Advanced Mathematical Statistics",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON3102",
+        "level": "Macroeconomics 3",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT2032",
+        "level": "Financial Mathematics",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Honours Year"
+      },
+      {
+        "code": "Honours Year"
+      },
+      {
+        "code": "Honours Year"
+      },
+      {
+        "code": "Honours Year"
+      }
+    ],
+    [
+      {
+        "code": "Honours Year"
+      },
+      {
+        "code": "Honours Year"
+      },
+      {
+        "code": "Honours Year"
+      },
+      {
+        "code": "Honours Year"
+      }
+    ]
+  ],
+  "2019": [
+    [
+      {
+        "code": "STAT1008",
+        "level": "Quantitative Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM1001",
+        "level": "Foundations of Finance",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1115",
+        "level": "Advanced Mathematics and Applications 1",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BUSN1001",
+        "level": "Business Reporting and Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM2001",
+        "level": "Corporate Finance",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1100",
+        "level": "Economics I (H)",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1116",
+        "level": "Advanced Mathematics and Applications  2",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "STAT2001",
+        "level": "Introductory Mathematical Statistics",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM2002",
+        "level": "Derivatives",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON2101",
+        "level": "Microeconomics 2(P)",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM2003",
+        "level": "Investments",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON3153",
+        "level": "Game Theory (H)",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON Elective",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON2016",
+        "level": "Economics II (H)",
+        "units": "6 units"
+      },
+      {
+        "code": "Course from MATH list",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "EMET2007",
+        "level": "Econometrics I: Econometric Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT3013",
+        "level": "Statistical Inference",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON3101",
+        "level": "Microeconomics 3",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM3005",
+        "level": "Corporate Valuation",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON3100",
+        "level": "Economics 3 (H)",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT3056",
+        "level": "Advanced Mathematical Statistics",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON3102",
+        "level": "Macroeconomics 3",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT2032",
+        "level": "Financial Mathematics",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Honours Year"
+      },
+      {
+        "code": "Honours Year"
+      },
+      {
+        "code": "Honours Year"
+      },
+      {
+        "code": "Honours Year"
+      }
+    ],
+    [
+      {
+        "code": "Honours Year"
+      },
+      {
+        "code": "Honours Year"
+      },
+      {
+        "code": "Honours Year"
+      },
+      {
+        "code": "Honours Year"
+      }
+    ]
+  ]
+}

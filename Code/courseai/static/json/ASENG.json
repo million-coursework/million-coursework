@@ -1,0 +1,102 @@
+{
+    "name": "Bachelor of Software Engineering (Honours)",
+    "units": 192,
+    "required": {
+        "compulsory_courses": [
+            "COMP1600",
+            "COMP2100",
+            "COMP2300",
+            "COMP2310",
+            "COMP2120",
+	    "COMP2420",
+            "COMP3120",
+            "COMP3500",
+	    "COMP4130",
+            "COMP4450",
+			"COMP4800",
+			"ENGN1211",
+			"ENGN3230",
+            "MATH1005"
+        ],
+        "one_from_here": [
+            [
+                "COMP1100",
+                "COMP1130"
+            ],
+            [
+                "COMP1110",
+                "COMP1140"
+            ]
+        ],
+        "max_by_level": {
+            "1000": 60
+        }
+    },
+	"options": {
+		"option_1": {
+			"x_from_here": [
+				{
+					"num": 12,
+					"courses": ["COMP4500"]
+				}
+			],
+			"x_from_category": [
+				{
+					"num": 12,
+					"code": "COMP",
+					"level": [4000]
+				}
+			]
+		},
+		"option_2": {
+			"x_from_here": [
+				{
+					"num": 24,
+					"courses": ["COMP4540"]
+				}
+			]
+		}
+	},
+	"options": {
+		"option_1": {
+			"x_from_category": [
+				{
+					"num": 6,
+					"code": "COMP"
+				}
+			]
+		},
+		"option_2": {
+			"one_from_here": [
+				[
+					"MATH1013",
+					"MATH1014",
+					"MATH1115",
+					"MATH1116",
+					"MATH2301",
+					"STAT1003",
+					"STAT1008"
+				]
+			]
+		}
+	},
+	"options": {
+		"option_1": {
+			"x_from_category": [
+				{
+					"num": 6,
+					"code": "COMP",
+					"level": [3000,4000]
+				}
+			]
+		},
+		"option_2": {
+			"one_from_here": [
+				[
+					"VCUG3001",
+					"VCUG3002"
+				]
+			]
+		}
+	}
+}

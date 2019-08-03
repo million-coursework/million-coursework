@@ -1,0 +1,10 @@
+{
+  "name": "Master of Liberal Arts (Museums and Collections) (Research)",
+  "code": "7149HMUSC",
+  "year": 2014,
+  "units": 8002,
+  "required": {
+    "one_from_m/m/s": [],
+    "required_m/m/s": []
+  }
+}

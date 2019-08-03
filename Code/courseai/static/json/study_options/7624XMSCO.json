@@ -1,0 +1,71 @@
+{
+  "code": "7624XMSCO",
+  "2014": [],
+  "2015": [],
+  "2016": [],
+  "2017": [],
+  "2018": [
+    [
+      {
+        "code": "Semester 1: SCOM8004A Fieldwork Placement (Part A)",
+        "units": "12 units "
+      },
+      {
+        "code": "Semester 1: SCOM8014 Communicating Science with the Public",
+        "units": "6 units "
+      },
+      {
+        "code": "Autumn Session: SCOM6016 Science in the Media",
+        "units": "6 units "
+      },
+      {}
+    ],
+    [
+      {
+        "code": "Winter Session: SCOM6012 Science Communication and the Web",
+        "units": "6 units "
+      },
+      {
+        "code": "Semester 2: SCOM8004B Fieldwork Placement (Part B)",
+        "units": "12 units "
+      },
+      {
+        "code": "Semester 2: SCOM8007 Exhibition Design",
+        "units": "6 units"
+      },
+      {}
+    ]
+  ],
+  "2019": [
+    [
+      {
+        "code": "Semester 1: SCOM8004A Fieldwork Placement (Part A)",
+        "units": "12 units "
+      },
+      {
+        "code": "Semester 1: SCOM8014 Communicating Science with the Public",
+        "units": "6 units "
+      },
+      {
+        "code": "Autumn Session: SCOM6016 Science in the Media",
+        "units": "6 units "
+      },
+      {}
+    ],
+    [
+      {
+        "code": "Winter Session: SCOM6012 Science Communication and the Web",
+        "units": "6 units "
+      },
+      {
+        "code": "Semester 2: SCOM8004B Fieldwork Placement (Part B)",
+        "units": "12 units "
+      },
+      {
+        "code": "Semester 2: SCOM8007 Exhibition Design",
+        "units": "6 units"
+      },
+      {}
+    ]
+  ]
+}

@@ -1,0 +1,222 @@
+{
+  "code": "VENCH",
+  "2014": [],
+  "2015": [],
+  "2016": [],
+  "2017": [
+    [
+      {
+        "code": "PHYS8013",
+        "level": "Principles of Energy Generation and Transformation",
+        "units": "6 units"
+      },
+      {
+        "code": "M.EnCh course from list",
+        "units": "6 units"
+      },
+      {
+        "code": "M.EnCh course from list",
+        "units": "6 units"
+      },
+      {
+        "code": "M.EnCh course from list",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ENGN6516",
+        "level": "Energy Resources and Renewable Technologies",
+        "units": "6 units"
+      },
+      {
+        "code": "POGO8212/ LAWS8189",
+        "units": "6 units"
+      },
+      {
+        "code": "ENVS6307/ ENVS8003",
+        "units": "6 units"
+      },
+      {
+        "code": "ENGN6410/ ENVS6025",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "SCNC8021",
+        "level": "Science Research Project",
+        "units": "3 to 24 units"
+      },
+      {},
+      {
+        "code": "M.EnCh course from list",
+        "units": "6 units"
+      },
+      {
+        "code": "M.EnCh course from list",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "SCNC8021",
+        "level": "Science Research Project",
+        "units": "3 to 24 units"
+      },
+      {},
+      {
+        "code": "EMDV8080/ EMDV8081/ IDEC8089",
+        "units": "6 units"
+      },
+      {
+        "code": "M.EnCh course from list",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2018": [
+    [
+      {
+        "code": "PHYS8013",
+        "level": "Principles of Energy Generation and Transformation",
+        "units": "6 units"
+      },
+      {
+        "code": "M.EnCh course from list",
+        "units": "6 units"
+      },
+      {
+        "code": "M.EnCh course from list",
+        "units": "6 units"
+      },
+      {
+        "code": "M.EnCh course from list",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ENGN6516",
+        "level": "Energy Resources and Renewable Technologies",
+        "units": "6 units"
+      },
+      {
+        "code": "POGO8212/ LAWS8189",
+        "units": "6 units"
+      },
+      {
+        "code": "ENVS6307/ ENVS8003",
+        "units": "6 units"
+      },
+      {
+        "code": "ENGN6410/ ENVS6025",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "SCNC8021",
+        "level": "Science Research Project",
+        "units": "3 to 24 units"
+      },
+      {},
+      {
+        "code": "M.EnCh course from list",
+        "units": "6 units"
+      },
+      {
+        "code": "M.EnCh course from list",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "SCNC8021",
+        "level": "Science Research Project",
+        "units": "3 to 24 units"
+      },
+      {},
+      {
+        "code": "EMDV8080/ EMDV8081/ IDEC8089",
+        "units": "6 units"
+      },
+      {
+        "code": "M.EnCh course from list",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2019": [
+    [
+      {
+        "code": "PHYS8013",
+        "level": "Principles of Energy Generation and Transformation",
+        "units": "6 units"
+      },
+      {
+        "code": "M.EnCh course from list",
+        "units": "6 units"
+      },
+      {
+        "code": "M.EnCh course from list",
+        "units": "6 units"
+      },
+      {
+        "code": "M.EnCh course from list",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ENGN6516",
+        "level": "Energy Resources and Renewable Technologies",
+        "units": "6 units"
+      },
+      {
+        "code": "POGO8212/ LAWS8189",
+        "units": "6 units"
+      },
+      {
+        "code": "ENVS6307/ ENVS8003",
+        "units": "6 units"
+      },
+      {
+        "code": "ENGN6410/ ENVS6025",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "SCNC8021",
+        "level": "Science Research Project",
+        "units": "3 to 24 units"
+      },
+      {},
+      {
+        "code": "M.EnCh course from list",
+        "units": "6 units"
+      },
+      {
+        "code": "M.EnCh course from list",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "SCNC8021",
+        "level": "Science Research Project",
+        "units": "3 to 24 units"
+      },
+      {},
+      {
+        "code": "EMDV8080/ EMDV8081/ IDEC8089",
+        "units": "6 units"
+      },
+      {
+        "code": "M.EnCh course from list",
+        "units": "6 units"
+      }
+    ]
+  ]
+}

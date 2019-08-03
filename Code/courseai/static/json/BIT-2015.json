@@ -1,0 +1,38 @@
+{
+  "name": "Bachelor of Information Technology",
+  "code": "BIT",
+  "year": 2015,
+  "units": 144,
+  "required": {
+    "max_by_level": [
+      {
+        "type": "maximum",
+        "level": [
+          1000
+        ],
+        "units": 60
+      }
+    ],
+    "compulsory_courses": [
+      "COMP1100",
+      "COMP1110",
+      "COMP1710",
+      "COMP2400",
+      "COMP2600",
+      "COMP3120"
+    ],
+    "x_from_here": [
+      {
+        "type": "minimum",
+        "units": 6,
+        "courses": [
+          "MATH1005",
+          "MATH1014",
+          "MATH1116"
+        ]
+      }
+    ],
+    "one_from_m/m/s": [],
+    "required_m/m/s": []
+  }
+}

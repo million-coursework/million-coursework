@@ -1,0 +1,228 @@
+{
+  "code": "MDESN",
+  "2014": [],
+  "2015": [],
+  "2016": [],
+  "2017": [
+    [
+      {
+        "code": "\nFoundation Theory List",
+        "units": "6 units from \r"
+      },
+      {
+        "code": "\nFoundation Theory List",
+        "units": "6 units from \r"
+      },
+      {
+        "code": "\nFoundation Theory List",
+        "units": "6 units from \r"
+      },
+      {
+        "code": "\nFoundation Theory List",
+        "units": "6 units from \r"
+      }
+    ],
+    [
+      {
+        "code": "\nTheory List",
+        "units": "6 units from \r"
+      },
+      {
+        "code": "\nDesign List",
+        "units": "6 units from \r"
+      },
+      {
+        "code": "\nResearch-Led Design List",
+        "units": "6 units from \r"
+      },
+      {
+        "code": "\nDesign List or Research-Led Design List",
+        "units": "6 units from \r"
+      }
+    ],
+    [
+      {
+        "code": "\nTheory List",
+        "units": "6 units from \r"
+      },
+      {
+        "code": "\nDesign List",
+        "units": "6 units from \r"
+      },
+      {
+        "code": "\nResearch-Led Design List",
+        "units": "6 units from \r"
+      },
+      {
+        "code": "\nDesign List or Research-Led Design List",
+        "units": "6 units from \r"
+      }
+    ],
+    [
+      {
+        "code": "ANU Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ANU Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ANU Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ANU Elective Course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2018": [
+    [
+      {
+        "code": "Foundation Theory Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Foundation Studio and Design Course",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Foundation Studio and Design Course",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Foundation Studio and Design Course",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "Research Training Course",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Disciplinary Courses List",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Disciplinary Courses List",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Disciplinary Courses List",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "Research Training Course",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Disciplinary Course",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Research Project Course",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Research Project Course",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "ANU Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ANU Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ANU Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ANU Elective Course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2019": [
+    [
+      {
+        "code": "Foundation Theory Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Foundation Studio and Design Course",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Foundation Studio and Design Course",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Foundation Studio and Design Course",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "Research Training Course",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Disciplinary Courses List",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Disciplinary Courses List",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Disciplinary Courses List",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "Research Training Course",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Disciplinary Course",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Research Project Course",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Research Project Course",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "ANU Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ANU Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ANU Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ANU Elective Course",
+        "units": "6 units"
+      }
+    ]
+  ]
+}

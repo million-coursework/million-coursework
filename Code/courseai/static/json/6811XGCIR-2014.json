@@ -1,0 +1,10 @@
+{
+  "name": "Graduate Certificate in International Relations",
+  "code": "6811XGCIR",
+  "year": 2014,
+  "units": 12,
+  "required": {
+    "one_from_m/m/s": [],
+    "required_m/m/s": []
+  }
+}

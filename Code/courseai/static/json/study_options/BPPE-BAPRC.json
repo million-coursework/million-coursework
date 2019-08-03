@@ -1,0 +1,941 @@
+{
+  "code": "BPPE-BAPRC",
+  "2014": [
+    [
+      {
+        "code": "Archaeological Practice Major",
+        "level": "1000 level Course",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Specialisation 1",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "Archaeological Practice Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Specialisation 1",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "Archaeological Practice Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Specialisation 1 2000/3000 level Course",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "Archaeological Practice Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Specialisation 1 2000/3000 level Course",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "Archaeological Practice Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Specialisation 2 2000/3000 level Course",
+        "units": "6 units\r"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "Archaeological Practice Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Specialisation 2 2000/3000 level Course",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "Archaeological Practice Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Specialisation 2 2000/3000 level Course",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "Archaeological Practice Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Specialisation 2 2000/3000 level Course",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ]
+  ],
+  "2015": [
+    [
+      {
+        "code": "Archaeological Practice Major",
+        "level": "1000 level Course",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Specialisation 1",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1002",
+        "level": "Introduction to Politics",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1005",
+        "level": "Introduction to International Relations: Foundations and Concepts",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Archaeological Practice Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Specialisation 1",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "PHIL1005",
+        "level": "Logic and Critical Thinking",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Archaeological Practice Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Specialisation 1 2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "PHIL1004",
+        "level": "Fundamental Ideas in Philosophy: An Introduction",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Politics list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Archaeological Practice Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Specialisation 1 2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1008",
+        "level": "PPE Integrative Seminar Year 1: Puzzles in Politics, Philosophy and Economics",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Philosophy list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Archaeological Practice Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Specialisation 2 2000/3000 level Course",
+        "units": "6 units\r"
+      },
+      {
+        "code": "ECON2101",
+        "level": "Microeconomics 2(P)",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Economics list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Archaeological Practice Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Specialisation 2 2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "PHIL2116",
+        "level": "PPE Integrative Seminar Year 2",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Politics list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Archaeological Practice Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Specialisation 2 2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Philosophy list Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ANIP/ECON/PHIL/POLS",
+        "level": "2000/3000 Level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Archaeological Practice Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Specialisation 2 2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON3056",
+        "level": "PPE Integrative Seminar Year 3: Classic Literature in PPE",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Economics list Course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2016": [
+    [
+      {
+        "code": "Archaeological Practice Major",
+        "level": "1000 level Course",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Specialisation 1",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1002",
+        "level": "Introduction to Politics",
+        "units": "6 units"
+      },
+      {
+        "code": "PHIL1004",
+        "level": "Fundamental Ideas in Philosophy: An Introduction",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Archaeological Practice Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Specialisation 1",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1009",
+        "level": "Research and Writing in Political Science",
+        "units": "6 units"
+      },
+      {
+        "code": "PHIL1005",
+        "level": "Logic and Critical Thinking",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Archaeological Practice Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Specialisation 1 2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Politics list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Archaeological Practice Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Specialisation 1 2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1008",
+        "level": "PPE Integrative Seminar Year 1: Puzzles in Politics, Philosophy and Economics",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Philosophy list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Archaeological Practice Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Specialisation 2 2000/3000 level Course",
+        "units": "6 units\r"
+      },
+      {
+        "code": "ECON2101",
+        "level": "Microeconomics 2(P)",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Economics list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Archaeological Practice Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Specialisation 2 2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "PHIL2116",
+        "level": "PPE Integrative Seminar Year 2",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Politics list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Archaeological Practice Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Specialisation 2 2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Philosophy list Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ANIP/ECON/PHIL/POLS",
+        "level": "2000/3000 Level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Archaeological Practice Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Specialisation 2 2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON3056",
+        "level": "PPE Integrative Seminar Year 3: Classic Literature in PPE",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Economics list Course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2017": [
+    [
+      {
+        "code": "Archaeological Practice Major",
+        "level": "1000 level Course",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Specialisation 1",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1002",
+        "level": "Introduction to Politics",
+        "units": "6 units"
+      },
+      {
+        "code": "PHIL1004",
+        "level": "Fundamental Ideas in Philosophy: An Introduction",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Archaeological Practice Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Specialisation 1",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1009",
+        "level": "Research and Writing in Political Science",
+        "units": "6 units"
+      },
+      {
+        "code": "PHIL1005",
+        "level": "Logic and Critical Thinking",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Archaeological Practice Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Specialisation 1 2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Politics list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Archaeological Practice Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Specialisation 1 2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1008",
+        "level": "PPE Integrative Seminar Year 1: Puzzles in Politics, Philosophy and Economics",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Philosophy list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Archaeological Practice Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Specialisation 2 2000/3000 level Course",
+        "units": "6 units\r"
+      },
+      {
+        "code": "ECON2101",
+        "level": "Microeconomics 2(P)",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Economics list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Archaeological Practice Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Specialisation 2 2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "PHIL2116",
+        "level": "PPE Integrative Seminar Year 2",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Politics list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Archaeological Practice Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Specialisation 2 2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Philosophy list Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ANIP/ECON/PHIL/POLS",
+        "level": "2000/3000 Level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Archaeological Practice Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Specialisation 2 2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON3056",
+        "level": "PPE Integrative Seminar Year 3: Classic Literature in PPE",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Economics list Course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2018": [
+    [
+      {
+        "code": "Archaeological Practice Major",
+        "level": "1000 level Course",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Specialisation 1",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1002",
+        "level": "Introduction to Politics",
+        "units": "6 units"
+      },
+      {
+        "code": "PHIL1004",
+        "level": "Fundamental Ideas in Philosophy: An Introduction",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Archaeological Practice Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Specialisation 1",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1009",
+        "level": "Research and Writing in Political Science",
+        "units": "6 units"
+      },
+      {
+        "code": "PHIL1005",
+        "level": "Logic and Critical Thinking",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Archaeological Practice Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Specialisation 1 2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Politics list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Archaeological Practice Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Specialisation 1 2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1008",
+        "level": "PPE Integration 1",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Philosophy list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Archaeological Practice Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Specialisation 2 2000/3000 level Course",
+        "units": "6 units\r"
+      },
+      {
+        "code": "ECON2101",
+        "level": "Microeconomics 2(P)",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Economics list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Archaeological Practice Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Specialisation 2 2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "PHIL2116",
+        "level": "PPE Integration 2",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Politics list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Archaeological Practice Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Specialisation 2 2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Philosophy list Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ANIP/ECON/PHIL/POLS",
+        "level": "2000/3000 Level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Archaeological Practice Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Specialisation 2 2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON3056",
+        "level": "PPE Integration 3: Classic Literature in PPE",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Economics list Course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2019": [
+    [
+      {
+        "code": "Archaeological Practice Major",
+        "level": "1000 level Course",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Specialisation 1",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1002",
+        "level": "Introduction to Politics",
+        "units": "6 units"
+      },
+      {
+        "code": "PHIL1004",
+        "level": "Fundamental Ideas in Philosophy: An Introduction",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Archaeological Practice Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Specialisation 1",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1009",
+        "level": "Research and Writing in Political Science",
+        "units": "6 units"
+      },
+      {
+        "code": "PHIL1005",
+        "level": "Logic and Critical Thinking",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Archaeological Practice Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Specialisation 1 2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Politics list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Archaeological Practice Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Specialisation 1 2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1008",
+        "level": "PPE Integration 1",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Philosophy list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Archaeological Practice Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Specialisation 2 2000/3000 level Course",
+        "units": "6 units\r"
+      },
+      {
+        "code": "ECON2101",
+        "level": "Microeconomics 2(P)",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Economics list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Archaeological Practice Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Specialisation 2 2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "PHIL2116",
+        "level": "PPE Integration 2",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Politics list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Archaeological Practice Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Specialisation 2 2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Philosophy list Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ANIP/ECON/PHIL/POLS",
+        "level": "2000/3000 Level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Archaeological Practice Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Specialisation 2 2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON3056",
+        "level": "PPE Integration 3: Classic Literature in PPE",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Economics list Course",
+        "units": "6 units"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "name": "Bachelor of Advanced Computing (Honours)",
+  "code": "AACOM",
+  "year": 2016,
+  "units": 192,
+  "required": {
+    "max_by_level": [
+      {
+        "type": "maximum",
+        "level": [
+          1000
+        ],
+        "units": 60
+      }
+    ],
+    "compulsory_courses": [
+      "COMP2100",
+      "COMP2130",
+      "COMP2300",
+      "COMP2310",
+      "COMP2600",
+      "COMP3100",
+      "COMP3120",
+      "COMP3530",
+      "COMP3600",
+      "COMP3630",
+      "ENGN1211",
+      "MGMT3027",
+      "COMP1100"
+    ],
+    "x_from_here": [
+      {
+        "type": "minimum",
+        "units": 6,
+        "courses": [
+          "COMP1110",
+          "COMP1140"
+        ]
+      },
+      {
+        "type": "minimum",
+        "units": 6,
+        "courses": [
+          "MATH1014",
+          "MATH1116"
+        ]
+      },
+      {
+        "type": "minimum",
+        "units": 6,
+        "courses": [
+          "STAT1003",
+          "STAT1008"
+        ]
+      },
+      {
+        "type": "minimum",
+        "units": 6,
+        "courses": [
+          "COMP1100",
+          "COMP1130"
+        ]
+      },
+      {
+        "type": "minimum",
+        "units": 6,
+        "courses": [
+          "MATH1013",
+          "MATH1115"
+        ]
+      }
+    ],
+    "x_from_category": [
+      {
+        "type": "minimum",
+        "level": [
+          4000
+        ],
+        "area": [
+          "COMP"
+        ],
+        "units": 12
+      }
+    ],
+    "one_from_m/m/s": [],
+    "required_m/m/s": []
+  }
+}

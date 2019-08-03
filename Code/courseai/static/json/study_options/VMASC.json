@@ -1,0 +1,216 @@
+{
+  "code": "VMASC",
+  "2014": [],
+  "2015": [],
+  "2016": [],
+  "2017": [
+    [
+      {
+        "code": "M.MathSc course from list 1",
+        "units": "6 units"
+      },
+      {
+        "code": "M.MathSc course from list 1",
+        "units": "6 units"
+      },
+      {
+        "code": "M.MathSc course from list 1",
+        "units": "6 units"
+      },
+      {
+        "code": "M.MathSc course from list 2",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "M.MathSc course from list 2",
+        "units": "6 units"
+      },
+      {
+        "code": "M.MathSc course from list 2",
+        "units": "6 units"
+      },
+      {
+        "code": "M.MathSc course from list 2",
+        "units": "6 units"
+      },
+      {
+        "code": "M.MathSc course from list 2",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "MATH8701",
+        "level": "Mathematics Research Project",
+        "units": "6 to 24 units"
+      },
+      {},
+      {
+        "code": "M.MathSc course from list 2",
+        "units": "6 units"
+      },
+      {
+        "code": "M.MathSc course from list 2",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "MATH8701",
+        "level": "Mathematics Research Project",
+        "units": "6 to 24 units"
+      },
+      {},
+      {
+        "code": "M.MathSc course from list 2",
+        "units": "6 units"
+      },
+      {
+        "code": "M.MathSc course from list 2",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2018": [
+    [
+      {
+        "code": "M.MathSc course from list 1",
+        "units": "6 units"
+      },
+      {
+        "code": "M.MathSc course from list 1",
+        "units": "6 units"
+      },
+      {
+        "code": "M.MathSc course from list 1",
+        "units": "6 units"
+      },
+      {
+        "code": "M.MathSc course from list 2",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "M.MathSc course from list 2",
+        "units": "6 units"
+      },
+      {
+        "code": "M.MathSc course from list 2",
+        "units": "6 units"
+      },
+      {
+        "code": "M.MathSc course from list 2",
+        "units": "6 units"
+      },
+      {
+        "code": "M.MathSc course from list 2",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "MATH8701",
+        "level": "Mathematics Research Project",
+        "units": "6 to 24 units"
+      },
+      {},
+      {
+        "code": "M.MathSc course from list 2",
+        "units": "6 units"
+      },
+      {
+        "code": "M.MathSc course from list 2",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "MATH8701",
+        "level": "Mathematics Research Project",
+        "units": "6 to 24 units"
+      },
+      {},
+      {
+        "code": "M.MathSc course from list 2",
+        "units": "6 units"
+      },
+      {
+        "code": "M.MathSc course from list 2",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2019": [
+    [
+      {
+        "code": "M.MathSc course from list 1",
+        "units": "6 units"
+      },
+      {
+        "code": "M.MathSc course from list 1",
+        "units": "6 units"
+      },
+      {
+        "code": "M.MathSc course from list 1",
+        "units": "6 units"
+      },
+      {
+        "code": "M.MathSc course from list 2",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "M.MathSc course from list 2",
+        "units": "6 units"
+      },
+      {
+        "code": "M.MathSc course from list 2",
+        "units": "6 units"
+      },
+      {
+        "code": "M.MathSc course from list 2",
+        "units": "6 units"
+      },
+      {
+        "code": "M.MathSc course from list 2",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "MATH8701",
+        "level": "Mathematics Research Project",
+        "units": "6 to 24 units"
+      },
+      {},
+      {
+        "code": "M.MathSc course from list 2",
+        "units": "6 units"
+      },
+      {
+        "code": "M.MathSc course from list 2",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "MATH8701",
+        "level": "Mathematics Research Project",
+        "units": "6 to 24 units"
+      },
+      {},
+      {
+        "code": "M.MathSc course from list 2",
+        "units": "6 units"
+      },
+      {
+        "code": "M.MathSc course from list 2",
+        "units": "6 units"
+      }
+    ]
+  ]
+}

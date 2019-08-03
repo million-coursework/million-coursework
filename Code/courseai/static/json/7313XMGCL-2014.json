@@ -1,0 +1,10 @@
+{
+  "name": "Master of Government and Commercial Law",
+  "code": "7313XMGCL",
+  "year": 2014,
+  "units": 7313,
+  "required": {
+    "one_from_m/m/s": [],
+    "required_m/m/s": []
+  }
+}

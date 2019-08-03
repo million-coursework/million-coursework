@@ -1,0 +1,99 @@
+{
+  "code": "DADAN",
+  "2014": [],
+  "2015": [],
+  "2016": [],
+  "2017": [],
+  "2018": [
+    [
+      {
+        "code": "COMP1040",
+        "level": "The Craft of Computing",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT7055",
+        "level": "Introductory Statistics for Business and Finance",
+        "units": "6 units"
+      },
+      {
+        "code": "(Intensive) SOCR8201 ",
+        "level": "Introduction to Social Science Methods and Types of Data",
+        "units": "6 units"
+      },
+      {
+        "code": "(Intensive) COMP7240 ",
+        "level": "Introduction to Database Concepts",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "STAT7001",
+        "level": "Applied Statistics",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT6039",
+        "level": "Principles of Mathematical Statistics",
+        "units": "6 units"
+      },
+      {
+        "code": "(Intensive) COMP8410",
+        "level": "Data Mining",
+        "units": "6 units"
+      },
+      {
+        "code": "(Intensive) SOCR8202",
+        "level": "Using Data to Answer Policy Questions and Evaluate Policy",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2019": [
+    [
+      {
+        "code": "COMP1040",
+        "level": "The Craft of Computing",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT7055",
+        "level": "Introductory Statistics for Business and Finance",
+        "units": "6 units"
+      },
+      {
+        "code": "(Intensive) SOCR8201 ",
+        "level": "Introduction to Social Science Methods and Types of Data",
+        "units": "6 units"
+      },
+      {
+        "code": "(Intensive) COMP7240 ",
+        "level": "Introduction to Database Concepts",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "STAT7001",
+        "level": "Applied Statistics",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT6039",
+        "level": "Principles of Mathematical Statistics",
+        "units": "6 units"
+      },
+      {
+        "code": "(Intensive) COMP8410",
+        "level": "Data Mining",
+        "units": "6 units"
+      },
+      {
+        "code": "(Intensive) SOCR8202",
+        "level": "Using Data to Answer Policy Questions and Evaluate Policy",
+        "units": "6 units"
+      }
+    ]
+  ]
+}

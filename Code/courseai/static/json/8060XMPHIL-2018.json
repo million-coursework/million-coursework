@@ -1,0 +1,10 @@
+{
+  "name": "Master of Philosophy, ANU Colleges of Science",
+  "code": "8060XMPHIL",
+  "year": 2018,
+  "units": 60,
+  "required": {
+    "one_from_m/m/s": [],
+    "required_m/m/s": []
+  }
+}

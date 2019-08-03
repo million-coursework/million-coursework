@@ -1,0 +1,67 @@
+{
+  "name": "Bachelor of Statistics",
+  "code": "BSTAT",
+  "year": 2017,
+  "units": 144,
+  "required": {
+    "max_by_level": [
+      {
+        "type": "maximum",
+        "level": [
+          1000
+        ],
+        "units": 60
+      }
+    ],
+    "compulsory_courses": [
+      "STAT2001",
+      "STAT2005",
+      "STAT2008"
+    ],
+    "x_from_here": [
+      {
+        "type": "minimum",
+        "units": 6,
+        "courses": [
+          "STAT1003",
+          "STAT1008"
+        ]
+      },
+      {
+        "type": "minimum",
+        "units": 12,
+        "courses": [
+          "MATH1013",
+          "MATH1014",
+          "MATH1115",
+          "MATH1116"
+        ]
+      },
+      {
+        "type": "minimum",
+        "units": 6,
+        "courses": [
+          "COMP1040",
+          "COMP1100"
+        ]
+      },
+      {
+        "type": "minimum",
+        "units": 6,
+        "courses": [
+          "MATH2301",
+          "MATH3511"
+        ]
+      }
+    ],
+    "one_from_m/m/s": [
+      [
+        "THST-MAJ",
+        "PSTO-MAJ",
+        "APST-MAJ",
+        "STDA-MAJ"
+      ]
+    ],
+    "required_m/m/s": []
+  }
+}

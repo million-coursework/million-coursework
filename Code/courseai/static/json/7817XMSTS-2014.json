@@ -1,0 +1,16 @@
+{
+  "name": "Master of Strategic Studies",
+  "code": "7817XMSTS",
+  "year": 2014,
+  "units": 48,
+  "required": {
+    "compulsory_courses": [
+      "STST8001",
+      "STST8002",
+      "STST8004",
+      "STST8013"
+    ],
+    "one_from_m/m/s": [],
+    "required_m/m/s": []
+  }
+}

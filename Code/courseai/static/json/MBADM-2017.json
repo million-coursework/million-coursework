@@ -1,0 +1,10 @@
+{
+  "name": "Master of Business Administration",
+  "code": "MBADM",
+  "year": 2017,
+  "units": 72,
+  "required": {
+    "one_from_m/m/s": [],
+    "required_m/m/s": []
+  }
+}

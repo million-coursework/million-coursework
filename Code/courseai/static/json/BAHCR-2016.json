@@ -1,0 +1,100 @@
+{
+  "name": "Bachelor of Art History and Curatorship",
+  "code": "BAHCR",
+  "year": 2016,
+  "units": 144,
+  "required": {
+    "max_by_level": [
+      {
+        "type": "maximum",
+        "level": [
+          1000
+        ],
+        "units": 60
+      }
+    ],
+    "compulsory_courses": [
+      "ARTH1006",
+      "ARTH1007",
+      "ARTH3001",
+      "ARTH2044"
+    ],
+    "x_from_here": [
+      {
+        "type": "minimum",
+        "units": 12,
+        "courses": [
+          "ARTH2044",
+          "ARTH2045",
+          "ARTH2057"
+        ]
+      },
+      {
+        "type": "minimum",
+        "units": 36,
+        "courses": [
+          "ARTH2039",
+          "ARTH2043",
+          "ARTH2044",
+          "ARTH2045",
+          "ARTH2050",
+          "ARTH2052",
+          "ARTH2055",
+          "ARTH2056",
+          "ARTH2057",
+          "ARTH2059",
+          "ARTH2061",
+          "ARTH2080",
+          "ARTH2081",
+          "ARTH2082",
+          "ARTH2093",
+          "ARTH2097",
+          "ARTH2098",
+          "ARTH2102",
+          "ARTV2018",
+          "ARTV2030",
+          "ARTV2031",
+          "ARTV2050",
+          "ARTV2052",
+          "ARTV2053",
+          "ARTV2054",
+          "ARTV2055",
+          "FILM2005"
+        ]
+      }
+    ],
+    "one_from_m/m/s": [
+      [
+        "AFRE-MIN",
+        "PERS-MIN",
+        "INDN-MIN",
+        "JPLN-MIN",
+        "THAI-MIN",
+        "VIET-MIN",
+        "AITA-MIN",
+        "ASPA-MIN",
+        "AGRK-MIN",
+        "ADHC-MIN",
+        "AGER-MIN",
+        "RUSS-MIN",
+        "LATN-MIN",
+        "SPAH-MIN",
+        "SANS-MIN",
+        "ALAT-MIN",
+        "GERM-MIN",
+        "HIND-MIN",
+        "JPNS-MIN",
+        "ADHL-MIN",
+        "AAGR-MIN",
+        "KORE-MIN",
+        "CHIN-MIN",
+        "ITAL-MIN",
+        "COMPF-MIN",
+        "FREN-MIN",
+        "URDU-MIN",
+        "ARAB-MIN"
+      ]
+    ],
+    "required_m/m/s": []
+  }
+}

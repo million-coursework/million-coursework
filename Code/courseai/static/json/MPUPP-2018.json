@@ -1,0 +1,33 @@
+{
+  "name": "Master of Public Policy",
+  "code": "MPUPP",
+  "year": 2018,
+  "units": 96,
+  "required": {
+    "compulsory_courses": [
+      "POGO8016",
+      "POGO8062",
+      "POGO8401",
+      "POGO8402"
+    ],
+    "one_from_m/m/s": [
+      [
+        "POAN-SPEC",
+        "REGL-SPEC",
+        "POPC-SPEC",
+        "ECPL-SPEC",
+        "INPL-SPEC",
+        "PUFN-SPEC",
+        "HLPL-SPEC",
+        "POCM-SPEC",
+        "ENPP-SPEC",
+        "GLDV-SPEC",
+        "SOPL-SPEC",
+        "FODF-SPEC",
+        "SORM-SPEC",
+        "INPO-SPEC"
+      ]
+    ],
+    "required_m/m/s": []
+  }
+}

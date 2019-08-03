@@ -1,0 +1,695 @@
+{
+  "code": "BEURO-BCLAS",
+  "2014": [
+    [
+      {
+        "code": "Major 1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor 1000 level Course",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "Major 1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor 1000 level Course",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "Major 2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor 2000 level Course",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "Major 2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor 2000 level Course",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "Major 2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Classical Studies Course",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "Major 2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Classical Studies Course",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "Major 2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Classical Studies Course",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "Major 2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Classical Studies Course",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ]
+  ],
+  "2015": [
+    [
+      {
+        "code": "Major 1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor 1000 level Course",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "Major 1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor 1000 level Course",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "Major 2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor 2000 level Course",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "Major 2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor 2000 level Course",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "Major 2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Classical Studies Course",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "Major 2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Classical Studies Course",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "Major 2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Classical Studies Course",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "Major 2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Classical Studies Course",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ]
+  ],
+  "2016": [
+    [
+      {
+        "code": "Major 1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor 1000 level Course",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "Major 1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor 1000 level Course",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "Major 2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor 2000 level Course",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "Major 2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor 2000 level Course",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "Major 2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Classical Studies Course",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "Major 2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Classical Studies Course",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "Major 2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Classical Studies Course",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "Major 2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Classical Studies Course",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ]
+  ],
+  "2017": [
+    [
+      {
+        "code": "Major 1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor 1000 level Course",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "Major 1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor 1000 level Course",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "Major 2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor 2000 level Course",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "Major 2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor 2000 level Course",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "Major 2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Classical Studies Course",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "Major 2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Classical Studies Course",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "Major 2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Classical Studies Course",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "Major 2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Classical Studies Course",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ]
+  ],
+  "2018": [
+    [
+      {
+        "code": "Major 1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor 1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "HIST1214",
+        "level": "Clash of Empires: 1450 to the Present",
+        "units": "6 units"
+      },
+      {
+        "code": "Language Major Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Major 1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor 1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "EURO1004",
+        "level": "Europe in the Modern Era",
+        "units": "6 units"
+      },
+      {
+        "code": "Language Major Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Major 2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor 2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "EURO2012",
+        "level": "Uniting Europe: history, politics, theory",
+        "units": "6 units"
+      },
+      {
+        "code": "Language Major Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Major 2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor 2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "European History Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Language Major Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Major 2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Classical Studies Course",
+        "units": "6 units"
+      },
+      {
+        "code": "European History Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Language Major Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Major 2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Classical Studies Course",
+        "units": "6 units"
+      },
+      {
+        "code": "EURO3002",
+        "level": "Comparative European Politics",
+        "units": "6 units"
+      },
+      {
+        "code": "Language Major Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Major 2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Classical Studies Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Contemporary Europe Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Language Major Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Major 2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Classical Studies Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Contemporary Europe Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Language Major Course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2019": [
+    [
+      {
+        "code": "Major 1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor 1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "HIST1214",
+        "level": "Clash of Empires: 1450 to the Present",
+        "units": "6 units"
+      },
+      {
+        "code": "Language Major Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Major 1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor 1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "EURO1004",
+        "level": "Europe in the Modern Era",
+        "units": "6 units"
+      },
+      {
+        "code": "Language Major Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Major 2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor 2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "EURO2012",
+        "level": "Uniting Europe: history, politics, theory",
+        "units": "6 units"
+      },
+      {
+        "code": "Language Major Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Major 2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor 2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "European History Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Language Major Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Major 2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Classical Studies Course",
+        "units": "6 units"
+      },
+      {
+        "code": "European History Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Language Major Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Major 2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Classical Studies Course",
+        "units": "6 units"
+      },
+      {
+        "code": "EURO3002",
+        "level": "Comparative European Politics",
+        "units": "6 units"
+      },
+      {
+        "code": "Language Major Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Major 2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Classical Studies Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Contemporary Europe Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Language Major Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Major 2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Classical Studies Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Contemporary Europe Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Language Major Course",
+        "units": "6 units"
+      }
+    ]
+  ]
+}

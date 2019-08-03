@@ -1,0 +1,18 @@
+{
+  "name": "Master of International Management (Advanced)",
+  "code": "VIMGT",
+  "year": 2018,
+  "units": 96,
+  "required": {
+    "compulsory_courses": [
+      "MMIB8006",
+      "MGMT7250"
+    ],
+    "one_from_m/m/s": [
+      [
+        "BUSI-SPEC"
+      ]
+    ],
+    "required_m/m/s": []
+  }
+}

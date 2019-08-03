@@ -1,0 +1,17 @@
+{
+  "name": "Graduate Diploma of Finance and Actuarial Statistics",
+  "code": "DFAS",
+  "year": 2015,
+  "units": 48,
+  "required": {
+    "one_from_m/m/s": [
+      [
+        "STAT-SPEC",
+        "ACST-SPEC",
+        "ASTA-SPEC",
+        "FINM-SPEC"
+      ]
+    ],
+    "required_m/m/s": []
+  }
+}

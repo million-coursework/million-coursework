@@ -1,0 +1,147 @@
+{
+  "name": "Master of Environmental Science",
+  "code": "MENVS",
+  "year": 2015,
+  "units": 96,
+  "required": {
+    "x_from_here": [
+      {
+        "type": "minimum",
+        "units": 12,
+        "courses": [
+          "BIOL8700",
+          "BIOL8706"
+        ]
+      },
+      {
+        "type": "minimum",
+        "units": 12,
+        "courses": [
+          "ENVS8015",
+          "ENVS8048",
+          "ENVS8049"
+        ]
+      },
+      {
+        "type": "minimum",
+        "units": 36,
+        "courses": [
+          "BIOL6002",
+          "BIOL6003",
+          "BIOL6004",
+          "BIOL6006",
+          "BIOL6010",
+          "BIOL6106",
+          "BIOL6111",
+          "BIOL6113",
+          "BIOL6116",
+          "BIOL6125",
+          "BIOL6161",
+          "BIOL6162",
+          "BIOL6177",
+          "BIOL6191",
+          "BIOL6201",
+          "BIOL6202",
+          "BIOL6206",
+          "BIOL6631",
+          "BIOL8021"
+        ]
+      },
+      {
+        "type": "minimum",
+        "units": 36,
+        "courses": [
+          "ENVS6005",
+          "ENVS6010",
+          "ENVS6012",
+          "ENVS6015",
+          "ENVS6020",
+          "ENVS6022",
+          "ENVS6023",
+          "ENVS6024",
+          "ENVS6025",
+          "ENVS6026",
+          "ENVS6103",
+          "ENVS6104",
+          "ENVS6203",
+          "ENVS6204",
+          "ENVS6301",
+          "ENVS6302",
+          "ENVS6303",
+          "ENVS6304",
+          "ENVS6306",
+          "ENVS6307",
+          "ENVS6308",
+          "ENVS6312",
+          "ENVS6514",
+          "ENVS6529",
+          "ENVS6555",
+          "ENVS8003",
+          "ENVS8006"
+        ]
+      },
+      {
+        "type": "minimum",
+        "units": 36,
+        "courses": [
+          "EMSC6014",
+          "EMSC6015",
+          "EMSC6019",
+          "EMSC6021",
+          "EMSC6023",
+          "EMSC6025",
+          "EMSC6027",
+          "EMSC6028",
+          "EMSC6032",
+          "EMSC6040"
+        ]
+      },
+      {
+        "type": "maximum",
+        "units": 24,
+        "courses": [
+          "ANTH6026",
+          "ANTH6064",
+          "ANTH8014",
+          "ANTH8047",
+          "ARCH6022",
+          "ARCH6108",
+          "BIAN6013",
+          "BIAN6115",
+          "BIAN6119",
+          "BIAN6120",
+          "BIAN6124",
+          "BIAN6510",
+          "BIAN6512",
+          "BIAN6513",
+          "BIAN6514",
+          "BIAN6515",
+          "BIAN6516",
+          "BIAN6517",
+          "BIAN6518",
+          "BIAN6519",
+          "BIAN6520",
+          "ENGN6516",
+          "ENVS6013",
+          "ENVS6014",
+          "ENVS6017",
+          "ENVS6021",
+          "ENVS6033",
+          "ENVS6205",
+          "ENVS6528",
+          "ENVS8016",
+          "LAWS8037",
+          "LAWS8111",
+          "LAWS8189",
+          "MATH6100",
+          "MATH6102",
+          "MATH6103",
+          "SCOM8021",
+          "SCOM8027"
+        ]
+      }
+    ],
+    "one_from_m/m/s": [],
+    "required_m/m/s": []
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "code": "4050FDD-BBUSA",
+  "2014": [],
+  "2015": [
+    [
+      {
+        "code": "BUSN1001",
+        "level": "Business Reporting and Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "MGMT1003",
+        "level": "Management, People and Organisations",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON1102",
+        "level": "Macroeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "CBE List 1 elective ",
+        "level": "or MKTG2004",
+        "units": "6 units"
+      },
+      {
+        "code": "CBE List 1 elective ",
+        "level": "or BUSI2025",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2016": [
+    [
+      {
+        "code": "BUSN1001",
+        "level": "Business Reporting and Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "MGMT1003",
+        "level": "Management, People and Organisations",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON1102",
+        "level": "Macroeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "CBE List 1 elective ",
+        "level": "or MKTG2004",
+        "units": "6 units"
+      },
+      {
+        "code": "CBE List 1 elective ",
+        "level": "or BUSI2025",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2017": [
+    [
+      {
+        "code": "BUSN1001",
+        "level": "Business Reporting and Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "MGMT1003",
+        "level": "Management, People and Organisations",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON1102",
+        "level": "Macroeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "CBE List 1 elective ",
+        "level": "or MKTG2004",
+        "units": "6 units"
+      },
+      {
+        "code": "CBE List 1 elective ",
+        "level": "or BUSI2025",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2018": [
+    [
+      {
+        "code": "BUSN1001",
+        "level": "Business Reporting and Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "MGMT1003",
+        "level": "Management, People and Organisations",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON1102",
+        "level": "Macroeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "CBE List 1 elective ",
+        "level": "or MKTG2004",
+        "units": "6 units"
+      },
+      {
+        "code": "CBE List 1 elective ",
+        "level": "or BUSI2025",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2019": [
+    [
+      {
+        "code": "BUSN1001",
+        "level": "Business Reporting and Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "MGMT1003",
+        "level": "Management, People and Organisations",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON1102",
+        "level": "Macroeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "CBE List 1 elective ",
+        "level": "or MKTG2004",
+        "units": "6 units"
+      },
+      {
+        "code": "CBE List 1 elective ",
+        "level": "or BUSI2025",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective course",
+        "units": "6 units"
+      }
+    ]
+  ]
+}

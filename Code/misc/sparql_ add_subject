@@ -1,0 +1,11 @@
+#add a subject to the ontology
+
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX onto: <http://wordnet-rdf.princeton.edu/ontology#>
+
+INSERT {?child rdfs:related_subject CODE}
+WHERE {
+	?uri rdfs:label ?label .
+	FILTER regex(str(?label), expr) .
+    ?child onto:hypernym* ?uri
+}

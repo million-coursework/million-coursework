@@ -1,0 +1,8 @@
+"http://programsandcourses.anu.edu.au/2018/course/JPNS3008",
+"http://programsandcourses.anu.edu.au/2018/course/JPNS2003",
+"http://programsandcourses.anu.edu.au/2018/course/JPNS2005",
+"http://programsandcourses.anu.edu.au/2018/course/JPNS2013",
+"http://programsandcourses.anu.edu.au/2018/course/JPNS3002",
+"http://programsandcourses.anu.edu.au/2018/course/JPNS1002",
+"http://programsandcourses.anu.edu.au/2018/course/JPNS1001",
+"http://programsandcourses.anu.edu.au/2018/course/JPNS3023"

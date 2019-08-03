@@ -1,0 +1,10 @@
+{
+  "name": "Bachelor of Arts (Honours)",
+  "code": "HART2",
+  "year": 2019,
+  "units": 10,
+  "required": {
+    "one_from_m/m/s": [],
+    "required_m/m/s": []
+  }
+}

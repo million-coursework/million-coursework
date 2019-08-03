@@ -1,0 +1,964 @@
+{
+  "code": "BAHCR-BSTAT",
+  "2014": [
+    [
+      {
+        "code": "Art History Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Language Minor",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP1100",
+        "level": "Introduction to Programming and Algorithms",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1115",
+        "level": "Mathematics and Applications 1 Honours",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Art History Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Language Minor",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT1003",
+        "level": "Statistical Techniques",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1116",
+        "level": "Mathematics and Applications 2 Honours",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Art History Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Language Minor",
+        "level": "2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT2001",
+        "level": "Introductory Mathematical Statistics",
+        "units": "6 units"
+      },
+      {
+        "code": "Sequence Pre-requisite Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Art History Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Language Minor",
+        "level": "2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT3004",
+        "level": "Stochastic Modelling",
+        "units": "6 units"
+      },
+      {
+        "code": "Sequence Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Art History Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Curatorship Minor",
+        "level": "2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT2008",
+        "level": "Regression Modelling",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH3511",
+        "level": "Scientific Computing",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Art History Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Curatorship Minor",
+        "level": "2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT3011",
+        "level": "Graphical Data Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "Sequence Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Curatorship Minor Internship",
+        "units": "12 units"
+      },
+      {
+        "code": "Curatorship Minor",
+        "level": "Internship"
+      },
+      {
+        "code": "STAT3012",
+        "level": "Design of Experiments and Surveys",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT3013",
+        "level": "Statistical Inference",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Art History Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Art History Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Sequence Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Sequence Course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2015": [
+    [
+      {
+        "code": "Art History Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Language Minor",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP1100",
+        "level": "Introduction to Programming and Algorithms",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1115",
+        "level": "Advanced Mathematics and Applications 1",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Art History Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Language Minor",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT1003",
+        "level": "Statistical Techniques",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1116",
+        "level": "Advanced Mathematics and Applications  2",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Art History Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Language Minor",
+        "level": "2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT2001",
+        "level": "Introductory Mathematical Statistics",
+        "units": "6 units"
+      },
+      {
+        "code": "Sequence Pre-requisite Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Art History Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Language Minor",
+        "level": "2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT3004",
+        "level": "Stochastic Modelling",
+        "units": "6 units"
+      },
+      {
+        "code": "Sequence Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Art History Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Curatorship Minor",
+        "level": "2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT2008",
+        "level": "Regression Modelling",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH3511",
+        "level": "Scientific Computing",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Art History Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Curatorship Minor",
+        "level": "2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT3011",
+        "level": "Graphical Data Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "Sequence Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Curatorship Minor Internship",
+        "units": "12 units"
+      },
+      {
+        "code": "Curatorship Minor",
+        "level": "Internship"
+      },
+      {
+        "code": "STAT3012",
+        "level": "Design of Experiments and Surveys",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT3013",
+        "level": "Statistical Inference",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Art History Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Art History Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Sequence Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Sequence Course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2016": [
+    [
+      {
+        "code": "ARTH1006",
+        "level": "Art and Design Histories: Form and Space",
+        "units": "6 units"
+      },
+      {
+        "units": "6 units from Language Minor or Major/Minor List"
+      },
+      {
+        "code": "COMP1100",
+        "level": "Introduction to Programming and Algorithms",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1115",
+        "level": "Advanced Mathematics and Applications 1",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ARTH1007",
+        "level": "Art and Design Histories: Making and Meaning",
+        "units": "6 units"
+      },
+      {
+        "units": "6 units from Language Minor or Major/Minor List"
+      },
+      {
+        "code": "STAT1003",
+        "level": "Statistical Techniques",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1116",
+        "level": "Advanced Mathematics and Applications  2",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ARTH2044",
+        "level": "Art and Its Context: Materials, Techniques, Display",
+        "units": "6 units"
+      },
+      {
+        "units": "6 units from Language Minor or Major/Minor List"
+      },
+      {
+        "code": "STAT2001",
+        "level": "Introductory Mathematical Statistics",
+        "units": "6 units"
+      },
+      {
+        "code": "Sequence Pre-requisite Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ARTH2045",
+        "level": "Curatorship Theory and Practice",
+        "units": "6 units"
+      },
+      {
+        "units": "6 units from Language Minor or Major/Minor List"
+      },
+      {
+        "code": "STAT3004",
+        "level": "Stochastic Modelling",
+        "units": "6 units"
+      },
+      {
+        "code": "Sequence Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "units": "6 units from 36 units list"
+      },
+      {
+        "units": "6 units from 36 units list"
+      },
+      {
+        "code": "STAT2008",
+        "level": "Regression Modelling",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH3511",
+        "level": "Scientific Computing",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ARTH3001",
+        "level": "Art History and Curatorship Internship",
+        "units": "12 units"
+      },
+      {
+        "code": "."
+      },
+      {
+        "code": "STAT3011",
+        "level": "Graphical Data Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "Sequence Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "units": "6 units from 36 units list"
+      },
+      {
+        "units": "6 units from 36 units list"
+      },
+      {
+        "code": "STAT3012",
+        "level": "Design of Experiments and Surveys",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT3013",
+        "level": "Statistical Inference",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "units": "6 units from 36 units list"
+      },
+      {
+        "units": "6 units from 36 units list"
+      },
+      {
+        "code": "Sequence Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Sequence Course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2017": [
+    [
+      {
+        "code": "ARTH1006",
+        "level": "Art and Design Histories: Form and Space",
+        "units": "6 units"
+      },
+      {
+        "units": "6 units from Language Minor or Major/Minor List"
+      },
+      {
+        "code": "STAT1008",
+        "level": "Quantitative Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1115",
+        "level": "Advanced Mathematics and Applications 1",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ARTH1007",
+        "level": "Art and Design Histories: Making and Meaning",
+        "units": "6 units"
+      },
+      {
+        "units": "6 units from Language Minor or Major/Minor List"
+      },
+      {
+        "code": "COMP1100",
+        "level": "Programming as Problem Solving",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1116",
+        "level": "Advanced Mathematics and Applications  2",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ARTH2044",
+        "level": "Art and Its Context: Materials, Techniques, Display",
+        "units": "6 units"
+      },
+      {
+        "units": "6 units from Language Minor or Major/Minor List"
+      },
+      {
+        "code": "STAT2001",
+        "level": "Introductory Mathematical Statistics",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT2008",
+        "level": "Regression Modelling",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ARTH2045",
+        "level": "Curatorship Theory and Practice",
+        "units": "6 units"
+      },
+      {
+        "units": "6 units from Language Minor or Major/Minor List"
+      },
+      {
+        "code": "STAT2005",
+        "level": "Introduction to Stochastic Processes",
+        "units": "6 units"
+      },
+      {
+        "code": "Major Course",
+        "level": "Applied stats major STAT3011"
+      }
+    ],
+    [
+      {
+        "units": "6 units from 36 units list"
+      },
+      {
+        "units": "6 units from 36 units list"
+      },
+      {
+        "code": "Major Course",
+        "level": "Applied stats major STAT3012"
+      },
+      {
+        "code": "MATH3511",
+        "level": "Scientific Computing",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ARTH3001",
+        "level": "Art History and Curatorship Internship",
+        "units": "12 units"
+      },
+      {
+        "code": "."
+      },
+      {
+        "code": "Major Course",
+        "level": "Applied stats major STAT3015"
+      },
+      {
+        "code": "Major Course",
+        "level": "Applied stats major STAT3008 or STAT3016 "
+      }
+    ],
+    [
+      {
+        "units": "6 units from 36 units list"
+      },
+      {
+        "units": "6 units from 36 units list"
+      },
+      {
+        "code": "Major Course",
+        "level": "Applied stats major  STAT3032 "
+      },
+      {
+        "code": "Major Course",
+        "level": "Applied stats major (STAT Course)"
+      }
+    ],
+    [
+      {
+        "units": "6 units from 36 units list"
+      },
+      {
+        "units": "6 units from 36 units list"
+      },
+      {
+        "code": "Major Course ",
+        "level": "Applied stats major (EMET course)"
+      },
+      {
+        "code": "Major Course ",
+        "level": "Applied stats major (STAT Course)"
+      }
+    ]
+  ],
+  "2018": [
+    [
+      {
+        "code": "ARTH1006",
+        "level": "Art and Design Histories: Form and Space",
+        "units": "6 units"
+      },
+      {
+        "code": "Language Minor",
+        "level": "or Major/Minor List",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT1008",
+        "level": "Quantitative Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1115",
+        "level": "Advanced Mathematics and Applications 1",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ARTH1007",
+        "level": "Art and Design Histories: Making and Meaning",
+        "units": "6 units"
+      },
+      {
+        "code": "Language Minor",
+        "level": "or Major/Minor List",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP1100",
+        "level": "Programming as Problem Solving",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1116",
+        "level": "Advanced Mathematics and Applications  2",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Curatorship List Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Language Minor",
+        "level": "or Major/Minor List",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT2001",
+        "level": "Introductory Mathematical Statistics",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT2008",
+        "level": "Regression Modelling",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Curatorship List Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Language Minor",
+        "level": "or Major/Minor List",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT2005",
+        "level": "Introduction to Stochastic Processes",
+        "units": "6 units"
+      },
+      {
+        "code": "Major Course",
+        "level": "Applied stats major STAT3011"
+      }
+    ],
+    [
+      {
+        "code": "Art History and Theory List",
+        "units": "6 units"
+      },
+      {
+        "code": "Art History and Theory List",
+        "units": "6 units"
+      },
+      {
+        "code": "Major Course",
+        "level": "Applied stats major STAT3012"
+      },
+      {
+        "code": "MATH3511",
+        "level": "Scientific Computing",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ARTH3001",
+        "level": "Art History and Curatorship Internship",
+        "units": "12 units"
+      },
+      {
+        "code": "."
+      },
+      {
+        "code": "Major Course",
+        "level": "Applied stats major STAT3015"
+      },
+      {
+        "code": "Major Course",
+        "level": "Applied stats major STAT3008 or STAT3016 "
+      }
+    ],
+    [
+      {
+        "code": "Art History and Theory List",
+        "units": "6 units"
+      },
+      {
+        "code": "Art History and Theory List",
+        "units": "6 units"
+      },
+      {
+        "code": "Major Course",
+        "level": "Applied stats major  STAT3032 "
+      },
+      {
+        "code": "Major Course",
+        "level": "Applied stats major (STAT Course)"
+      }
+    ],
+    [
+      {
+        "code": "Art History and Theory List",
+        "units": "6 units"
+      },
+      {
+        "code": "Art History and Theory List",
+        "units": "6 units"
+      },
+      {
+        "code": "Major Course ",
+        "level": "Applied stats major (EMET course)"
+      },
+      {
+        "code": "Major Course ",
+        "level": "Applied stats major (STAT Course)"
+      }
+    ]
+  ],
+  "2019": [
+    [
+      {
+        "code": "ARTH1006",
+        "level": "Art and Design Histories: Form and Space",
+        "units": "6 units"
+      },
+      {
+        "code": "Language Minor",
+        "level": "or Major/Minor List",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT1008",
+        "level": "Quantitative Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1115",
+        "level": "Advanced Mathematics and Applications 1",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ARTH1007",
+        "level": "Art and Design Histories: Making and Meaning",
+        "units": "6 units"
+      },
+      {
+        "code": "Language Minor",
+        "level": "or Major/Minor List",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP1100",
+        "level": "Programming as Problem Solving",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1116",
+        "level": "Advanced Mathematics and Applications  2",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Curatorship List Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Language Minor",
+        "level": "or Major/Minor List",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT2001",
+        "level": "Introductory Mathematical Statistics",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT2008",
+        "level": "Regression Modelling",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Curatorship List Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Language Minor",
+        "level": "or Major/Minor List",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT2005",
+        "level": "Introduction to Stochastic Processes",
+        "units": "6 units"
+      },
+      {
+        "code": "Major Course",
+        "level": "Applied stats major STAT3011"
+      }
+    ],
+    [
+      {
+        "code": "Art History and Theory List",
+        "units": "6 units"
+      },
+      {
+        "code": "Art History and Theory List",
+        "units": "6 units"
+      },
+      {
+        "code": "Major Course",
+        "level": "Applied stats major STAT3012"
+      },
+      {
+        "code": "MATH3511",
+        "level": "Scientific Computing",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ARTH3001",
+        "level": "Art History and Curatorship Internship",
+        "units": "12 units"
+      },
+      {
+        "code": "."
+      },
+      {
+        "code": "Major Course",
+        "level": "Applied stats major STAT3015"
+      },
+      {
+        "code": "Major Course",
+        "level": "Applied stats major STAT3008 or STAT3016 "
+      }
+    ],
+    [
+      {
+        "code": "Art History and Theory List",
+        "units": "6 units"
+      },
+      {
+        "code": "Art History and Theory List",
+        "units": "6 units"
+      },
+      {
+        "code": "Major Course",
+        "level": "Applied stats major  STAT3032 "
+      },
+      {
+        "code": "Major Course",
+        "level": "Applied stats major (STAT Course)"
+      }
+    ],
+    [
+      {
+        "code": "Art History and Theory List",
+        "units": "6 units"
+      },
+      {
+        "code": "Art History and Theory List",
+        "units": "6 units"
+      },
+      {
+        "code": "Major Course ",
+        "level": "Applied stats major (EMET course)"
+      },
+      {
+        "code": "Major Course ",
+        "level": "Applied stats major (STAT Course)"
+      }
+    ]
+  ]
+}

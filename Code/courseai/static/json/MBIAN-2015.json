@@ -1,0 +1,56 @@
+{
+  "name": "Master of Biological Anthropology",
+  "code": "MBIAN",
+  "year": 2015,
+  "units": 96,
+  "required": {
+    "x_from_here": [
+      {
+        "type": "minimum",
+        "units": 12,
+        "courses": [
+          "BIAN6013",
+          "BIAN6115",
+          "BIAN6514",
+          "BIAN6517"
+        ]
+      },
+      {
+        "type": "maximum",
+        "units": 12,
+        "courses": [
+          "ARCH6500",
+          "BIAN8002",
+          "BIAN8003",
+          "BIAN8004",
+          "BIAN8005"
+        ]
+      },
+      {
+        "type": "minimum",
+        "units": 36,
+        "courses": [
+          "ANTH6026",
+          "ANTH6064",
+          "ARCH6108",
+          "ARCH6126",
+          "ARCH6521",
+          "BIAN6018",
+          "BIAN6119",
+          "BIAN6120",
+          "BIAN6124",
+          "BIAN6510",
+          "BIAN6512",
+          "BIAN6513",
+          "BIAN6514",
+          "BIAN6515",
+          "BIAN6518",
+          "BIAN6519",
+          "BIAN6520"
+        ]
+      }
+    ],
+    "one_from_m/m/s": [],
+    "required_m/m/s": []
+  }
+}

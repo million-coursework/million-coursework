@@ -1,0 +1,893 @@
+{
+  "code": "BPPE-BVART",
+  "2014": [
+    [
+      {
+        "code": "POLS1005",
+        "level": "Introduction to International Relations: Foundations and Concepts",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "PHIL1004",
+        "level": "Fundamental Ideas in Philosophy: An Introduction",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1002",
+        "level": "Introduction to Politics",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "EMET1001",
+        "level": "Foundations of Economic and Financial Models",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1102",
+        "level": "Macroeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "PHIL1005",
+        "level": "Logic and Critical Thinking",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1008",
+        "level": "PPE Integrative Seminar Year 1: Puzzles in Politics, Philosophy and Economics",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2015": [
+    [
+      {
+        "code": "POLS1002",
+        "level": "Introduction to Politics",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1005",
+        "level": "Introduction to International Relations: Foundations and Concepts",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTV1020",
+        "level": "Figure & Life",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTV1021",
+        "level": "Image and Object",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "PHIL1005",
+        "level": "Logic and Critical Thinking",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTV1022",
+        "level": "Vision and Perception",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTV1032",
+        "level": "Foundation Computer Studies",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "PHIL1004",
+        "level": "Fundamental Ideas in Philosophy: An Introduction",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Politics list Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Art Theory Minor",
+        "level": "1000 level course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "POLS1008",
+        "level": "PPE Integrative Seminar Year 1: Puzzles in Politics, Philosophy and Economics",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Philosophy list Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Art Theory Minor",
+        "level": "1000 level course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON2101",
+        "level": "Microeconomics 2(P)",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Economics list Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "PHIL2116",
+        "level": "PPE Integrative Seminar Year 2",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Politics list Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "Non-compulsory Philosophy list Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ANIP/ECON/PHIL/POLS",
+        "level": "2000/3000 Level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Art Theory Minor",
+        "level": "2000/3000 level course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON3056",
+        "level": "PPE Integrative Seminar Year 3: Classic Literature in PPE",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Economics list Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Art Theory Minor",
+        "level": "2000/3000 level course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2016": [
+    [
+      {
+        "code": "POLS1002",
+        "level": "Introduction to Politics",
+        "units": "6 units"
+      },
+      {
+        "code": "PHIL1004",
+        "level": "Fundamental Ideas in Philosophy: An Introduction",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTV1020",
+        "level": "Figure & Life",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTV1021",
+        "level": "Image and Object",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "POLS1009",
+        "level": "Research and Writing in Political Science",
+        "units": "6 units"
+      },
+      {
+        "code": "PHIL1005",
+        "level": "Logic and Critical Thinking",
+        "units": "6 units"
+      },
+      {
+        "code": "DESA1022",
+        "level": "Vision and Perception",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTV1032",
+        "level": "Foundation Computer Studies",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Politics list Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTH1006",
+        "level": "Art and Design Histories: Form and Space",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "POLS1008",
+        "level": "PPE Integrative Seminar Year 1: Puzzles in Politics, Philosophy and Economics",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Philosophy list Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTH1007",
+        "level": "Art and Design Histories: Making and Meaning",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON2101",
+        "level": "Microeconomics 2(P)",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Economics list Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "PHIL2116",
+        "level": "PPE Integrative Seminar Year 2",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Politics list Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "Non-compulsory Philosophy list Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ANIP/ECON/PHIL/POLS",
+        "level": "2000/3000 Level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Art Theory Minor",
+        "level": "2000/3000 level course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON3056",
+        "level": "PPE Integrative Seminar Year 3: Classic Literature in PPE",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Economics list Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Art Theory Minor",
+        "level": "2000/3000 level course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2017": [
+    [
+      {
+        "code": "POLS1002",
+        "level": "Introduction to Politics",
+        "units": "6 units"
+      },
+      {
+        "code": "PHIL1004",
+        "level": "Fundamental Ideas in Philosophy: An Introduction",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTV1020",
+        "level": "Figure & Life",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTV1021",
+        "level": "Image and Object",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "POLS1009",
+        "level": "Research and Writing in Political Science",
+        "units": "6 units"
+      },
+      {
+        "code": "PHIL1005",
+        "level": "Logic and Critical Thinking",
+        "units": "6 units"
+      },
+      {
+        "code": "DESA1022",
+        "level": "Vision and Perception",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTV1032",
+        "level": "Foundation Computer Studies",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Politics list Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTH1006",
+        "level": "Art and Design Histories: Form and Space",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "POLS1008",
+        "level": "PPE Integrative Seminar Year 1: Puzzles in Politics, Philosophy and Economics",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Philosophy list Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTH1007",
+        "level": "Art and Design Histories: Making and Meaning",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON2101",
+        "level": "Microeconomics 2(P)",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Economics list Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "PHIL2116",
+        "level": "PPE Integrative Seminar Year 2",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Politics list Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "Non-compulsory Philosophy list Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ANIP/ECON/PHIL/POLS",
+        "level": "2000/3000 Level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Art Theory Minor",
+        "level": "2000/3000 level course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON3056",
+        "level": "PPE Integrative Seminar Year 3: Classic Literature in PPE",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Economics list Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Art Theory Minor",
+        "level": "2000/3000 level course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2018": [
+    [
+      {
+        "code": "POLS1002",
+        "level": "Introduction to Politics",
+        "units": "6 units"
+      },
+      {
+        "code": "PHIL1004",
+        "level": "Fundamental Ideas in Philosophy: An Introduction",
+        "units": "6 units"
+      },
+      {
+        "code": "Introductory Art and Design History Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Introductory Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "POLS1009",
+        "level": "Research and Writing in Political Science",
+        "units": "6 units"
+      },
+      {
+        "code": "PHIL1005",
+        "level": "Logic and Critical Thinking",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTV2819",
+        "level": "Vision and Perception",
+        "units": "6 units"
+      },
+      {
+        "code": "Introductory Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Politics list Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Art History and Theory Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "POLS1008",
+        "level": "PPE Integration 1",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Philosophy list Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Art History and Theory Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON2101",
+        "level": "Microeconomics 2(P)",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Economics list Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "PHIL2116",
+        "level": "PPE Integration 2",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Politics list Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Non-compulsory Philosophy list Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ANIP/ECON/PHIL/POLS",
+        "level": "2000/3000 Level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Art History and Theory Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON3056",
+        "level": "PPE Integration 3: Classic Literature in PPE",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Economics list Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Engagement Course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2019": [
+    [
+      {
+        "code": "POLS1002",
+        "level": "Introduction to Politics",
+        "units": "6 units"
+      },
+      {
+        "code": "PHIL1004",
+        "level": "Fundamental Ideas in Philosophy: An Introduction",
+        "units": "6 units"
+      },
+      {
+        "code": "Introductory Art and Design History Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Introductory Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "POLS1009",
+        "level": "Research and Writing in Political Science",
+        "units": "6 units"
+      },
+      {
+        "code": "PHIL1005",
+        "level": "Logic and Critical Thinking",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTV2819"
+      },
+      {
+        "code": "Introductory Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Politics list Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Art History and Theory Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "POLS1008",
+        "level": "PPE Integration 1",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Philosophy list Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Art History and Theory Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON2101",
+        "level": "Microeconomics 2(P)",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Economics list Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "PHIL2116",
+        "level": "PPE Integration 2",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Politics list Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "2000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Non-compulsory Philosophy list Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ANIP/ECON/PHIL/POLS",
+        "level": "2000/3000 Level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Art History and Theory Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON3056",
+        "level": "PPE Integration 3: Classic Literature in PPE",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Economics list Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Visual Arts Major",
+        "level": "3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Engagement Course",
+        "units": "6 units"
+      }
+    ]
+  ]
+}

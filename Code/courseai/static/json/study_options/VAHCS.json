@@ -1,0 +1,149 @@
+{
+  "code": "VAHCS",
+  "2014": [],
+  "2015": [],
+  "2016": [],
+  "2017": [],
+  "2018": [
+    [
+      {
+        "code": "Introductory Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Introductory Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Introductory Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Introductory Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ARTH6045 OR ARTH6057",
+        "units": "12 units"
+      },
+      {
+        "code": "-"
+      },
+      {
+        "code": "Disciplinary Course",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Disciplinary Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ARTH8012",
+        "level": "Methodologies of Art History",
+        "units": "12 units"
+      },
+      {
+        "code": "-"
+      },
+      {
+        "code": "Disciplinary Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Disciplinary Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "THES8102",
+        "level": "Thesis",
+        "units": "6 to 24 units"
+      },
+      {
+        "code": "-"
+      },
+      {
+        "code": "-"
+      },
+      {
+        "code": "-"
+      }
+    ]
+  ],
+  "2019": [
+    [
+      {
+        "code": "Introductory Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Introductory Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Introductory Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Introductory Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ARTH6045 OR ARTH6057",
+        "units": "12 units"
+      },
+      {
+        "code": "-"
+      },
+      {
+        "code": "Disciplinary Course",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Disciplinary Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ARTH8012",
+        "level": "Methodologies of Art History",
+        "units": "12 units"
+      },
+      {
+        "code": "-"
+      },
+      {
+        "code": "Disciplinary Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Disciplinary Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "THES8102",
+        "level": "Thesis",
+        "units": "6 to 24 units"
+      },
+      {
+        "code": "-"
+      },
+      {
+        "code": "-"
+      },
+      {
+        "code": "-"
+      }
+    ]
+  ]
+}

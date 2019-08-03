@@ -1,0 +1,10 @@
+{
+  "name": "Certificate of Graduate Studies",
+  "code": "7992XCTGRS",
+  "year": 2014,
+  "units": 6,
+  "required": {
+    "one_from_m/m/s": [],
+    "required_m/m/s": []
+  }
+}

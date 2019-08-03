@@ -1,0 +1,38 @@
+{
+    "name": "Bachelor of Advanced Computing",
+    "units": 192,
+    "required": {
+        "compulsory_courses": [
+            "COMP1600",
+            "COMP2100",
+            "COMP2120",
+            "COMP2300",
+            "COMP2310",
+            "COMP2420",
+            "COMP3600",
+            "COMP4450",
+            "MATH1005"
+        ],
+        "one_from_here": [
+            [
+                "COMP1100",
+                "COMP1130"
+            ],
+            [
+                "COMP1110",
+                "COMP1140"
+            ]
+        ],
+        "one_from_m/m/s": [
+            [
+                "INSY-SPEC",
+                "SYAR-SPEC",
+                "THCS-SPEC"
+            ]
+        ],
+
+        "max_by_level": {
+            "1000": 48
+        }
+    }
+}

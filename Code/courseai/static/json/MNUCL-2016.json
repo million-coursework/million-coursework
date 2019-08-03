@@ -1,0 +1,27 @@
+{
+  "name": "Master of Nuclear Science",
+  "code": "MNUCL",
+  "year": 2016,
+  "units": 96,
+  "required": {
+    "x_from_here": [
+      {
+        "type": "minimum",
+        "units": 48,
+        "courses": [
+          "PHYS8201",
+          "PHYS8202",
+          "PHYS8203",
+          "PHYS8204",
+          "PHYS8205",
+          "PHYS8206",
+          "STST8026",
+          "SCOM8014",
+          "SCOM8027"
+        ]
+      }
+    ],
+    "one_from_m/m/s": [],
+    "required_m/m/s": []
+  }
+}

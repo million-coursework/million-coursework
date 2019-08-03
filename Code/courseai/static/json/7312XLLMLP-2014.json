@@ -1,0 +1,10 @@
+{
+  "name": "Master of Laws (Legal Practice)",
+  "code": "7312XLLMLP",
+  "year": 2014,
+  "units": 7312,
+  "required": {
+    "one_from_m/m/s": [],
+    "required_m/m/s": []
+  }
+}

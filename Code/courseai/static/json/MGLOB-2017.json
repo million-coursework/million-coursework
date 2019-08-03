@@ -1,0 +1,28 @@
+{
+  "name": "Master of Globalisation",
+  "code": "MGLOB",
+  "year": 2017,
+  "units": 96,
+  "required": {
+    "compulsory_courses": [
+      "POLS8031",
+      "POLS8032"
+    ],
+    "x_from_here": [
+      {
+        "type": "minimum",
+        "units": 12,
+        "courses": [
+          "ANTH8042",
+          "ENVS6033",
+          "HIST8018",
+          "HUMN6002",
+          "LAWS8182",
+          "SOCY6045"
+        ]
+      }
+    ],
+    "one_from_m/m/s": [],
+    "required_m/m/s": []
+  }
+}

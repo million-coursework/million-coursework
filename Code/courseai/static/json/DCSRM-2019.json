@@ -1,0 +1,19 @@
+{
+  "name": "Graduate Diploma of Cyber Security, Strategy and Risk Management",
+  "code": "DCSRM",
+  "year": 2019,
+  "units": 48,
+  "required": {
+    "compulsory_courses": [
+      "COMP6301",
+      "COMP6340",
+      "COMP6420",
+      "LAWS8077",
+      "NSPO8006",
+      "NSPO8021",
+      "MGMT7203"
+    ],
+    "one_from_m/m/s": [],
+    "required_m/m/s": []
+  }
+}

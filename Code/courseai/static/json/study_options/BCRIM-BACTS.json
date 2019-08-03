@@ -1,0 +1,985 @@
+{
+  "code": "BCRIM-BACTS",
+  "2014": [
+    [
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT1008",
+        "level": "Quantitative Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY1002",
+        "level": "Self and Society",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY2156"
+      }
+    ],
+    [
+      {
+        "code": "ECON1102",
+        "level": "Macroeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN1001",
+        "level": "Business Reporting and Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY1004",
+        "level": "Introduction to Social Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2011",
+        "level": "Perspectives on Crime from Psychology and Criminology",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "STAT2008",
+        "level": "Regression Modelling",
+        "units": "6 units"
+      },
+      {
+        "code": "CBE List 1 elective",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY2062",
+        "level": "Dimensions of Crime: Identifying and Controlling Offenders",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY2038",
+        "level": "Introduction to Quantitative Research Methods",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON2102",
+        "level": "Macroeconomics 2(P)",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1113",
+        "level": "Mathematical Foundations for Actuarial Studies",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY2043",
+        "level": "Qualitative Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "BIAN2128",
+        "level": "Forensic Anthropology and Archaeology",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "STAT2001",
+        "level": "Introductory Mathematical Statistics",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT2032",
+        "level": "Financial Mathematics",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY3016",
+        "level": "Controversies in Crime Control",
+        "units": "6 units"
+      },
+      {
+        "code": "PHIL2020",
+        "level": "Theories of Social Justice",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "STAT3004",
+        "level": "Stochastic Modelling",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT3037",
+        "level": "Life Contingencies",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY2157",
+        "level": "Surveillance and Society",
+        "units": "6 units"
+      },
+      {
+        "code": "ANTH2130",
+        "level": "Violence and Terror",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "STAT3035",
+        "level": "Risk Theory",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT3032",
+        "level": "Survival Models",
+        "units": "6 units"
+      },
+      {
+        "code": "Core Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Core Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "STAT3036",
+        "level": "Credibility Theory",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT3038",
+        "level": "Actuarial Techniques",
+        "units": "6 units"
+      },
+      {
+        "code": "Core Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Core Course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2015": [
+    [
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT1008",
+        "level": "Quantitative Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY1002",
+        "level": "Self and Society",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY2156"
+      }
+    ],
+    [
+      {
+        "code": "ECON1102",
+        "level": "Macroeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN1001",
+        "level": "Business Reporting and Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY1004",
+        "level": "Introduction to Social Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2011",
+        "level": "Introduction to Forensic and Criminal Psychology",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "STAT2008",
+        "level": "Regression Modelling",
+        "units": "6 units"
+      },
+      {
+        "code": "CBE List 1 elective",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY2062"
+      },
+      {
+        "code": "SOCY2038",
+        "level": "Introduction to Quantitative Research Methods",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON2102",
+        "level": "Macroeconomics 2(P)",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1113",
+        "level": "Mathematical Foundations for Actuarial Studies",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY2043",
+        "level": "Qualitative Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "BIAN2128",
+        "level": "Forensic Anthropology and Archaeology",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "STAT2001",
+        "level": "Introductory Mathematical Statistics",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT2032",
+        "level": "Financial Mathematics",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY3016"
+      },
+      {
+        "code": "PHIL2020",
+        "level": "Theories of Social Justice",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "STAT3004",
+        "level": "Stochastic Modelling",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT3037",
+        "level": "Life Contingencies",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY2157",
+        "level": "Surveillance and Society",
+        "units": "6 units"
+      },
+      {
+        "code": "ANTH2130",
+        "level": "Violence and Terror",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "STAT3035",
+        "level": "Risk Theory",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT3032",
+        "level": "Survival Models",
+        "units": "6 units"
+      },
+      {
+        "code": "Core Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Core Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "STAT3036",
+        "level": "Credibility Theory",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT3038",
+        "level": "Actuarial Techniques",
+        "units": "6 units"
+      },
+      {
+        "code": "Core Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Core Course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2016": [
+    [
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT1008",
+        "level": "Quantitative Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "CRIM1001",
+        "level": "The Criminological Imagination: Theory and Understanding",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY1002",
+        "level": "Self and Society",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON1102",
+        "level": "Macroeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN1001",
+        "level": "Business Reporting and Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2011",
+        "level": "Introduction to Forensic and Criminal Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY2043",
+        "level": "Introduction to Qualitative Research Methods",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "STAT2008",
+        "level": "Regression Modelling",
+        "units": "6 units"
+      },
+      {
+        "code": "CBE List 1 elective",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY2038",
+        "level": "Introduction to Quantitative Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "CRIM2003",
+        "level": "Controversies in Crime Control",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON2102",
+        "level": "Macroeconomics 2(P)",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1113",
+        "level": "Mathematical Foundations for Actuarial Studies",
+        "units": "6 units"
+      },
+      {
+        "code": "CRIM2001",
+        "level": "Doing Criminology: Research and Practice in Crime and Criminal Justice",
+        "units": "6 units"
+      },
+      {
+        "code": "CRIM3001",
+        "level": "Criminal Behaviour",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "STAT2001",
+        "level": "Introductory Mathematical Statistics",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT2032",
+        "level": "Financial Mathematics",
+        "units": "6 units"
+      },
+      {
+        "units": "6 units from BCRIM 36 units List"
+      },
+      {
+        "units": "6 units from BCRIM 36 units List"
+      }
+    ],
+    [
+      {
+        "code": "STAT3004",
+        "level": "Stochastic Modelling",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT3037",
+        "level": "Life Contingencies",
+        "units": "6 units"
+      },
+      {
+        "units": "6 units from BCRIM 36 units List"
+      },
+      {
+        "units": "6 units from BCRIM 36 units List"
+      }
+    ],
+    [
+      {
+        "code": "STAT3035",
+        "level": "Risk Theory",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT3032",
+        "level": "Survival Models",
+        "units": "6 units"
+      },
+      {
+        "units": "6 units from BCRIM 36 units List"
+      },
+      {
+        "units": "6 units from BCRIM 36 units List"
+      }
+    ],
+    [
+      {
+        "code": "STAT3036",
+        "level": "Credibility Theory",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT3038",
+        "level": "Actuarial Techniques",
+        "units": "6 units"
+      },
+      {
+        "units": "6 units from BCRIM 36 units List or 12 units List"
+      },
+      {
+        "units": "6 units from BCRIM 36 units List or 12 units List"
+      }
+    ]
+  ],
+  "2017": [
+    [
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT1008",
+        "level": "Quantitative Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "CRIM1001",
+        "level": "The Criminological Imagination: Theory and Understanding",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY1002",
+        "level": "Self and Society",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON1102",
+        "level": "Macroeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN1001",
+        "level": "Business Reporting and Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2011",
+        "level": "Introduction to Forensic and Criminal Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY2043",
+        "level": "Introduction to Qualitative Research Methods",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "STAT2008",
+        "level": "Regression Modelling",
+        "units": "6 units"
+      },
+      {
+        "code": "CBE List 1 elective",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY2038",
+        "level": "Introduction to Quantitative Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "CRIM2003",
+        "level": "Controversies in Crime Control",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON2102",
+        "level": "Macroeconomics 2(P)",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1113",
+        "level": "Mathematical Foundations for Actuarial Studies",
+        "units": "6 units"
+      },
+      {
+        "code": "CRIM2001",
+        "level": "Doing Criminology: Research and Practice in Crime and Criminal Justice",
+        "units": "6 units"
+      },
+      {
+        "code": "CRIM3001",
+        "level": "Criminal Behaviour",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "STAT2001",
+        "level": "Introductory Mathematical Statistics",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT2032",
+        "level": "Financial Mathematics",
+        "units": "6 units"
+      },
+      {
+        "units": "6 units from BCRIM 36 units List"
+      },
+      {
+        "units": "6 units from BCRIM 36 units List"
+      }
+    ],
+    [
+      {
+        "code": "STAT2005",
+        "level": "Introduction to Stochastic Processes",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT3037",
+        "level": "Life Contingencies",
+        "units": "6 units"
+      },
+      {
+        "units": "6 units from BCRIM 36 units List"
+      },
+      {
+        "units": "6 units from BCRIM 36 units List"
+      }
+    ],
+    [
+      {
+        "code": "STAT3035",
+        "level": "Risk Theory",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT3032",
+        "level": "Survival Models",
+        "units": "6 units"
+      },
+      {
+        "units": "6 units from BCRIM 36 units List"
+      },
+      {
+        "units": "6 units from BCRIM 36 units List"
+      }
+    ],
+    [
+      {
+        "code": "STAT3036",
+        "level": "Credibility Theory",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT3038",
+        "level": "Actuarial Techniques",
+        "units": "6 units"
+      },
+      {
+        "units": "6 units from BCRIM 36 units List or 12 units List"
+      },
+      {
+        "units": "6 units from BCRIM 36 units List or 12 units List"
+      }
+    ]
+  ],
+  "2018": [
+    [
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT1008",
+        "level": "Quantitative Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "CRIM1001",
+        "level": "The Criminological Imagination: Theory and Understanding",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY1002",
+        "level": "Self and Society",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON1102",
+        "level": "Macroeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN1001",
+        "level": "Business Reporting and Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2011",
+        "level": "Introduction to Forensic and Criminal Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY2043",
+        "level": "Introduction to Qualitative Research Methods",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "STAT2008",
+        "level": "Regression Modelling",
+        "units": "6 units"
+      },
+      {
+        "code": "CBE List 1 elective",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY2038",
+        "level": "Introduction to Quantitative Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "CRIM2003",
+        "level": "Controversies in Crime Control",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON2102",
+        "level": "Macroeconomics 2(P)",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1113",
+        "level": "Mathematical Foundations for Actuarial Studies",
+        "units": "6 units"
+      },
+      {
+        "code": "CRIM2001",
+        "level": "Doing Criminology: Research and Practice in Crime and Criminal Justice",
+        "units": "6 units"
+      },
+      {
+        "code": "CRIM3001",
+        "level": "Criminal Behaviour",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "STAT2001",
+        "level": "Introductory Mathematical Statistics",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT2032",
+        "level": "Financial Mathematics",
+        "units": "6 units"
+      },
+      {
+        "units": "6 units from BCRIM 36 units List"
+      },
+      {
+        "units": "6 units from BCRIM 36 units List"
+      }
+    ],
+    [
+      {
+        "code": "STAT2005",
+        "level": "Introduction to Stochastic Processes",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT3037",
+        "level": "Life Contingencies",
+        "units": "6 units"
+      },
+      {
+        "units": "6 units from BCRIM 36 units List"
+      },
+      {
+        "units": "6 units from BCRIM 36 units List"
+      }
+    ],
+    [
+      {
+        "code": "STAT3035",
+        "level": "Risk Theory",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT3032",
+        "level": "Survival Models",
+        "units": "6 units"
+      },
+      {
+        "units": "6 units from BCRIM 36 units List"
+      },
+      {
+        "units": "6 units from BCRIM 36 units List"
+      }
+    ],
+    [
+      {
+        "code": "STAT3036",
+        "level": "Credibility Theory",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT3038",
+        "level": "Actuarial Techniques",
+        "units": "6 units"
+      },
+      {
+        "units": "6 units from BCRIM 36 units List or 12 units List"
+      },
+      {
+        "units": "6 units from BCRIM 36 units List or 12 units List"
+      }
+    ]
+  ],
+  "2019": [
+    [
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT1008",
+        "level": "Quantitative Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "CRIM1001",
+        "level": "The Criminological Imagination: Theory and Understanding",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY1002",
+        "level": "Self and Society",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON1102",
+        "level": "Macroeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN1001",
+        "level": "Business Reporting and Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2011",
+        "level": "Introduction to Forensic and Criminal Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY2043",
+        "level": "Introduction to Qualitative Research Methods",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "STAT2008",
+        "level": "Regression Modelling",
+        "units": "6 units"
+      },
+      {
+        "code": "CBE List 1 elective",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY2038",
+        "level": "Introduction to Quantitative Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "CRIM2003",
+        "level": "Controversies in Crime Control",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON2102",
+        "level": "Macroeconomics 2(P)",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1113",
+        "level": "Mathematical Foundations for Actuarial Studies",
+        "units": "6 units"
+      },
+      {
+        "code": "CRIM2001",
+        "level": "Doing Criminology: Research and Practice in Crime and Criminal Justice",
+        "units": "6 units"
+      },
+      {
+        "code": "CRIM3001",
+        "level": "Criminal Behaviour",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "STAT2001",
+        "level": "Introductory Mathematical Statistics",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT2032",
+        "level": "Financial Mathematics",
+        "units": "6 units"
+      },
+      {
+        "units": "6 units from BCRIM 36 units List"
+      },
+      {
+        "units": "6 units from BCRIM 36 units List"
+      }
+    ],
+    [
+      {
+        "code": "STAT2005",
+        "level": "Introduction to Stochastic Processes",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT3037",
+        "level": "Life Contingencies",
+        "units": "6 units"
+      },
+      {
+        "units": "6 units from BCRIM 36 units List"
+      },
+      {
+        "units": "6 units from BCRIM 36 units List"
+      }
+    ],
+    [
+      {
+        "code": "STAT3035",
+        "level": "Risk Theory",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT3032",
+        "level": "Survival Models",
+        "units": "6 units"
+      },
+      {
+        "units": "6 units from BCRIM 36 units List"
+      },
+      {
+        "units": "6 units from BCRIM 36 units List"
+      }
+    ],
+    [
+      {
+        "code": "STAT3036",
+        "level": "Credibility Theory",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT3038",
+        "level": "Actuarial Techniques",
+        "units": "6 units"
+      },
+      {
+        "units": "6 units from BCRIM 36 units List or 12 units List"
+      },
+      {
+        "units": "6 units from BCRIM 36 units List or 12 units List"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Bachelor of Applied Data Analytics (Honours)",
+  "code": "HADAN",
+  "year": 2019,
+  "units": 48,
+  "required": {
+    "one_from_m/m/s": [
+      [
+        "SOCY-HSPC",
+        "BISS-HSPC",
+        "COMP-HSPC",
+        "STAT-HSPC",
+        "MATH-HSPC",
+        "POPH-HSPC",
+        "BIOL-HSPC"
+      ]
+    ],
+    "required_m/m/s": []
+  }
+}

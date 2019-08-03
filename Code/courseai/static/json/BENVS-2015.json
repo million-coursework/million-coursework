@@ -1,0 +1,30 @@
+{
+  "name": "Bachelor of Environmental Studies",
+  "code": "BENVS",
+  "year": 2015,
+  "units": 144,
+  "required": {
+    "max_by_level": [
+      {
+        "type": "maximum",
+        "level": [
+          1000
+        ],
+        "units": 60
+      }
+    ],
+    "one_from_m/m/s": [
+      [
+        "BIAN-MIN",
+        "DEST-MIN",
+        "GEOG-MIN",
+        "ENVP-MIN",
+        "SUSD-MIN",
+        "HECL-MIN"
+      ]
+    ],
+    "required_m/m/s": [
+      "ENST-MAJ"
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+{
+    "name": "Bachelor of Statistics",
+    "units": 144,
+    "required": {
+        "compulsory_courses": [
+            "STAT2001",
+            "STAT2005",
+            "STAT2008"
+        ],
+        "x_from_here": [
+            {
+                "num": 6,
+                "courses": [
+                    "STAT1003",
+                    "STAT1008"
+                ]
+            },
+            {
+                "num": 6,
+                "courses": [
+                    "COMP1040",
+                    "COMP1100"
+                ]
+            },
+            {
+                "num": 12,
+                "courses": [
+                    "MATH1013",
+                    "MATH1014",
+                    "MATH1115",
+                    "MATH1116"
+                ]
+            },
+            {
+                "num": 6,
+                "courses": [
+                    "MATH2301",
+                    "MATH3511"
+                ]
+            },
+            {
+                "num": 48,
+                "majors": [
+                    "APST-MAJ",
+                    "PSTO-MAJ",
+                    "STDA-MAJ",
+                    "THST-MAJ"
+                ]
+            }
+        ],
+        "one_from_m/m/s": [
+            [
+                "APST-MAJ",
+                "PSTO-MAJ",
+                "STDA-MAJ",
+                "THST-MAJ"
+            ]
+        ],
+        "max_by_level": {
+            "1000": 60
+        }
+    }
+}
+

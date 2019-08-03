@@ -1,0 +1,75 @@
+{% load static %}
+{% load pipeline %}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Your Saved Plans: {{ user.username }}</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0/css/bootstrap.min.css"
+          integrity="sha256-LA89z+k9fjgMKQ/kq4OO2Mrf8VltYml/VES+Rg0fh20=" crossorigin="anonymous"/>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.12/css/solid.css"
+          integrity="sha384-VxweGom9fDoUf7YfLTHgO0r70LVNHP5+Oi8dcR4hbEjS8UnpRtrwTx7LpHq/MWLI" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.12/css/fontawesome.css"
+          integrity="sha384-rnr8fdrJ6oj4zli02To2U/e6t1qG8dvJ8yNZZPsKHcU7wFK3MGilejY5R/cUc5kf" crossorigin="anonymous">
+    {% stylesheet 'main' %}
+</head>
+<body>
+{% include "dynamic_pages/navbar.html" %}
+
+<!-- Deletion Confirmation Modal -->
+<div class="modal" id="delete-modal" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header alert-danger">
+                <h5 class="modal-title">Delete Confirmation</h5>
+            </div>
+            <div class="modal-body"></div>
+            <div class="modal-footer">
+                <button id="delete-plan-btn" type="button" class="btn btn-danger" data-dismiss="modal">Delete</button>
+                <button type="button" class="btn btn-primary" data-dismiss="modal">Cancel</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<wrapper class="d-flex flex-column">
+    <div class="container" style="margin-bottom: 135px">
+        <h2>Saved Degree Plans</h2>
+        <table id="saved-plans-table" class="table table-hover table-bordered table-striped">
+            <thead class="thead-dark">
+                <tr class ="d-flex">
+                    <td class="col-2 text-center">Name</td>
+                    <td class="col-1 text-center">Code</td>
+                    <td class="col-2 text-center">Degree/s</td>
+                    <td class="col-4 text-center">Majors/Minors/Specialisations</td>
+                    <td class="col-1 text-center">Start Date</td>
+                    <td class="col-1 text-center">Created</td>
+                    <td class="col-1 text-center"></td>
+                </tr>
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
+    </div>
+</wrapper>
+
+{% include "dynamic_pages/footer.html" %}
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"
+        integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.4/umd/popper.min.js"
+        integrity="sha256-EGs9T1xMHdvM1geM8jPpoo8EZ1V1VRsmcJz8OByENLA=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0/js/bootstrap.min.js"
+        integrity="sha256-5+02zu5UULQkO7w1GIr6vftCgMfFdZcAHeDtFnKZsBs=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/aws-sdk/2.213.1/aws-sdk.min.js"
+        integrity="sha256-UNhE4C4G2iNK4bS34CMHS8oywLzSKwFc0aj7RWmKQJU=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-3-typeahead/4.0.2/bootstrap3-typeahead.min.js"
+        integrity="sha256-LOnFraxKlOhESwdU/dX+K0GArwymUDups0czPWLEg4E=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/autosize.js/4.0.2/autosize.min.js"
+        integrity="sha256-dW8u4dvEKDThJpWRwLgGugbARnA3O2wqBcVerlg9LMc=" crossorigin="anonymous"></script>
+{% javascript 'main' %}
+{% javascript 'profile' %}
+</body>
+</html>
+

@@ -1,0 +1,131 @@
+{
+  "code": "VSTST",
+  "2014": [],
+  "2015": [],
+  "2016": [],
+  "2017": [],
+  "2018": [
+    [
+      {
+        "code": "STST8001",
+        "level": "Strategic Studies",
+        "units": "12 units"
+      },
+      {
+        "code": "STST8002",
+        "level": "The New Power Politics of Asia",
+        "units": "6 units"
+      },
+      {
+        "code": "STST8010",
+        "level": "Strategic Studies Concepts and Methods",
+        "units": "6 units"
+      },
+      {}
+    ],
+    [
+      {
+        "code": "STST8052",
+        "level": "The Resort to Force: Understanding Military Power",
+        "units": "6 units"
+      },
+      {
+        "code": "STST8004",
+        "level": "Australian Strategic and Defence Policy",
+        "units": "6 units"
+      },
+      {
+        "code": "Strategic Studies Elective"
+      },
+      {
+        "code": "Strategic Studies Elective"
+      }
+    ],
+    [
+      {
+        "code": "Strategic Studies Elective"
+      },
+      {
+        "code": "Strategic Studies Elective"
+      },
+      {
+        "code": "Strategic Studies Elective"
+      },
+      {
+        "code": "Strategic Studies Elective"
+      }
+    ],
+    [
+      {
+        "code": "STST7001",
+        "level": "Strategic Studies Sub-thesis - Full-time",
+        "units": "24 units"
+      },
+      {},
+      {},
+      {}
+    ]
+  ],
+  "2019": [
+    [
+      {
+        "code": "STST8001",
+        "level": "Strategic Studies",
+        "units": "12 units"
+      },
+      {
+        "code": "STST8002",
+        "level": "The New Power Politics of Asia",
+        "units": "6 units"
+      },
+      {
+        "code": "STST8010",
+        "level": "Strategic Studies Concepts and Methods",
+        "units": "6 units"
+      },
+      {}
+    ],
+    [
+      {
+        "code": "STST8052",
+        "level": "The Resort to Force: Understanding Military Power",
+        "units": "6 units"
+      },
+      {
+        "code": "STST8004",
+        "level": "Australian Strategic and Defence Policy",
+        "units": "6 units"
+      },
+      {
+        "code": "Strategic Studies Elective"
+      },
+      {
+        "code": "Strategic Studies Elective"
+      }
+    ],
+    [
+      {
+        "code": "Strategic Studies Elective"
+      },
+      {
+        "code": "Strategic Studies Elective"
+      },
+      {
+        "code": "Strategic Studies Elective"
+      },
+      {
+        "code": "Strategic Studies Elective"
+      }
+    ],
+    [
+      {
+        "code": "STST7001",
+        "level": "Strategic Studies Sub-thesis - Full-time",
+        "units": "24 units"
+      },
+      {},
+      {},
+      {}
+    ]
+  ]
+}

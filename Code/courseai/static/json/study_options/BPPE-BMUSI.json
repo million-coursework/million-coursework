@@ -1,0 +1,967 @@
+{
+  "code": "BPPE-BMUSI",
+  "2014": [
+    [
+      {
+        "code": "MUSI1105",
+        "level": "Creative Musicianship 1",
+        "units": "6 units"
+      },
+      {
+        "code": "Music Major Course",
+        "level": "1000 level",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "MUSI1106",
+        "level": "Creative Musicianship 2",
+        "units": "6 units"
+      },
+      {
+        "code": "Music Major Course",
+        "level": "1000 level",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "MUSI1103"
+      },
+      {
+        "code": "Music Major Course",
+        "level": "2000/3000 level",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "MUSI1104",
+        "level": "Turning Points in Music History 1: A Millennium of Metamorphoses (900-1900)",
+        "units": "6 units"
+      },
+      {
+        "code": "Music Major Course",
+        "level": "2000/3000 level",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "Music Inquiry Minor",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Music Major Course",
+        "level": "2000/3000 level",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "Music Inquiry Minor",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Music Major Course",
+        "level": "2000/3000 level",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "MUSI course",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Music Major Course",
+        "level": "2000/3000 level",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "MUSI course",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Music Major Course",
+        "level": "2000/3000 level",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ]
+  ],
+  "2015": [
+    [
+      {
+        "code": "MUSI1105",
+        "level": "Creative Musicianship 1",
+        "units": "6 units"
+      },
+      {
+        "code": "Music Major Course",
+        "level": "1000 level",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1002",
+        "level": "Introduction to Politics",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1005",
+        "level": "Introduction to International Relations: Foundations and Concepts",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "MUSI1106",
+        "level": "Creative Musicianship 2",
+        "units": "6 units"
+      },
+      {
+        "code": "Music Major Course",
+        "level": "1000 level",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "PHIL1005",
+        "level": "Logic and Critical Thinking",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "MUSI1103"
+      },
+      {
+        "code": "Music Major Course",
+        "level": "2000/3000 level",
+        "units": "6 units"
+      },
+      {
+        "code": "PHIL1004",
+        "level": "Fundamental Ideas in Philosophy: An Introduction",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Politics list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "MUSI1104",
+        "level": "Turning Points in Music History 1: A Millennium of Metamorphoses (900-1900)",
+        "units": "6 units"
+      },
+      {
+        "code": "Music Major Course",
+        "level": "2000/3000 level",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1008",
+        "level": "PPE Integrative Seminar Year 1: Puzzles in Politics, Philosophy and Economics",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Philosophy list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Music Inquiry Minor",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Music Major Course",
+        "level": "2000/3000 level",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON2101",
+        "level": "Microeconomics 2(P)",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Economics list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Music Inquiry Minor",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Music Major Course",
+        "level": "2000/3000 level",
+        "units": "6 units"
+      },
+      {
+        "code": "PHIL2116",
+        "level": "PPE Integrative Seminar Year 2",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Politics list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "MUSI course",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Music Major Course",
+        "level": "2000/3000 level",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Philosophy list Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ANIP/ECON/PHIL/POLS",
+        "level": "2000/3000 Level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "MUSI course",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Music Major Course",
+        "level": "2000/3000 level",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON3056",
+        "level": "PPE Integrative Seminar Year 3: Classic Literature in PPE",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Economics list Course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2016": [
+    [
+      {
+        "code": "MUSI1105",
+        "level": "Music Theory & Aural Skills 1",
+        "units": "6 units"
+      },
+      {
+        "code": "Music Major Course",
+        "level": "1000 level",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1002",
+        "level": "Introduction to Politics",
+        "units": "6 units"
+      },
+      {
+        "code": "PHIL1004",
+        "level": "Fundamental Ideas in Philosophy: An Introduction",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "MUSI1106",
+        "level": "Music Theory & Aural Skills 2",
+        "units": "6 units"
+      },
+      {
+        "code": "Music Major Course",
+        "level": "1000 level",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1009",
+        "level": "Research and Writing in Political Science",
+        "units": "6 units"
+      },
+      {
+        "code": "PHIL1005",
+        "level": "Logic and Critical Thinking",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "MUSI1103"
+      },
+      {
+        "code": "Music Major Course",
+        "level": "2000/3000 level",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Politics list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "MUSI1104",
+        "level": "Turning Points in Music History 1: A Millennium of Metamorphoses (900-1900)",
+        "units": "6 units"
+      },
+      {
+        "code": "Music Major Course",
+        "level": "2000/3000 level",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1008",
+        "level": "PPE Integrative Seminar Year 1: Puzzles in Politics, Philosophy and Economics",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Philosophy list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Music Inquiry Minor",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Music Major Course",
+        "level": "2000/3000 level",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON2101",
+        "level": "Microeconomics 2(P)",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Economics list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Music Inquiry Minor",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Music Major Course",
+        "level": "2000/3000 level",
+        "units": "6 units"
+      },
+      {
+        "code": "PHIL2116",
+        "level": "PPE Integrative Seminar Year 2",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Politics list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "MUSI course",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Music Major Course",
+        "level": "2000/3000 level",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Philosophy list Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ANIP/ECON/PHIL/POLS",
+        "level": "2000/3000 Level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "MUSI course",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Music Major Course",
+        "level": "2000/3000 level",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON3056",
+        "level": "PPE Integrative Seminar Year 3: Classic Literature in PPE",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Economics list Course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2017": [
+    [
+      {
+        "code": "MUSI1105",
+        "level": "Music Theory & Aural Skills 1",
+        "units": "6 units"
+      },
+      {
+        "code": "Music Major Course",
+        "level": "1000 level",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1002",
+        "level": "Introduction to Politics",
+        "units": "6 units"
+      },
+      {
+        "code": "PHIL1004",
+        "level": "Fundamental Ideas in Philosophy: An Introduction",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "MUSI1106",
+        "level": "Music Theory & Aural Skills 2",
+        "units": "6 units"
+      },
+      {
+        "code": "Music Major Course",
+        "level": "1000 level",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1009",
+        "level": "Research and Writing in Political Science",
+        "units": "6 units"
+      },
+      {
+        "code": "PHIL1005",
+        "level": "Logic and Critical Thinking",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "MUSI1103"
+      },
+      {
+        "code": "Music Major Course",
+        "level": "2000/3000 level",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Politics list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "MUSI1104",
+        "level": "Turning Points in Music History 1: A Millennium of Metamorphoses (900-1900)",
+        "units": "6 units"
+      },
+      {
+        "code": "Music Major Course",
+        "level": "2000/3000 level",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1008",
+        "level": "PPE Integrative Seminar Year 1: Puzzles in Politics, Philosophy and Economics",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Philosophy list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Music Inquiry Minor",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Music Major Course",
+        "level": "2000/3000 level",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON2101",
+        "level": "Microeconomics 2(P)",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Economics list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Music Inquiry Minor",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Music Major Course",
+        "level": "2000/3000 level",
+        "units": "6 units"
+      },
+      {
+        "code": "PHIL2116",
+        "level": "PPE Integrative Seminar Year 2",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Politics list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "MUSI course",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Music Major Course",
+        "level": "2000/3000 level",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Philosophy list Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ANIP/ECON/PHIL/POLS",
+        "level": "2000/3000 Level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "MUSI course",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Music Major Course",
+        "level": "2000/3000 level",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON3056",
+        "level": "PPE Integrative Seminar Year 3: Classic Literature in PPE",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Economics list Course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2018": [
+    [
+      {
+        "code": "MUSI1101",
+        "level": "Music Performance 1",
+        "units": "6 units"
+      },
+      {
+        "code": "MUSI1110",
+        "level": "Introduction to Music Technology",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1002",
+        "level": "Introduction to Politics",
+        "units": "6 units"
+      },
+      {
+        "code": "PHIL1004",
+        "level": "Fundamental Ideas in Philosophy: An Introduction",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "MUSI1102",
+        "level": "Music Performance 2",
+        "units": "6 units"
+      },
+      {
+        "code": "MUSI1105",
+        "level": "Music Theory & Aural Skills 1",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1009",
+        "level": "Research and Writing in Political Science",
+        "units": "6 units"
+      },
+      {
+        "code": "PHIL1005",
+        "level": "Logic and Critical Thinking",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "MUSI2201",
+        "level": "Music Performance 3",
+        "units": "6 units"
+      },
+      {
+        "code": "MUSI2203",
+        "level": "Music Theory & Aural Skills 3",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Politics list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "MUSI2202",
+        "level": "Music Performance 4",
+        "units": "6 units"
+      },
+      {
+        "code": "MUSI2204",
+        "level": "Music Theory & Aural Skills 4",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1008",
+        "level": "PPE Integration 1",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Philosophy list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "MUSI Course",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "MUSI course",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON2101",
+        "level": "Microeconomics 2(P)",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Economics list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "MUSI course",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "MUSI course",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "PHIL2116",
+        "level": "PPE Integration 2",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Politics list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "MUSI3301",
+        "level": "Music Performance 5",
+        "units": "6 units"
+      },
+      {
+        "code": "Min 6 Units List Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Philosophy list Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ANIP/ECON/PHIL/POLS",
+        "level": "2000/3000 Level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "MUSI3302",
+        "level": "Music Performance 6",
+        "units": "6 units"
+      },
+      {
+        "code": "MUSI Course",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON3056",
+        "level": "PPE Integration 3: Classic Literature in PPE",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Economics list Course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2019": [
+    [
+      {
+        "code": "MUSI1101",
+        "level": "Music Performance 1",
+        "units": "6 units"
+      },
+      {
+        "code": "MUSI1110",
+        "level": "Introduction to Music Technology",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1002",
+        "level": "Introduction to Politics",
+        "units": "6 units"
+      },
+      {
+        "code": "PHIL1004",
+        "level": "Fundamental Ideas in Philosophy: An Introduction",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "MUSI1102",
+        "level": "Music Performance 2",
+        "units": "6 units"
+      },
+      {
+        "code": "MUSI1105",
+        "level": "Music Theory & Aural Skills 1",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1009",
+        "level": "Research and Writing in Political Science",
+        "units": "6 units"
+      },
+      {
+        "code": "PHIL1005",
+        "level": "Logic and Critical Thinking",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "MUSI2201",
+        "level": "Music Performance 3",
+        "units": "6 units"
+      },
+      {
+        "code": "MUSI2203",
+        "level": "Music Theory & Aural Skills 3",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Politics list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "MUSI2202",
+        "level": "Music Performance 4",
+        "units": "6 units"
+      },
+      {
+        "code": "MUSI2204",
+        "level": "Music Theory & Aural Skills 4",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1008",
+        "level": "PPE Integration 1",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Philosophy list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "MUSI Course",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "MUSI course",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON2101",
+        "level": "Microeconomics 2(P)",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Economics list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "MUSI course",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "MUSI course",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "PHIL2116",
+        "level": "PPE Integration 2",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Politics list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "MUSI3301",
+        "level": "Music Performance 5",
+        "units": "6 units"
+      },
+      {
+        "code": "Min 6 Units List Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Philosophy list Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ANIP/ECON/PHIL/POLS",
+        "level": "2000/3000 Level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "MUSI3302",
+        "level": "Music Performance 6",
+        "units": "6 units"
+      },
+      {
+        "code": "MUSI Course",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON3056",
+        "level": "PPE Integration 3: Classic Literature in PPE",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Economics list Course",
+        "units": "6 units"
+      }
+    ]
+  ]
+}

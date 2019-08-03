@@ -1,0 +1,90 @@
+{
+  "name": "Bachelor of Advanced Computing (Honours)",
+  "code": "AACOM",
+  "year": 2019,
+  "units": 192,
+  "required": {
+    "max_by_level": [
+      {
+        "type": "maximum",
+        "level": [
+          1000
+        ],
+        "units": 60
+      }
+    ],
+    "compulsory_courses": [
+      "COMP1600",
+      "COMP2100",
+      "COMP2120",
+      "COMP2300",
+      "COMP2310",
+      "COMP2420",
+      "COMP3600",
+      "COMP4450",
+      "MATH1005"
+    ],
+    "x_from_here": [
+      {
+        "type": "minimum",
+        "units": 6,
+        "courses": [
+          "MATH1013",
+          "MATH1014",
+          "MATH1115",
+          "MATH1116",
+          "MATH2301",
+          "ENGN1211",
+          "STAT1008",
+          "STAT1003"
+        ]
+      },
+      {
+        "type": "minimum",
+        "units": 12,
+        "courses": [
+          "ENGN3230",
+          "VCUG3001",
+          "VCUG3002"
+        ]
+      },
+      {
+        "type": "minimum",
+        "units": 6,
+        "courses": [
+          "COMP1100",
+          "COMP1130"
+        ]
+      },
+      {
+        "type": "minimum",
+        "units": 6,
+        "courses": [
+          "COMP1110",
+          "COMP1140"
+        ]
+      }
+    ],
+    "x_from_category": [
+      {
+        "type": "minimum",
+        "level": [
+          3000,
+          4000
+        ],
+        "area": [
+          "COMP"
+        ],
+        "units": 6
+      }
+    ],
+    "one_from_m/m/s": [
+      [
+        "THCS-SPEC",
+        "INSY-SPEC",
+        "SYAR-SPEC"
+      ]
+    ],
+    "required_m/m/s": []
+  }
+}

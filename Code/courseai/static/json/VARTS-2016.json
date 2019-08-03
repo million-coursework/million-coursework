@@ -1,0 +1,104 @@
+{
+  "name": "Master of Arts (Advanced)",
+  "code": "VARTS",
+  "year": 2016,
+  "units": 96,
+  "required": {
+    "compulsory_courses": [
+      "MUSI7003",
+      "MUSI8001",
+      "MUSI8002"
+    ],
+    "x_from_here": [
+      {
+        "type": "minimum",
+        "units": 12,
+        "courses": [
+          "CLAS8002",
+          "CLAS8003"
+        ]
+      },
+      {
+        "type": "minimum",
+        "units": 12,
+        "courses": [
+          "ENGL8020",
+          "ENGL8021"
+        ]
+      },
+      {
+        "type": "maximum",
+        "units": 24,
+        "courses": [
+          "ANCH6013",
+          "ANCH6023",
+          "ANCH6101",
+          "ANCH6502",
+          "ANCH6505",
+          "ANCH6506",
+          "CLAS8019",
+          "CLAS8020",
+          "CLAS8018",
+          "GREK6101",
+          "GREK6125",
+          "LATN6101",
+          "LATN6125"
+        ]
+      },
+      {
+        "type": "minimum",
+        "units": 6,
+        "courses": [
+          "GREK6112",
+          "LATN6002"
+        ]
+      },
+      {
+        "type": "minimum",
+        "units": 18,
+        "courses": [
+          "MUSI7001",
+          "MUSI7002",
+          "MUSI8007",
+          "MUSI8008",
+          "MUSI8009",
+          "MUSI8010"
+        ]
+      },
+      {
+        "type": "minimum",
+        "units": 24,
+        "courses": [
+          "ENGL6020",
+          "ENGL6021",
+          "ENGL6022",
+          "ENGL6023",
+          "ENGL6024",
+          "ENGL6025",
+          "ENGL6026",
+          "ENGL6027",
+          "ENGL6028",
+          "ENGL6029",
+          "ENGL6030",
+          "ENGL6031",
+          "ENGL6032",
+          "ENGL6033",
+          "ENGL6034",
+          "ENGL6035",
+          "ENGL6036",
+          "ENGL6037",
+          "ENGL6086"
+        ]
+      }
+    ],
+    "one_from_m/m/s": [
+      [
+        "CLAS-SPEC"
+      ],
+      [
+        "ENGH-SPEC"
+      ]
+    ],
+    "required_m/m/s": []
+  }
+}

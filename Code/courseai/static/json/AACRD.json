@@ -1,0 +1,44 @@
+{
+    "name": "Bachelor of Advanced Computing (Research and Development) (Honours)",
+    "units": 192,
+    "required": {
+        "compulsory_courses": [
+            "COMP1130",
+            "COMP1140",
+            "COMP1600",
+            "COMP2100",
+            "COMP2120",
+            "COMP2300",
+            "COMP2310",
+            "COMP2420",
+            "COMP2550",
+            "COMP2560",
+            "COMP3600",
+            "COMP3770",
+            "MATH1005",
+            "COMP4550"
+        ],
+        "one_from_here": [
+            [
+                "MATH1013",
+                "MATH1115"
+            ],
+            [
+                "MATH1014",
+                "MATH1116",
+                "STAT1003",
+                "STAT1008"
+            ]
+        ],
+        "one_from_m/m/s": [
+            [
+                "INSY-SPEC",
+                "SYAR-SPEC",
+                "THCS-SPEC"
+            ]
+        ],
+        "max_by_level": {
+            "1000": 48
+        }
+    }
+}

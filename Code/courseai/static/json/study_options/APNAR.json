@@ -1,0 +1,897 @@
+{
+  "code": "APNAR",
+  "2014": [
+    [
+      {
+        "code": "ARTS1101",
+        "level": "Advanced Studies 1: Thinking Research",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTS 1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTS 1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "HIST 1000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ARTS1102",
+        "level": "Advanced Studies 2: Doing Research",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTS 1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTS 1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTS  Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ARTS2101",
+        "level": "Advanced Studies 3",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTS 2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTS 2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "HIST 2000/3000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "NUS History equivalent 2000/3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "NUS History equivalent  2000/3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "NUS History equivalent  2000/3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "NUS History equivalent  2000/3000 level course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "NUS History equivalent  2000/3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "NUS History equivalent  2000/3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "NUS History equivalent  2000/3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "NUS History equivalent  2000/3000 level course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "NUS History equivalent  2000/3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "NUS History equivalent  2000/3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "NUS History equivalent  2000/3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "NUS History equivalent  2000/3000 level course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "History Honours Course",
+        "units": "6 units"
+      },
+      {
+        "code": "History Honours Course",
+        "units": "6 units"
+      },
+      {
+        "code": "History Honours Course",
+        "units": "6 units"
+      },
+      {
+        "code": "History Honours Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "History Honours Course",
+        "units": "6 units"
+      },
+      {
+        "code": "History Honours Course",
+        "units": "6 units"
+      },
+      {
+        "code": "History Honours Course",
+        "units": "6 units"
+      },
+      {
+        "code": "History Honours Course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2015": [
+    [
+      {
+        "code": "ARTS1101",
+        "level": "Advanced Studies 1: Thinking Research",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTS 1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTS 1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "HIST 1000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ARTS1102",
+        "level": "Advanced Studies 2: Doing Research",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTS 1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTS 1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTS  Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ARTS2101",
+        "level": "Advanced Studies 3",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTS 2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTS 2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "HIST 2000/3000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "NUS History equivalent 2000/3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "NUS History equivalent  2000/3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "NUS History equivalent  2000/3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "NUS History equivalent  2000/3000 level course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "NUS History equivalent  2000/3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "NUS History equivalent  2000/3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "NUS History equivalent  2000/3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "NUS History equivalent  2000/3000 level course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "NUS History equivalent  2000/3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "NUS History equivalent  2000/3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "NUS History equivalent  2000/3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "NUS History equivalent  2000/3000 level course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "History Honours Course",
+        "units": "6 units"
+      },
+      {
+        "code": "History Honours Course",
+        "units": "6 units"
+      },
+      {
+        "code": "History Honours Course",
+        "units": "6 units"
+      },
+      {
+        "code": "History Honours Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "History Honours Course",
+        "units": "6 units"
+      },
+      {
+        "code": "History Honours Course",
+        "units": "6 units"
+      },
+      {
+        "code": "History Honours Course",
+        "units": "6 units"
+      },
+      {
+        "code": "History Honours Course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2016": [
+    [
+      {
+        "code": "ARTS1101",
+        "level": "Advanced Studies 1: Thinking Research",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTS 1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTS 1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "HIST 1000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ARTS1102",
+        "level": "Advanced Studies 2: Doing Research",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTS 1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTS 1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTS  Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ARTS2101",
+        "level": "Advanced Studies 3",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTS 2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTS 2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "HIST 2000/3000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "NUS History equivalent 2000/3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "NUS History equivalent  2000/3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "NUS History equivalent  2000/3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "NUS History equivalent  2000/3000 level course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "NUS History equivalent  2000/3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "NUS History equivalent  2000/3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "NUS History equivalent  2000/3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "NUS History equivalent  2000/3000 level course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "NUS History equivalent  2000/3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "NUS History equivalent  2000/3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "NUS History equivalent  2000/3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "NUS History equivalent  2000/3000 level course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "History Honours Course",
+        "units": "6 units"
+      },
+      {
+        "code": "History Honours Course",
+        "units": "6 units"
+      },
+      {
+        "code": "History Honours Course",
+        "units": "6 units"
+      },
+      {
+        "code": "History Honours Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "History Honours Course",
+        "units": "6 units"
+      },
+      {
+        "code": "History Honours Course",
+        "units": "6 units"
+      },
+      {
+        "code": "History Honours Course",
+        "units": "6 units"
+      },
+      {
+        "code": "History Honours Course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2017": [
+    [
+      {
+        "code": "ARTS1101",
+        "level": "Advanced Studies 1: Thinking Research",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTS 1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTS 1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "HIST 1000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ARTS1102",
+        "level": "Advanced Studies 2: Doing Research",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTS 1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTS 1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTS  Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ARTS2101",
+        "level": "Advanced Studies 3",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTS 2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTS 2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "HIST 2000/3000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "NUS History equivalent 2000/3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "NUS History equivalent  2000/3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "NUS History equivalent  2000/3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "NUS History equivalent  2000/3000 level course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "NUS History equivalent  2000/3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "NUS History equivalent  2000/3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "NUS History equivalent  2000/3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "NUS History equivalent  2000/3000 level course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "NUS History equivalent  2000/3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "NUS History equivalent  2000/3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "NUS History equivalent  2000/3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "NUS History equivalent  2000/3000 level course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "History Honours Course",
+        "units": "6 units"
+      },
+      {
+        "code": "History Honours Course",
+        "units": "6 units"
+      },
+      {
+        "code": "History Honours Course",
+        "units": "6 units"
+      },
+      {
+        "code": "History Honours Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "History Honours Course",
+        "units": "6 units"
+      },
+      {
+        "code": "History Honours Course",
+        "units": "6 units"
+      },
+      {
+        "code": "History Honours Course",
+        "units": "6 units"
+      },
+      {
+        "code": "History Honours Course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2018": [
+    [
+      {
+        "code": "ARTS1101",
+        "level": "Advanced Studies 1: Thinking Research",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTS 1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTS 1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "HIST 1000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ARTS1102",
+        "level": "Advanced Studies 2: Doing Research",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTS 1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTS 1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTS  Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ARTS2101",
+        "level": "Advanced Studies 3",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTS 2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTS 2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "HIST 2000/3000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "NUS History equivalent 2000/3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "NUS History equivalent  2000/3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "NUS History equivalent  2000/3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "NUS History equivalent  2000/3000 level course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "NUS History equivalent  2000/3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "NUS History equivalent  2000/3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "NUS History equivalent  2000/3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "NUS History equivalent  2000/3000 level course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "NUS History equivalent  2000/3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "NUS History equivalent  2000/3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "NUS History equivalent  2000/3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "NUS History equivalent  2000/3000 level course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "History Honours Course",
+        "units": "6 units"
+      },
+      {
+        "code": "History Honours Course",
+        "units": "6 units"
+      },
+      {
+        "code": "History Honours Course",
+        "units": "6 units"
+      },
+      {
+        "code": "History Honours Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "History Honours Course",
+        "units": "6 units"
+      },
+      {
+        "code": "History Honours Course",
+        "units": "6 units"
+      },
+      {
+        "code": "History Honours Course",
+        "units": "6 units"
+      },
+      {
+        "code": "History Honours Course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2019": [
+    [
+      {
+        "code": "ARTS1101",
+        "level": "Advanced Studies 1: Thinking Research",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTS 1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTS 1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "HIST 1000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ARTS1102",
+        "level": "Advanced Studies 2: Doing Research",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTS 1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTS 1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTS  Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ARTS2101",
+        "level": "Advanced Studies 3",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTS 2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTS 2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "HIST 2000/3000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "NUS History equivalent 2000/3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "NUS History equivalent  2000/3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "NUS History equivalent  2000/3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "NUS History equivalent  2000/3000 level course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "NUS History equivalent  2000/3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "NUS History equivalent  2000/3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "NUS History equivalent  2000/3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "NUS History equivalent  2000/3000 level course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "NUS History equivalent  2000/3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "NUS History equivalent  2000/3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "NUS History equivalent  2000/3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "NUS History equivalent  2000/3000 level course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "History Honours Course",
+        "units": "6 units"
+      },
+      {
+        "code": "History Honours Course",
+        "units": "6 units"
+      },
+      {
+        "code": "History Honours Course",
+        "units": "6 units"
+      },
+      {
+        "code": "History Honours Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "History Honours Course",
+        "units": "6 units"
+      },
+      {
+        "code": "History Honours Course",
+        "units": "6 units"
+      },
+      {
+        "code": "History Honours Course",
+        "units": "6 units"
+      },
+      {
+        "code": "History Honours Course",
+        "units": "6 units"
+      }
+    ]
+  ]
+}

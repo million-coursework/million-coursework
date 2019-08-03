@@ -1,0 +1,153 @@
+{
+  "code": "VDIGA",
+  "2014": [],
+  "2015": [],
+  "2016": [],
+  "2017": [],
+  "2018": [
+    [
+      {
+        "code": "Foundation Theory List",
+        "units": "6 units"
+      },
+      {
+        "code": "Foundation Studio List",
+        "units": "6 units"
+      },
+      {
+        "code": "Foundation Studio List",
+        "units": "6 units"
+      },
+      {
+        "code": "Foundation Studio List",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "DART8067",
+        "level": "Digital Arts Research: contexts, practices and methodologies",
+        "units": "6 units"
+      },
+      {
+        "code": "Disciplinary Courses List",
+        "units": "6 units"
+      },
+      {
+        "code": "Disciplinary Courses List",
+        "units": "6 units"
+      },
+      {
+        "code": "Disciplinary Courses List",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ARTH8022",
+        "level": "Points of View: Independent Creative Art and Media Practice",
+        "units": "6 units"
+      },
+      {
+        "code": "Disciplinary Courses List",
+        "units": "6 units"
+      },
+      {
+        "code": "Research Project List",
+        "units": "6 units"
+      },
+      {
+        "code": "Research Project List",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "THES8105",
+        "level": "Thesis",
+        "units": "6 to 24 units"
+      },
+      {
+        "code": "-"
+      },
+      {
+        "code": "-"
+      },
+      {
+        "code": "-"
+      }
+    ]
+  ],
+  "2019": [
+    [
+      {
+        "code": "Foundation Theory List",
+        "units": "6 units"
+      },
+      {
+        "code": "Foundation Studio List",
+        "units": "6 units"
+      },
+      {
+        "code": "Foundation Studio List",
+        "units": "6 units"
+      },
+      {
+        "code": "Foundation Studio List",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "DART8067"
+      },
+      {
+        "code": "Disciplinary Courses List",
+        "units": "6 units"
+      },
+      {
+        "code": "Disciplinary Courses List",
+        "units": "6 units"
+      },
+      {
+        "code": "Disciplinary Courses List",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ARTH8022",
+        "level": "Points of View: Independent Creative Art and Media Practice",
+        "units": "6 units"
+      },
+      {
+        "code": "Disciplinary Courses List",
+        "units": "6 units"
+      },
+      {
+        "code": "Research Project List",
+        "units": "6 units"
+      },
+      {
+        "code": "Research Project List",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "THES8105",
+        "level": "Thesis",
+        "units": "6 to 24 units"
+      },
+      {
+        "code": "-"
+      },
+      {
+        "code": "-"
+      },
+      {
+        "code": "-"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Master of Military and Defence Studies (Advanced)",
+  "code": "7828XMMDSA",
+  "year": 2015,
+  "units": 96,
+  "required": {
+    "compulsory_courses": [
+      "STST8100",
+      "STST8101",
+      "STST8102",
+      "STST8107",
+      "STST8119"
+    ],
+    "one_from_m/m/s": [],
+    "required_m/m/s": []
+  }
+}

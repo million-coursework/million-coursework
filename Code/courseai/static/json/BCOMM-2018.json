@@ -1,0 +1,40 @@
+{
+  "name": "Bachelor of Commerce",
+  "code": "BCOMM",
+  "year": 2018,
+  "units": 144,
+  "required": {
+    "max_by_level": [
+      {
+        "type": "maximum",
+        "level": [
+          1000
+        ],
+        "units": 60
+      }
+    ],
+    "x_from_here": [
+      {
+        "units": "18",
+        "courses": "CBE List 1"
+      }
+    ],
+    "one_from_m/m/s": [
+      [
+        "ENGS-MAJ",
+        "MARK-MAJ",
+        "FINM-MAJ",
+        "INTB-MAJ",
+        "ACCT-MAJ",
+        "MGMT-MAJ",
+        "BUSN-MAJ",
+        "ECST-MAJ",
+        "CORP-MAJ"
+      ],
+      [
+        "BECE-MIN"
+      ]
+    ],
+    "required_m/m/s": []
+  }
+}

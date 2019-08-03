@@ -1,0 +1,142 @@
+{
+  "code": "MSTAT",
+  "2014": [],
+  "2015": [
+    [
+      {
+        "code": "STAT6039",
+        "level": "Principles of Mathematical Statistics",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT6046",
+        "level": "Financial Mathematics",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT7001",
+        "level": "Applied Statistics",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT7026",
+        "level": "Graphical Data Analysis",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "STAT6038",
+        "level": "Regression Modelling",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT7029",
+        "level": "Design of Experiments and Surveys",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT8027",
+        "level": "Statistical Inference",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT8002",
+        "level": "Applied Time Series Analysis",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2016": [
+    [
+      {
+        "code": "STAT6039",
+        "level": "Principles of Mathematical Statistics",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT6046",
+        "level": "Financial Mathematics",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT7001",
+        "level": "Applied Statistics",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT7026",
+        "level": "Graphical Data Analysis",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "STAT6038",
+        "level": "Regression Modelling",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT7029",
+        "level": "Design of Experiments and Surveys",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT8027",
+        "level": "Statistical Inference",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT8002",
+        "level": "Applied Time Series Analysis",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2017": [
+    [
+      {
+        "code": "STAT6039",
+        "level": "Principles of Mathematical Statistics",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT6046",
+        "level": "Financial Mathematics",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT7001",
+        "level": "Applied Statistics",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT7026",
+        "level": "Graphical Data Analysis",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "STAT6038",
+        "level": "Regression Modelling",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT7029",
+        "level": "Design of Experiments and Surveys",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT8027",
+        "level": "Statistical Inference",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT8002",
+        "level": "Applied Time Series Analysis",
+        "units": "6 units"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,971 @@
+{
+  "code": "BBIOT-BIR",
+  "2014": [
+    [
+      {
+        "code": "BIOL1003",
+        "level": "Biology 1: Evolution, Ecology and Genetics",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL1004",
+        "level": "Biology 2: Molecular and Cell Biology",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "CHEM1101",
+        "level": "Chemistry 1",
+        "units": "6 units"
+      },
+      {
+        "code": "CHEM1201",
+        "level": "Chemistry 2",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "BIOL2161",
+        "level": "Genes: Replication and Expression",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL2162",
+        "level": "Molecular Gene Technology",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "BIOL2171",
+        "level": "Biochemistry and Nutrition",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL2142",
+        "level": "General Microbiology",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "BIOL2202",
+        "level": "Experimental Design and Analysis in Biology",
+        "units": "6 units"
+      },
+      {
+        "code": "LAWS3104",
+        "level": "Principles of Intellectual Property",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "3000 level science course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level science course",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "BIOL3161",
+        "level": "Genomics and its Applications",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL3191",
+        "level": "Biology, Society and Ethics",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "3000 level science course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level science course",
+        "units": "6 units\r"
+      },
+      {},
+      {}
+    ]
+  ],
+  "2015": [
+    [
+      {
+        "code": "BIOL1003",
+        "level": "Biology 1: Evolution, Ecology and Genetics",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL1004",
+        "level": "Biology 2: Molecular and Cell Biology",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1005",
+        "level": "Introduction to International Relations: Foundations and Concepts",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor",
+        "level": "1000/2000 Level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "CHEM1101",
+        "level": "Chemistry 1",
+        "units": "6 units"
+      },
+      {
+        "code": "CHEM1201",
+        "level": "Chemistry 2",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1006",
+        "level": "Introduction to International Relations:  Contemporary Global Issues",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor",
+        "level": "1000/2000 Level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL2161",
+        "level": "Genes: Replication and Expression",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL2162",
+        "level": "Molecular Gene Technology",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "2000 Level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor",
+        "level": "1000/2000 Level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL2171",
+        "level": "Biochemistry and Nutrition",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL2142",
+        "level": "General Microbiology",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "2000 Level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor",
+        "level": "1000/2000 Level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL2202",
+        "level": "Experimental Design and Analysis in Biology",
+        "units": "6 units"
+      },
+      {
+        "code": "LAWS3104",
+        "level": "Principles of Intellectual Property",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "2000 Level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Specialisation",
+        "level": "2000/3000 Level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "3000 level science course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective course",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "2000 Level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Specialisation",
+        "level": "2000/3000 Level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL3161",
+        "level": "Genomics and its Applications",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL3191",
+        "level": "Biology, Society and Ethics",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "2000/3000 Level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Specialisation",
+        "level": "2000/3000 Level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "3000 level science course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective course",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Major",
+        "level": "2000/3000 Level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Specialisation",
+        "level": "2000/3000 Level Course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2016": [
+    [
+      {
+        "code": "BIOL1003",
+        "level": "Biology 1: Evolution, Ecology and Genetics",
+        "units": "6 units"
+      },
+      {
+        "code": "CHEM1101",
+        "level": "Chemistry 1",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1005",
+        "level": "Introduction to International Relations: Foundations and Concepts",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 1000 level course from ",
+        "level": "the Area Studies or Security Lists or Minor 1000/2000 Level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL1004",
+        "level": "Biology 2: Molecular and Cell Biology",
+        "units": "6 units"
+      },
+      {
+        "code": "CHEM1201",
+        "level": "Chemistry 2",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1006",
+        "level": "Introduction to International Relations:  Contemporary Global Issues",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 1000 level course from ",
+        "level": "the Area Studies or Security Lists or Minor 1000/2000 Level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL2161",
+        "level": "Genes: Replication and Expression",
+        "units": "6 units"
+      },
+      {
+        "code": "Science elective",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS2133",
+        "level": "International Organisations in World Politics",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level course from ",
+        "level": "the listed award rules",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL2162",
+        "level": "Molecular Gene Technology",
+        "units": "6 units"
+      },
+      {
+        "code": "BIOL2142",
+        "level": "General Microbiology",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS2094",
+        "level": "Issues in International Political Economy",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level course from ",
+        "level": "the listed award rules",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL3161",
+        "level": "Genomics and its Applications",
+        "units": "6 units"
+      },
+      {
+        "code": "2000 level science course",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS3001",
+        "level": "Foreign Policy Analysis: Understanding Global and Australian Foreign Policy Decision-Making",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level course from ",
+        "level": "the listed award rules",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL3191",
+        "level": "Biology, Society and Ethics",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level science course",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS3017",
+        "level": "International Relations Theory",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level course from ",
+        "level": "the listed award rules",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "3000 level science course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level science course",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level course from ",
+        "level": "the listed award rules",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level course from ",
+        "level": "the listed award rules",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "3000 level science course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level science course",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level course from ",
+        "level": "the listed award rules",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level course from ",
+        "level": "the listed award rules",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2017": [
+    [
+      {
+        "code": "BIOL1003",
+        "level": "Biology 1: Evolution, Ecology and Genetics",
+        "units": "6 units"
+      },
+      {
+        "code": "CHEM1101",
+        "level": "Chemistry 1",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1005",
+        "level": "Introduction to International Relations: Foundations and Concepts",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 1000 level course from ",
+        "level": "the Area Studies or Security Lists or Minor 1000/2000 Level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL1004",
+        "level": "Biology 2: Molecular and Cell Biology",
+        "units": "6 units"
+      },
+      {
+        "code": "CHEM1201",
+        "level": "Chemistry 2",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1006",
+        "level": "Introduction to International Relations:  Contemporary Global Issues",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 1000 level course from ",
+        "level": "the Area Studies or Security Lists or Minor 1000/2000 Level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL2161",
+        "level": "Genes: Replication and Expression",
+        "units": "6 units"
+      },
+      {
+        "code": "CHEM2211",
+        "level": "Chemical Biology 1",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS2133",
+        "level": "International Organisations in World Politics",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level course from ",
+        "level": "the listed award rules",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL2162",
+        "level": "Molecular Gene Technology",
+        "units": "6 units"
+      },
+      {
+        "code": "B.Biotech elective from list",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS2094",
+        "level": "Issues in International Political Economy",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level course from ",
+        "level": "the listed award rules",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL3161",
+        "level": "Genomics and its Applications",
+        "units": "6 units"
+      },
+      {
+        "code": "B.Biotech elective from list",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS3001",
+        "level": "Foreign Policy Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level course from ",
+        "level": "the listed award rules",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL3191",
+        "level": "Biology, Society and Ethics",
+        "units": "6 units"
+      },
+      {
+        "code": "B.Biotech elective from list",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS3017",
+        "level": "International Relations Theory",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level course from ",
+        "level": "the listed award rules",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "3000 level BIOL course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level BIOL/ CHEM/ NEUR course",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level course from ",
+        "level": "the listed award rules",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level course from ",
+        "level": "the listed award rules",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "3000 level BIOL/ CHEM/ NEUR course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level BIOL/ CHEM/ NEUR course",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level course from ",
+        "level": "the listed award rules",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level course from ",
+        "level": "the listed award rules",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2018": [
+    [
+      {
+        "code": "BIOL1003",
+        "level": "Biology 1: Evolution, Ecology and Genetics",
+        "units": "6 units"
+      },
+      {
+        "code": "CHEM1101",
+        "level": "Chemistry 1",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1005",
+        "level": "Introduction to International Relations: Foundations and Concepts",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 1000 level course from ",
+        "level": "the Area Studies or Security Lists or Minor 1000/2000 Level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL1004",
+        "level": "Biology 2: Molecular and Cell Biology",
+        "units": "6 units"
+      },
+      {
+        "code": "CHEM1201",
+        "level": "Chemistry 2",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1006",
+        "level": "Introduction to International Relations:  Contemporary Global Issues",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 1000 level course from ",
+        "level": "the Area Studies or Security Lists or Minor 1000/2000 Level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL2161",
+        "level": "Genes: Replication and Expression",
+        "units": "6 units"
+      },
+      {
+        "code": "CHEM2211",
+        "level": "Chemical Biology 1",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS2133",
+        "level": "International Organisations in World Politics",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level course from ",
+        "level": "the listed award rules",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL2162",
+        "level": "Molecular Gene Technology",
+        "units": "6 units"
+      },
+      {
+        "code": "B.Biotech elective from list",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS2094",
+        "level": "Issues in International Political Economy",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level course from ",
+        "level": "the listed award rules",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL3161",
+        "level": "Genomics and its Applications",
+        "units": "6 units"
+      },
+      {
+        "code": "B.Biotech elective from list",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS3001",
+        "level": "Foreign Policy Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level course from ",
+        "level": "the listed award rules",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL3191",
+        "level": "Biology, Society and Ethics",
+        "units": "6 units"
+      },
+      {
+        "code": "B.Biotech elective from list",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS3017",
+        "level": "International Relations Theory",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level course from ",
+        "level": "the listed award rules",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "3000 level BIOL course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level BIOL/ CHEM/ NEUR course",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level course from ",
+        "level": "the listed award rules",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level course from ",
+        "level": "the listed award rules",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "3000 level BIOL/ CHEM/ NEUR course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level BIOL/ CHEM/ NEUR course",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level course from ",
+        "level": "the listed award rules",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level course from ",
+        "level": "the listed award rules",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2019": [
+    [
+      {
+        "code": "BIOL1003",
+        "level": "Biology 1: Evolution, Ecology and Genetics",
+        "units": "6 units"
+      },
+      {
+        "code": "CHEM1101",
+        "level": "Chemistry 1",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1005",
+        "level": "Introduction to International Relations: Foundations and Concepts",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 1000 level course from ",
+        "level": "the Area Studies or Security Lists or Minor 1000/2000 Level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL1004",
+        "level": "Biology 2: Molecular and Cell Biology",
+        "units": "6 units"
+      },
+      {
+        "code": "CHEM1201",
+        "level": "Chemistry 2",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1006",
+        "level": "Introduction to International Relations:  Contemporary Global Issues",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 1000 level course from ",
+        "level": "the Area Studies or Security Lists or Minor 1000/2000 Level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL2161",
+        "level": "Genes: Replication and Expression",
+        "units": "6 units"
+      },
+      {
+        "code": "CHEM2211",
+        "level": "Chemical Biology 1",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS2133",
+        "level": "International Organisations in World Politics",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level course from ",
+        "level": "the listed award rules",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL2162",
+        "level": "Molecular Gene Technology",
+        "units": "6 units"
+      },
+      {
+        "code": "B.Biotech elective from list",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS2094",
+        "level": "Issues in International Political Economy",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level course from ",
+        "level": "the listed award rules",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL3161",
+        "level": "Genomics and its Applications",
+        "units": "6 units"
+      },
+      {
+        "code": "B.Biotech elective from list",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS3001",
+        "level": "Foreign Policy Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level course from ",
+        "level": "the listed award rules",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BIOL3191",
+        "level": "Biology, Society and Ethics",
+        "units": "6 units"
+      },
+      {
+        "code": "B.Biotech elective from list",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS3017",
+        "level": "International Relations Theory",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level course from ",
+        "level": "the listed award rules",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "3000 level BIOL course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level BIOL/ CHEM/ NEUR course",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level course from ",
+        "level": "the listed award rules",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level course from ",
+        "level": "the listed award rules",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "3000 level BIOL/ CHEM/ NEUR course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level BIOL/ CHEM/ NEUR course",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level course from ",
+        "level": "the listed award rules",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level course from ",
+        "level": "the listed award rules",
+        "units": "6 units"
+      }
+    ]
+  ]
+}

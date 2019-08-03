@@ -1,0 +1,23 @@
+{
+  "name": "Bachelor of Music",
+  "code": "BMUSI",
+  "year": 2016,
+  "units": 144,
+  "required": {
+    "compulsory_courses": [
+      "MUSI1104",
+      "MUSI1105",
+      "MUSI1106",
+      "MUSI1109",
+      "MUSI2203",
+      "MUSI2204"
+    ],
+    "one_from_m/m/s": [
+      [
+        "MTEC-MAJ",
+        "MUSY-MAJ"
+      ]
+    ],
+    "required_m/m/s": []
+  }
+}

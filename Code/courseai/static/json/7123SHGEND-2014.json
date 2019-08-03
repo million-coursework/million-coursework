@@ -1,0 +1,16 @@
+{
+  "name": "Master of Culture, Health and Medicine (Health and Gender)",
+  "code": "7123SHGEND",
+  "year": 2014,
+  "units": 48,
+  "required": {
+    "compulsory_courses": [
+      "ANTH8038",
+      "CHMD8004",
+      "CHMD8014",
+      "DEMO8048"
+    ],
+    "one_from_m/m/s": [],
+    "required_m/m/s": []
+  }
+}

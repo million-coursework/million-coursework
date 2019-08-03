@@ -1,0 +1,1281 @@
+{
+  "code": "BSPSY-AENGI",
+  "2014": [
+    [
+      {
+        "code": "ENGN1211",
+        "level": "Discovering Engineering",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1013",
+        "level": "Mathematics and Applications 1",
+        "units": "6 units"
+      },
+      {
+        "code": "PHYS1101",
+        "level": "Physics I",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC1003",
+        "level": "Psychology 1: Understanding Mind, Brain and Behaviour",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ENGN1217",
+        "level": "Introduction to Mechanics",
+        "units": "6 units"
+      },
+      {
+        "code": "ENGN1218",
+        "level": "Introduction to Electronics",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1014",
+        "level": "Mathematics and Applications 2",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC1004",
+        "level": "Psychology 2: Understanding People in Context",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ENGN1215",
+        "level": "Engineering Sciences",
+        "units": "6 units"
+      },
+      {
+        "code": "ENGN2217",
+        "level": "Mechanical Systems and Design",
+        "units": "6 units"
+      },
+      {
+        "code": "ENGN2218",
+        "level": "Electronic Systems and Design",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2002",
+        "level": "Developmental Psychology",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "COMP1730",
+        "level": "Programming for Scientists",
+        "units": "6 units"
+      },
+      {
+        "code": "Engineering ",
+        "level": "Major Course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2001",
+        "level": "Social Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2008",
+        "level": "Visual Perception and Cognition",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ENGN2219",
+        "level": "Computing for Engineering Simulation",
+        "units": "6 units"
+      },
+      {
+        "code": "ENGN2225",
+        "level": "Systems Engineering Design",
+        "units": "6 units"
+      },
+      {
+        "code": "Engineering ",
+        "level": "Major Course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2007",
+        "level": "Biological Basis of Behaviour",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ENGN2226",
+        "level": "Systems Engineering Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "Engineering ",
+        "level": "Major Course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ENGN3221",
+        "level": "Engineering Management",
+        "units": "6 units"
+      },
+      {
+        "code": "Engineering ",
+        "level": "Major Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Engineering elective course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3025",
+        "level": "Abnormal Psychology across the Life Span",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ENGN3230",
+        "level": "Engineering Innovation",
+        "units": "6 units"
+      },
+      {
+        "code": "Engineering Degree",
+        "level": "Major Course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC 3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3018",
+        "level": "Advanced Research Methods",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ENGN4200",
+        "level": "Individual Project",
+        "units": "6 to 12 units"
+      },
+      {
+        "code": "ENGN4221",
+        "level": "Systems Engineering Project",
+        "units": "6 units"
+      },
+      {
+        "code": "Engineering elective course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3026",
+        "level": "Personality Psychology",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ENGN4200",
+        "level": "Individual Project",
+        "units": "6 to 12 units"
+      },
+      {
+        "code": "Engineering major"
+      },
+      {
+        "code": "PSYC 3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC 3000 level course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2015": [
+    [
+      {
+        "code": "ENGN1211",
+        "level": "Discovering Engineering",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1013",
+        "level": "Mathematics and Applications 1",
+        "units": "6 units"
+      },
+      {
+        "code": "PHYS1101",
+        "level": "Physics I",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC1003",
+        "level": "Psychology 1: Understanding Mind, Brain and Behaviour",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ENGN1217",
+        "level": "Introduction to Mechanics",
+        "units": "6 units"
+      },
+      {
+        "code": "ENGN1218",
+        "level": "Introduction to Electronics",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1014",
+        "level": "Mathematics and Applications 2",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC1004",
+        "level": "Psychology 2: Understanding People in Context",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ENGN1215",
+        "level": "Engineering Sciences",
+        "units": "6 units"
+      },
+      {
+        "code": "ENGN2217",
+        "level": "Mechanical Systems and Design",
+        "units": "6 units"
+      },
+      {
+        "code": "ENGN2218",
+        "level": "Electronic Systems and Design",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2002",
+        "level": "Developmental Psychology",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "COMP1730",
+        "level": "Programming for Scientists",
+        "units": "6 units"
+      },
+      {
+        "code": "Engineering ",
+        "level": "Major Course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2001",
+        "level": "Social Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2008",
+        "level": "Visual Perception and Cognition",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ENGN2219",
+        "level": "Computing for Engineering Simulation",
+        "units": "6 units"
+      },
+      {
+        "code": "ENGN2225",
+        "level": "Systems Engineering Design",
+        "units": "6 units"
+      },
+      {
+        "code": "Engineering ",
+        "level": "Major Course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2007",
+        "level": "Biological Basis of Behaviour",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ENGN2226",
+        "level": "Systems Engineering Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "Engineering ",
+        "level": "Major Course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ENGN3221",
+        "level": "Engineering Management",
+        "units": "6 units"
+      },
+      {
+        "code": "Engineering ",
+        "level": "Major Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Engineering elective course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3025",
+        "level": "Abnormal Psychology across the Life Span",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ENGN3230",
+        "level": "Engineering Innovation",
+        "units": "6 units"
+      },
+      {
+        "code": "Engineering Degree",
+        "level": "Major Course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC 3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3018",
+        "level": "Advanced Research Methods",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ENGN4200",
+        "level": "Individual Project",
+        "units": "6 to 12 units"
+      },
+      {
+        "code": "ENGN4221",
+        "level": "Systems Engineering Project",
+        "units": "6 units"
+      },
+      {
+        "code": "Engineering elective course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3026",
+        "level": "Personality Psychology",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ENGN4200",
+        "level": "Individual Project",
+        "units": "6 to 12 units"
+      },
+      {
+        "code": "Engineering major"
+      },
+      {
+        "code": "PSYC 3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC 3000 level course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2016": [
+    [
+      {
+        "code": "ENGN1211",
+        "level": "Discovering Engineering",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1013",
+        "level": "Mathematics and Applications 1",
+        "units": "6 units"
+      },
+      {
+        "code": "PHYS1101",
+        "level": "Physics I",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC1003",
+        "level": "Psychology 1: Understanding Mind, Brain and Behaviour",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ENGN1217",
+        "level": "Introduction to Mechanics",
+        "units": "6 units"
+      },
+      {
+        "code": "ENGN1218",
+        "level": "Introduction to Electronics",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1014",
+        "level": "Mathematics and Applications 2",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC1004",
+        "level": "Psychology 2: Understanding People in Context",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ENGN1215",
+        "level": "Engineering Sciences",
+        "units": "6 units"
+      },
+      {
+        "code": "ENGN2217",
+        "level": "Mechanical Systems and Design",
+        "units": "6 units"
+      },
+      {
+        "code": "ENGN2218",
+        "level": "Electronic Systems and Design",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2002",
+        "level": "Developmental Psychology",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "COMP1730",
+        "level": "Programming for Scientists",
+        "units": "6 units"
+      },
+      {
+        "code": "Engineering ",
+        "level": "Major Course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2001",
+        "level": "Social Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2008",
+        "level": "Cognition",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ENGN2219",
+        "level": "Computing for Engineering Simulation",
+        "units": "6 units"
+      },
+      {
+        "code": "ENGN2225",
+        "level": "Systems Engineering Design",
+        "units": "6 units"
+      },
+      {
+        "code": "Engineering ",
+        "level": "Major Course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2007",
+        "level": "Biological Basis of Behaviour",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ENGN2226",
+        "level": "Systems Engineering Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "Engineering ",
+        "level": "Major Course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ENGN3221",
+        "level": "Engineering Management",
+        "units": "6 units"
+      },
+      {
+        "code": "Engineering ",
+        "level": "Major Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Engineering elective course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3025",
+        "level": "Abnormal Psychology across the Life Span",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ENGN3230",
+        "level": "Engineering Innovation",
+        "units": "6 units"
+      },
+      {
+        "code": "Engineering Degree",
+        "level": "Major Course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC 3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3018",
+        "level": "Advanced Research Methods",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ENGN4200",
+        "level": "Individual Project",
+        "units": "6 to 12 units"
+      },
+      {
+        "code": "ENGN4221",
+        "level": "Systems Engineering Project",
+        "units": "6 units"
+      },
+      {
+        "code": "Engineering elective course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3026",
+        "level": "Personality Psychology",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ENGN4200",
+        "level": "Individual Project",
+        "units": "6 to 12 units"
+      },
+      {
+        "code": "Engineering major"
+      },
+      {
+        "code": "PSYC 3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC 3000 level course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2017": [
+    [
+      {
+        "code": "ENGN1211",
+        "level": "Discovering Engineering",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1013",
+        "level": "Mathematics and Applications 1",
+        "units": "6 units"
+      },
+      {
+        "code": "PHYS1101",
+        "level": "Physics I",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC1003",
+        "level": "Psychology 1: Understanding Mind, Brain and Behaviour",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ENGN1217",
+        "level": "Introduction to Mechanics",
+        "units": "6 units"
+      },
+      {
+        "code": "ENGN1218",
+        "level": "Introduction to Electronics",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1014",
+        "level": "Mathematics and Applications 2",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC1004",
+        "level": "Psychology 2: Understanding People in Context",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ENGN1215",
+        "level": "Engineering Sciences",
+        "units": "6 units"
+      },
+      {
+        "code": "ENGN2217",
+        "level": "Mechanical Systems and Design",
+        "units": "6 units"
+      },
+      {
+        "code": "ENGN2218",
+        "level": "Electronic Systems and Design",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2002",
+        "level": "Developmental Psychology",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "COMP1730",
+        "level": "Programming for Scientists",
+        "units": "6 units"
+      },
+      {
+        "code": "Engineering ",
+        "level": "Major Course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2001",
+        "level": "Social Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2008",
+        "level": "Cognition",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ENGN2219",
+        "level": "Computing for Engineering Simulation",
+        "units": "6 units"
+      },
+      {
+        "code": "ENGN2225",
+        "level": "Systems Engineering Design",
+        "units": "6 units"
+      },
+      {
+        "code": "Engineering ",
+        "level": "Major Course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2007",
+        "level": "Biological Basis of Behaviour",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ENGN2226",
+        "level": "Systems Engineering Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "Engineering ",
+        "level": "Major Course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ENGN3221",
+        "level": "Engineering Management",
+        "units": "6 units"
+      },
+      {
+        "code": "Engineering ",
+        "level": "Major Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Engineering elective course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3025",
+        "level": "Abnormal Psychology across the Life Span",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ENGN3230",
+        "level": "Engineering Innovation",
+        "units": "6 units"
+      },
+      {
+        "code": "Engineering Degree",
+        "level": "Major Course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC 3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3018",
+        "level": "Advanced Research Methods",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ENGN4200",
+        "level": "Individual Project",
+        "units": "6 to 12 units"
+      },
+      {
+        "code": "ENGN4221",
+        "level": "Systems Engineering Project",
+        "units": "6 units"
+      },
+      {
+        "code": "Engineering elective course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3026",
+        "level": "Personality Psychology",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ENGN4200",
+        "level": "Individual Project",
+        "units": "6 to 12 units"
+      },
+      {
+        "code": "Engineering major"
+      },
+      {
+        "code": "PSYC 3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC 3000 level course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2018": [
+    [
+      {
+        "code": "ENGN1211",
+        "level": "Discovering Engineering",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1013",
+        "level": "Mathematics and Applications 1",
+        "units": "6 units"
+      },
+      {
+        "code": "PHYS1101",
+        "level": "Physics I",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC1003",
+        "level": "Psychology 1: Understanding Mind, Brain and Behaviour",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ENGN1217",
+        "level": "Introduction to Mechanics",
+        "units": "6 units"
+      },
+      {
+        "code": "ENGN1218",
+        "level": "Introduction to Electronics",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1014",
+        "level": "Mathematics and Applications 2",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC1004",
+        "level": "Psychology 2: Understanding People in Context",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ENGN1215",
+        "level": "Engineering Sciences",
+        "units": "6 units"
+      },
+      {
+        "code": "ENGN2217",
+        "level": "Mechanical Systems and Design",
+        "units": "6 units"
+      },
+      {
+        "code": "ENGN2218",
+        "level": "Electronic Systems and Design",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2002",
+        "level": "Developmental Psychology",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "COMP1730",
+        "level": "Programming for Scientists",
+        "units": "6 units"
+      },
+      {
+        "code": "Engineering ",
+        "level": "Major Course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2001",
+        "level": "Social Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2008",
+        "level": "Cognition",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ENGN2219",
+        "level": "Computing for Engineering Simulation",
+        "units": "6 units"
+      },
+      {
+        "code": "ENGN2225",
+        "level": "Systems Engineering Design",
+        "units": "6 units"
+      },
+      {
+        "code": "Engineering ",
+        "level": "Major Course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2007",
+        "level": "Biological Basis of Behaviour",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ENGN2226",
+        "level": "Systems Engineering Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "Engineering ",
+        "level": "Major Course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ENGN3221",
+        "level": "Engineering Management",
+        "units": "6 units"
+      },
+      {
+        "code": "Engineering ",
+        "level": "Major Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Engineering elective course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3025",
+        "level": "Psychopathology Across the Lifespan",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ENGN3230",
+        "level": "Engineering Innovation",
+        "units": "6 units"
+      },
+      {
+        "code": "Engineering Degree",
+        "level": "Major Course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC 3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3018",
+        "level": "Advanced Research Methods",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ENGN4200",
+        "level": "Individual Project",
+        "units": "6 to 12 units"
+      },
+      {
+        "code": "ENGN4221",
+        "level": "Systems Engineering Project",
+        "units": "6 units"
+      },
+      {
+        "code": "Engineering elective course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3026",
+        "level": "Personality Psychology",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ENGN4200",
+        "level": "Individual Project",
+        "units": "6 to 12 units"
+      },
+      {
+        "code": "Engineering major"
+      },
+      {
+        "code": "PSYC 3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC 3000 level course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2019": [
+    [
+      {
+        "code": "ENGN1211",
+        "level": "Discovering Engineering",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1013",
+        "level": "Mathematics and Applications 1",
+        "units": "6 units"
+      },
+      {
+        "code": "PHYS1101",
+        "level": "Physics I",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC1003",
+        "level": "Psychology 1: Understanding Mind, Brain and Behaviour",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ENGN1217",
+        "level": "Introduction to Mechanics",
+        "units": "6 units"
+      },
+      {
+        "code": "ENGN1218",
+        "level": "Introduction to Electronics",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1014",
+        "level": "Mathematics and Applications 2",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC1004",
+        "level": "Psychology 2: Understanding People in Context",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ENGN1215",
+        "level": "Engineering Sciences",
+        "units": "6 units"
+      },
+      {
+        "code": "ENGN2217",
+        "level": "Mechanical Systems and Design",
+        "units": "6 units"
+      },
+      {
+        "code": "ENGN2218",
+        "level": "Electronic Systems and Design",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2002",
+        "level": "Developmental Psychology",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "COMP1730",
+        "level": "Programming for Scientists",
+        "units": "6 units"
+      },
+      {
+        "code": "Engineering ",
+        "level": "Major Course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2001",
+        "level": "Social Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2008",
+        "level": "Cognition",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ENGN2219",
+        "level": "Computing for Engineering Simulation",
+        "units": "6 units"
+      },
+      {
+        "code": "ENGN2225",
+        "level": "Systems Engineering Design",
+        "units": "6 units"
+      },
+      {
+        "code": "Engineering ",
+        "level": "Major Course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2007",
+        "level": "Biological Basis of Behaviour",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ENGN2226",
+        "level": "Systems Engineering Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "Engineering ",
+        "level": "Major Course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ENGN3221",
+        "level": "Engineering Management",
+        "units": "6 units"
+      },
+      {
+        "code": "Engineering ",
+        "level": "Major Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Engineering elective course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3025",
+        "level": "Psychopathology Across the Lifespan",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ENGN3230",
+        "level": "Engineering Innovation",
+        "units": "6 units"
+      },
+      {
+        "code": "Engineering Degree",
+        "level": "Major Course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC 3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3018",
+        "level": "Advanced Research Methods",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ENGN4200",
+        "level": "Individual Project",
+        "units": "6 to 12 units"
+      },
+      {
+        "code": "ENGN4221",
+        "level": "Systems Engineering Project",
+        "units": "6 units"
+      },
+      {
+        "code": "Engineering elective course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3026",
+        "level": "Personality Psychology",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ENGN4200",
+        "level": "Individual Project",
+        "units": "6 to 12 units"
+      },
+      {
+        "code": "Engineering major"
+      },
+      {
+        "code": "PSYC 3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC 3000 level course",
+        "units": "6 units"
+      }
+    ]
+  ]
+}

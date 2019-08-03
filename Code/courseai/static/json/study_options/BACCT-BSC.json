@@ -1,0 +1,731 @@
+{
+  "code": "BACCT-BSC",
+  "2014": [
+    [
+      {
+        "code": "BUSN1001",
+        "level": "Business Reporting and Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT1008",
+        "level": "Quantitative Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM1001",
+        "level": "Foundations of Finance",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BUSN1002",
+        "level": "Accounting Processes and Systems",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1102",
+        "level": "Macroeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN1101",
+        "level": "Introduction to Commercial Law",
+        "units": "6 units"
+      },
+      {
+        "code": "CBE Elective",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2015": [
+    [
+      {
+        "code": "BUSN1001",
+        "level": "Business Reporting and Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT1008",
+        "level": "Quantitative Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM1001",
+        "level": "Foundations of Finance",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BUSN1002",
+        "level": "Accounting Processes and Systems",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1102",
+        "level": "Macroeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN1101",
+        "level": "Introduction to Commercial Law",
+        "units": "6 units"
+      },
+      {
+        "code": "CBE Elective",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2016": [
+    [
+      {
+        "code": "BUSN1001",
+        "level": "Business Reporting and Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT1008",
+        "level": "Quantitative Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "Science Major Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science Minor Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BUSN1002",
+        "level": "Accounting Processes and Systems",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM1001",
+        "level": "Foundations of Finance",
+        "units": "6 units"
+      },
+      {
+        "code": "Science Major Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science Minor Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN2015",
+        "level": "Company Accounting",
+        "units": "6 units"
+      },
+      {
+        "code": "Science Major Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science Minor Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON1102",
+        "level": "Macroeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN2011",
+        "level": "Management Accounting",
+        "units": "6 units"
+      },
+      {
+        "code": "Science Major Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science Minor Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BUSN3001",
+        "level": "Accounting Theory",
+        "units": "6 units"
+      },
+      {
+        "code": "INFS2005",
+        "level": "Accounting Information Systems",
+        "units": "6 units"
+      },
+      {
+        "code": "Science Major Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science Elective Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "CBE List 1 course"
+      },
+      {
+        "code": "3000 Level ",
+        "level": "Accounting course"
+      },
+      {
+        "code": "Science Major ",
+        "level": "3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 Level Science Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BUSN2036",
+        "level": "Financial Statement Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 Level ",
+        "level": "Accounting course"
+      },
+      {
+        "code": "Science Major ",
+        "level": "3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 Level Science Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "3000 Level ",
+        "level": "Accounting course"
+      },
+      {
+        "code": "CBE List 1 course"
+      },
+      {
+        "code": "Science Major ",
+        "level": "3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 Level Science Course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2017": [
+    [
+      {
+        "code": "BUSN1001",
+        "level": "Business Reporting and Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT1008",
+        "level": "Quantitative Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "1000 level course Science Major",
+        "units": "6 units"
+      },
+      {
+        "code": "1000 level course Science elective",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BUSN1002",
+        "level": "Accounting Processes and Systems",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM1001",
+        "level": "Foundations of Finance",
+        "units": "6 units"
+      },
+      {
+        "code": "1000 level course Science Major",
+        "units": "6 units"
+      },
+      {
+        "code": "Science elective",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN2015",
+        "level": "Company Accounting",
+        "units": "6 units"
+      },
+      {
+        "code": "Science Major",
+        "units": "6 units"
+      },
+      {
+        "code": "Science elective",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON1102",
+        "level": "Macroeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN1101",
+        "level": "Introduction to Commercial Law",
+        "units": "6 units"
+      },
+      {
+        "code": "Science Major",
+        "units": "6 units"
+      },
+      {
+        "code": "Science Minor",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BUSN2011",
+        "level": "Management Accounting",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN2101",
+        "level": "Law of Business Entities",
+        "units": "6 units"
+      },
+      {
+        "code": "Science Major",
+        "units": "6 units"
+      },
+      {
+        "code": "Science Minor",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BUSN3001",
+        "level": "Accounting Theory",
+        "units": "6 units"
+      },
+      {
+        "code": "INFS2005",
+        "level": "Accounting Information Systems",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level course Science Major",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level Science elective",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BUSN3014",
+        "level": "Principles of Tax Law",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN3002",
+        "level": "Auditing",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level course Science Major",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level course Science Minor",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Accounting course from the List",
+        "units": "6 units"
+      },
+      {
+        "code": " CBE LIST 1 Elective course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level course Science Major",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level course Science Minor",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2018": [
+    [
+      {
+        "code": "BUSN1001",
+        "level": "Business Reporting and Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT1008",
+        "level": "Quantitative Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "1000 level course Science Major",
+        "units": "6 units"
+      },
+      {
+        "code": "1000 level Science elective or minor course",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "BUSN1002",
+        "level": "Accounting Processes and Systems",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM1001",
+        "level": "Foundations of Finance",
+        "units": "6 units"
+      },
+      {
+        "code": "1000 level course Science Major",
+        "units": "6 units"
+      },
+      {
+        "code": "1000 level Science elective or minor course",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN2015",
+        "level": "Company Accounting",
+        "units": "6 units"
+      },
+      {
+        "code": "2000 level course Science Major",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Science elective",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON1102",
+        "level": "Macroeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN1101",
+        "level": "Introduction to Commercial Law",
+        "units": "6 units"
+      },
+      {
+        "code": "2000 level course Science Major",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Science elective or minor or specialisation course",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "BUSN2011",
+        "level": "Management Accounting",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN2101",
+        "level": "Law of Business Entities",
+        "units": "6 units"
+      },
+      {
+        "code": "2000 level course Science Major",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Science elective or minor or specialisation course",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "BUSN3001",
+        "level": "Accounting Theory",
+        "units": "6 units"
+      },
+      {
+        "code": "INFS2005",
+        "level": "Accounting Information Systems",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level course Science Major",
+        "units": "6 units\r"
+      },
+      {
+        "code": "3000 level Science elective or specialisation course",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "BUSN3014",
+        "level": "Principles of Tax Law",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN3002",
+        "level": "Auditing",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level course Science Major",
+        "units": "6 units\r"
+      },
+      {
+        "code": "3000 level course Science elective",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "Accounting course from the List",
+        "units": "6 units"
+      },
+      {
+        "code": " CBE LIST 1 Elective course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level course Science Major",
+        "units": "6 units\r"
+      },
+      {
+        "code": "3000 level Science elective or specialisation course",
+        "units": "6 units\r"
+      }
+    ]
+  ],
+  "2019": [
+    [
+      {
+        "code": "BUSN1001",
+        "level": "Business Reporting and Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT1008",
+        "level": "Quantitative Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "1000 level course Science Major",
+        "units": "6 units"
+      },
+      {
+        "code": "1000 level Science elective or minor course",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "BUSN1002",
+        "level": "Accounting Processes and Systems",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM1001",
+        "level": "Foundations of Finance",
+        "units": "6 units"
+      },
+      {
+        "code": "1000 level course Science Major",
+        "units": "6 units"
+      },
+      {
+        "code": "1000 level Science elective or minor course",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN2015",
+        "level": "Company Accounting",
+        "units": "6 units"
+      },
+      {
+        "code": "2000 level course Science Major",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Science elective",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON1102",
+        "level": "Macroeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN1101",
+        "level": "Introduction to Commercial Law",
+        "units": "6 units"
+      },
+      {
+        "code": "2000 level course Science Major",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Science elective or minor or specialisation course",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "BUSN2011",
+        "level": "Management Accounting",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN2101",
+        "level": "Law of Business Entities",
+        "units": "6 units"
+      },
+      {
+        "code": "2000 level course Science Major",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Science elective or minor or specialisation course",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "BUSN3001",
+        "level": "Accounting Theory",
+        "units": "6 units"
+      },
+      {
+        "code": "INFS2005",
+        "level": "Accounting Information Systems",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level course Science Major",
+        "units": "6 units\r"
+      },
+      {
+        "code": "3000 level Science elective or specialisation course",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "BUSN3014",
+        "level": "Principles of Tax Law",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN3002",
+        "level": "Auditing",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level course Science Major",
+        "units": "6 units\r"
+      },
+      {
+        "code": "3000 level course Science elective",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "Accounting course from the List",
+        "units": "6 units"
+      },
+      {
+        "code": " CBE LIST 1 Elective course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level course Science Major",
+        "units": "6 units\r"
+      },
+      {
+        "code": "3000 level Science elective or specialisation course",
+        "units": "6 units\r"
+      }
+    ]
+  ]
+}

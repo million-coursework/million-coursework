@@ -1,0 +1,519 @@
+{
+  "code": "BPAST-BEURO",
+  "2014": [
+    [
+      {
+        "code": "Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective",
+        "level": "1000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective",
+        "level": "1000 level Course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2015": [
+    [
+      {
+        "code": "Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective",
+        "level": "1000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective",
+        "level": "1000 level Course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2016": [
+    [
+      {
+        "code": "Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective",
+        "level": "1000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective",
+        "level": "1000 level Course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2017": [
+    [
+      {
+        "code": "Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective",
+        "level": "1000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective",
+        "level": "1000 level Course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2018": [
+    [
+      {
+        "code": "HIST1214",
+        "level": "Clash of Empires: 1450 to the Present",
+        "units": "6 units"
+      },
+      {
+        "code": "Language Major Course",
+        "units": "6 units"
+      },
+      {
+        "code": "PASI1011",
+        "level": "Pacific Encounters: An introduction to Pacific Studies",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "1000 level course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "EURO1004",
+        "level": "Europe in the Modern Era",
+        "units": "6 units"
+      },
+      {
+        "code": "Language Major Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Pacific Studies Major",
+        "level": "ASIA1025 or ASIA1030",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "1000 level course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "EURO2012",
+        "level": "Uniting Europe: history, politics, theory",
+        "units": "6 units"
+      },
+      {
+        "code": "Language Major Course",
+        "units": "6 units"
+      },
+      {
+        "code": "PASI2001",
+        "level": "Pacific Studies in a Globalizing World",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "2000 or 3000 level course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "European History Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Language Major Course",
+        "units": "6 units"
+      },
+      {
+        "code": "PASI2002",
+        "level": "Australia in Oceania in the 19th and 20th centuries",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "2000 or 3000 level course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "European History Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Language Major Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Pacific Studies Major",
+        "level": "2000 or 3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "2000 or 3000 level course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "EURO3002",
+        "level": "Comparative European Politics",
+        "units": "6 units"
+      },
+      {
+        "code": "Language Major Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Pacific Studies Major",
+        "level": "2000 or 3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "2000 or 3000 level course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Contemporary Europe Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Language Major Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Pacific Studies Major",
+        "level": "2000 or 3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "2000 or 3000 level course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Contemporary Europe Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Language Major Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Pacific Studies Major",
+        "level": "2000 or 3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "2000 or 3000 level course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2019": [
+    [
+      {
+        "code": "HIST1214",
+        "level": "Clash of Empires: 1450 to the Present",
+        "units": "6 units"
+      },
+      {
+        "code": "Language Major Course",
+        "units": "6 units"
+      },
+      {
+        "code": "PASI1011",
+        "level": "Pacific Encounters: An introduction to Pacific Studies",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "1000 level course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "EURO1004",
+        "level": "Europe in the Modern Era",
+        "units": "6 units"
+      },
+      {
+        "code": "Language Major Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Pacific Studies Major",
+        "level": "ASIA1025 or ASIA1030",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "1000 level course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "EURO2012",
+        "level": "Uniting Europe: history, politics, theory",
+        "units": "6 units"
+      },
+      {
+        "code": "Language Major Course",
+        "units": "6 units"
+      },
+      {
+        "code": "PASI2001",
+        "level": "Pacific Studies in a Globalizing World",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "2000 or 3000 level course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "European History Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Language Major Course",
+        "units": "6 units"
+      },
+      {
+        "code": "PASI2002",
+        "level": "Australia in Oceania in the 19th and 20th centuries",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "2000 or 3000 level course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "European History Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Language Major Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Pacific Studies Major",
+        "level": "2000 or 3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "2000 or 3000 level course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "EURO3002",
+        "level": "Comparative European Politics",
+        "units": "6 units"
+      },
+      {
+        "code": "Language Major Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Pacific Studies Major",
+        "level": "2000 or 3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "2000 or 3000 level course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Contemporary Europe Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Language Major Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Pacific Studies Major",
+        "level": "2000 or 3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "2000 or 3000 level course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Contemporary Europe Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Language Major Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Pacific Studies Major",
+        "level": "2000 or 3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "Major",
+        "level": "2000 or 3000 level course",
+        "units": "6 units"
+      }
+    ]
+  ]
+}

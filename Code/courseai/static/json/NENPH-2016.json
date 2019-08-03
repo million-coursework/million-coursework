@@ -1,0 +1,36 @@
+{
+  "name": "Master of Engineering in Photonics",
+  "code": "NENPH",
+  "year": 2016,
+  "units": 96,
+  "required": {
+    "compulsory_courses": [
+      "ENGN6512",
+      "ENGN6513",
+      "ENGN6613",
+      "ENGN8100",
+      "ENGN8120",
+      "ENGN8150",
+      "ENGN8160",
+      "ENGN8528",
+      "PHYS8014",
+      "PHYS8015",
+      "PHYS8016"
+    ],
+    "x_from_here": [
+      {
+        "type": "minimum",
+        "units": 6,
+        "courses": [
+          "PHYS3035",
+          "ENGN6334",
+          "ENGN6626",
+          "ENGN6524",
+          "PHYS8170"
+        ]
+      }
+    ],
+    "one_from_m/m/s": [],
+    "required_m/m/s": []
+  }
+}

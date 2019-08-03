@@ -1,0 +1,52 @@
+{
+    "name": "Bachelor of Finance",
+    "units": 144,
+    "required": {
+        "compulsory_courses": [
+            "BUSN1001",
+            "FINM1001",
+            "ECON1101",
+            "STAT1008"
+        ],
+        "x_from_here": [
+            {
+                "num": 6,
+                "courses": [
+                    "ECON1102",
+                    "ECON1100"
+                ]
+            },
+            {
+                "num": 6,
+                "courses": [
+                    "ECON2101",
+                    "ECON2111"
+                ]
+            },
+            {
+                "num": 6,
+                "courses": [
+                    "EMENT1001",
+                    "MATH1013",
+                    "MATH1115",
+                    "MKTG2003",
+                    "STAT2032"
+                ]
+            },
+            {
+                "num": 6,
+                "courses": "CBE List 1"
+            }
+        ],
+        "one_from_m/m/s": [
+            [
+                "ACMK-MAJ",
+                "CPMK-MAJ",
+                "QFIN-MAJ"
+            ]
+        ],
+        "max_by_level": {
+            "1000": 60
+        }
+    }
+}

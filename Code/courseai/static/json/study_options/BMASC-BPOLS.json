@@ -1,0 +1,494 @@
+{
+  "code": "BMASC-BPOLS",
+  "2014": [],
+  "2015": [],
+  "2016": [
+    [
+      {
+        "code": "MATH1115",
+        "level": "Advanced Mathematics and Applications 1",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT1008 or STAT1003",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1002",
+        "level": "Introduction to Politics",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "MATH1116",
+        "level": "Advanced Mathematics and Applications  2",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP1100 or ",
+        "level": "COMP1130 or<b/>COMP1730",
+        "units": "6 units\r"
+      },
+      {
+        "code": "ECON1102",
+        "level": "Macroeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "INTR1022",
+        "level": "Peacebuilding and Conflict Resolution",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "MATH2301",
+        "level": "Games, Graphs and Machines",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH2320",
+        "level": "Advanced Analysis 1: Metric Spaces and Applications",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY1002",
+        "level": "Self and Society",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY2101",
+        "level": "Social Policy: Principles and Practice",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "MATH2322",
+        "level": "Advanced Algebra 1: Groups, Rings and Linear Algebra",
+        "units": "6 units"
+      },
+      {
+        "code": "Science course",
+        "units": "6 units"
+      },
+      {
+        "code": "Core Course",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS2105",
+        "level": "Political Leadership and Executive Government",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "MATH2305",
+        "level": "Applied Mathematics I",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level MATH coded course",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS2009",
+        "level": "Bureaucracy and Public Policy",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY2038",
+        "level": "Introduction to Quantitative Research Methods",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "3000 level MATH coded course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level MATH coded course",
+        "units": "6 units"
+      },
+      {
+        "code": "Core Course",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY2043",
+        "level": "Introduction to Qualitative Research Methods",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "3000 level MATH coded course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level MATH coded course",
+        "units": "6 units"
+      },
+      {
+        "code": "Core Course",
+        "units": "6 units"
+      },
+      {
+        "code": "DEMO2001",
+        "level": "Population Studies",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "3000 level MATH coded course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level MATH coded course",
+        "units": "6 units"
+      },
+      {
+        "code": "Capstone Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Core Course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2017": [
+    [
+      {
+        "code": "MATH1115",
+        "level": "Advanced Mathematics and Applications 1",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH2222",
+        "level": "Introduction to Mathematical Thinking: Problem-Solving and Proofs",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1002",
+        "level": "Introduction to Politics",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "MATH1116",
+        "level": "Advanced Mathematics and Applications  2",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH2322",
+        "level": "Advanced Algebra 1: Groups, Rings and Linear Algebra",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1102",
+        "level": "Macroeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "INTR1022",
+        "level": "Peacebuilding and Conflict Resolution",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "MATH2305",
+        "level": "Applied Mathematics I",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH2320",
+        "level": "Advanced Analysis 1: Metric Spaces and Applications",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY1002",
+        "level": "Self and Society",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY2101",
+        "level": "Social Policy: Principles and Practice",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Science elective",
+        "units": "6 units"
+      },
+      {
+        "code": "Science elective",
+        "units": "6 units"
+      },
+      {
+        "code": "Core Course",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS2105",
+        "level": "Political Leadership and Executive Government",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Science elective",
+        "units": "6 units"
+      },
+      {
+        "code": "Science elective",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS2009",
+        "level": "Bureaucracy and Public Policy",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY2038",
+        "level": "Introduction to Quantitative Research Methods",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "3000 or 4000 level MATH course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 or 4000 level MATH course",
+        "units": "6 units"
+      },
+      {
+        "code": "Core Course",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY2043",
+        "level": "Introduction to Qualitative Research Methods",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "3000 or 4000 level MATH course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 or 4000 level MATH course",
+        "units": "6 units"
+      },
+      {
+        "code": "Core Course",
+        "units": "6 units"
+      },
+      {
+        "code": "DEMO2001",
+        "level": "Population Studies",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "3000 or 4000 level MATH course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 or 4000 level MATH course",
+        "units": "6 units"
+      },
+      {
+        "code": "Capstone Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Core Course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2018": [
+    [
+      {
+        "code": "MATH1115",
+        "level": "Advanced Mathematics and Applications 1",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH2222",
+        "level": "Introduction to Mathematical Thinking: Problem-Solving and Proofs",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1002",
+        "level": "Introduction to Politics",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "MATH1116",
+        "level": "Advanced Mathematics and Applications  2",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH2322",
+        "level": "Advanced Algebra 1: Groups, Rings and Linear Algebra",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1102",
+        "level": "Macroeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "Australian Politics Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "MATH2305",
+        "level": "Applied Mathematics I",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH2320",
+        "level": "Advanced Analysis 1: Metric Spaces and Applications",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY1002",
+        "level": "Self and Society",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY2101",
+        "level": "Social Policy: Principles and Practice",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Science elective",
+        "units": "6 units"
+      },
+      {
+        "code": "Science elective",
+        "units": "6 units"
+      },
+      {
+        "code": "Key Issues in Policy Studies Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Political Theory Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Science elective",
+        "units": "6 units"
+      },
+      {
+        "code": "Science elective",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS2009",
+        "level": "Bureaucracy and Public Policy",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY2038",
+        "level": "Introduction to Quantitative Research Methods",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "3000 or 4000 level MATH course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 or 4000 level MATH course",
+        "units": "6 units"
+      },
+      {
+        "code": "Key Issues in Policy Studies Course",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY2043",
+        "level": "Introduction to Qualitative Research Methods",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "3000 or 4000 level MATH course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 or 4000 level MATH course",
+        "units": "6 units"
+      },
+      {
+        "code": "Key Issues in Policy Studies Course",
+        "units": "6 units"
+      },
+      {
+        "code": "DEMO2001",
+        "level": "Population Studies",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "3000 or 4000 level MATH course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 or 4000 level MATH course",
+        "units": "6 units"
+      },
+      {
+        "code": "Capstone Course",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS3039",
+        "level": "Political Leadership and Executive Government",
+        "units": "6 units"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Bachelor of Philosophy (Honours)",
+  "code": "APHAR",
+  "year": 2014,
+  "units": 192,
+  "required": {
+    "compulsory_courses": [
+      "ARTS1101",
+      "ARTS1102",
+      "ARTS2101",
+      "ARTS2102",
+      "ARTS3101",
+      "ARTS3102"
+    ],
+    "one_from_m/m/s": [
+      [
+        "POLS-MAJ",
+        "BIAN-MAJ",
+        "DEST-MAJ",
+        "LING-MAJ",
+        "ANCH-MAJ",
+        "ITAL-MAJ",
+        "MUSC-MAJ",
+        "GERM-MAJ",
+        "GEOG-MAJ",
+        "LATN-MAJ",
+        "AGRK-MAJ",
+        "ANTH-MAJ",
+        "GEND-MAJ",
+        "FREN-MAJ",
+        "SOCY-MAJ",
+        "HIST-MAJ",
+        "ARCH-MAJ",
+        "EURO-MAJ",
+        "ENGL-MAJ",
+        "IREL-MAJ",
+        "PHIL-MAJ"
+      ]
+    ],
+    "required_m/m/s": []
+  }
+}

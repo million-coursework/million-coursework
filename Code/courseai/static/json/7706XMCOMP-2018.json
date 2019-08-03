@@ -1,0 +1,24 @@
+{
+  "name": "Master of Computing",
+  "code": "7706XMCOMP",
+  "year": 2018,
+  "units": 96,
+  "required": {
+    "compulsory_courses": [
+      "COMP6250",
+      "COMP6442",
+      "COMP6710",
+      "COMP8110",
+      "COMP8260",
+      "MATH6005"
+    ],
+    "one_from_m/m/s": [
+      [
+        "DTSC-SPEC",
+        "HCSD-SPEC",
+        "AINT-SPEC"
+      ]
+    ],
+    "required_m/m/s": []
+  }
+}

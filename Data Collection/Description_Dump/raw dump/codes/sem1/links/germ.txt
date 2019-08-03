@@ -1,0 +1,5 @@
+"http://programsandcourses.anu.edu.au/2018/course/GERM3051",
+"http://programsandcourses.anu.edu.au/2018/course/GERM3007",
+"http://programsandcourses.anu.edu.au/2018/course/GERM2103",
+"http://programsandcourses.anu.edu.au/2018/course/GERM2105",
+"http://programsandcourses.anu.edu.au/2018/course/GERM1021"

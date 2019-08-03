@@ -1,0 +1,163 @@
+{
+  "name": "Bachelor of Design",
+  "code": "BDESN",
+  "year": 2019,
+  "units": 144,
+  "required": {
+    "max_by_level": [
+      {
+        "type": "maximum",
+        "level": [
+          1000
+        ],
+        "units": 60
+      }
+    ],
+    "compulsory_courses": [
+      "DESN1002",
+      "DESN1003"
+    ],
+    "x_from_here": [
+      {
+        "type": "minimum",
+        "units": 12,
+        "courses": [
+          "ARTV1020",
+          "ARTV1021",
+          "ARTV1033",
+          "DESA1021"
+        ]
+      },
+      {
+        "type": "minimum",
+        "units": 18,
+        "courses": [
+          "ARTV1101",
+          "ARTV1102",
+          "ARTV1103",
+          "ARTV1104",
+          "ARTV1201",
+          "ARTV1202",
+          "ARTV1301",
+          "ARTV1302",
+          "ARTV1403",
+          "ARTV1404",
+          "ARTV1501",
+          "ARTV1502",
+          "ARTV1601",
+          "ARTV1602",
+          "ARTV1803",
+          "ARTV1804",
+          "ARTV1901",
+          "ARTV1902",
+          "ARTV2038",
+          "ARTV2039",
+          "ARTV2057",
+          "ARTV2060",
+          "ARTV2061",
+          "ARTV2117",
+          "ARTV2119",
+          "ARTV2120",
+          "ARTV2124",
+          "ARTV2125",
+          "ARTV2206",
+          "ARTV2207",
+          "ARTV2208",
+          "ARTV2209",
+          "ARTV2313",
+          "ARTV2314",
+          "ARTV2315",
+          "ARTV2316",
+          "ARTV2401",
+          "ARTV2402",
+          "ARTV2410",
+          "ARTV2421",
+          "ARTV2506",
+          "ARTV2507",
+          "ARTV2508",
+          "ARTV2509",
+          "ARTV2511",
+          "ARTV2605",
+          "ARTV2606",
+          "ARTV2607",
+          "ARTV2608",
+          "ARTV2609",
+          "ARTV2610",
+          "ARTV2613",
+          "ARTV2614",
+          "ARTV2615",
+          "ARTV2617",
+          "ARTV2706",
+          "ARTV2707",
+          "ARTV2708",
+          "ARTV2715",
+          "ARTV2717",
+          "ARTV2723",
+          "ARTV2727",
+          "ARTV2808",
+          "ARTV2801",
+          "ARTV2802",
+          "ARTV2810",
+          "ARTV2820",
+          "ARTV2821",
+          "ARTV2906",
+          "ARTV2907",
+          "ARTV2908",
+          "ARTV2909",
+          "ARTV2911",
+          "ARTV2921"
+        ]
+      },
+      {
+        "type": "minimum",
+        "units": 12,
+        "courses": [
+          "ANTH2005",
+          "ARTH1006",
+          "ARTH1007",
+          "ARTH2043",
+          "ARTH2162",
+          "ARTH2164",
+          "ARTH2165",
+          "ARTH2167",
+          "ARTH2172",
+          "ENVS1001",
+          "ENVS1008",
+          "GEND1001",
+          "GEND1002",
+          "GEND2023",
+          "HUMN1001",
+          "HUMN2001",
+          "INDG1001",
+          "PHIL1004",
+          "PHIL1005",
+          "PHIL1007",
+          "PHIL1008",
+          "PSYC1003",
+          "PSYC1004",
+          "SOCY1002",
+          "SOCY1004"
+        ]
+      },
+      {
+        "type": "minimum",
+        "units": 12,
+        "courses": [
+          "DESN1001",
+          "DESN2002",
+          "DESN2003",
+          "DESN2004",
+          "DESN2006",
+          "DESN2001",
+          "DESN2005",
+          "DESN2007",
+          "DESN2008",
+          "DESN2009",
+          "DESN2012"
+        ]
+      }
+    ],
+    "one_from_m/m/s": [],
+    "required_m/m/s": []
+  }
+}

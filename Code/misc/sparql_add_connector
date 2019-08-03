@@ -1,0 +1,41 @@
+#configure lucene connector
+
+PREFIX :<http://www.ontotext.com/connectors/lucene#>
+PREFIX inst:<http://www.ontotext.com/connectors/lucene/instance#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+INSERT DATA {
+	inst:courseSearch :createConnector '''
+{
+  "fields": [
+    {
+      "fieldName": "glossary",
+      "propertyChain": [
+        "http://www.w3.org/2000/01/rdf-schema#test_gloss_2"
+      ],
+      "indexed": true,
+      "stored": true,
+      "analyzed": true,
+      "multivalued": true,
+      "facet": true
+    },
+{
+      "fieldName": "description",
+      "propertyChain": [
+		"http://www.w3.org/2000/01/rdf-schema#test_description_2"
+      ],
+      "indexed": true,
+      "stored": true,
+      "analyzed": true,
+      "multivalued": true,
+      "facet": true
+    }
+  ],
+  "types": [
+    "http://wordnet-rdf.princeton.edu/ontology#Synset"
+  ],
+  "stripMarkup": false
+}
+''' .
+};
+
+

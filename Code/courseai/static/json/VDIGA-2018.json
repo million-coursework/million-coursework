@@ -1,0 +1,41 @@
+{
+  "name": "Master of Digital Arts (Advanced)",
+  "code": "VDIGA",
+  "year": 2018,
+  "units": 96,
+  "required": {
+    "x_from_here": [
+      {
+        "type": "minimum",
+        "units": 18,
+        "courses": [
+          "ARTV6000",
+          "ARTV6003",
+          "ARTV8038",
+          "DART8116"
+        ]
+      },
+      {
+        "type": "minimum",
+        "units": 12,
+        "courses": [
+          "ARTV8038",
+          "ARTV8039",
+          "DART8116",
+          "DART8117"
+        ]
+      },
+      {
+        "type": "minimum",
+        "units": 6,
+        "courses": [
+          "ARTH6050",
+          "ARTH6162",
+          "HIST6233"
+        ]
+      }
+    ],
+    "one_from_m/m/s": [],
+    "required_m/m/s": []
+  }
+}

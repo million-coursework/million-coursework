@@ -1,0 +1,10 @@
+{
+  "name": "Graduate Certificate of Studies - Online",
+  "code": "CSTOL",
+  "year": 2018,
+  "units": 24,
+  "required": {
+    "one_from_m/m/s": [],
+    "required_m/m/s": []
+  }
+}

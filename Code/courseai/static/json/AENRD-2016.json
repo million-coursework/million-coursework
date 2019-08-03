@@ -1,0 +1,73 @@
+{
+  "name": "Bachelor of Engineering (Research and Development) (Honours)",
+  "code": "AENRD",
+  "year": 2016,
+  "units": 192,
+  "required": {
+    "max_by_level": [
+      {
+        "type": "maximum",
+        "level": [
+          1000
+        ],
+        "units": 60
+      }
+    ],
+    "compulsory_courses": [
+      "ENGN1211",
+      "ENGN1215",
+      "ENGN1217",
+      "ENGN1218",
+      "ENGN2217",
+      "ENGN2218",
+      "ENGN2225",
+      "ENGN2226",
+      "ENGN2706",
+      "ENGN3100",
+      "ENGN3221",
+      "ENGN3230",
+      "ENGN3712",
+      "ENGN4221",
+      "ENGN4712",
+      "PHYS1101",
+      "COMP1100"
+    ],
+    "x_from_here": [
+      {
+        "type": "minimum",
+        "units": 6,
+        "courses": [
+          "MATH1014",
+          "MATH1116"
+        ]
+      },
+      {
+        "type": "minimum",
+        "units": 6,
+        "courses": [
+          "COMP1100",
+          "COMP1730"
+        ]
+      },
+      {
+        "type": "minimum",
+        "units": 6,
+        "courses": [
+          "MATH1013",
+          "MATH1115"
+        ]
+      }
+    ],
+    "one_from_m/m/s": [
+      [
+        "MMSY-MAJ",
+        "RENE-MAJ",
+        "ELCO-MAJ",
+        "MTSY-MAJ",
+        "PHOT-MAJ",
+        "BMSY-MAJ"
+      ]
+    ],
+    "required_m/m/s": []
+  }
+}

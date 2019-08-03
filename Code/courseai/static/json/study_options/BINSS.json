@@ -1,0 +1,418 @@
+{
+  "code": "BINSS",
+  "2014": [],
+  "2015": [
+    [
+      {
+        "code": "STST1001",
+        "level": "Introduction to International Security Studies",
+        "units": "6 units"
+      },
+      {
+        "code": "1000 level Language Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "STST1003",
+        "level": "Coping with Crisis: The Practice of International Security",
+        "units": "6 units"
+      },
+      {
+        "code": "1000 level Language Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2016": [
+    [
+      {
+        "code": "International Security Major"
+      },
+      {
+        "code": "Minor"
+      },
+      {
+        "code": "Elective"
+      },
+      {
+        "code": "Elective"
+      }
+    ],
+    [
+      {
+        "code": "International Security Major"
+      },
+      {
+        "code": "Minor"
+      },
+      {
+        "code": "Elective"
+      },
+      {
+        "code": "Elective"
+      }
+    ],
+    [
+      {
+        "code": "International Security Major"
+      },
+      {
+        "code": "Minor"
+      },
+      {
+        "code": "International Security Major"
+      },
+      {
+        "code": "Elective"
+      }
+    ],
+    [
+      {
+        "code": "International Security Major"
+      },
+      {
+        "code": "Minor"
+      },
+      {
+        "code": "Elective"
+      },
+      {
+        "code": "Elective"
+      }
+    ],
+    [
+      {
+        "code": "International Security Major"
+      },
+      {
+        "code": "International Security Major"
+      },
+      {
+        "code": "Elective"
+      },
+      {
+        "code": "Elective"
+      }
+    ],
+    [
+      {
+        "code": "International Security Major"
+      },
+      {
+        "code": "Elective"
+      },
+      {
+        "code": "Elective"
+      },
+      {
+        "code": "Elective"
+      }
+    ]
+  ],
+  "2017": [
+    [
+      {
+        "code": "STST1001",
+        "level": "Introduction to International Security Studies",
+        "units": "6 units"
+      },
+      {
+        "code": "Course toward completion of minor from list B"
+      },
+      {
+        "code": "Elective"
+      },
+      {
+        "code": "Elective"
+      }
+    ],
+    [
+      {
+        "code": "STST1003",
+        "level": "Coping with Crisis: The Practice of International Security",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective"
+      },
+      {
+        "code": "Elective"
+      },
+      {
+        "code": "Elective"
+      }
+    ],
+    [
+      {
+        "code": "STST2001",
+        "level": "International Security issues in the Asia Pacific",
+        "units": "6 units"
+      },
+      {
+        "code": "Course toward completion of minor from list B"
+      },
+      {
+        "code": "Course toward completion of 18 unit requirement of list A"
+      },
+      {
+        "code": "Elective"
+      }
+    ],
+    [
+      {
+        "code": "POLS2132",
+        "level": "Current Issues in International Security",
+        "units": "6 units"
+      },
+      {
+        "code": "Course toward completion of minor from list B"
+      },
+      {
+        "code": "Course toward completion of 18 unit requirement of list A"
+      },
+      {
+        "code": "Elective"
+      }
+    ],
+    [
+      {
+        "code": "STST3002",
+        "level": "Australia's Security in the Asian Century",
+        "units": "6 units"
+      },
+      {
+        "code": "Course toward completion of minor from list B"
+      },
+      {
+        "code": "Course toward completion of 18 unit requirement of list A"
+      },
+      {
+        "code": "Elective"
+      }
+    ],
+    [
+      {
+        "code": "Elective"
+      },
+      {
+        "code": "Elective"
+      },
+      {
+        "code": "Elective"
+      },
+      {
+        "code": "Elective"
+      }
+    ]
+  ],
+  "2018": [
+    [
+      {
+        "code": "STST1001",
+        "level": "Introduction to International Security Studies",
+        "units": "6 units"
+      },
+      {
+        "code": "Course toward completion of minor from list B"
+      },
+      {
+        "code": "Elective"
+      },
+      {
+        "code": "Elective"
+      }
+    ],
+    [
+      {
+        "code": "STST1003",
+        "level": "Coping with Crisis: The Practice of International Security",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective"
+      },
+      {
+        "code": "Elective"
+      },
+      {
+        "code": "Elective"
+      }
+    ],
+    [
+      {
+        "code": "STST2001",
+        "level": "International Security issues in the Asia Pacific",
+        "units": "6 units"
+      },
+      {
+        "code": "Course toward completion of minor from list B"
+      },
+      {
+        "code": "Course toward completion of 18 unit requirement of list A"
+      },
+      {
+        "code": "Elective"
+      }
+    ],
+    [
+      {
+        "code": "POLS2132",
+        "level": "Current Issues in International Security",
+        "units": "6 units"
+      },
+      {
+        "code": "Course toward completion of minor from list B"
+      },
+      {
+        "code": "Course toward completion of 18 unit requirement of list A"
+      },
+      {
+        "code": "Elective"
+      }
+    ],
+    [
+      {
+        "code": "STST3002",
+        "level": "Australia's Security in the Asian Century",
+        "units": "6 units"
+      },
+      {
+        "code": "Course toward completion of minor from list B"
+      },
+      {
+        "code": "Course toward completion of 18 unit requirement of list A"
+      },
+      {
+        "code": "Elective"
+      }
+    ],
+    [
+      {
+        "code": "Elective"
+      },
+      {
+        "code": "Elective"
+      },
+      {
+        "code": "Elective"
+      },
+      {
+        "code": "Elective"
+      }
+    ]
+  ],
+  "2019": [
+    [
+      {
+        "code": "STST1001",
+        "level": "Introduction to International Security Studies",
+        "units": "6 units"
+      },
+      {
+        "code": "Course toward completion of minor from list B"
+      },
+      {
+        "code": "Elective"
+      },
+      {
+        "code": "Elective"
+      }
+    ],
+    [
+      {
+        "code": "STST1003",
+        "level": "Coping with Crisis: The Practice of International Security",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective"
+      },
+      {
+        "code": "Elective"
+      },
+      {
+        "code": "Elective"
+      }
+    ],
+    [
+      {
+        "code": "STST2001",
+        "level": "International Security issues in the Asia Pacific",
+        "units": "6 units"
+      },
+      {
+        "code": "Course toward completion of minor from list B"
+      },
+      {
+        "code": "Course toward completion of 18 unit requirement of list A"
+      },
+      {
+        "code": "Elective"
+      }
+    ],
+    [
+      {
+        "code": "POLS2132",
+        "level": "Current Issues in International Security",
+        "units": "6 units"
+      },
+      {
+        "code": "Course toward completion of minor from list B"
+      },
+      {
+        "code": "Course toward completion of 18 unit requirement of list A"
+      },
+      {
+        "code": "Elective"
+      }
+    ],
+    [
+      {
+        "code": "STST3002",
+        "level": "Australia's Security in the Asian Century",
+        "units": "6 units"
+      },
+      {
+        "code": "Course toward completion of minor from list B"
+      },
+      {
+        "code": "Course toward completion of 18 unit requirement of list A"
+      },
+      {
+        "code": "Elective"
+      }
+    ],
+    [
+      {
+        "code": "Elective"
+      },
+      {
+        "code": "Elective"
+      },
+      {
+        "code": "Elective"
+      },
+      {
+        "code": "Elective"
+      }
+    ]
+  ]
+}

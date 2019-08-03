@@ -1,0 +1,194 @@
+"
+                Code
+            ","
+                Title
+            ","
+                Type
+            ","
+                Career
+            ","
+                Units
+            "
+ANLR-MIN,ANU Leadership and Research,Minor,Undergraduate,24
+ABPS-MIN,Abnormal Psychology,Minor,Undergraduate,24
+ABPS-MIN,Abnormal Psychology,Minor,Undergraduate,24
+AACC-MIN,Advanced Accounting,Minor,Undergraduate,24
+AAGR-MIN,Advanced Ancient Greek,Minor,Undergraduate,24
+AARB-MIN,Advanced Arabic,Minor,Undergraduate,24
+ACHN-MIN,Advanced Chinese Language,Minor,Undergraduate,24
+EARC-MIN,Advanced Environmental Archaeology,Minor,Undergraduate,24
+FEAR-MIN,Advanced Forensic and Evolutionary Archaeology,Minor,Undergraduate,24
+AFRE-MIN,Advanced French Studies,Minor,Undergraduate,24
+AGER-MIN,Advanced German Studies,Minor,Undergraduate,24
+GLAR-MIN,Advanced Global Archaeology,Minor,Undergraduate,24
+ADHC-MIN,Advanced Hispanic Culture,Minor,Undergraduate,24
+ADHL-MIN,Advanced Hispanic Linguistics,Minor,Undergraduate,24
+AITA-MIN,Advanced Italian Studies,Minor,Undergraduate,24
+AJPN-MIN,Advanced Japanese Language,Minor,Undergraduate,24
+AKOR-MIN,Advanced Korean Language,Minor,Undergraduate,24
+ALAT-MIN,Advanced Latin,Minor,Undergraduate,24
+APRS-MIN,Advanced Persian,Minor,Undergraduate,24
+ASKT-MIN,Advanced Sanskrit Language,Minor,Undergraduate,24
+ASPA-MIN,Advanced Spanish Studies,Minor,Undergraduate,24
+ADST-MIN,Advanced Studies,Minor,Undergraduate,24
+AMER-MIN,American Studies,Minor,Undergraduate,24
+AGRK-MIN,Ancient Greek,Minor,Undergraduate,24
+ANCH-MIN,Ancient History,Minor,Undergraduate,24
+ANTH-MIN,Anthropology,Minor,Undergraduate,24
+APLN-MIN,Applied Linguistics,Minor,Undergraduate,24
+APST-MIN,Applied Statistics,Minor,Undergraduate,24
+APST-MIN,Applied Statistics,Minor,Undergraduate,24
+ARAB-MIN,Arabic,Minor,Undergraduate,24
+ARCH-MIN,Archaeology,Minor,Undergraduate,24
+ASPP-MIN,Asia-Pacific Politics,Minor,Undergraduate,24
+SECU-MIN,Asia-Pacific Security Studies,Minor,Undergraduate,24
+ASAH-MIN,Asian Art History,Minor,Undergraduate,24
+AHIST-MIN,Asian History,Minor,Undergraduate,24
+ASIA-MIN,Asian Studies,Minor,Undergraduate,24
+APAN-MIN,Asian and Pacific Anthropology,Minor,Undergraduate,24
+ACMG-MIN,"Asian and Pacific Culture, Media and Gender",Minor,Undergraduate,24
+APLI-MIN,Asian and Pacific Linguistics,Minor,Undergraduate,24
+APLF-MIN,Asian and Pacific Literature and Film,Minor,Undergraduate,24
+AUIS-MIN,Australian Indigenous Studies,Minor,Undergraduate,24
+APOL-MIN,Australian Politics,Minor,Undergraduate,24
+BCAM-MIN,Biodiversity Conservation and Management,Minor,Undergraduate,24
+BCAM-MIN,Biodiversity Conservation and Management,Minor,Undergraduate,24
+BCAM-MIN,Biodiversity Conservation and Management,Minor,Undergraduate,24
+BIAN-MIN,Biological Anthropology,Minor,Undergraduate,24
+BION-MIN,Biological Neuropsychology,Minor,Undergraduate,24
+BION-MIN,Biological Neuropsychology,Minor,Undergraduate,24
+BIOL-MIN,Biology,Minor,Undergraduate,24
+BMSY-MIN,Biomedical Systems,Minor,Undergraduate,24
+BURM-MIN,Burmese Language,Minor,Undergraduate,24
+BISM-MIN,Business Information Systems,Minor,Undergraduate,24
+LAWE-MIN,Business Law and Professional Ethics,Minor,Undergraduate,24
+BPSY-MIN,Business Psychology,Minor,Undergraduate,24
+BECE-MIN,Business and Economics Essentials,Minor,Undergraduate,24
+CHEM-MIN,Chemistry,Minor,Undergraduate,24
+CHEM-MIN,Chemistry,Minor,Undergraduate,24
+CHIN-MIN,Chinese Language,Minor,Undergraduate,24
+CHST-MIN,Chinese Studies,Minor,Undergraduate,24
+CLCH-MIN,Classical Chinese,Minor,Undergraduate,24
+CSAP-MIN,Climate Science and Policy,Minor,Undergraduate,24
+CSAP-MIN,Climate Science and Policy,Minor,Undergraduate,24
+CSAP-MIN,Climate Science and Policy,Minor,Undergraduate,24
+COPS-MIN,Cognitive Psychology,Minor,Undergraduate,24
+COPS-MIN,Cognitive Psychology,Minor,Undergraduate,24
+CPOL-MIN,Comparative Politics,Minor,Undergraduate,24
+CASD-MIN,"Composition, Arranging and Sound Design",Minor,Undergraduate,24
+COMPF-MIN,Computational Foundations,Minor,Undergraduate,24
+CSCI-MIN,Computer Science,Minor,Undergraduate,24
+CSCI-MIN,Computer Science,Minor,Undergraduate,24
+CSFN-MIN,Computer Science Foundations,Minor,Undergraduate,24
+EURO-MIN,Contemporary Europe,Minor,Undergraduate,24
+CORP-MIN,Corporate Sustainability,Minor,Undergraduate,24
+CRIM-MIN,Criminology,Minor,Undergraduate,24
+DEMO-MIN,Demography,Minor,Undergraduate,24
+DESA-MIN,Design,Minor,Undergraduate,24
+DEST-MIN,Development Studies,Minor,Undergraduate,24
+DEPS-MIN,Developmental Psychology,Minor,Undergraduate,24
+DEPS-MIN,Developmental Psychology,Minor,Undergraduate,24
+DIHU-MIN,Digital Humanities,Minor,Undergraduate,24
+EMSC-MIN,Earth and Marine Sciences,Minor,Undergraduate,24
+EMSC-MIN,Earth and Marine Sciences,Minor,Undergraduate,24
+EMET-MIN,Econometrics,Minor,Undergraduate,24
+ECHI-MIN,Economic History,Minor,Undergraduate,24
+ECST-MIN,Economic Studies,Minor,Undergraduate,24
+ELCO-MIN,Electronic and Communication Systems,Minor,Undergraduate,24
+ENGS-MIN,Engineering Science,Minor,Undergraduate,24
+ENGL-MIN,English,Minor,Undergraduate,24
+ENVP-MIN,Environmental Policy,Minor,Undergraduate,24
+ENVP-MIN,Environmental Policy,Minor,Undergraduate,24
+ENVP-MIN,Environmental Policy,Minor,Undergraduate,24
+ENST-MIN,Environmental Studies,Minor,Undergraduate,24
+FILM-MIN,Film,Minor,Undergraduate,24
+FINM-MIN,Finance,Minor,Undergraduate,24
+FORA-MIN,Forensic Anthropology,Minor,Undergraduate,24
+FOLI-MIN,Forensic Linguistics,Minor,Undergraduate,24
+FSAP-MIN,Forest Science and Policy,Minor,Undergraduate,24
+FSAP-MIN,Forest Science and Policy,Minor,Undergraduate,24
+FSAP-MIN,Forest Science and Policy,Minor,Undergraduate,24
+FREN-MIN,French Language and Culture,Minor,Undergraduate,24
+GESX-MIN,Gender and Sexuality,Minor,Undergraduate,24
+GEOG-MIN,Geography,Minor,Undergraduate,24
+GEOG-MIN,Geography,Minor,Undergraduate,24
+GEOG-MIN,Geography,Minor,Undergraduate,24
+GERM-MIN,German Language and Culture,Minor,Undergraduate,24
+HMAB-MIN,"Health, Medicine and the Body",Minor,Undergraduate,24
+HAMS-MIN,Heritage and Museum Studies,Minor,Undergraduate,24
+HIND-MIN,Hindi Language,Minor,Undergraduate,24
+HINS-MIN,Historical International Security,Minor,Undergraduate,24
+HIST-MIN,History,Minor,Undergraduate,24
+HECL-MIN,Human Ecology,Minor,Undergraduate,24
+HECL-MIN,Human Ecology,Minor,Undergraduate,24
+HECL-MIN,Human Ecology,Minor,Undergraduate,24
+HUEB-MIN,Human Evolutionary Biology,Minor,Undergraduate,24
+HMRT-MIN,Human Rights,Minor,Undergraduate,24
+NEWM-MIN,IT in New Media,Minor,Undergraduate,24
+INDS-MIN,India Studies,Minor,Undergraduate,24
+INDN-MIN,Indonesian Language,Minor,Undergraduate,24
+INST-MIN,Indonesian Studies,Minor,Undergraduate,24
+INPP-MIN,Innovation and Professional Practice,Minor,Undergraduate,24
+INSC-MIN,Interdisciplinary Science,Minor,Undergraduate,24
+INSC-MIN,Interdisciplinary Science,Minor,Undergraduate,24
+INTB-MIN,International Business,Minor,Undergraduate,24
+ICOM-MIN,International Communication,Minor,Undergraduate,24
+IREL-MIN,International Relations,Minor,Undergraduate,24
+ACCT-MIN,Introductory Accounting,Minor,Undergraduate,24
+ITAL-MIN,Italian Language and Culture,Minor,Undergraduate,24
+JPNS-MIN,Japanese Language,Minor,Undergraduate,24
+JPLN-MIN,Japanese Linguistics,Minor,Undergraduate,24
+JPST-MIN,Japanese Studies,Minor,Undergraduate,24
+KORE-MIN,Korean Language,Minor,Undergraduate,24
+KORS-MIN,Korean Studies,Minor,Undergraduate,24
+LATN-MIN,Latin,Minor,Undergraduate,24
+LAMS-MIN,Latin American Studies,Minor,Undergraduate,24
+LING-MIN,Linguistics,Minor,Undergraduate,24
+MGMT-MIN,Management,Minor,Undergraduate,24
+MKRS-MIN,Market Research,Minor,Undergraduate,24
+MKTG-MIN,Marketing,Minor,Undergraduate,24
+MATH-MIN,Mathematics,Minor,Undergraduate,24
+MATH-MIN,Mathematics,Minor,Undergraduate,24
+MMSY-MIN,Mechanical and Material Systems,Minor,Undergraduate,24
+MTSY-MIN,Mechatronic Systems,Minor,Undergraduate,24
+MECA-MIN,Middle Eastern and Central Asian Studies,Minor,Undergraduate,24
+MNGL-MIN,Mongolian Language,Minor,Undergraduate,24
+MUSC-MIN,Music,Minor,Undergraduate,24
+MSTC-MIN,Music Technology,Minor,Undergraduate,24
+MUSY-MIN,Musicology,Minor,Undergraduate,24
+NAST-MIN,Northeast Asian Studies,Minor,Undergraduate,24
+PAST-MIN,Pacific Studies,Minor,Undergraduate,24
+PECO-MIN,Peace and Conflict Studies,Minor,Undergraduate,24
+PERF-MIN,Performance,Minor,Undergraduate,24
+PERS-MIN,Persian,Minor,Undergraduate,24
+PHIL-MIN,Philosophy,Minor,Undergraduate,24
+PHSC-MIN,Philosophy and Science,Minor,Undergraduate,24
+PHOT-MIN,Photonic Systems,Minor,Undergraduate,24
+PHYS-MIN,Physics,Minor,Undergraduate,24
+POLS-MIN,Political Science,Minor,Undergraduate,24
+POLT-MIN,Political Theory,Minor,Undergraduate,24
+POMU-MIN,Popular Music,Minor,Undergraduate,24
+PJMT-MIN,Project Management,Minor,Undergraduate,24
+RENE-MIN,Renewable Energy Systems,Minor,Undergraduate,24
+RUSS-MIN,Russian,Minor,Undergraduate,24
+SANS-MIN,Sanskrit Language,Minor,Undergraduate,24
+SCOM-MIN,Science Communication,Minor,Undergraduate,24
+SOPS-MIN,Social Psychology,Minor,Undergraduate,24
+SOPS-MIN,Social Psychology,Minor,Undergraduate,24
+SORM-MIN,Social Research Methods,Minor,Undergraduate,24
+SOCY-MIN,Sociology,Minor,Undergraduate,24
+LAND-MIN,Soil and Land Management,Minor,Undergraduate,24
+LAND-MIN,Soil and Land Management,Minor,Undergraduate,24
+LAND-MIN,Soil and Land Management,Minor,Undergraduate,24
+SEAS-MIN,Southeast Asian Studies,Minor,Undergraduate,24
+SPAH-MIN,Spanish,Minor,Undergraduate,24
+SBEC-MIN,"Strategy, Behaviour and Economics",Minor,Undergraduate,24
+SUSD-MIN,Sustainable Development,Minor,Undergraduate,24
+SUSD-MIN,Sustainable Development,Minor,Undergraduate,24
+SUSY-MIN,Sustainable Systems,Minor,Undergraduate,24
+TETM-MIN,Tetum Language,Minor,Undergraduate,24
+THAI-MIN,Thai Language,Minor,Undergraduate,24
+VIET-MIN,Vietnamese Language,Minor,Undergraduate,24
+VAPR-MIN,Visual Arts Practice,Minor,Undergraduate,24
+WSAP-MIN,Water Science and Policy,Minor,Undergraduate,24
+WSAP-MIN,Water Science and Policy,Minor,Undergraduate,24

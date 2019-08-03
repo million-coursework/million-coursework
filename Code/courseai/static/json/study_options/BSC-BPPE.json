@@ -1,0 +1,835 @@
+{
+  "code": "BSC-BPPE",
+  "2014": [
+    [
+      {
+        "code": "POLS1005",
+        "level": "Introduction to International Relations: Foundations and Concepts",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "PHIL1004",
+        "level": "Fundamental Ideas in Philosophy: An Introduction",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1002",
+        "level": "Introduction to Politics",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "EMET1001",
+        "level": "Foundations of Economic and Financial Models",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1102",
+        "level": "Macroeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "PHIL1005",
+        "level": "Logic and Critical Thinking",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1008",
+        "level": "PPE Integrative Seminar Year 1: Puzzles in Politics, Philosophy and Economics",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2015": [
+    [
+      {
+        "code": "POLS1002",
+        "level": "Introduction to Politics",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1005",
+        "level": "Introduction to International Relations: Foundations and Concepts",
+        "units": "6 units"
+      },
+      {
+        "code": "Science Major Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science Minor Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "PHIL1005",
+        "level": "Logic and Critical Thinking",
+        "units": "6 units"
+      },
+      {
+        "code": "Science Major Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science Minor Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "PHIL1004",
+        "level": "Fundamental Ideas in Philosophy: An Introduction",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Politics list Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science Major Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science Minor Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "POLS1008",
+        "level": "PPE Integrative Seminar Year 1: Puzzles in Politics, Philosophy and Economics",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Philosophy list Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science Major Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science Minor Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON2101",
+        "level": "Microeconomics 2(P)",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Economics list Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science Major Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science Elective Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "PHIL2116",
+        "level": "PPE Integrative Seminar Year 2",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Politics list Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science Major ",
+        "level": "3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 Level Science Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Non-compulsory Philosophy list Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ANIP/ECON/PHIL/POLS",
+        "level": "2000/3000 Level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science Major ",
+        "level": "3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 Level Science Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON3056",
+        "level": "PPE Integrative Seminar Year 3: Classic Literature in PPE",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Economics list Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science Major ",
+        "level": "3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 Level Science Course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2016": [
+    [
+      {
+        "code": "POLS1002",
+        "level": "Introduction to Politics",
+        "units": "6 units"
+      },
+      {
+        "code": "PHIL1004",
+        "level": "Fundamental Ideas in Philosophy: An Introduction",
+        "units": "6 units"
+      },
+      {
+        "code": "Science Major Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science Minor Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "POLS1009",
+        "level": "Research and Writing in Political Science",
+        "units": "6 units"
+      },
+      {
+        "code": "PHIL1005",
+        "level": "Logic and Critical Thinking",
+        "units": "6 units"
+      },
+      {
+        "code": "Science Major Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science Minor Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Politics list Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science Major Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science Minor Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "POLS1008",
+        "level": "PPE Integrative Seminar Year 1: Puzzles in Politics, Philosophy and Economics",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Philosophy list Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science Major Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science Minor Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON2101",
+        "level": "Microeconomics 2(P)",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Economics list Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science Major Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science Elective Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "PHIL2116",
+        "level": "PPE Integrative Seminar Year 2",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Politics list Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science Major ",
+        "level": "3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 Level Science Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Non-compulsory Philosophy list Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ANIP/ECON/PHIL/POLS",
+        "level": "2000/3000 Level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science Major ",
+        "level": "3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 Level Science Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON3056",
+        "level": "PPE Integrative Seminar Year 3: Classic Literature in PPE",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Economics list Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science Major ",
+        "level": "3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 Level Science Course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2017": [
+    [
+      {
+        "code": "POLS1002",
+        "level": "Introduction to Politics",
+        "units": "6 units"
+      },
+      {
+        "code": "PHIL1004",
+        "level": "Fundamental Ideas in Philosophy: An Introduction",
+        "units": "6 units"
+      },
+      {
+        "code": "1000 level course Science Major",
+        "units": "6 units"
+      },
+      {
+        "code": "1000 level course Science elective",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "POLS1009",
+        "level": "Research and Writing in Political Science",
+        "units": "6 units"
+      },
+      {
+        "code": "PHIL1005",
+        "level": "Logic and Critical Thinking",
+        "units": "6 units"
+      },
+      {
+        "code": "1000 level course Science Major",
+        "units": "6 units"
+      },
+      {
+        "code": "Science elective",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Politics list Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science Major",
+        "units": "6 units"
+      },
+      {
+        "code": "Science elective",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "POLS1008",
+        "level": "PPE Integrative Seminar Year 1: Puzzles in Politics, Philosophy and Economics",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Philosophy list Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science Major",
+        "units": "6 units"
+      },
+      {
+        "code": "Science Minor",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON2101",
+        "level": "Microeconomics 2(P)",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Economics list Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science Major",
+        "units": "6 units"
+      },
+      {
+        "code": "Science Minor",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "PHIL2116",
+        "level": "PPE Integrative Seminar Year 2",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Politics list Course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level course Science Major",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level Science elective",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Non-compulsory Philosophy list Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ANIP/ECON/PHIL/POLS",
+        "level": "2000/3000 Level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level course Science Major",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level course Science Minor",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON3056",
+        "level": "PPE Integrative Seminar Year 3: Classic Literature in PPE",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Economics list Course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level course Science Major",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level course Science Minor",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2018": [
+    [
+      {
+        "code": "POLS1002",
+        "level": "Introduction to Politics",
+        "units": "6 units"
+      },
+      {
+        "code": "PHIL1004",
+        "level": "Fundamental Ideas in Philosophy: An Introduction",
+        "units": "6 units"
+      },
+      {
+        "code": "1000 level course Science Major",
+        "units": "6 units"
+      },
+      {
+        "code": "1000 level Science elective or minor course",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "POLS1009",
+        "level": "Research and Writing in Political Science",
+        "units": "6 units"
+      },
+      {
+        "code": "PHIL1005",
+        "level": "Logic and Critical Thinking",
+        "units": "6 units"
+      },
+      {
+        "code": "1000 level course Science Major",
+        "units": "6 units"
+      },
+      {
+        "code": "1000 level Science elective or minor course",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Politics list Course",
+        "units": "6 units"
+      },
+      {
+        "code": "2000 level course Science Major",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Science elective",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "POLS1008",
+        "level": "PPE Integration 1",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Philosophy list Course",
+        "units": "6 units"
+      },
+      {
+        "code": "2000 level course Science Major",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Science elective or minor or specialisation course",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "ECON2101",
+        "level": "Microeconomics 2(P)",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Economics list Course",
+        "units": "6 units"
+      },
+      {
+        "code": "2000 level course Science Major",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Science elective or minor or specialisation course",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "PHIL2116",
+        "level": "PPE Integration 2",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Politics list Course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level course Science Major",
+        "units": "6 units\r"
+      },
+      {
+        "code": "3000 level Science elective or specialisation course",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "Non-compulsory Philosophy list Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ANIP/ECON/PHIL/POLS",
+        "level": "2000/3000 Level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level course Science Major",
+        "units": "6 units\r"
+      },
+      {
+        "code": "3000 level course Science elective",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "ECON3056",
+        "level": "PPE Integration 3: Classic Literature in PPE",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Economics list Course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level course Science Major",
+        "units": "6 units\r"
+      },
+      {
+        "code": "3000 level Science elective or specialisation course",
+        "units": "6 units\r"
+      }
+    ]
+  ],
+  "2019": [
+    [
+      {
+        "code": "POLS1002",
+        "level": "Introduction to Politics",
+        "units": "6 units"
+      },
+      {
+        "code": "PHIL1004",
+        "level": "Fundamental Ideas in Philosophy: An Introduction",
+        "units": "6 units"
+      },
+      {
+        "code": "1000 level course Science Major",
+        "units": "6 units"
+      },
+      {
+        "code": "1000 level Science elective or minor course",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "POLS1009",
+        "level": "Research and Writing in Political Science",
+        "units": "6 units"
+      },
+      {
+        "code": "PHIL1005",
+        "level": "Logic and Critical Thinking",
+        "units": "6 units"
+      },
+      {
+        "code": "1000 level course Science Major",
+        "units": "6 units"
+      },
+      {
+        "code": "1000 level Science elective or minor course",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Politics list Course",
+        "units": "6 units"
+      },
+      {
+        "code": "2000 level course Science Major",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Science elective",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "POLS1008",
+        "level": "PPE Integration 1",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Philosophy list Course",
+        "units": "6 units"
+      },
+      {
+        "code": "2000 level course Science Major",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Science elective or minor or specialisation course",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "ECON2101",
+        "level": "Microeconomics 2(P)",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Economics list Course",
+        "units": "6 units"
+      },
+      {
+        "code": "2000 level course Science Major",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Science elective or minor or specialisation course",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "PHIL2116",
+        "level": "PPE Integration 2",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Politics list Course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level course Science Major",
+        "units": "6 units\r"
+      },
+      {
+        "code": "3000 level Science elective or specialisation course",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "Non-compulsory Philosophy list Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ANIP/ECON/PHIL/POLS",
+        "level": "2000/3000 Level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level course Science Major",
+        "units": "6 units\r"
+      },
+      {
+        "code": "3000 level course Science elective",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "ECON3056",
+        "level": "PPE Integration 3: Classic Literature in PPE",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Economics list Course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level course Science Major",
+        "units": "6 units\r"
+      },
+      {
+        "code": "3000 level Science elective or specialisation course",
+        "units": "6 units\r"
+      }
+    ]
+  ]
+}

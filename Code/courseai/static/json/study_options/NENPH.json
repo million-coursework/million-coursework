@@ -1,0 +1,253 @@
+{
+  "code": "NENPH",
+  "2014": [],
+  "2015": [],
+  "2016": [],
+  "2017": [
+    [
+      {
+        "code": "ENGN8100",
+        "level": "Introduction to Systems Engineering",
+        "units": "6 units"
+      },
+      {
+        "code": "ENGN6250",
+        "level": "Professional Practice 1",
+        "units": "6 units"
+      },
+      {
+        "code": "ENGN6513",
+        "level": "Fibre Optics Communication Systems",
+        "units": "6 units"
+      },
+      {
+        "code": "ENGN6512",
+        "level": "Optical Physics",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ENGN8120",
+        "level": "Systems Modelling",
+        "units": "6 units"
+      },
+      {},
+      {
+        "code": "ENGN6613",
+        "level": "Photonic Sensing Systems",
+        "units": "6 units"
+      },
+      {
+        "code": "Recommended technical elective",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "PHYS8015",
+        "level": "Photonics Laboratory",
+        "units": "6 units"
+      },
+      {
+        "code": "PHYS8014",
+        "level": "Photonics in Biotechnology and Nanotechnology",
+        "units": "6 units"
+      },
+      {
+        "code": "PHYS8170",
+        "level": "Research Project in Photonics",
+        "units": "6 to 12 units"
+      },
+      {
+        "code": "PHYS8170",
+        "level": "Research Project in Photonics",
+        "units": "6 to 12 units"
+      }
+    ],
+    [
+      {
+        "code": "PHYS8016",
+        "level": "Photonics Advanced Topics",
+        "units": "6 units"
+      },
+      {
+        "code": "PHYS8017",
+        "level": "Optoelectronics and Integrated Optics",
+        "units": "6 units"
+      },
+      {
+        "code": "University Elective \n6 units",
+        "units": "6 units\r"
+      },
+      {
+        "code": "University Elective course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2018": [
+    [
+      {
+        "code": "ENGN8100",
+        "level": "Introduction to Systems Engineering",
+        "units": "6 units"
+      },
+      {
+        "code": "ENGN6250",
+        "level": "Professional Practice 1",
+        "units": "6 units"
+      },
+      {
+        "code": "ENGN6513",
+        "level": "Fibre Optics Communication Systems",
+        "units": "6 units"
+      },
+      {
+        "code": "ENGN6512",
+        "level": "Optical Physics",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ENGN8120",
+        "level": "Systems Modelling",
+        "units": "6 units"
+      },
+      {},
+      {
+        "code": "ENGN6613",
+        "level": "Photonic Sensing Systems",
+        "units": "6 units"
+      },
+      {
+        "code": "Recommended technical elective",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "PHYS8015",
+        "level": "Photonics Laboratory",
+        "units": "6 units"
+      },
+      {
+        "code": "PHYS8014",
+        "level": "Photonics in Biotechnology and Nanotechnology",
+        "units": "6 units"
+      },
+      {
+        "code": "PHYS8170",
+        "level": "Research Project in Photonics",
+        "units": "6 to 12 units"
+      },
+      {
+        "code": "PHYS8170",
+        "level": "Research Project in Photonics",
+        "units": "6 to 12 units"
+      }
+    ],
+    [
+      {
+        "code": "PHYS8016",
+        "level": "Photonics Advanced Topics",
+        "units": "6 units"
+      },
+      {
+        "code": "PHYS8017",
+        "level": "Optoelectronics and Integrated Optics",
+        "units": "6 units"
+      },
+      {
+        "code": "University Elective \n6 units",
+        "units": "6 units\r"
+      },
+      {
+        "code": "University Elective course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2019": [
+    [
+      {
+        "code": "ENGN8100",
+        "level": "Introduction to Systems Engineering",
+        "units": "6 units"
+      },
+      {
+        "code": "ENGN6250",
+        "level": "Professional Practice 1",
+        "units": "6 units"
+      },
+      {
+        "code": "ENGN6513",
+        "level": "Fibre Optics Communication Systems",
+        "units": "6 units"
+      },
+      {
+        "code": "ENGN6512",
+        "level": "Optical Physics",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ENGN8120",
+        "level": "Systems Modelling",
+        "units": "6 units"
+      },
+      {},
+      {
+        "code": "ENGN6613",
+        "level": "Photonic Sensing Systems",
+        "units": "6 units"
+      },
+      {
+        "code": "Recommended technical elective",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "PHYS8015",
+        "level": "Photonics Laboratory",
+        "units": "6 units"
+      },
+      {
+        "code": "PHYS8014",
+        "level": "Photonics in Biotechnology and Nanotechnology",
+        "units": "6 units"
+      },
+      {
+        "code": "PHYS8170",
+        "level": "Research Project in Photonics",
+        "units": "6 to 12 units"
+      },
+      {
+        "code": "PHYS8170",
+        "level": "Research Project in Photonics",
+        "units": "6 to 12 units"
+      }
+    ],
+    [
+      {
+        "code": "PHYS8016"
+      },
+      {
+        "code": "PHYS8017",
+        "level": "Optoelectronics and Integrated Optics",
+        "units": "6 units"
+      },
+      {
+        "code": "University Elective \n6 units",
+        "units": "6 units\r"
+      },
+      {
+        "code": "University Elective course",
+        "units": "6 units"
+      }
+    ]
+  ]
+}

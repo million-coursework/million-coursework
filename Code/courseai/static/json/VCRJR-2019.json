@@ -1,0 +1,25 @@
+{
+  "name": "Master of Criminology, Justice and Regulation (Advanced)",
+  "code": "VCRJR",
+  "year": 2019,
+  "units": 96,
+  "required": {
+    "compulsory_courses": [
+      "CRIM8001",
+      "REGN8001",
+      "REGN8052"
+    ],
+    "x_from_here": [
+      {
+        "type": "minimum",
+        "units": 12,
+        "courses": [
+          "ANIP6503",
+          "ANIP6505"
+        ]
+      }
+    ],
+    "one_from_m/m/s": [],
+    "required_m/m/s": []
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Graduate Certificate of Business Information Management",
+  "code": "6462XGCBIM",
+  "year": 2014,
+  "units": 24,
+  "required": {
+    "one_from_m/m/s": [],
+    "required_m/m/s": []
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "code": "HPOLS",
+  "2014": [],
+  "2015": [
+    [
+      {
+        "code": "SOCY4010",
+        "level": "Sociology Honours Methods Seminar",
+        "units": "12 units"
+      },
+      {
+        "code": "\nTHES4103",
+        "units": "12 units\r"
+      },
+      {
+        "code": "-"
+      },
+      {
+        "code": "-"
+      }
+    ],
+    [
+      {
+        "code": "SOCY4009",
+        "level": "Sociology Honours Theory Seminar",
+        "units": "12 units"
+      },
+      {
+        "code": "\nTHES4103",
+        "units": "12 units\r"
+      },
+      {
+        "code": "-"
+      },
+      {
+        "code": "-"
+      }
+    ]
+  ],
+  "2016": [
+    [
+      {
+        "code": "SOCY4010",
+        "level": "Sociology Honours Methods Seminar",
+        "units": "12 units"
+      },
+      {
+        "code": "\nTHES4103",
+        "units": "12 units\r"
+      },
+      {
+        "code": "-"
+      },
+      {
+        "code": "-"
+      }
+    ],
+    [
+      {
+        "code": "SOCY4009",
+        "level": "Sociology Honours Theory Seminar",
+        "units": "12 units"
+      },
+      {
+        "code": "\nTHES4103",
+        "units": "12 units\r"
+      },
+      {
+        "code": "-"
+      },
+      {
+        "code": "-"
+      }
+    ]
+  ],
+  "2017": [
+    [
+      {
+        "code": "SOCY4010",
+        "level": "Sociology Honours Methods Seminar",
+        "units": "12 units"
+      },
+      {
+        "code": "\nTHES4103",
+        "units": "12 units\r"
+      },
+      {
+        "code": "-"
+      },
+      {
+        "code": "-"
+      }
+    ],
+    [
+      {
+        "code": "SOCY4009",
+        "level": "Sociology Honours Theory Seminar",
+        "units": "12 units"
+      },
+      {
+        "code": "\nTHES4103",
+        "units": "12 units\r"
+      },
+      {
+        "code": "-"
+      },
+      {
+        "code": "-"
+      }
+    ]
+  ],
+  "2018": [
+    [
+      {
+        "code": "POLS4009",
+        "level": "Special Topics in Politics and International Relations 1",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS4010",
+        "level": "Special Topics in Politics and International Relations 2",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS4011",
+        "level": "Research Training: Scope and Methods",
+        "units": "12 units"
+      },
+      {
+        "code": "-"
+      }
+    ],
+    [
+      {
+        "code": "THES4103",
+        "level": "Thesis",
+        "units": "6 to 24 units"
+      },
+      {
+        "code": "-"
+      },
+      {
+        "code": "-"
+      },
+      {
+        "code": "-"
+      }
+    ]
+  ],
+  "2019": [
+    [
+      {
+        "code": "POLS4009",
+        "level": "Special Topics in Politics and International Relations 1",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS4010",
+        "level": "Special Topics in Politics and International Relations 2",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS4011",
+        "level": "Research Training: Scope and Methods",
+        "units": "12 units"
+      },
+      {
+        "code": "-"
+      }
+    ],
+    [
+      {
+        "code": "THES4103",
+        "level": "Thesis",
+        "units": "6 to 24 units"
+      },
+      {
+        "code": "-"
+      },
+      {
+        "code": "-"
+      },
+      {
+        "code": "-"
+      }
+    ]
+  ]
+}

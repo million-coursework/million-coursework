@@ -1,0 +1,43 @@
+{
+    "name": "Bachelor of Studies",
+    "units": 144,
+    "required": {
+        "x_from_here": [
+            {
+                "num": 6,
+                "courses": [
+                    "EXTN1001B",
+                    "EXTN1002B",
+                    "EXTN1003B",
+                    "EXTN1004B",
+                    "EXTN1005B",
+                    "EXTN1006B",
+                    "EXTN1007B",
+                    "EXTN1008B",
+                    "EXTN1009B",
+                    "EXTN1010B",
+                    "EXTN1011B",
+                    "EXTN1012B",
+                    "EXTN1013",
+                    "EXTN1014"
+                ]
+            },
+            {
+                "num": 96,
+                "courses": "one ANU college"
+            }
+        ],
+        "x_from_category": [
+            {
+                "num": 36,
+                "level": [
+                    3000,
+                    4000
+                ]
+            }
+        ],
+        "max_by_level": {
+            "1000": 60
+        }
+    }
+}

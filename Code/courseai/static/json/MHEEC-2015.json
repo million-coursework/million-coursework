@@ -1,0 +1,63 @@
+{
+  "name": "Master of Health Economics",
+  "code": "MHEEC",
+  "year": 2015,
+  "units": 96,
+  "required": {
+    "compulsory_courses": [
+      "ECON7073",
+      "ECON7074",
+      "ECON8025",
+      "ECON8039",
+      "EMET7001",
+      "EMET8002",
+      "EMET8005",
+      "STAT7055"
+    ],
+    "x_from_here": [
+      {
+        "type": "maximum",
+        "units": 30,
+        "courses": [
+          "DEMO8008",
+          "DEMO8011",
+          "DEMO8079",
+          "ECHI8011",
+          "ECON6013",
+          "ECON6015",
+          "ECON8002",
+          "ECON8003",
+          "ECON8011",
+          "ECON8013",
+          "ECON8014",
+          "ECON8018",
+          "ECON8026",
+          "ECON8034",
+          "ECON8038",
+          "ECON8041",
+          "ECON8047",
+          "ECON8053",
+          "ECON8070",
+          "ECON8070",
+          "ECON8091",
+          "ECON8091",
+          "ECON8901",
+          "IDEC8053",
+          "IDEC8088"
+        ]
+      },
+      {
+        "type": "minimum",
+        "units": 18,
+        "courses": [
+          "ECON8073",
+          "ECON8074",
+          "ECON8075",
+          "POPH8100"
+        ]
+      }
+    ],
+    "one_from_m/m/s": [],
+    "required_m/m/s": []
+  }
+}

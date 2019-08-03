@@ -1,0 +1,55 @@
+{
+  "name": "Bachelor of Pacific Studies",
+  "code": "BPAST",
+  "year": 2015,
+  "units": 144,
+  "required": {
+    "one_from_m/m/s": [
+      [
+        "GERM-MIN",
+        "HECL-MIN",
+        "INME-MIN",
+        "HIST-MIN",
+        "FREN-MIN",
+        "IREL-MIN",
+        "SUSY-MIN",
+        "DEST-MIN",
+        "ARCH-MIN",
+        "AUIS-MIN",
+        "POLS-MIN",
+        "VAPR-MIN",
+        "ANTH-MIN",
+        "GEOG-MIN",
+        "CSAP-MIN",
+        "PHOT-MIN",
+        "LAND-MIN",
+        "SOFT-MIN",
+        "ENST-MIN",
+        "BCAM-MIN",
+        "HAMS-MIN",
+        "WSAP-MIN",
+        "SORM-MIN",
+        "ENVP-MIN",
+        "FSAP-MIN",
+        "SPAH-MIN"
+      ],
+      [
+        "IREL-MAJ",
+        "FREN-MAJ",
+        "PHIL-MAJ",
+        "SOCY-MAJ",
+        "GEND-MAJ",
+        "GERM-MAJ",
+        "ENSY-MAJ",
+        "POLS-MAJ",
+        "ARCH-MAJ",
+        "ANTH-MAJ",
+        "GEOG-MAJ",
+        "DEST-MAJ",
+        "HIST-MAJ",
+        "SPAH-MAJ"
+      ]
+    ],
+    "required_m/m/s": []
+  }
+}

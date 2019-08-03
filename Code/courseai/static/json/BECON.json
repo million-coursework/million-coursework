@@ -1,0 +1,68 @@
+{
+    "name": "Bachelor of Economics",
+    "units": 144,
+    "required": {
+        "compulsory_courses": [
+            "ECON1101",
+            "ECON3101",
+            "ECON3102",
+            "EMET1001",
+            "EMET2007",
+            "STAT1008"
+        ],
+        "x_from_here": [
+            {
+                "num": 6,
+                "courses": [
+                    "ECON1100",
+                    "ECON1102"
+                ]
+            },
+            {
+                "num": 6,
+                "courses": [
+                    "ECON2101",
+                    "ECON2111"
+                ]
+            },
+            {
+                "num": 6,
+                "courses": [
+                    "ECON2016",
+                    "ECON2112",
+                    "ECON2102"
+                ]
+            },
+            {
+                "num": 6,
+                "courses": [
+                    "ECHI1006",
+                    "ECHI3008",
+                    "ECHI3009",
+                    "ECHI3018",
+                    "ECHI3019",
+                    "ECON2013",
+                    "ECON2014",
+                    "ECON2026",
+                    "ECON2091",
+                    "ECON2120",
+                    "ECON2139",
+                    "ECON2141",
+                    "ECON2900",
+                    "ECON2901"
+                ]
+            },
+            {
+                "num": 18,
+                "courses": "CBE List 1"
+            },
+            {
+                "num": 18,
+                "courses": "CBE List 2"
+            }
+        ],
+        "max_by_level": {
+            "1000": 60
+        }
+    }
+}

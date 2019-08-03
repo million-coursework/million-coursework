@@ -1,0 +1,36 @@
+{
+  "name": "Bachelor of Design Arts",
+  "code": "BDESA",
+  "year": 2015,
+  "units": 144,
+  "required": {
+    "max_by_level": [
+      {
+        "type": "maximum",
+        "level": [
+          1000
+        ],
+        "units": 60
+      }
+    ],
+    "compulsory_courses": [
+      "ARTH1006",
+      "ARTH1007",
+      "DESA1020",
+      "DESA1022"
+    ],
+    "one_from_m/m/s": [
+      [
+        "GSDA-MAJ",
+        "GDAR-MAJ",
+        "CDAR-MAJ",
+        "TDAR-MAJ",
+        "FDAR-MAJ"
+      ],
+      [
+        "DESA-MIN"
+      ]
+    ],
+    "required_m/m/s": []
+  }
+}

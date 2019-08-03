@@ -1,0 +1,37 @@
+{
+  "required": {
+    "max_by_level": [
+      {
+        "level": [
+          1000
+        ],
+        "type": "fixed",
+        "units": 42
+      }
+    ],
+    "x_from_here": [
+      {
+        "courses": [
+          "EXTN1001",
+          "EXTN1002",
+          "EXTN1003",
+          "EXTN1004",
+          "EXTN1005",
+          "EXTN1006",
+          "EXTN1007",
+          "EXTN1008",
+          "EXTN1009",
+          "EXTN1010",
+          "EXTN1011",
+          "EXTN1012"
+        ],
+        "type": "fixed",
+        "units": 6
+      }
+    ]
+  },
+  "code": "EADST",
+  "year": 2016,
+  "name": "Diploma of Advanced Studies",
+  "units": 48
+}

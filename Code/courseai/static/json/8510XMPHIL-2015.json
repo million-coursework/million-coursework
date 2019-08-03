@@ -1,0 +1,10 @@
+{
+  "name": "Master of Philosophy, School of International, Political and Strategic Studies",
+  "code": "8510XMPHIL",
+  "year": 2015,
+  "units": 60,
+  "required": {
+    "one_from_m/m/s": [],
+    "required_m/m/s": []
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Master of Digital Arts (Visual Effects)",
+  "code": "7125SDART",
+  "year": 2014,
+  "units": 24,
+  "required": {
+    "one_from_m/m/s": [],
+    "required_m/m/s": []
+  }
+}

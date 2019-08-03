@@ -1,0 +1,52 @@
+{
+  "name": "Bachelor of Economics (Honours)",
+  "code": "HECON",
+  "year": 2018,
+  "units": 48,
+  "required": {
+    "compulsory_courses": [
+      "ECON4411",
+      "ECON4422",
+      "ECON4488",
+      "ECHI4211"
+    ],
+    "x_from_here": [
+      {
+        "type": "minimum",
+        "units": 24,
+        "courses": [
+          "ECHI4211",
+          "ECON4401",
+          "ECON4402",
+          "ECON4403",
+          "ECON4406",
+          "ECON4410",
+          "ECON4413",
+          "ECON4414",
+          "ECON4415",
+          "ECON4418",
+          "ECON4421",
+          "ECON4434",
+          "ECON4437",
+          "ECON4438",
+          "ECON4441",
+          "ECON4447",
+          "ECON4449",
+          "ECON4453",
+          "ECON4476",
+          "ECON4480",
+          "ECON4491",
+          "ECON8901",
+          "EMET4301",
+          "EMET4305",
+          "EMET4308",
+          "EMET4310",
+          "EMET4312",
+          "EMET4314"
+        ]
+      }
+    ],
+    "one_from_m/m/s": [],
+    "required_m/m/s": []
+  }
+}

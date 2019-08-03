@@ -1,0 +1,79 @@
+{
+  "name": "Master of Environmental and Resource Economics",
+  "code": "7823XMEREC",
+  "year": 2014,
+  "units": 48,
+  "required": {
+    "compulsory_courses": [
+      "CRWF8000",
+      "IDEC8018",
+      "IDEC8053",
+      "IDEC8064"
+    ],
+    "x_from_here": [
+      {
+        "type": "minimum",
+        "units": 12,
+        "courses": [
+          "CRWF8003",
+          "CRWF8004",
+          "CRWF8006",
+          "CRWF8009",
+          "CRWF8011",
+          "CRWF8014",
+          "CRWF8016",
+          "CRWF8017",
+          "ECON8015",
+          "ECON8022",
+          "ECON8038",
+          "ECON8047",
+          "ECON8050",
+          "EMDV8001",
+          "EMDV8002",
+          "EMDV8007",
+          "EMDV8027",
+          "EMDV8104",
+          "EMDV8121",
+          "EMET8010",
+          "EMET8012",
+          "EMET8014",
+          "IDEC8008",
+          "IDEC8010",
+          "IDEC8011",
+          "IDEC8022",
+          "IDEC8027",
+          "IDEC8028",
+          "IDEC8068",
+          "IDEC8088",
+          "POGO8004",
+          "POGO8057",
+          "POGO8076"
+        ]
+      },
+      {
+        "type": "minimum",
+        "units": 12,
+        "courses": [
+          "ECON8015",
+          "ECON8022",
+          "ECON8038",
+          "ECON8047",
+          "ECON8050",
+          "EMET8010",
+          "EMET8012",
+          "EMET8014",
+          "IDEC8008",
+          "IDEC8010",
+          "IDEC8011",
+          "IDEC8022",
+          "IDEC8027",
+          "IDEC8028",
+          "IDEC8068",
+          "IDEC8088"
+        ]
+      }
+    ],
+    "one_from_m/m/s": [],
+    "required_m/m/s": []
+  }
+}

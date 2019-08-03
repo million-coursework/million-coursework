@@ -1,0 +1,10 @@
+{
+  "name": "Master of International Affairs",
+  "code": "7815XMIAF",
+  "year": 2014,
+  "units": 12,
+  "required": {
+    "one_from_m/m/s": [],
+    "required_m/m/s": []
+  }
+}

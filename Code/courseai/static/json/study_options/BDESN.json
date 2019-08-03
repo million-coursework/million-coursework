@@ -1,0 +1,353 @@
+{
+  "code": "BDESN",
+  "2014": [],
+  "2015": [],
+  "2016": [],
+  "2017": [
+    [
+      {
+        "code": "DESN1001",
+        "level": "Making Online: Context & Presence",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTH1006",
+        "level": "Art and Design Histories: Form and Space",
+        "units": "6 units"
+      },
+      {
+        "units": "6 units from Foundation List"
+      },
+      {
+        "code": "ANU Elective Course",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "DESN1002",
+        "level": "Visual Communication: Design and Production",
+        "units": "6 units"
+      },
+      {
+        "code": "\nStudio-based List",
+        "units": "6 units from\r"
+      },
+      {
+        "units": "6 units from Foundation List"
+      },
+      {
+        "code": "ANU Elective Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "\nDesign List",
+        "units": "6 units from \r"
+      },
+      {
+        "code": "\nStudio-based List",
+        "units": "6 units from\r"
+      },
+      {
+        "code": "\nArt and Design Theory List",
+        "level": "2000 level course",
+        "units": "6 units from\r"
+      },
+      {
+        "code": "ANU Elective Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "\nDesign List",
+        "units": "6 units from \r"
+      },
+      {
+        "code": "\nStudio-based List",
+        "units": "6 units from\r"
+      },
+      {
+        "code": "\nDesign List or",
+        "level": "Studio-based List or<b/>Art and Design Theory List",
+        "units": "6 units from \r"
+      },
+      {
+        "code": "ANU Elective Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "DESN3010",
+        "level": "Design Practice: Engagement, Internship and Entrepreneurship",
+        "units": "6 units"
+      },
+      {
+        "code": "\nDesign List or",
+        "level": "Studio-based List or<b/>Art and Design Theory List",
+        "units": "6 units from \r"
+      },
+      {
+        "code": "ANU Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ANU Elective Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "DESN3010",
+        "level": "Design Practice: Engagement, Internship and Entrepreneurship",
+        "units": "6 units"
+      },
+      {
+        "code": "\nDesign List or",
+        "level": "Studio-based List or<b/>Art and Design Theory List",
+        "units": "6 units from \r"
+      },
+      {
+        "code": "ANU Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ANU Elective Course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2018": [
+    [
+      {
+        "code": "DESN1001",
+        "level": "Making Online: Context & Presence",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTH1006",
+        "level": "Art and Design Histories: Form and Space",
+        "units": "6 units"
+      },
+      {
+        "code": "Foundation List Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ANU Elective Course",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "DESN1002",
+        "level": "Visual Communication: Design and Production",
+        "units": "6 units"
+      },
+      {
+        "code": "Studio List Course",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Foundation List Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ANU Elective Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Design List Course",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Studio List Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Art and Design Theory List Course",
+        "units": "6 units\r"
+      },
+      {
+        "code": "ANU Elective Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "\nDesign List",
+        "units": "6 units from \r"
+      },
+      {
+        "code": "Studio List Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Design List, Studio list or Art and Design Theory List Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ANU Elective Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "DESN3010",
+        "level": "Design Practice: Engagement, Internship and Entrepreneurship",
+        "units": "6 units"
+      },
+      {
+        "code": "Design List, Studio list or Art and Design Theory List Course",
+        "units": "6 units\r"
+      },
+      {
+        "code": "ANU Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ANU Elective Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "DESN3010",
+        "level": "Design Practice: Engagement, Internship and Entrepreneurship",
+        "units": "6 units"
+      },
+      {
+        "code": "Design List, Studio list or Art and Design Theory List Course",
+        "units": "6 units\r"
+      },
+      {
+        "code": "ANU Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ANU Elective Course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2019": [
+    [
+      {
+        "code": "DESN1001",
+        "level": "Making Online: Context & Presence",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTH1006",
+        "level": "Art and Design Histories: Form and Space",
+        "units": "6 units"
+      },
+      {
+        "code": "Foundation List Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ANU Elective Course",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "DESN1002",
+        "level": "Visual Communication: Design and Production",
+        "units": "6 units"
+      },
+      {
+        "code": "Studio List Course",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Foundation List Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ANU Elective Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Design List Course",
+        "units": "6 units\r"
+      },
+      {
+        "code": "Studio List Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Art and Design Theory List Course",
+        "units": "6 units\r"
+      },
+      {
+        "code": "ANU Elective Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "\nDesign List",
+        "units": "6 units from \r"
+      },
+      {
+        "code": "Studio List Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Design List, Studio list or Art and Design Theory List Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ANU Elective Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "DESN3010",
+        "level": "Design Practice: Engagement, Internship and Entrepreneurship",
+        "units": "6 units"
+      },
+      {
+        "code": "Design List, Studio list or Art and Design Theory List Course",
+        "units": "6 units\r"
+      },
+      {
+        "code": "ANU Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ANU Elective Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "DESN3010",
+        "level": "Design Practice: Engagement, Internship and Entrepreneurship",
+        "units": "6 units"
+      },
+      {
+        "code": "Design List, Studio list or Art and Design Theory List Course",
+        "units": "6 units\r"
+      },
+      {
+        "code": "ANU Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ANU Elective Course",
+        "units": "6 units"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "code": "HLANG",
+  "2014": [],
+  "2015": [
+    [
+      {
+        "code": "Course from first list",
+        "units": "6 units"
+      },
+      {
+        "code": "Course from second list",
+        "units": "6 units"
+      },
+      {
+        "code": "\nTHES4105",
+        "units": "12 units\r"
+      },
+      {
+        "code": "-"
+      }
+    ],
+    [
+      {
+        "code": "Course from first list",
+        "units": "6 units"
+      },
+      {
+        "code": "Course from second list",
+        "units": "6 units"
+      },
+      {
+        "code": "\nTHES4105",
+        "units": "12 units\r"
+      },
+      {
+        "code": "-"
+      }
+    ]
+  ],
+  "2016": [
+    [
+      {
+        "code": "Course from first list",
+        "units": "6 units"
+      },
+      {
+        "code": "Course from second list",
+        "units": "6 units"
+      },
+      {
+        "code": "\nTHES4105",
+        "units": "12 units\r"
+      },
+      {
+        "code": "-"
+      }
+    ],
+    [
+      {
+        "code": "Course from first list",
+        "units": "6 units"
+      },
+      {
+        "code": "Course from second list",
+        "units": "6 units"
+      },
+      {
+        "code": "\nTHES4105",
+        "units": "12 units\r"
+      },
+      {
+        "code": "-"
+      }
+    ]
+  ],
+  "2017": [
+    [
+      {
+        "code": "Course from first list",
+        "units": "6 units"
+      },
+      {
+        "code": "Course from second list",
+        "units": "6 units"
+      },
+      {
+        "code": "\nTHES4105",
+        "units": "12 units\r"
+      },
+      {
+        "code": "-"
+      }
+    ],
+    [
+      {
+        "code": "Course from first list",
+        "units": "6 units"
+      },
+      {
+        "code": "Course from second list",
+        "units": "6 units"
+      },
+      {
+        "code": "\nTHES4105",
+        "units": "12 units\r"
+      },
+      {
+        "code": "-"
+      }
+    ]
+  ],
+  "2018": [
+    [
+      {
+        "code": "Course from first list",
+        "units": "6 units"
+      },
+      {
+        "code": "Course from second list",
+        "units": "6 units"
+      },
+      {
+        "code": "\nTHES4105",
+        "units": "12 units\r"
+      },
+      {
+        "code": "-"
+      }
+    ],
+    [
+      {
+        "code": "Course from first list",
+        "units": "6 units"
+      },
+      {
+        "code": "Course from second list",
+        "units": "6 units"
+      },
+      {
+        "code": "\nTHES4105",
+        "units": "12 units\r"
+      },
+      {
+        "code": "-"
+      }
+    ]
+  ],
+  "2019": [
+    [
+      {
+        "code": "Course from first list",
+        "units": "6 units"
+      },
+      {
+        "code": "Course from second list",
+        "units": "6 units"
+      },
+      {
+        "code": "\nTHES4105",
+        "units": "12 units\r"
+      },
+      {
+        "code": "-"
+      }
+    ],
+    [
+      {
+        "code": "Course from first list",
+        "units": "6 units"
+      },
+      {
+        "code": "Course from second list",
+        "units": "6 units"
+      },
+      {
+        "code": "\nTHES4105",
+        "units": "12 units\r"
+      },
+      {
+        "code": "-"
+      }
+    ]
+  ]
+}

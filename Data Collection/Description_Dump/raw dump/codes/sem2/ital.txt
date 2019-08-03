@@ -1,0 +1,4 @@
+"http://programsandcourses.anu.edu.au/2018/course/ITAL3016",
+"http://programsandcourses.anu.edu.au/2018/course/ITAL2006",
+"http://programsandcourses.anu.edu.au/2018/course/ITAL3506",
+"http://programsandcourses.anu.edu.au/2018/course/ITAL1003"

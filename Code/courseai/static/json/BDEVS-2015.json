@@ -1,0 +1,57 @@
+{
+  "name": "Bachelor of Development Studies",
+  "code": "BDEVS",
+  "year": 2015,
+  "units": 144,
+  "required": {
+    "max_by_level": [
+      {
+        "type": "maximum",
+        "level": [
+          1000
+        ],
+        "units": 60
+      }
+    ],
+    "one_from_m/m/s": [
+      [
+        "RSDV-SPEC"
+      ],
+      [
+        "SOFT-MIN",
+        "AFRE-MIN",
+        "PERS-MIN",
+        "INDN-MIN",
+        "POLS-MIN",
+        "THAI-MIN",
+        "VIET-MIN",
+        "AITA-MIN",
+        "ASPA-MIN",
+        "SPAN-MIN",
+        "SOCY-MIN",
+        "GEOG-MIN",
+        "AGER-MIN",
+        "RUSS-MIN",
+        "STAT-MIN",
+        "CLCH-MIN",
+        "SANS-MIN",
+        "HECL-MIN",
+        "ENST-MIN",
+        "GERM-MIN",
+        "HIND-MIN",
+        "JPNS-MIN",
+        "KORE-MIN",
+        "CHIN-MIN",
+        "ANTH-MIN",
+        "ITAL-MIN",
+        "COMPF-MIN",
+        "FREN-MIN",
+        "URDU-MIN",
+        "ARAB-MIN"
+      ]
+    ],
+    "required_m/m/s": [
+      "DEST-MAJ"
+    ]
+  }
+}

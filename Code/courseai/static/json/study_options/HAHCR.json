@@ -1,0 +1,198 @@
+{
+  "code": "HAHCR",
+  "2014": [],
+  "2015": [
+    [
+      {
+        "code": "ARTH4015",
+        "level": "Honours Art Museum Internship 1",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTH4017",
+        "level": "Methodologies of Art History",
+        "units": "12 units"
+      },
+      {
+        "code": "\nTHES4102",
+        "units": "6 units\r"
+      },
+      {
+        "code": "-"
+      }
+    ],
+    [
+      {
+        "code": "ARTH4016",
+        "level": "Honours Art Museum Internship 2",
+        "units": "6 units"
+      },
+      {
+        "code": "\nTHES4102",
+        "units": "18 units\r"
+      },
+      {
+        "code": "-"
+      },
+      {
+        "code": "-"
+      }
+    ]
+  ],
+  "2016": [
+    [
+      {
+        "code": "ARTH4015",
+        "level": "Honours Art Museum Internship 1",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTH4017",
+        "level": "Methodologies of Art History",
+        "units": "12 units"
+      },
+      {
+        "code": "\nTHES4102",
+        "units": "6 units\r"
+      },
+      {
+        "code": "-"
+      }
+    ],
+    [
+      {
+        "code": "ARTH4016",
+        "level": "Honours Art Museum Internship 2",
+        "units": "6 units"
+      },
+      {
+        "code": "\nTHES4102",
+        "units": "18 units\r"
+      },
+      {
+        "code": "-"
+      },
+      {
+        "code": "-"
+      }
+    ]
+  ],
+  "2017": [
+    [
+      {
+        "code": "ARTH4015",
+        "level": "Honours Art Museum Internship 1",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTH4017",
+        "level": "Methodologies of Art History",
+        "units": "12 units"
+      },
+      {
+        "code": "\nTHES4102",
+        "units": "6 units\r"
+      },
+      {
+        "code": "-"
+      }
+    ],
+    [
+      {
+        "code": "ARTH4016",
+        "level": "Honours Art Museum Internship 2",
+        "units": "6 units"
+      },
+      {
+        "code": "\nTHES4102",
+        "units": "18 units\r"
+      },
+      {
+        "code": "-"
+      },
+      {
+        "code": "-"
+      }
+    ]
+  ],
+  "2018": [
+    [
+      {
+        "code": "ARTH4015",
+        "level": "Art Museum Internship: Collection Management",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTH4017",
+        "level": "Methodologies of Art History",
+        "units": "12 units"
+      },
+      {
+        "code": "-"
+      },
+      {
+        "code": "THES4102",
+        "level": "Thesis",
+        "units": "6 to 24 units"
+      }
+    ],
+    [
+      {
+        "code": "ARTH4016",
+        "level": "Art Museum Internship: Audience Development",
+        "units": "6 units"
+      },
+      {
+        "code": "THES4102",
+        "level": "Thesis",
+        "units": "6 to 24 units"
+      },
+      {
+        "code": "-"
+      },
+      {
+        "code": "-"
+      }
+    ]
+  ],
+  "2019": [
+    [
+      {
+        "code": "ARTH4015",
+        "level": "Art Museum Internship: Collection Management",
+        "units": "6 units"
+      },
+      {
+        "code": "ARTH4017",
+        "level": "Methodologies of Art History",
+        "units": "12 units"
+      },
+      {
+        "code": "-"
+      },
+      {
+        "code": "THES4102",
+        "level": "Thesis",
+        "units": "6 to 24 units"
+      }
+    ],
+    [
+      {
+        "code": "ARTH4016",
+        "level": "Art Museum Internship: Audience Development",
+        "units": "6 units"
+      },
+      {
+        "code": "THES4102",
+        "level": "Thesis",
+        "units": "6 to 24 units"
+      },
+      {
+        "code": "-"
+      },
+      {
+        "code": "-"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,385 @@
+"
+                    Code
+                ","
+                    Title
+                ","
+                    Study As
+                ","
+                    Career
+                ","
+                    ATAR
+                ","
+                    Years
+                ","
+                    Delivery
+                "
+8950XMCHD,Doctor of Medicine and Surgery,Single,Postgraduate,-,4,In Person
+MEMPA,Executive Master of Public Administration,Single,Postgraduate,-,1.5,In Person
+MEMPP,Executive Master of Public Policy,Single,Postgraduate,-,1,In Person
+7050FDM,Flexible Double Masters,Single,Postgraduate,-,3,In Person
+6459XGCACC,Graduate Certificate of Accounting,Single,Postgraduate,-,0.5,In Person
+CADAN,Graduate Certificate of Applied Data Analytics,Single,Postgraduate,-,0.5,In Person
+CARTS,Graduate Certificate of Arts,Single,Postgraduate,-,0.5,In Person
+CCSRM,"Graduate Certificate of Cyber Security, Strategy and Risk Management",Single,Postgraduate,-,0.5,In Person
+CECON,Graduate Certificate of Economics,Single,Postgraduate,-,0.5,In Person
+6659XGCENV,Graduate Certificate of Environment,Single,Postgraduate,-,0.5,In Person
+CFAS,Graduate Certificate of Finance and Actuarial Statistics,Single,Postgraduate,-,0.5,In Person
+CLAW,Graduate Certificate of Law,Single,Postgraduate,-,0.5,In Person
+CMGMT,Graduate Certificate of Management,Single,Postgraduate,-,0.5,In Person
+6829XGCMDS,Graduate Certificate of Military and Defence Studies,Single,Postgraduate,-,0.5,In Person
+CMILL,Graduate Certificate of Military Law,Single,Postgraduate,-,0.5,In Person
+CPUBH,Graduate Certificate of Public Health,Single,Postgraduate,-,0.5,In Person
+6192XGCPPP,Graduate Certificate of Public Policy,Single,Postgraduate,-,0.5,In Person
+CSCIE,Graduate Certificate of Science,Single,Postgraduate,-,0.5,In Person
+CSTUD,Graduate Certificate of Studies,Single,Postgraduate,-,0.5,In Person
+CSTOL,Graduate Certificate of Studies - Online,Single,Postgraduate,-,0.5,In Person
+6506XGCTA,Graduate Certificate of Teaching Asia,Single,Postgraduate,-,0.5,In Person
+DADAN,Graduate Diploma of Applied Data Analytics,Single,Postgraduate,-,1,In Person
+DBUSI,Graduate Diploma of Business,Single,Postgraduate,-,1,In Person
+6706XGDCP,Graduate Diploma of Computing,Single,Postgraduate,-,1,In Person
+DCSRM,"Graduate Diploma of Cyber Security, Strategy and Risk Management",Single,Postgraduate,-,1,In Person
+DECON,Graduate Diploma of Economics,Single,Postgraduate,-,1,In Person
+DENVI,Graduate Diploma of Environment,Single,Postgraduate,-,1,In Person
+DIAFF,Graduate Diploma of International Affairs,Single,Postgraduate,-,1,In Person
+6303XGDLP,Graduate Diploma of Legal Practice,Single,Postgraduate,-,0.5,Multi-Modal
+6828XGDMDS,Graduate Diploma of Military and Defence Studies,Single,Postgraduate,-,1,In Person
+DMILL,Graduate Diploma of Military Law,Single,Postgraduate,-,1,In Person
+DPUBH,Graduate Diploma of Public Health,Single,Postgraduate,-,1,In Person
+DPUBP,Graduate Diploma of Public Policy,Single,Postgraduate,-,1,In Person
+6600XGDSCI,Graduate Diploma of Science,Single,Postgraduate,-,1,In Person
+DSTUD,Graduate Diploma of Studies,Single,Postgraduate,-,1,In Person
+MJD,Juris Doctor,Vertical,Postgraduate,-,3,In Person
+MJDOL,Juris Doctor - online,Single,Postgraduate,-,3,Multi-Modal
+7330HJD,Juris Doctor (Honours),Single,Postgraduate,-,3,In Person
+7414XMACCT,Master of Accounting,Single,Postgraduate,-,2,In Person
+7420XMACTP,Master of Actuarial Practice,Single,Postgraduate,-,2.5,In Person
+7410XMACTS,Master of Actuarial Studies,Single,Postgraduate,-,2,In Person
+MANTH,Master of Anthropology,Single,Postgraduate,-,2,In Person
+VANTH,Master of Anthropology (Advanced),Single,Postgraduate,-,2,In Person
+MAAPD,Master of Applied Anthropology and Participatory Development,Single,Postgraduate,-,2,In Person
+MAAPO,Master of Applied Anthropology and Participatory Development - Online,Single,Postgraduate,-,1.5,In Person
+VAAPD,Master of Applied Anthropology and Participatory Development (Advanced),Single,Postgraduate,-,2,In Person
+VAAPO,Master of Applied Anthropology and Participatory Development (Advanced) - Online,Single,Postgraduate,-,1.5,In Person
+MADAN,Master of Applied Data Analytics,Single,Postgraduate,-,1.5,In Person
+MAPEC,Master of Applied Economics,Single,Postgraduate,-,2,In Person
+7421XMAPFN,Master of Applied Finance,Single,Postgraduate,-,1.5,In Person
+MAESC,Master of Archaeological and Evolutionary Science,Vertical,Postgraduate,-,2,In Person
+VAESC,Master of Archaeological and Evolutionary Science (Advanced),Single,Postgraduate,-,2,In Person
+VARSC,Master of Archaeological Science (Advanced),Single,Postgraduate,-,2,In Person
+MAHCS,Master of Art History and Curatorial Studies,Vertical,Postgraduate,-,2,In Person
+VAHCS,Master of Art History and Curatorial Studies (Advanced),Single,Postgraduate,-,2,In Person
+MMUAU,Master of Arts - Arts Administration / Master of Museum and Heritage Studies,Single,Postgraduate,-,2,In Person
+MANPS,Master of Asian and Pacific Studies,Vertical,Postgraduate,-,2,In Person
+VANPS,Master of Asian and Pacific Studies (Advanced),Single,Postgraduate,-,2,In Person
+VASTP,Master of Astronomy and Astrophysics (Advanced),Single,Postgraduate,-,2,In Person
+VBIAN,Master of Biological Anthropology (Advanced),Single,Postgraduate,-,2,In Person
+MBIOS,Master of Biological Sciences,Single,Postgraduate,-,2,In Person
+VBIOS,Master of Biological Sciences (Advanced),Single,Postgraduate,-,2,In Person
+MBIOT,Master of Biotechnology,Single,Postgraduate,-,2,In Person
+VBIOT,Master of Biotechnology (Advanced),Single,Postgraduate,-,2,In Person
+MBADM,Master of Business Administration,Single,Postgraduate,-,1.5,In Person
+VBADM,Master of Business Administration (Advanced),Single,Postgraduate,-,2,In Person
+MBINS,Master of Business Information Systems,Single,Postgraduate,-,2,In Person
+VBINS,Master of Business Information Systems (Advanced),Single,Postgraduate,-,2,In Person
+VCLAS,Master of Classical Studies (Advanced),Single,Postgraduate,-,2,In Person
+MCLCH,Master of Climate Change,Single,Postgraduate,-,2,In Person
+7601XMCPSY,Master of Clinical Psychology,Single,Postgraduate,-,2,In Person
+VCOMM,Master of Commerce (Advanced),Single,Postgraduate,-,2,In Person
+7706XMCOMP,Master of Computing,Single,Postgraduate,-,2,In Person
+VCOMP,Master of Computing (Advanced),Single,Postgraduate,-,2,In Person
+MCRJR,"Master of Criminology, Justice and Regulation",Vertical,Postgraduate,-,2,In Person
+VCRJR,"Master of Criminology, Justice and Regulation (Advanced)",Single,Postgraduate,-,2,In Person
+VCHAM,Master of Culture Health and Medicine (Advanced),Single,Postgraduate,-,2,Multi-Modal
+MCHAM,"Master of Culture, Health and Medicine",Vertical,Postgraduate,-,2,Multi-Modal
+MCSRM,"Master of Cyber Security, Strategy and Risk Management",Single,Postgraduate,-,1.5,In Person
+MDEMO,Master of Demography,Vertical,Postgraduate,-,2,In Person
+VDEMO,Master of Demography (Advanced),Single,Postgraduate,-,2,In Person
+MDESN,Master of Design,Single,Postgraduate,-,2,In Person
+VDESN,Master of Design (Advanced),Single,Postgraduate,-,2,In Person
+MDIGA,Master of Digital Arts,Single,Postgraduate,-,2,In Person
+VDIGA,Master of Digital Arts (Advanced),Single,Postgraduate,-,2,In Person
+MDHPC,Master of Digital Humanities and Public Culture,Single,Postgraduate,-,2,In Person
+VDHPC,Master of Digital Humanities and Public Culture (Advanced),Single,Postgraduate,-,2,In Person
+MDIPL,Master of Diplomacy,Vertical,Postgraduate,-,2,In Person
+VDIPL,Master of Diplomacy (Advanced),Single,Postgraduate,-,2,In Person
+VEASC,Master of Earth Sciences (Advanced),Single,Postgraduate,-,2,In Person
+MECPO,Master of Economic Policy,Single,Postgraduate,-,2,In Person
+MECON,Master of Economics,Single,Postgraduate,-,2,In Person
+MENCH,Master of Energy Change,Single,Postgraduate,-,2,In Person
+VENCH,Master of Energy Change (Advanced),Single,Postgraduate,-,2,In Person
+NDSTE,Master of Engineering in Digital Systems and Telecommunications,Single,Postgraduate,-,2,In Person
+NMECH,Master of Engineering in Mechatronics,Single,Postgraduate,-,2,In Person
+NENPH,Master of Engineering in Photonics,Single,Postgraduate,-,2,In Person
+NENRE,Master of Engineering in Renewable Energy,Single,Postgraduate,-,2,In Person
+MEINV,Master of Entrepreneurship and Innovation,Vertical,Postgraduate,-,2,In Person
+VEINV,Master of Entrepreneurship and Innovation (Advanced),Single,Postgraduate,-,2,In Person
+MENVI,Master of Environment,Vertical,Postgraduate,-,2,In Person
+VENVI,Master of Environment (Advanced),Single,Postgraduate,-,2,In Person
+MEREC,Master of Environmental and Resource Economics,Vertical,Postgraduate,-,2,In Person
+MEMDV,Master of Environmental Management and Development,Vertical,Postgraduate,-,2,In Person
+MEMOL,Master of Environmental Management and Development - Online,Single,Postgraduate,-,2,In Person
+VEMDV,Master of Environmental Management and Development (Advanced),Single,Postgraduate,-,2,In Person
+MENVS,Master of Environmental Science,Single,Postgraduate,-,2,In Person
+VENVS,Master of Environmental Science (Advanced),Single,Postgraduate,-,2,In Person
+7418XMFIN,Master of Finance,Single,Postgraduate,-,2,In Person
+MFIEC,Master of Financial Economics,Single,Postgraduate,-,2,In Person
+MFINM,Master of Financial Management,Single,Postgraduate,-,1,In Person
+MFORE,Master of Forestry,Single,Postgraduate,-,2,In Person
+VFORE,Master of Forestry (Advanced),Single,Postgraduate,-,2,In Person
+MLING,Master of General and Applied Linguistics,Vertical,Postgraduate,-,2,In Person
+VLING,Master of General and Applied Linguistics (Advanced),Single,Postgraduate,-,2,In Person
+MGLOB,Master of Globalisation,Vertical,Postgraduate,-,2,In Person
+VGLOB,Master of Globalisation (Advanced),Single,Postgraduate,-,2,In Person
+MHIST,Master of History,Vertical,Postgraduate,-,2,In Person
+VHIST,Master of History (Advanced),Single,Postgraduate,-,2,In Person
+MINPP,Master of Innovation and Professional Practice,Vertical,Postgraduate,-,2,In Person
+MIDEC,Master of International and Development Economics,Vertical,Postgraduate,-,2,In Person
+MIDNK,Master of International and Development Economics - ANU-Nankai University,Single,Postgraduate,-,1.5,In Person
+MIMGT,Master of International Management,Vertical,Postgraduate,-,2,In Person
+VIMGT,Master of International Management (Advanced),Single,Postgraduate,-,2,In Person
+MINTR,Master of International Relations,Vertical,Postgraduate,-,2,In Person
+VINTR,Master of International Relations (Advanced),Single,Postgraduate,-,2,In Person
+VIIMW,Master of Islam in the Modern World (Advanced),Single,Postgraduate,-,2,In Person
+MLLM,Master of Laws,Single,Postgraduate,-,1,In Person
+NLLEN,Master of Laws in Environmental Law,Single,Postgraduate,-,1,In Person
+NLLGR,Master of Laws in Government and Regulation,Single,Postgraduate,-,1,In Person
+NLLIL,Master of Laws in International Law,Single,Postgraduate,-,1,In Person
+NLLSL,Master of Laws in International Security Law,Single,Postgraduate,-,1,In Person
+NLLGD,"Master of Laws in Law, Governance and Development",Single,Postgraduate,-,1,In Person
+NLLML,Master of Laws in Migration Law,Single,Postgraduate,-,1,In Person
+MLEAD,Master of Leadership,Vertical,Postgraduate,-,2,In Person
+VLEAD,Master of Leadership (Advanced),Single,Postgraduate,-,2,In Person
+MLEGP,Master of Legal Practice,Single,Postgraduate,-,1.5,Multi-Modal
+MMGMT,Master of Management,Vertical,Postgraduate,-,2,In Person
+VMGMT,Master of Management (Advanced),Single,Postgraduate,-,2,In Person
+MMKMT,Master of Marketing Management,Vertical,Postgraduate,-,2,In Person
+VMKMT,Master of Marketing Management (Advanced),Single,Postgraduate,-,2,In Person
+VMASC,Master of Mathematical Sciences (Advanced),Single,Postgraduate,-,2,In Person
+MMECA,Master of Middle Eastern and Central Asian Studies,Single,Postgraduate,-,2,In Person
+VMECA,Master of Middle Eastern and Central Asian Studies (Advanced),Single,Postgraduate,-,2,In Person
+7829XMMDS,Master of Military and Defence Studies,Single,Postgraduate,-,1.5,In Person
+7828XMMDSA,Master of Military and Defence Studies (Advanced),Single,Postgraduate,-,2,In Person
+7316XMMIL,Master of Military Law,Single,Postgraduate,-,1,In Person
+MMUHS,Master of Museum and Heritage Studies,Single,Postgraduate,-,2,In Person
+VMUHS,Master of Museum and Heritage Studies (Advanced),Single,Postgraduate,-,2,In Person
+MMUSI,Master of Music,Single,Postgraduate,-,2,In Person
+VMUSI,Master of Music (Advanced),Single,Postgraduate,-,2,In Person
+MNSPO,Master of National Security Policy,Single,Postgraduate,-,2,In Person
+VNSPO,Master of National Security Policy (Advanced),Single,Postgraduate,-,2,In Person
+MNEUR,Master of Neuroscience,Single,Postgraduate,-,2,In Person
+VNEUR,Master of Neuroscience (Advanced),Single,Postgraduate,-,2,In Person
+MNUCL,Master of Nuclear Science,Single,Postgraduate,-,2,In Person
+MPLSC,Master of Political Science,Vertical,Postgraduate,-,2,In Person
+VPLSC,Master of Political Science (Advanced),Single,Postgraduate,-,2,In Person
+7413XMPACC,Master of Professional Accounting,Single,Postgraduate,-,1.5,In Person
+MPROM,Master of Project Management,Single,Postgraduate,-,2,In Person
+VPROM,Master of Project Management (Advanced),Single,Postgraduate,-,2,In Person
+MPUAD,Master of Public Administration,Single,Postgraduate,-,2,In Person
+MPUBH,Master of Public Health,Vertical,Postgraduate,-,2,In Person
+VPUBH,Master of Public Health (Advanced),Single,Postgraduate,-,2,Multi-Modal
+MPUPP,Master of Public Policy,Vertical,Postgraduate,-,2,In Person
+MPPAU,Master of Public Policy/Master of Public Policy ANU - U Tokyo,Single,Postgraduate,-,2,In Person
+MPPUT,Master of Public Policy/Master of Public Policy ANU-U Tokyo,Single,Postgraduate,-,2,In Person
+VSCBS,Master of Science (Advanced) in Biological Sciences,Single,Postgraduate,-,2,In Person
+VSCQB,Master of Science (Advanced) in Quantitative Biology and Bioinformatics,Single,Postgraduate,-,2,In Person
+MSCOM,Master of Science Communication,Single,Postgraduate,-,2,Multi-Modal
+7624XMSCO,Master of Science Communication Outreach,Single,Postgraduate,-,1,In Person
+NSCBS,Master of Science in Biological Sciences,Vertical,Postgraduate,-,2,In Person
+NSCQB,Master of Science in Quantitative Biology and Bioinformatics,Vertical,Postgraduate,-,2,In Person
+MSCAU,Master of Science in Science Communication,Single,Postgraduate,-,1,In Person
+MSRES,Master of Social Research,Single,Postgraduate,-,2,In Person
+VSRES,Master of Social Research (Advanced),Single,Postgraduate,-,2,In Person
+MSTAT,Master of Statistics,Single,Postgraduate,-,2,In Person
+MSTST,Master of Strategic Studies,Vertical,Postgraduate,-,2,In Person
+VSTST,Master of Strategic Studies (Advanced),Single,Postgraduate,-,2,In Person
+MSTUD,Master of Studies,Single,Postgraduate,-,2,In Person
+VSTUD,Master of Studies (Advanced),Single,Postgraduate,-,2,In Person
+MTRAN,Master of Translation,Vertical,Postgraduate,-,2,In Person
+VTRAN,Master of Translation (Advanced),Single,Postgraduate,-,2,In Person
+MVISA,Master of Visual Arts,Single,Postgraduate,-,2,In Person
+VVISA,Master of Visual Arts (Advanced),Single,Postgraduate,-,2,In Person
+8950XMCHD,Doctor of Medicine and Surgery,Single,Postgraduate,-,4,In Person
+MEMPA,Executive Master of Public Administration,Single,Postgraduate,-,1.5,In Person
+MEMPP,Executive Master of Public Policy,Single,Postgraduate,-,1,In Person
+7050FDM,Flexible Double Masters,Single,Postgraduate,-,3,In Person
+6459XGCACC,Graduate Certificate of Accounting,Single,Postgraduate,-,0.5,In Person
+CADAN,Graduate Certificate of Applied Data Analytics,Single,Postgraduate,-,0.5,In Person
+CARTS,Graduate Certificate of Arts,Single,Postgraduate,-,0.5,In Person
+CCSRM,"Graduate Certificate of Cyber Security, Strategy and Risk Management",Single,Postgraduate,-,0.5,In Person
+CECON,Graduate Certificate of Economics,Single,Postgraduate,-,0.5,In Person
+6659XGCENV,Graduate Certificate of Environment,Single,Postgraduate,-,0.5,In Person
+CFAS,Graduate Certificate of Finance and Actuarial Statistics,Single,Postgraduate,-,0.5,In Person
+CLAW,Graduate Certificate of Law,Single,Postgraduate,-,0.5,In Person
+CMGMT,Graduate Certificate of Management,Single,Postgraduate,-,0.5,In Person
+6829XGCMDS,Graduate Certificate of Military and Defence Studies,Single,Postgraduate,-,0.5,In Person
+CMILL,Graduate Certificate of Military Law,Single,Postgraduate,-,0.5,In Person
+CPUBH,Graduate Certificate of Public Health,Single,Postgraduate,-,0.5,In Person
+6192XGCPPP,Graduate Certificate of Public Policy,Single,Postgraduate,-,0.5,In Person
+CSCIE,Graduate Certificate of Science,Single,Postgraduate,-,0.5,In Person
+CSTUD,Graduate Certificate of Studies,Single,Postgraduate,-,0.5,In Person
+CSTOL,Graduate Certificate of Studies - Online,Single,Postgraduate,-,0.5,In Person
+6506XGCTA,Graduate Certificate of Teaching Asia,Single,Postgraduate,-,0.5,In Person
+DADAN,Graduate Diploma of Applied Data Analytics,Single,Postgraduate,-,1,In Person
+DBUSI,Graduate Diploma of Business,Single,Postgraduate,-,1,In Person
+6706XGDCP,Graduate Diploma of Computing,Single,Postgraduate,-,1,In Person
+DCSRM,"Graduate Diploma of Cyber Security, Strategy and Risk Management",Single,Postgraduate,-,1,In Person
+DECON,Graduate Diploma of Economics,Single,Postgraduate,-,1,In Person
+DENVI,Graduate Diploma of Environment,Single,Postgraduate,-,1,In Person
+DIAFF,Graduate Diploma of International Affairs,Single,Postgraduate,-,1,In Person
+6303XGDLP,Graduate Diploma of Legal Practice,Single,Postgraduate,-,0.5,Multi-Modal
+6828XGDMDS,Graduate Diploma of Military and Defence Studies,Single,Postgraduate,-,1,In Person
+DMILL,Graduate Diploma of Military Law,Single,Postgraduate,-,1,In Person
+DPUBH,Graduate Diploma of Public Health,Single,Postgraduate,-,1,In Person
+DPUBP,Graduate Diploma of Public Policy,Single,Postgraduate,-,1,In Person
+6600XGDSCI,Graduate Diploma of Science,Single,Postgraduate,-,1,In Person
+DSTUD,Graduate Diploma of Studies,Single,Postgraduate,-,1,In Person
+MJD,Juris Doctor,Vertical,Postgraduate,-,3,In Person
+MJDOL,Juris Doctor - online,Single,Postgraduate,-,3,Multi-Modal
+7330HJD,Juris Doctor (Honours),Single,Postgraduate,-,3,In Person
+7414XMACCT,Master of Accounting,Single,Postgraduate,-,2,In Person
+7420XMACTP,Master of Actuarial Practice,Single,Postgraduate,-,2.5,In Person
+7410XMACTS,Master of Actuarial Studies,Single,Postgraduate,-,2,In Person
+MANTH,Master of Anthropology,Single,Postgraduate,-,2,In Person
+VANTH,Master of Anthropology (Advanced),Single,Postgraduate,-,2,In Person
+MAAPD,Master of Applied Anthropology and Participatory Development,Single,Postgraduate,-,2,In Person
+MAAPO,Master of Applied Anthropology and Participatory Development - Online,Single,Postgraduate,-,1.5,In Person
+VAAPD,Master of Applied Anthropology and Participatory Development (Advanced),Single,Postgraduate,-,2,In Person
+VAAPO,Master of Applied Anthropology and Participatory Development (Advanced) - Online,Single,Postgraduate,-,1.5,In Person
+MADAN,Master of Applied Data Analytics,Single,Postgraduate,-,1.5,In Person
+MAPEC,Master of Applied Economics,Single,Postgraduate,-,2,In Person
+7421XMAPFN,Master of Applied Finance,Single,Postgraduate,-,1.5,In Person
+MAESC,Master of Archaeological and Evolutionary Science,Vertical,Postgraduate,-,2,In Person
+VAESC,Master of Archaeological and Evolutionary Science (Advanced),Single,Postgraduate,-,2,In Person
+VARSC,Master of Archaeological Science (Advanced),Single,Postgraduate,-,2,In Person
+MAHCS,Master of Art History and Curatorial Studies,Vertical,Postgraduate,-,2,In Person
+VAHCS,Master of Art History and Curatorial Studies (Advanced),Single,Postgraduate,-,2,In Person
+MMUAU,Master of Arts - Arts Administration / Master of Museum and Heritage Studies,Single,Postgraduate,-,2,In Person
+MANPS,Master of Asian and Pacific Studies,Vertical,Postgraduate,-,2,In Person
+VANPS,Master of Asian and Pacific Studies (Advanced),Single,Postgraduate,-,2,In Person
+VASTP,Master of Astronomy and Astrophysics (Advanced),Single,Postgraduate,-,2,In Person
+VBIAN,Master of Biological Anthropology (Advanced),Single,Postgraduate,-,2,In Person
+MBIOS,Master of Biological Sciences,Single,Postgraduate,-,2,In Person
+VBIOS,Master of Biological Sciences (Advanced),Single,Postgraduate,-,2,In Person
+MBIOT,Master of Biotechnology,Single,Postgraduate,-,2,In Person
+VBIOT,Master of Biotechnology (Advanced),Single,Postgraduate,-,2,In Person
+MBADM,Master of Business Administration,Single,Postgraduate,-,1.5,In Person
+VBADM,Master of Business Administration (Advanced),Single,Postgraduate,-,2,In Person
+MBINS,Master of Business Information Systems,Single,Postgraduate,-,2,In Person
+VBINS,Master of Business Information Systems (Advanced),Single,Postgraduate,-,2,In Person
+VCLAS,Master of Classical Studies (Advanced),Single,Postgraduate,-,2,In Person
+MCLCH,Master of Climate Change,Single,Postgraduate,-,2,In Person
+7601XMCPSY,Master of Clinical Psychology,Single,Postgraduate,-,2,In Person
+VCOMM,Master of Commerce (Advanced),Single,Postgraduate,-,2,In Person
+7706XMCOMP,Master of Computing,Single,Postgraduate,-,2,In Person
+VCOMP,Master of Computing (Advanced),Single,Postgraduate,-,2,In Person
+MCRJR,"Master of Criminology, Justice and Regulation",Vertical,Postgraduate,-,2,In Person
+VCRJR,"Master of Criminology, Justice and Regulation (Advanced)",Single,Postgraduate,-,2,In Person
+VCHAM,Master of Culture Health and Medicine (Advanced),Single,Postgraduate,-,2,Multi-Modal
+MCHAM,"Master of Culture, Health and Medicine",Vertical,Postgraduate,-,2,Multi-Modal
+MCSRM,"Master of Cyber Security, Strategy and Risk Management",Single,Postgraduate,-,1.5,In Person
+MDEMO,Master of Demography,Vertical,Postgraduate,-,2,In Person
+VDEMO,Master of Demography (Advanced),Single,Postgraduate,-,2,In Person
+MDESN,Master of Design,Single,Postgraduate,-,2,In Person
+VDESN,Master of Design (Advanced),Single,Postgraduate,-,2,In Person
+MDIGA,Master of Digital Arts,Single,Postgraduate,-,2,In Person
+VDIGA,Master of Digital Arts (Advanced),Single,Postgraduate,-,2,In Person
+MDHPC,Master of Digital Humanities and Public Culture,Single,Postgraduate,-,2,In Person
+VDHPC,Master of Digital Humanities and Public Culture (Advanced),Single,Postgraduate,-,2,In Person
+MDIPL,Master of Diplomacy,Vertical,Postgraduate,-,2,In Person
+VDIPL,Master of Diplomacy (Advanced),Single,Postgraduate,-,2,In Person
+VEASC,Master of Earth Sciences (Advanced),Single,Postgraduate,-,2,In Person
+MECPO,Master of Economic Policy,Single,Postgraduate,-,2,In Person
+MECON,Master of Economics,Single,Postgraduate,-,2,In Person
+MENCH,Master of Energy Change,Single,Postgraduate,-,2,In Person
+VENCH,Master of Energy Change (Advanced),Single,Postgraduate,-,2,In Person
+NDSTE,Master of Engineering in Digital Systems and Telecommunications,Single,Postgraduate,-,2,In Person
+NMECH,Master of Engineering in Mechatronics,Single,Postgraduate,-,2,In Person
+NENPH,Master of Engineering in Photonics,Single,Postgraduate,-,2,In Person
+NENRE,Master of Engineering in Renewable Energy,Single,Postgraduate,-,2,In Person
+MEINV,Master of Entrepreneurship and Innovation,Vertical,Postgraduate,-,2,In Person
+VEINV,Master of Entrepreneurship and Innovation (Advanced),Single,Postgraduate,-,2,In Person
+MENVI,Master of Environment,Vertical,Postgraduate,-,2,In Person
+VENVI,Master of Environment (Advanced),Single,Postgraduate,-,2,In Person
+MEREC,Master of Environmental and Resource Economics,Vertical,Postgraduate,-,2,In Person
+MEMDV,Master of Environmental Management and Development,Vertical,Postgraduate,-,2,In Person
+MEMOL,Master of Environmental Management and Development - Online,Single,Postgraduate,-,2,In Person
+VEMDV,Master of Environmental Management and Development (Advanced),Single,Postgraduate,-,2,In Person
+MENVS,Master of Environmental Science,Single,Postgraduate,-,2,In Person
+VENVS,Master of Environmental Science (Advanced),Single,Postgraduate,-,2,In Person
+7418XMFIN,Master of Finance,Single,Postgraduate,-,2,In Person
+MFIEC,Master of Financial Economics,Single,Postgraduate,-,2,In Person
+MFINM,Master of Financial Management,Single,Postgraduate,-,1,In Person
+MFORE,Master of Forestry,Single,Postgraduate,-,2,In Person
+VFORE,Master of Forestry (Advanced),Single,Postgraduate,-,2,In Person
+MLING,Master of General and Applied Linguistics,Vertical,Postgraduate,-,2,In Person
+VLING,Master of General and Applied Linguistics (Advanced),Single,Postgraduate,-,2,In Person
+MGLOB,Master of Globalisation,Vertical,Postgraduate,-,2,In Person
+VGLOB,Master of Globalisation (Advanced),Single,Postgraduate,-,2,In Person
+MHIST,Master of History,Vertical,Postgraduate,-,2,In Person
+VHIST,Master of History (Advanced),Single,Postgraduate,-,2,In Person
+MINPP,Master of Innovation and Professional Practice,Vertical,Postgraduate,-,2,In Person
+MIDEC,Master of International and Development Economics,Vertical,Postgraduate,-,2,In Person
+MIDNK,Master of International and Development Economics - ANU-Nankai University,Single,Postgraduate,-,1.5,In Person
+MIMGT,Master of International Management,Vertical,Postgraduate,-,2,In Person
+VIMGT,Master of International Management (Advanced),Single,Postgraduate,-,2,In Person
+MINTR,Master of International Relations,Vertical,Postgraduate,-,2,In Person
+VINTR,Master of International Relations (Advanced),Single,Postgraduate,-,2,In Person
+VIIMW,Master of Islam in the Modern World (Advanced),Single,Postgraduate,-,2,In Person
+MLLM,Master of Laws,Single,Postgraduate,-,1,In Person
+NLLEN,Master of Laws in Environmental Law,Single,Postgraduate,-,1,In Person
+NLLGR,Master of Laws in Government and Regulation,Single,Postgraduate,-,1,In Person
+NLLIL,Master of Laws in International Law,Single,Postgraduate,-,1,In Person
+NLLSL,Master of Laws in International Security Law,Single,Postgraduate,-,1,In Person
+NLLGD,"Master of Laws in Law, Governance and Development",Single,Postgraduate,-,1,In Person
+NLLML,Master of Laws in Migration Law,Single,Postgraduate,-,1,In Person
+MLEAD,Master of Leadership,Vertical,Postgraduate,-,2,In Person
+VLEAD,Master of Leadership (Advanced),Single,Postgraduate,-,2,In Person
+MLEGP,Master of Legal Practice,Single,Postgraduate,-,1.5,Multi-Modal
+MMGMT,Master of Management,Vertical,Postgraduate,-,2,In Person
+VMGMT,Master of Management (Advanced),Single,Postgraduate,-,2,In Person
+MMKMT,Master of Marketing Management,Vertical,Postgraduate,-,2,In Person
+VMKMT,Master of Marketing Management (Advanced),Single,Postgraduate,-,2,In Person
+VMASC,Master of Mathematical Sciences (Advanced),Single,Postgraduate,-,2,In Person
+MMECA,Master of Middle Eastern and Central Asian Studies,Single,Postgraduate,-,2,In Person
+VMECA,Master of Middle Eastern and Central Asian Studies (Advanced),Single,Postgraduate,-,2,In Person
+7829XMMDS,Master of Military and Defence Studies,Single,Postgraduate,-,1.5,In Person
+7828XMMDSA,Master of Military and Defence Studies (Advanced),Single,Postgraduate,-,2,In Person
+7316XMMIL,Master of Military Law,Single,Postgraduate,-,1,In Person
+MMUHS,Master of Museum and Heritage Studies,Single,Postgraduate,-,2,In Person
+VMUHS,Master of Museum and Heritage Studies (Advanced),Single,Postgraduate,-,2,In Person
+MMUSI,Master of Music,Single,Postgraduate,-,2,In Person
+VMUSI,Master of Music (Advanced),Single,Postgraduate,-,2,In Person
+MNSPO,Master of National Security Policy,Single,Postgraduate,-,2,In Person
+VNSPO,Master of National Security Policy (Advanced),Single,Postgraduate,-,2,In Person
+MNEUR,Master of Neuroscience,Single,Postgraduate,-,2,In Person
+VNEUR,Master of Neuroscience (Advanced),Single,Postgraduate,-,2,In Person
+MNUCL,Master of Nuclear Science,Single,Postgraduate,-,2,In Person
+MPLSC,Master of Political Science,Vertical,Postgraduate,-,2,In Person
+VPLSC,Master of Political Science (Advanced),Single,Postgraduate,-,2,In Person
+7413XMPACC,Master of Professional Accounting,Single,Postgraduate,-,1.5,In Person
+MPROM,Master of Project Management,Single,Postgraduate,-,2,In Person
+VPROM,Master of Project Management (Advanced),Single,Postgraduate,-,2,In Person
+MPUAD,Master of Public Administration,Single,Postgraduate,-,2,In Person
+MPUBH,Master of Public Health,Vertical,Postgraduate,-,2,In Person
+VPUBH,Master of Public Health (Advanced),Single,Postgraduate,-,2,Multi-Modal
+MPUPP,Master of Public Policy,Vertical,Postgraduate,-,2,In Person
+MPPAU,Master of Public Policy/Master of Public Policy ANU - U Tokyo,Single,Postgraduate,-,2,In Person
+MPPUT,Master of Public Policy/Master of Public Policy ANU-U Tokyo,Single,Postgraduate,-,2,In Person
+VSCBS,Master of Science (Advanced) in Biological Sciences,Single,Postgraduate,-,2,In Person
+VSCQB,Master of Science (Advanced) in Quantitative Biology and Bioinformatics,Single,Postgraduate,-,2,In Person
+MSCOM,Master of Science Communication,Single,Postgraduate,-,2,Multi-Modal
+7624XMSCO,Master of Science Communication Outreach,Single,Postgraduate,-,1,In Person
+NSCBS,Master of Science in Biological Sciences,Vertical,Postgraduate,-,2,In Person
+NSCQB,Master of Science in Quantitative Biology and Bioinformatics,Vertical,Postgraduate,-,2,In Person
+MSCAU,Master of Science in Science Communication,Single,Postgraduate,-,1,In Person
+MSRES,Master of Social Research,Single,Postgraduate,-,2,In Person
+VSRES,Master of Social Research (Advanced),Single,Postgraduate,-,2,In Person
+MSTAT,Master of Statistics,Single,Postgraduate,-,2,In Person
+MSTST,Master of Strategic Studies,Vertical,Postgraduate,-,2,In Person
+VSTST,Master of Strategic Studies (Advanced),Single,Postgraduate,-,2,In Person
+MSTUD,Master of Studies,Single,Postgraduate,-,2,In Person
+VSTUD,Master of Studies (Advanced),Single,Postgraduate,-,2,In Person
+MTRAN,Master of Translation,Vertical,Postgraduate,-,2,In Person
+VTRAN,Master of Translation (Advanced),Single,Postgraduate,-,2,In Person
+MVISA,Master of Visual Arts,Single,Postgraduate,-,2,In Person
+VVISA,Master of Visual Arts (Advanced),Single,Postgraduate,-,2,In Person

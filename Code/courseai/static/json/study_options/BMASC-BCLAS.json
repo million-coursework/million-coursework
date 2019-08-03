@@ -1,0 +1,614 @@
+{
+  "code": "BMASC-BCLAS",
+  "2014": [],
+  "2015": [],
+  "2016": [
+    [
+      {
+        "code": "Major 1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor 1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1115",
+        "level": "Advanced Mathematics and Applications 1",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT1008 or STAT1003",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Major 1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor 1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1116",
+        "level": "Advanced Mathematics and Applications  2",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP1100 or ",
+        "level": "COMP1130 or<b/>COMP1730",
+        "units": "6 units\r"
+      }
+    ],
+    [
+      {
+        "code": "Major 2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor 2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH2301",
+        "level": "Games, Graphs and Machines",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH2320",
+        "level": "Advanced Analysis 1: Metric Spaces and Applications",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Major 2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor 2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH2322",
+        "level": "Advanced Algebra 1: Groups, Rings and Linear Algebra",
+        "units": "6 units"
+      },
+      {
+        "code": "Science course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Major 2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Classical Studies Course",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH2305",
+        "level": "Applied Mathematics I",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level MATH coded course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Major 2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Classical Studies Course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level MATH coded course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level MATH coded course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Major 2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Classical Studies Course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level MATH coded course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level MATH coded course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Major 2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Classical Studies Course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level MATH coded course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level MATH coded course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2017": [
+    [
+      {
+        "code": "Major 1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor 1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1115",
+        "level": "Advanced Mathematics and Applications 1",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH2222",
+        "level": "Introduction to Mathematical Thinking: Problem-Solving and Proofs",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Major 1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor 1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1116",
+        "level": "Advanced Mathematics and Applications  2",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH2322",
+        "level": "Advanced Algebra 1: Groups, Rings and Linear Algebra",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Major 2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor 2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH2305",
+        "level": "Applied Mathematics I",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH2320",
+        "level": "Advanced Analysis 1: Metric Spaces and Applications",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Major 2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor 2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science elective",
+        "units": "6 units"
+      },
+      {
+        "code": "Science elective",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Major 2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Classical Studies Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science elective",
+        "units": "6 units"
+      },
+      {
+        "code": "Science elective",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Major 2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Classical Studies Course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 or 4000 level MATH course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 or 4000 level MATH course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Major 2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Classical Studies Course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 or 4000 level MATH course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 or 4000 level MATH course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Major 2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Classical Studies Course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 or 4000 level MATH course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 or 4000 level MATH course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2018": [
+    [
+      {
+        "code": "Major 1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor 1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1115",
+        "level": "Advanced Mathematics and Applications 1",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH2222",
+        "level": "Introduction to Mathematical Thinking: Problem-Solving and Proofs",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Major 1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor 1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1116",
+        "level": "Advanced Mathematics and Applications  2",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH2322",
+        "level": "Advanced Algebra 1: Groups, Rings and Linear Algebra",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Major 2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor 2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH2305",
+        "level": "Applied Mathematics I",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH2320",
+        "level": "Advanced Analysis 1: Metric Spaces and Applications",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Major 2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor 2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science elective",
+        "units": "6 units"
+      },
+      {
+        "code": "Science elective",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Major 2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Classical Studies Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science elective",
+        "units": "6 units"
+      },
+      {
+        "code": "Science elective",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Major 2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Classical Studies Course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 or 4000 level MATH course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 or 4000 level MATH course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Major 2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Classical Studies Course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 or 4000 level MATH course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 or 4000 level MATH course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Major 2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Classical Studies Course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 or 4000 level MATH course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 or 4000 level MATH course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2019": [
+    [
+      {
+        "code": "Major 1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor 1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1115",
+        "level": "Advanced Mathematics and Applications 1",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH2222",
+        "level": "Introduction to Mathematical Thinking: Problem-Solving and Proofs",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Major 1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor 1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1116",
+        "level": "Advanced Mathematics and Applications  2",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH2322",
+        "level": "Advanced Algebra 1: Groups, Rings and Linear Algebra",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Major 2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor 2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH2305",
+        "level": "Applied Mathematics I",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH2320",
+        "level": "Advanced Analysis 1: Metric Spaces and Applications",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Major 2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor 2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science elective",
+        "units": "6 units"
+      },
+      {
+        "code": "Science elective",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Major 2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Classical Studies Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science elective",
+        "units": "6 units"
+      },
+      {
+        "code": "Science elective",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Major 2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Classical Studies Course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 or 4000 level MATH course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 or 4000 level MATH course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Major 2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Classical Studies Course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 or 4000 level MATH course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 or 4000 level MATH course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Major 2000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Classical Studies Course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 or 4000 level MATH course",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 or 4000 level MATH course",
+        "units": "6 units"
+      }
+    ]
+  ]
+}

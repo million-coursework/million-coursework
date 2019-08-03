@@ -1,0 +1,14 @@
+{
+  "name": "Master of Science Communication",
+  "code": "MSCOM",
+  "year": 2018,
+  "units": 0,
+  "required": {
+    "compulsory_courses": [
+      "SCOM7000",
+      "SCOM8014"
+    ],
+    "one_from_m/m/s": [],
+    "required_m/m/s": []
+  }
+}

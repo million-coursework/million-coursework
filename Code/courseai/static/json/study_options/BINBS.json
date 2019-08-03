@@ -1,0 +1,735 @@
+{
+  "code": "BINBS",
+  "2014": [
+    [
+      {
+        "code": "BUSN1001",
+        "level": "Business Reporting and Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "Compulsory CASS or CAP course",
+        "units": "6 units"
+      },
+      {
+        "code": "Language",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON1102",
+        "level": "Macroeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT1008",
+        "level": "Quantitative Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "Compulsory CASS or CAP course",
+        "units": "6 units"
+      },
+      {
+        "code": "Language",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "International Business",
+        "level": "Core Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective",
+        "level": "CASS or CAP",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Language",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BUSI2023",
+        "level": "Dynamics of Asian Business",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSI2025",
+        "level": "International Business",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Language",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BUSI3020",
+        "level": "International Strategic Management",
+        "units": "6 units"
+      },
+      {
+        "code": "International Business",
+        "level": "Core Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Language",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "International Business",
+        "level": "Core Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective",
+        "level": "CASS or CAP",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Language",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2015": [
+    [
+      {
+        "code": "BUSN1001",
+        "level": "Business Reporting and Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "Compulsory CASS or CAP course",
+        "units": "6 units"
+      },
+      {
+        "code": "Language",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON1102",
+        "level": "Macroeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT1008",
+        "level": "Quantitative Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "Compulsory CASS or CAP course",
+        "units": "6 units"
+      },
+      {
+        "code": "Language",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "International Business",
+        "level": "Core Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective",
+        "level": "CASS or CAP",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Language",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BUSI2023",
+        "level": "Dynamics of Asian Business",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSI2025",
+        "level": "International Business",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Language",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BUSI3020",
+        "level": "International Strategic Management",
+        "units": "6 units"
+      },
+      {
+        "code": "International Business",
+        "level": "Core Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Language",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "International Business",
+        "level": "Core Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective",
+        "level": "CASS or CAP",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Language",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2016": [
+    [
+      {
+        "code": "BUSN1001",
+        "level": "Business Reporting and Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "Compulsory CASS or CAP course",
+        "units": "6 units"
+      },
+      {
+        "code": "Language",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON1102",
+        "level": "Macroeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT1008",
+        "level": "Quantitative Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "Compulsory CASS or CAP course",
+        "units": "6 units"
+      },
+      {
+        "code": "Language",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "International Business",
+        "level": "Core Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective",
+        "level": "CASS or CAP",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Language",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BUSI2023",
+        "level": "Dynamics of Asian Business",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSI2025",
+        "level": "International Business",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Language",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BUSI3020",
+        "level": "International Strategic Management",
+        "units": "6 units"
+      },
+      {
+        "code": "International Business",
+        "level": "Core Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Language",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "International Business",
+        "level": "Core Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective",
+        "level": "CASS or CAP",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Language",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2017": [
+    [
+      {
+        "code": "BUSN1001",
+        "level": "Business Reporting and Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "Compulsory CASS or CAP course",
+        "units": "6 units"
+      },
+      {
+        "code": "Language",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON1102",
+        "level": "Macroeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT1008",
+        "level": "Quantitative Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "Compulsory CASS or CAP course",
+        "units": "6 units"
+      },
+      {
+        "code": "Language",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "International Business",
+        "level": "Core Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective",
+        "level": "CASS or CAP",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Language",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BUSI2023",
+        "level": "Dynamics of Asian Business",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSI2025",
+        "level": "International Business",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Language",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BUSI3020",
+        "level": "International Strategic Management",
+        "units": "6 units"
+      },
+      {
+        "code": "International Business",
+        "level": "Core Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Language",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "International Business",
+        "level": "Core Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective",
+        "level": "CASS or CAP",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Language",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2018": [
+    [
+      {
+        "code": "BUSN1001",
+        "level": "Business Reporting and Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "Compulsory CASS or CAP course",
+        "units": "6 units"
+      },
+      {
+        "code": "Language",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON1102",
+        "level": "Macroeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT1008",
+        "level": "Quantitative Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "Compulsory CASS or CAP course",
+        "units": "6 units"
+      },
+      {
+        "code": "Language",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "International Business",
+        "level": "Core Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective",
+        "level": "CASS or CAP",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Language",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BUSI2023",
+        "level": "Dynamics of Asian Business",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSI2025",
+        "level": "International Business",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Language",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BUSI3020",
+        "level": "International Strategic Management",
+        "units": "6 units"
+      },
+      {
+        "code": "International Business",
+        "level": "Core Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Language",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "International Business",
+        "level": "Core Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective",
+        "level": "CASS or CAP",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Language",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2019": [
+    [
+      {
+        "code": "BUSN1001",
+        "level": "Business Reporting and Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "Compulsory CASS or CAP course",
+        "units": "6 units"
+      },
+      {
+        "code": "Language",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "ECON1102",
+        "level": "Macroeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT1008",
+        "level": "Quantitative Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "Compulsory CASS or CAP course",
+        "units": "6 units"
+      },
+      {
+        "code": "Language",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "International Business",
+        "level": "Core Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective",
+        "level": "CASS or CAP",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Language",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BUSI2023",
+        "level": "Dynamics of Asian Business",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSI2025",
+        "level": "International Business",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Language",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BUSI3020",
+        "level": "International Strategic Management",
+        "units": "6 units"
+      },
+      {
+        "code": "International Business",
+        "level": "Core Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Language",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "International Business",
+        "level": "Core Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective",
+        "level": "CASS or CAP",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Language",
+        "units": "6 units"
+      }
+    ]
+  ]
+}

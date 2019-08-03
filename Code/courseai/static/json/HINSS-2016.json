@@ -1,0 +1,14 @@
+{
+  "name": "Bachelor of International Security Studies (Honours)",
+  "code": "HINSS",
+  "year": 2016,
+  "units": 48,
+  "required": {
+    "compulsory_courses": [
+      "STST4001",
+      "THES4501"
+    ],
+    "one_from_m/m/s": [],
+    "required_m/m/s": []
+  }
+}

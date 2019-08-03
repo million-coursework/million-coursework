@@ -1,0 +1,108 @@
+{
+  "code": "BDESN-BIR",
+  "2014": [],
+  "2015": [],
+  "2016": [],
+  "2017": [
+    [
+      {
+        "code": "POLS1005",
+        "level": "Introduction to International Relations: Foundations and Concepts",
+        "units": "6 units"
+      },
+      {
+        "code": "Language Minor Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Areas Studies Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective",
+        "level": "1000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "POLS1006",
+        "level": "Introduction to International Relations:  Contemporary Global Issues",
+        "units": "6 units"
+      },
+      {
+        "code": "Language Minor Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Areas Studies Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective",
+        "level": "1000 level Course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2018": [
+    [
+      {
+        "code": "-"
+      },
+      {
+        "code": "-"
+      },
+      {
+        "code": "-"
+      },
+      {
+        "code": "-"
+      }
+    ],
+    [
+      {
+        "code": "-"
+      },
+      {
+        "code": "-"
+      },
+      {
+        "code": "-"
+      },
+      {
+        "code": "-"
+      }
+    ]
+  ],
+  "2019": [
+    [
+      {
+        "code": "-"
+      },
+      {
+        "code": "-"
+      },
+      {
+        "code": "-"
+      },
+      {
+        "code": "-"
+      }
+    ],
+    [
+      {
+        "code": "-"
+      },
+      {
+        "code": "-"
+      },
+      {
+        "code": "-"
+      },
+      {
+        "code": "-"
+      }
+    ]
+  ]
+}

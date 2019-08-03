@@ -1,0 +1,89 @@
+{
+  "name": "Bachelor of Science",
+  "code": "BSC",
+  "year": 2014,
+  "units": 144,
+  "required": {
+    "max_by_level": [
+      {
+        "type": "maximum",
+        "level": [
+          1000
+        ],
+        "units": 60
+      }
+    ],
+    "x_from_category": [
+      {
+        "type": "minimum",
+        "units": "96",
+        "courses": "Science List"
+      },
+      {
+        "type": "minimum",
+        "level": [
+          3000
+        ],
+        "units": 36,
+        "courses": "Science List"
+      }
+    ],
+    "one_from_m/m/s": [
+      [
+        "YIAS-MAJ",
+        "STAT-MAJ",
+        "BIAN-MAJ",
+        "PHYS-MAJ",
+        "MTSY-MAJ",
+        "MFIN-MAJ",
+        "SCOM-MAJ",
+        "PSYC-MAJ",
+        "EART-MAJ",
+        "CHEM-MAJ",
+        "GEOG-MAJ",
+        "MARS-MAJ",
+        "MECO-MAJ",
+        "MMOD-MAJ",
+        "BCHM-MAJ",
+        "CSCI-MAJ",
+        "THPH-MAJ"
+      ],
+      [
+        "MIIM-MIN",
+        "APST-MIN",
+        "BION-MIN",
+        "WSAP-MIN",
+        "PHSC-MIN",
+        "ABPS-MIN",
+        "DEPS-MIN",
+        "CSCI-MIN",
+        "BCAM-MIN",
+        "CSAP-MIN",
+        "CHEM-MIN",
+        "COPS-MIN",
+        "EVEC-MIN",
+        "ENVP-MIN",
+        "BIAN-MIN"
+      ],
+      [
+        "YIAS-MAJ",
+        "STAT-MAJ",
+        "BIAN-MAJ",
+        "PHYS-MAJ",
+        "MTSY-MAJ",
+        "MFIN-MAJ",
+        "SCOM-MAJ",
+        "PSYC-MAJ",
+        "EART-MAJ",
+        "CHEM-MAJ",
+        "GEOG-MAJ",
+        "MARS-MAJ",
+        "MECO-MAJ",
+        "MMOD-MAJ",
+        "CSCI-MAJ",
+        "THPH-MAJ"
+      ]
+    ],
+    "required_m/m/s": []
+  }
+}

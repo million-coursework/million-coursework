@@ -1,0 +1,22 @@
+{
+  "name": "Master of Cyber Security, Strategy and Risk Management",
+  "code": "MCSRM",
+  "year": 2019,
+  "units": 10,
+  "required": {
+    "compulsory_courses": [
+      "COMP6301",
+      "COMP6340",
+      "COMP6420",
+      "COMP7500",
+      "LAWS8077",
+      "CRIM8002",
+      "NSPO8006",
+      "NSPO8021",
+      "MGMT7203",
+      "MGMT8005"
+    ],
+    "one_from_m/m/s": [],
+    "required_m/m/s": []
+  }
+}

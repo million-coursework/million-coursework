@@ -1,0 +1,52 @@
+{
+  "name": "Juris Doctor",
+  "code": "MJD",
+  "year": 2018,
+  "units": 144,
+  "required": {
+    "compulsory_courses": [
+      "LAWS6104",
+      "LAWS6106",
+      "LAWS6201",
+      "LAWS6202",
+      "LAWS6203",
+      "LAWS6204",
+      "LAWS6205",
+      "LAWS6207",
+      "LAWS6244",
+      "LAWS6249",
+      "LAWS6250"
+    ],
+    "x_from_here": [
+      {
+        "type": "minimum",
+        "units": 24,
+        "courses": [
+          "LAWS6101",
+          "LAWS6102",
+          "LAWS6103",
+          "LAWS6105"
+        ]
+      },
+      {
+        "type": "minimum",
+        "units": 6,
+        "courses": [
+          "LAWS6010",
+          "LAWS6230",
+          "LAWS6240",
+          "LAWS6267",
+          "LAWS6268",
+          "LAWS6278",
+          "LAWS6281",
+          "LAWS6284",
+          "LAWS6301",
+          "LAWS6700",
+          "LAWS8301"
+        ]
+      }
+    ],
+    "one_from_m/m/s": [],
+    "required_m/m/s": []
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Master of Financial Economics",
+  "code": "MFIEC",
+  "year": 2017,
+  "units": 96,
+  "required": {
+    "compulsory_courses": [
+      "ECON8011",
+      "ECON8013",
+      "ECON8021",
+      "ECON8025",
+      "ECON8026",
+      "EMET8010",
+      "FINM7007",
+      "FINM7008",
+      "FINM8004",
+      "FINM8006",
+      "FINM8100",
+      "STAT6039",
+      "STAT8002"
+    ],
+    "x_from_here": [
+      {
+        "type": "minimum",
+        "units": 6,
+        "courses": [
+          "FINM7003",
+          "FINM8009",
+          "FINM8014",
+          "FINM8016",
+          "FINM8017"
+        ]
+      },
+      {
+        "type": "minimum",
+        "units": 6,
+        "courses": [
+          "ECON8053",
+          "ECON8080"
+        ]
+      },
+      {
+        "type": "minimum",
+        "units": 6,
+        "courses": [
+          "ECON8037",
+          "EMET8012"
+        ]
+      }
+    ],
+    "one_from_m/m/s": [],
+    "required_m/m/s": []
+  }
+}

@@ -1,0 +1,45 @@
+{
+    "name": "Bachelor of Finance, Economics and Statistics (Honours)",
+    "units": 192,
+    "required": {
+		"compulsory_courses": [
+            "BUSN1001",
+			"ECON1101",
+			"ECON2016",
+			"ECON2101",
+			"ECON3100",
+			"ECON3101",
+			"ECON3102",
+			"ECON3153",
+			"EMET2007",
+			"FINM1001",
+			"FINM2001",
+			"FINM2002",
+			"FINM2003",
+			"FINM3005",
+			"MATH1115",
+			"MATH1116",
+			"STAT1008",
+			"STAT2001",
+			"STAT3013",
+			"STAT3056"
+        ],
+		"one_from_here": [
+            ["ECON1100", "ECON1102"],
+            ["MATH2320", "MATH2322","MATH3029"],
+            ["STAT2032", "STAT3040"]
+        ],
+        "one_from_m/m/s": [
+			["FINM-HSPC","STAT-HSPC","ECON-HSPC"]
+        ],
+		"x_from_category": [
+            {
+                "num": 6,
+                "code": "ECON"
+            }
+        ],
+        "max_by_level": {
+            "1000": 60
+        }
+    }
+}

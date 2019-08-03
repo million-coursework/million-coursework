@@ -1,0 +1,36 @@
+{
+  "name": "Master of Applied Finance",
+  "code": "7421XMAPFN",
+  "year": 2017,
+  "units": 72,
+  "required": {
+    "x_from_here": [
+      {
+        "type": "minimum",
+        "units": 6,
+        "courses": [
+          "ECON8069",
+          "STAT6046",
+          "FINM7045",
+          "FINM8009",
+          "FINM8014",
+          "FINM8017",
+          "STAT7016",
+          "STAT7026",
+          "STAT7030",
+          "STAT7040"
+        ]
+      },
+      {
+        "type": "minimum",
+        "units": 6,
+        "courses": [
+          "STAT6038",
+          "STAT7001"
+        ]
+      }
+    ],
+    "one_from_m/m/s": [],
+    "required_m/m/s": []
+  }
+}

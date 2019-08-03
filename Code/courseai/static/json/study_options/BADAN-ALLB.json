@@ -1,0 +1,609 @@
+{
+  "code": "BADAN-ALLB",
+  "2014": [],
+  "2015": [],
+  "2016": [],
+  "2017": [
+    [
+      {
+        "code": "LAWS1201",
+        "level": "Foundations of Australian Law",
+        "units": "6 units"
+      },
+      {
+        "code": "LAWS1203",
+        "level": "Torts",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP1030",
+        "level": "Art of Computing",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT1003",
+        "level": "Statistical Techniques",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LAWS1202",
+        "level": "Lawyers Justice and Ethics",
+        "units": "6 units"
+      },
+      {
+        "code": "LAWS1204",
+        "level": "Contracts",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCR1001",
+        "level": "Foundations of Social Research",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP1040",
+        "level": "The Craft of Computing",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LAWS1205",
+        "level": "Australian Public Law",
+        "units": "6 units"
+      },
+      {
+        "code": "LAWS1206",
+        "level": "Criminal Law and Procedure",
+        "units": "6 units"
+      },
+      {
+        "code": "DEMO2002",
+        "level": "Population Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP3425",
+        "level": "Data Mining",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LAWS2250",
+        "level": "International Law",
+        "units": "6 units"
+      },
+      {
+        "code": "LAWS2249",
+        "level": "Legal Theory",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP2400",
+        "level": "Relational Databases",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1113",
+        "level": "Mathematical Foundations for Actuarial Studies",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LAWS2201",
+        "level": "Administrative Law",
+        "units": "6 units"
+      },
+      {
+        "code": "LAWS2203",
+        "level": "Corporations Law",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY2166",
+        "level": "Social Science of the Internet",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT2001",
+        "level": "Introductory Mathematical Statistics",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LAWS2202",
+        "level": "Commonwealth Constitutional Law",
+        "units": "6 units"
+      },
+      {
+        "code": "Law Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP3430",
+        "level": "Data Wrangling",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY2169",
+        "level": "Online Research Methods",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LAWS2204",
+        "level": "Property",
+        "units": "6 units"
+      },
+      {
+        "code": "Law Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT2008",
+        "level": "Regression Modelling",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT3040",
+        "level": "Statistical Learning",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LAWS2205",
+        "level": "Equity and Trusts",
+        "units": "6 units"
+      },
+      {
+        "code": "Law Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCR3001",
+        "level": "Data for Decision Making",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT3011",
+        "level": "Graphical Data Analysis",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LAWS2244",
+        "level": "Litigation and Dispute Management",
+        "units": "6 units"
+      },
+      {
+        "code": "Law Elective Courses",
+        "units": "18 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "LAWS2207",
+        "level": "Evidence",
+        "units": "6 units"
+      },
+      {
+        "code": "Law Elective Courses",
+        "units": "18 units"
+      },
+      {},
+      {}
+    ]
+  ],
+  "2018": [
+    [
+      {
+        "code": "LAWS1201",
+        "level": "Foundations of Australian Law",
+        "units": "6 units"
+      },
+      {
+        "code": "LAWS1203",
+        "level": "Torts",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP1100",
+        "level": "Programming as Problem Solving",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT1003",
+        "level": "Statistical Techniques",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LAWS1202",
+        "level": "Lawyers Justice and Ethics",
+        "units": "6 units"
+      },
+      {
+        "code": "LAWS1204",
+        "level": "Contracts",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCR1001",
+        "level": "Foundations of Social Research",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP1110",
+        "level": "Structured Programming",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LAWS1205",
+        "level": "Australian Public Law",
+        "units": "6 units"
+      },
+      {
+        "code": "LAWS1206",
+        "level": "Criminal Law and Procedure",
+        "units": "6 units"
+      },
+      {
+        "code": "DEMO2002",
+        "level": "Population Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP3425",
+        "level": "Data Mining",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LAWS2250",
+        "level": "International Law",
+        "units": "6 units"
+      },
+      {
+        "code": "LAWS2249",
+        "level": "Legal Theory",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP2400",
+        "level": "Relational Databases",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1113",
+        "level": "Mathematical Foundations for Actuarial Studies",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LAWS2201",
+        "level": "Administrative Law",
+        "units": "6 units"
+      },
+      {
+        "code": "LAWS2203",
+        "level": "Corporations Law",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY2166",
+        "level": "Social Science of the Internet",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT2001",
+        "level": "Introductory Mathematical Statistics",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LAWS2202",
+        "level": "Commonwealth Constitutional Law",
+        "units": "6 units"
+      },
+      {
+        "code": "Law Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP3430",
+        "level": "Data Wrangling",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY2169",
+        "level": "Online Research Methods",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LAWS2204",
+        "level": "Property",
+        "units": "6 units"
+      },
+      {
+        "code": "Law Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT2008",
+        "level": "Regression Modelling",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT3040",
+        "level": "Statistical Learning",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LAWS2205",
+        "level": "Equity and Trusts",
+        "units": "6 units"
+      },
+      {
+        "code": "Law Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCR3001",
+        "level": "Data for Decision Making",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT3011",
+        "level": "Graphical Data Analysis",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LAWS2244",
+        "level": "Litigation and Dispute Management",
+        "units": "6 units"
+      },
+      {
+        "code": "Law Elective Courses",
+        "units": "18 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "LAWS2207",
+        "level": "Evidence",
+        "units": "6 units"
+      },
+      {
+        "code": "Law Elective Courses",
+        "units": "18 units"
+      },
+      {},
+      {}
+    ]
+  ],
+  "2019": [
+    [
+      {
+        "code": "LAWS1201",
+        "level": "Foundations of Australian Law",
+        "units": "6 units"
+      },
+      {
+        "code": "LAWS1203",
+        "level": "Torts",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP1100",
+        "level": "Programming as Problem Solving",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT1003",
+        "level": "Statistical Techniques",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LAWS1202",
+        "level": "Lawyers Justice and Ethics",
+        "units": "6 units"
+      },
+      {
+        "code": "LAWS1204",
+        "level": "Contracts",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCR1001",
+        "level": "Foundations of Social Research",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP1110",
+        "level": "Structured Programming",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LAWS1205",
+        "level": "Australian Public Law",
+        "units": "6 units"
+      },
+      {
+        "code": "LAWS1206",
+        "level": "Criminal Law and Procedure",
+        "units": "6 units"
+      },
+      {
+        "code": "DEMO2002",
+        "level": "Population Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP3425",
+        "level": "Data Mining",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LAWS2250",
+        "level": "International Law",
+        "units": "6 units"
+      },
+      {
+        "code": "LAWS2249",
+        "level": "Legal Theory",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP2400",
+        "level": "Relational Databases",
+        "units": "6 units"
+      },
+      {
+        "code": "MATH1113",
+        "level": "Mathematical Foundations for Actuarial Studies",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LAWS2201",
+        "level": "Administrative Law",
+        "units": "6 units"
+      },
+      {
+        "code": "LAWS2203",
+        "level": "Corporations Law",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY2166",
+        "level": "Social Science of the Internet",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT2001",
+        "level": "Introductory Mathematical Statistics",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LAWS2202",
+        "level": "Commonwealth Constitutional Law",
+        "units": "6 units"
+      },
+      {
+        "code": "Law Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "COMP3430",
+        "level": "Data Wrangling",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCY2169",
+        "level": "Online Research Methods",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LAWS2204",
+        "level": "Property",
+        "units": "6 units"
+      },
+      {
+        "code": "Law Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT2008",
+        "level": "Regression Modelling",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT3040",
+        "level": "Statistical Learning",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LAWS2205",
+        "level": "Equity and Trusts",
+        "units": "6 units"
+      },
+      {
+        "code": "Law Elective Course",
+        "units": "6 units"
+      },
+      {
+        "code": "SOCR3001",
+        "level": "Data for Decision Making",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT3011",
+        "level": "Graphical Data Analysis",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "LAWS2244",
+        "level": "Litigation and Dispute Management",
+        "units": "6 units"
+      },
+      {
+        "code": "Law Elective Courses",
+        "units": "18 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "LAWS2207",
+        "level": "Evidence",
+        "units": "6 units"
+      },
+      {
+        "code": "Law Elective Courses",
+        "units": "18 units"
+      },
+      {},
+      {}
+    ]
+  ]
+}

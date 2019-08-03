@@ -1,0 +1,44 @@
+{
+  "name": "Graduate Certificate of Applied Data Analytics",
+  "code": "CADAN",
+  "year": 2018,
+  "units": 24,
+  "required": {
+    "x_from_here": [
+      {
+        "type": "maximum",
+        "units": 6,
+        "courses": [
+          "SOCR8201",
+          "SOCR8202"
+        ]
+      },
+      {
+        "type": "minimum",
+        "units": 6,
+        "courses": [
+          "STAT6038",
+          "STAT6039",
+          "STAT7001",
+          "STAT7026",
+          "STAT7055"
+        ]
+      },
+      {
+        "type": "minimum",
+        "units": 6,
+        "courses": [
+          "COMP1040",
+          "COMP6240",
+          "COMP6730",
+          "COMP7230",
+          "COMP7240",
+          "COMP8410",
+          "COMP8430"
+        ]
+      }
+    ],
+    "one_from_m/m/s": [],
+    "required_m/m/s": []
+  }
+}

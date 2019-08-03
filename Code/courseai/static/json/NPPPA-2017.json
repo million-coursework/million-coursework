@@ -1,0 +1,77 @@
+{
+  "name": "Master of Public Policy in Policy Analysis",
+  "code": "NPPPA",
+  "year": 2017,
+  "units": 96,
+  "required": {
+    "compulsory_courses": [
+      "POGO8012",
+      "POGO8019",
+      "POGO8024",
+      "POGO8062",
+      "POGO8072",
+      "POGO8117",
+      "CRWF8000",
+      "POGO8096"
+    ],
+    "x_from_here": [
+      {
+        "type": "minimum",
+        "units": 6,
+        "courses": [
+          "POGO8016",
+          "POGO8081"
+        ]
+      },
+      {
+        "type": "maximum",
+        "units": 18,
+        "courses": [
+          "ANTH8009",
+          "ANTH8028",
+          "ANTH8032",
+          "CRWF7000",
+          "EMDV8079",
+          "EMDV8080",
+          "EMDV8081",
+          "EMDV8082",
+          "EURO8003",
+          "IDEC8007",
+          "IDEC8088",
+          "NSPO8007",
+          "POGO8004",
+          "POGO8015",
+          "POGO8021",
+          "POGO8025",
+          "POGO8032",
+          "POGO8035"
+        ]
+      },
+      {
+        "type": "minimum",
+        "units": 18,
+        "courses": [
+          "EMDV8080",
+          "EMDV8081",
+          "IDEC8088",
+          "POGO8021",
+          "POGO8025",
+          "POGO8057",
+          "POGO8083",
+          "POGO8101",
+          "POGO8210"
+        ]
+      },
+      {
+        "type": "minimum",
+        "units": 6,
+        "courses": [
+          "POGO8082",
+          "POGO8090"
+        ]
+      }
+    ],
+    "one_from_m/m/s": [],
+    "required_m/m/s": []
+  }
+}

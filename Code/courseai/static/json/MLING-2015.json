@@ -1,0 +1,93 @@
+{
+  "name": "Master of General and Applied Linguistics",
+  "code": "MLING",
+  "year": 2015,
+  "units": 96,
+  "required": {
+    "x_from_here": [
+      {
+        "type": "minimum",
+        "units": 24,
+        "courses": [
+          "ASIA6001",
+          "ASIA6101",
+          "LANG6103",
+          "LANG8001",
+          "LING6003",
+          "LING6005",
+          "LING6007",
+          "LING6008",
+          "LING6009",
+          "LING6010",
+          "LING6013",
+          "LING6015",
+          "LING6016",
+          "LING6017",
+          "LING6018",
+          "LING6019",
+          "LING6021",
+          "LING6022",
+          "LING6023",
+          "LING6026",
+          "LING6101",
+          "LING6103",
+          "LING6105",
+          "LING6505",
+          "LING6508",
+          "LING6521",
+          "LING6522",
+          "LING6529",
+          "LING8025",
+          "PASI6010",
+          "PASI6020"
+        ]
+      },
+      {
+        "type": "minimum",
+        "units": 18,
+        "courses": [
+          "LING6001",
+          "LING6002",
+          "LING6020",
+          "LING6311",
+          "LING6509",
+          "LING6525",
+          "LING8001",
+          "LING8003",
+          "LING8009",
+          "LING8010",
+          "LING8011",
+          "LING8012",
+          "LING8026",
+          "HUMN6001"
+        ]
+      }
+    ],
+    "one_from_m/m/s": [
+      [
+        "TURK-SPEC",
+        "THAI-SPEC",
+        "JPNS-SPEC",
+        "PORT-SPEC",
+        "ENGL-SPEC",
+        "FREN-SPEC",
+        "VIET-SPEC",
+        "PERS-SPEC",
+        "CHIN-SPEC",
+        "HIND-SPEC",
+        "ARAB-SPEC",
+        "SPAN-SPEC",
+        "LATN-SPEC",
+        "SKRT-SPEC",
+        "INDN-SPEC",
+        "KORE-SPEC",
+        "GREK-SPEC",
+        "RUSS-SPEC",
+        "INLS-SPEC",
+        "GERM-SPEC",
+        "ITAL-SPEC"
+      ]
+    ],
+    "required_m/m/s": []
+  }
+}

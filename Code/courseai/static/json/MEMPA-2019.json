@@ -1,0 +1,10 @@
+{
+  "name": "Executive Master of Public Administration",
+  "code": "MEMPA",
+  "year": 2019,
+  "units": 72,
+  "required": {
+    "one_from_m/m/s": [],
+    "required_m/m/s": []
+  }
+}

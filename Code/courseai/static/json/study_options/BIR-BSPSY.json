@@ -1,0 +1,909 @@
+{
+  "code": "BIR-BSPSY",
+  "2014": [
+    [
+      {
+        "code": "POLS1005",
+        "level": "Introduction to International Relations: Foundations and Concepts",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective",
+        "level": "1000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "POLS1006",
+        "level": "Introduction to International Relations:  Contemporary Global Issues",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective",
+        "level": "1000 level Course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2015": [
+    [
+      {
+        "code": "POLS1005",
+        "level": "Introduction to International Relations: Foundations and Concepts",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor",
+        "level": "1000/2000 Level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC1003",
+        "level": "Psychology 1: Understanding Mind, Brain and Behaviour",
+        "units": "6 units"
+      },
+      {
+        "code": "Science course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "POLS1006",
+        "level": "Introduction to International Relations:  Contemporary Global Issues",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor",
+        "level": "1000/2000 Level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC1004",
+        "level": "Psychology 2: Understanding People in Context",
+        "units": "6 units"
+      },
+      {
+        "code": "Science course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Major",
+        "level": "2000 Level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor",
+        "level": "1000/2000 Level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2009",
+        "level": "Quantitative Methods in Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2007",
+        "level": "Biological Basis of Behaviour",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Major",
+        "level": "2000 Level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor",
+        "level": "1000/2000 Level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2001",
+        "level": "Social Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2008",
+        "level": "Visual Perception and Cognition",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Major",
+        "level": "2000 Level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Specialisation",
+        "level": "2000/3000 Level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2002",
+        "level": "Developmental Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "Science course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Major",
+        "level": "2000 Level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Specialisation",
+        "level": "2000/3000 Level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3025",
+        "level": "Abnormal Psychology across the Life Span",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3018",
+        "level": "Advanced Research Methods",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Major",
+        "level": "2000/3000 Level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Specialisation",
+        "level": "2000/3000 Level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3026",
+        "level": "Personality Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC 3000 level course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Major",
+        "level": "2000/3000 Level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Specialisation",
+        "level": "2000/3000 Level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC 3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC 3000 level course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2016": [
+    [
+      {
+        "code": "POLS1005",
+        "level": "Introduction to International Relations: Foundations and Concepts",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 1000 level course from ",
+        "level": "the Area Studies or Security Lists or Minor 1000/2000 Level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC1003",
+        "level": "Psychology 1: Understanding Mind, Brain and Behaviour",
+        "units": "6 units"
+      },
+      {
+        "code": "Science course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "POLS1006",
+        "level": "Introduction to International Relations:  Contemporary Global Issues",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 1000 level course from ",
+        "level": "the Area Studies or Security Lists or Minor 1000/2000 Level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC1004",
+        "level": "Psychology 2: Understanding People in Context",
+        "units": "6 units"
+      },
+      {
+        "code": "Science course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "POLS2133",
+        "level": "International Organisations in World Politics",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level course from ",
+        "level": "the listed award rules",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2009",
+        "level": "Quantitative Methods in Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2007",
+        "level": "Biological Basis of Behaviour",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "POLS2094",
+        "level": "Issues in International Political Economy",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level course from ",
+        "level": "the listed award rules",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2001",
+        "level": "Social Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2008",
+        "level": "Cognition",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "POLS3001",
+        "level": "Foreign Policy Analysis: Understanding Global and Australian Foreign Policy Decision-Making",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level course from ",
+        "level": "the listed award rules",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2002",
+        "level": "Developmental Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "Science course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "POLS3017",
+        "level": "International Relations Theory",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level course from ",
+        "level": "the listed award rules",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3025",
+        "level": "Abnormal Psychology across the Life Span",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3018",
+        "level": "Advanced Research Methods",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Any 2000/3000 level course from ",
+        "level": "the listed award rules",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level course from ",
+        "level": "the listed award rules",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3026",
+        "level": "Personality Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC 3000 level course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Any 2000/3000 level course from ",
+        "level": "the listed award rules",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level course from ",
+        "level": "the listed award rules",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC 3000 level course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC 3000 level course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2017": [
+    [
+      {
+        "code": "POLS1005",
+        "level": "Introduction to International Relations: Foundations and Concepts",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 1000 level course from ",
+        "level": "the Area Studies or Security Lists or Minor 1000/2000 Level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC1003",
+        "level": "Psychology 1: Understanding Mind, Brain and Behaviour",
+        "units": "6 units"
+      },
+      {
+        "code": "1000 level Science elective",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "POLS1006",
+        "level": "Introduction to International Relations:  Contemporary Global Issues",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 1000 level course from ",
+        "level": "the Area Studies or Security Lists or Minor 1000/2000 Level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC1004",
+        "level": "Psychology 2: Understanding People in Context",
+        "units": "6 units"
+      },
+      {
+        "code": "1000 level Science elective",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "POLS2133",
+        "level": "International Organisations in World Politics",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level course from ",
+        "level": "the listed award rules",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2009",
+        "level": "Quantitative Methods in Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2002",
+        "level": "Developmental Psychology",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "POLS2094",
+        "level": "Issues in International Political Economy",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level course from ",
+        "level": "the listed award rules",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2001",
+        "level": "Social Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2008",
+        "level": "Cognition",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "POLS3001",
+        "level": "Foreign Policy Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level course from ",
+        "level": "the listed award rules",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level PSYC course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science elective",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "POLS3017",
+        "level": "International Relations Theory",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level course from ",
+        "level": "the listed award rules",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2007",
+        "level": "Biological Basis of Behaviour",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3018",
+        "level": "Advanced Research Methods",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Any 2000/3000 level course from ",
+        "level": "the listed award rules",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level course from ",
+        "level": "the listed award rules",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3025",
+        "level": "Abnormal Psychology across the Life Span",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level PSYC course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Any 2000/3000 level course from ",
+        "level": "the listed award rules",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level course from ",
+        "level": "the listed award rules",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3026",
+        "level": "Personality Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level PSYC course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2018": [
+    [
+      {
+        "code": "POLS1005",
+        "level": "Introduction to International Relations: Foundations and Concepts",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 1000 level course from ",
+        "level": "the Area Studies or Security Lists or Minor 1000/2000 Level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC1003",
+        "level": "Psychology 1: Understanding Mind, Brain and Behaviour",
+        "units": "6 units"
+      },
+      {
+        "code": "1000 level Science elective",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "POLS1006",
+        "level": "Introduction to International Relations:  Contemporary Global Issues",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 1000 level course from ",
+        "level": "the Area Studies or Security Lists or Minor 1000/2000 Level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC1004",
+        "level": "Psychology 2: Understanding People in Context",
+        "units": "6 units"
+      },
+      {
+        "code": "1000 level Science elective",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "POLS2133",
+        "level": "International Organisations in World Politics",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level course from ",
+        "level": "the listed award rules",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2009",
+        "level": "Quantitative Methods in Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2002",
+        "level": "Developmental Psychology",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "POLS2094",
+        "level": "Issues in International Political Economy",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level course from ",
+        "level": "the listed award rules",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2001",
+        "level": "Social Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2008",
+        "level": "Cognition",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "POLS3001",
+        "level": "Foreign Policy Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level course from ",
+        "level": "the listed award rules",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level PSYC course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science elective",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "POLS3017",
+        "level": "International Relations Theory",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level course from ",
+        "level": "the listed award rules",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2007",
+        "level": "Biological Basis of Behaviour",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3018",
+        "level": "Advanced Research Methods",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Any 2000/3000 level course from ",
+        "level": "the listed award rules",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level course from ",
+        "level": "the listed award rules",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3025",
+        "level": "Psychopathology Across the Lifespan",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level PSYC course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Any 2000/3000 level course from ",
+        "level": "the listed award rules",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level course from ",
+        "level": "the listed award rules",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3026",
+        "level": "Personality Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level PSYC course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2019": [
+    [
+      {
+        "code": "POLS1005",
+        "level": "Introduction to International Relations: Foundations and Concepts",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 1000 level course from ",
+        "level": "the Area Studies or Security Lists or Minor 1000/2000 Level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC1003",
+        "level": "Psychology 1: Understanding Mind, Brain and Behaviour",
+        "units": "6 units"
+      },
+      {
+        "code": "1000 level Science elective",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "POLS1006",
+        "level": "Introduction to International Relations:  Contemporary Global Issues",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 1000 level course from ",
+        "level": "the Area Studies or Security Lists or Minor 1000/2000 Level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC1004",
+        "level": "Psychology 2: Understanding People in Context",
+        "units": "6 units"
+      },
+      {
+        "code": "1000 level Science elective",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "POLS2133",
+        "level": "International Organisations in World Politics",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level course from ",
+        "level": "the listed award rules",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2009",
+        "level": "Quantitative Methods in Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2002",
+        "level": "Developmental Psychology",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "POLS2094",
+        "level": "Issues in International Political Economy",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level course from ",
+        "level": "the listed award rules",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2001",
+        "level": "Social Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2008",
+        "level": "Cognition",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "POLS3001",
+        "level": "Foreign Policy Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level course from ",
+        "level": "the listed award rules",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level PSYC course",
+        "units": "6 units"
+      },
+      {
+        "code": "Science elective",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "POLS3017",
+        "level": "International Relations Theory",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level course from ",
+        "level": "the listed award rules",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC2007",
+        "level": "Biological Basis of Behaviour",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3018",
+        "level": "Advanced Research Methods",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Any 2000/3000 level course from ",
+        "level": "the listed award rules",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level course from ",
+        "level": "the listed award rules",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3025",
+        "level": "Psychopathology Across the Lifespan",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level PSYC course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Any 2000/3000 level course from ",
+        "level": "the listed award rules",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level course from ",
+        "level": "the listed award rules",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC3026",
+        "level": "Personality Psychology",
+        "units": "6 units"
+      },
+      {
+        "code": "3000 level PSYC course",
+        "units": "6 units"
+      }
+    ]
+  ]
+}

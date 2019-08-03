@@ -1,0 +1,9 @@
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX onto: <http://wordnet-rdf.princeton.edu/ontology#>
+
+INSERT { ?child rdfs:related_subject 'BIOL1003'}
+WHERE {
+	?uri rdfs:related_subject ?label .
+    FILTER regex(str(?label), "BIOL1003") .
+    ?child onto:hypernym* ?uri
+};

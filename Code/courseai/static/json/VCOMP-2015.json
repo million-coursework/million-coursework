@@ -1,0 +1,23 @@
+{
+  "name": "Master of Computing (Advanced)",
+  "code": "VCOMP",
+  "year": 2015,
+  "units": 96,
+  "required": {
+    "compulsory_courses": [
+      "COMP6442",
+      "COMP8701",
+      "COMP8705"
+    ],
+    "one_from_m/m/s": [
+      [
+        "COMS-SPEC",
+        "IHCC-SPEC",
+        "SENG-SPEC",
+        "ALGD-SPEC",
+        "CMSY-SPEC"
+      ]
+    ],
+    "required_m/m/s": []
+  }
+}

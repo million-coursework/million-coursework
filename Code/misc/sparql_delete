@@ -1,0 +1,5 @@
+INSERT { ?uri rdfs:test_gloss_2 ?label}
+WHERE {
+	?uri rdfs:related_subject ?course .
+    ?uri onto:gloss ?label
+}

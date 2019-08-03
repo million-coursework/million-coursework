@@ -1,0 +1,36 @@
+{
+  "name": "Master of Engineering in Renewable Energy",
+  "code": "NENRE",
+  "year": 2019,
+  "units": 96,
+  "required": {
+    "compulsory_courses": [
+      "ENGN6250",
+      "ENGN8260",
+      "ENGN8100",
+      "ENGN8120",
+      "ENGN8170",
+      "ENGN6524",
+      "ENGN6516",
+      "ENGN8830",
+      "ENGN8831",
+      "ENGN8832",
+      "ENGN8833",
+      "ENGN6224"
+    ],
+    "x_from_here": [
+      {
+        "type": "minimum",
+        "units": 12,
+        "courses": [
+          "ENGN6224",
+          "ENGN6334",
+          "ENGN6525",
+          "PHYS6301"
+        ]
+      }
+    ],
+    "one_from_m/m/s": [],
+    "required_m/m/s": []
+  }
+}

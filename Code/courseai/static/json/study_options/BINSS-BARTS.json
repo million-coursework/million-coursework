@@ -1,0 +1,638 @@
+{
+  "code": "BINSS-BARTS",
+  "2014": [],
+  "2015": [
+    [
+      {
+        "code": "Arts Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Minor",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "Arts Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Minor",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "Arts Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Minor",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "Arts Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Minor",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "Arts Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Elective",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "Arts Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Elective",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "Arts Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Elective",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "Arts Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Elective",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ]
+  ],
+  "2016": [
+    [
+      {
+        "code": "Arts Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Minor",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "Arts Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Minor",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "Arts Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Minor",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "Arts Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Minor",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "Arts Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Elective",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "Arts Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Elective",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "Arts Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Elective",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "Arts Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Elective",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ]
+  ],
+  "2017": [
+    [
+      {
+        "code": "Arts Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Minor",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "Arts Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Minor",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "Arts Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Minor",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "Arts Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Minor",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "Arts Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Elective",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "Arts Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Elective",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "Arts Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Elective",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "Arts Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Elective",
+        "units": "6 units"
+      },
+      {},
+      {}
+    ]
+  ],
+  "2018": [
+    [
+      {
+        "code": "Arts Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Minor",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "STST1001",
+        "level": "Introduction to International Security Studies",
+        "units": "6 units"
+      },
+      {
+        "code": "Course toward completion of minor from list B"
+      }
+    ],
+    [
+      {
+        "code": "Arts Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Minor",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "STST1003",
+        "level": "Coping with Crisis: The Practice of International Security",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective"
+      }
+    ],
+    [
+      {
+        "code": "Arts Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Minor",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "STST2001",
+        "level": "International Security issues in the Asia Pacific",
+        "units": "6 units"
+      },
+      {
+        "code": "Course toward completion of minor from list B"
+      }
+    ],
+    [
+      {
+        "code": "Arts Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Minor",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS2132",
+        "level": "Current Issues in International Security",
+        "units": "6 units"
+      },
+      {
+        "code": "Course toward completion of minor from list B"
+      }
+    ],
+    [
+      {
+        "code": "Arts Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Elective",
+        "units": "6 units"
+      },
+      {
+        "code": "STST3002",
+        "level": "Australia's Security in the Asian Century",
+        "units": "6 units"
+      },
+      {
+        "code": "Course toward completion of minor from list B"
+      }
+    ],
+    [
+      {
+        "code": "Arts Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Elective",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective"
+      },
+      {
+        "code": "Elective"
+      }
+    ],
+    [
+      {
+        "code": "Arts Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Elective",
+        "units": "6 units"
+      },
+      {
+        "code": "Course toward completion of 18 unit requirement of list A"
+      },
+      {
+        "code": "Course toward completion of 18 unit requirement of list A"
+      }
+    ],
+    [
+      {
+        "code": "Arts Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Elective",
+        "units": "6 units"
+      },
+      {
+        "code": "Course toward completion of 18 unit requirement of list A"
+      },
+      {
+        "code": "Elective"
+      }
+    ]
+  ],
+  "2019": [
+    [
+      {
+        "code": "Arts Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Minor",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "STST1001",
+        "level": "Introduction to International Security Studies",
+        "units": "6 units"
+      },
+      {
+        "code": "Course toward completion of minor from list B"
+      }
+    ],
+    [
+      {
+        "code": "Arts Major",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Minor",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "STST1003",
+        "level": "Coping with Crisis: The Practice of International Security",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective"
+      }
+    ],
+    [
+      {
+        "code": "Arts Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Minor",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "STST2001",
+        "level": "International Security issues in the Asia Pacific",
+        "units": "6 units"
+      },
+      {
+        "code": "Course toward completion of minor from list B"
+      }
+    ],
+    [
+      {
+        "code": "Arts Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Minor",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS2132",
+        "level": "Current Issues in International Security",
+        "units": "6 units"
+      },
+      {
+        "code": "Course toward completion of minor from list B"
+      }
+    ],
+    [
+      {
+        "code": "Arts Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Elective",
+        "units": "6 units"
+      },
+      {
+        "code": "STST3002",
+        "level": "Australia's Security in the Asian Century",
+        "units": "6 units"
+      },
+      {
+        "code": "Course toward completion of minor from list B"
+      }
+    ],
+    [
+      {
+        "code": "Arts Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Elective",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective"
+      },
+      {
+        "code": "Elective"
+      }
+    ],
+    [
+      {
+        "code": "Arts Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Elective",
+        "units": "6 units"
+      },
+      {
+        "code": "Course toward completion of 18 unit requirement of list A"
+      },
+      {
+        "code": "Course toward completion of 18 unit requirement of list A"
+      }
+    ],
+    [
+      {
+        "code": "Arts Major",
+        "level": "2000/3000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Arts Elective",
+        "units": "6 units"
+      },
+      {
+        "code": "Course toward completion of 18 unit requirement of list A"
+      },
+      {
+        "code": "Elective"
+      }
+    ]
+  ]
+}

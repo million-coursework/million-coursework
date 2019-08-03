@@ -1,0 +1,53 @@
+{
+  "name": "Master of Accounting",
+  "code": "7414XMACCT",
+  "year": 2015,
+  "units": 96,
+  "required": {
+    "compulsory_courses": [
+      "BUSN7008",
+      "ECON8069",
+      "FINM7006",
+      "STAT7055"
+    ],
+    "x_from_here": [
+      {
+        "type": "maximum",
+        "units": 48,
+        "courses": [
+          "BUSN7021",
+          "BUSN7054",
+          "BUSN7057",
+          "BUSN8007",
+          "BUSN8013",
+          "BUSN8016",
+          "BUSN8018",
+          "BUSN8056",
+          "BUSN8110",
+          "BUSN8801",
+          "BUSN8802",
+          "BUSN8803",
+          "BUSN8804",
+          "INFS7004",
+          "INFS7040"
+        ]
+      },
+      {
+        "type": "minimum",
+        "units": 24,
+        "courses": [
+          "BUSN7005",
+          "BUSN7006",
+          "BUSN7017",
+          "BUSN7031",
+          "BUSN7036",
+          "BUSN7045",
+          "BUSN7050",
+          "BUSN7052"
+        ]
+      }
+    ],
+    "one_from_m/m/s": [],
+    "required_m/m/s": []
+  }
+}

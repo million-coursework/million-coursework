@@ -1,0 +1,37 @@
+{
+  "name": "Bachelor of Information Technology (Honours)",
+  "code": "HIT",
+  "year": 2016,
+  "units": 48,
+  "required": {
+    "compulsory_courses": [
+      "COMP4450",
+      "COMP4550",
+      "COMP4300",
+      "COMP4330",
+      "COMP4340"
+    ],
+    "x_from_here": [
+      {
+        "type": "minimum",
+        "units": 18,
+        "courses": [
+          "COMP4300",
+          "COMP4330",
+          "COMP4340",
+          "COMP4600",
+          "COMP4610",
+          "COMP4620",
+          "COMP4630",
+          "COMP4650",
+          "COMP4660",
+          "COMP4670",
+          "COMP4680",
+          "HONS4700"
+        ]
+      }
+    ],
+    "one_from_m/m/s": [],
+    "required_m/m/s": []
+  }
+}

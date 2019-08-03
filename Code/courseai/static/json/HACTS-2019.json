@@ -1,0 +1,36 @@
+{
+  "name": "Bachelor of Actuarial Studies (Honours)",
+  "code": "HACTS",
+  "year": 2019,
+  "units": 48,
+  "required": {
+    "compulsory_courses": [
+      "ACST4031",
+      "ACST4032",
+      "ACST4033"
+    ],
+    "x_from_here": [
+      {
+        "type": "maximum",
+        "units": 18,
+        "courses": [
+          "ACST4060",
+          "ACST4061",
+          "ACST4045",
+          "FINM4106",
+          "ACST4049"
+        ]
+      },
+      {
+        "type": "minimum",
+        "units": 6,
+        "courses": [
+          "ACST4600",
+          "ACST4500"
+        ]
+      }
+    ],
+    "one_from_m/m/s": [],
+    "required_m/m/s": []
+  }
+}

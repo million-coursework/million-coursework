@@ -1,0 +1,91 @@
+{
+  "name": "Bachelor of Policy Studies",
+  "code": "BPOLS",
+  "year": 2015,
+  "units": 144,
+  "required": {
+    "max_by_level": [
+      {
+        "type": "maximum",
+        "level": [
+          1000
+        ],
+        "units": 60
+      }
+    ],
+    "compulsory_courses": [
+      "ECON1101",
+      "POLS1002",
+      "POLS2009",
+      "POLS2105",
+      "DEMO2001",
+      "SOCY1002",
+      "SOCY2038",
+      "SOCY2043",
+      "SOCY2101",
+      "SOCY3123",
+      "SOCY3030"
+    ],
+    "x_from_here": [
+      {
+        "type": "minimum",
+        "units": 6,
+        "courses": [
+          "HIST2227",
+          "POLS2043",
+          "POLS2111",
+          "POLS2114",
+          "POLS2121"
+        ]
+      },
+      {
+        "type": "minimum",
+        "units": 12,
+        "courses": [
+          "ANIP3005",
+          "ASIA1022",
+          "ASIA2020",
+          "ENVS3001",
+          "ENVS3020",
+          "ENVS3028",
+          "ENVS3033",
+          "INDG3001",
+          "LING2022",
+          "SOCY2021",
+          "SOCY2022",
+          "SOCY2056",
+          "CRIM2001",
+          "CRIM2004",
+          "SOCY3016",
+          "SOCY3021",
+          "STST2001",
+          "STST2002",
+          "STST2003",
+          "STST3002",
+          "STST3003"
+        ]
+      },
+      {
+        "type": "minimum",
+        "units": 6,
+        "courses": [
+          "ECON1100",
+          "ECON1102"
+        ]
+      },
+      {
+        "type": "minimum",
+        "units": 6,
+        "courses": [
+          "PHIL2020",
+          "PHIL2115",
+          "POLS2063",
+          "POLS2119",
+          "POLS2120"
+        ]
+      }
+    ],
+    "one_from_m/m/s": [],
+    "required_m/m/s": []
+  }
+}

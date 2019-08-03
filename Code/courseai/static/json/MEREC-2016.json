@@ -1,0 +1,101 @@
+{
+  "name": "Master of Environmental and Resource Economics",
+  "code": "MEREC",
+  "year": 2016,
+  "units": 96,
+  "required": {
+    "compulsory_courses": [
+      "IDEC8001",
+      "IDEC8002",
+      "IDEC8015",
+      "IDEC8016",
+      "IDEC8017",
+      "IDEC8029"
+    ],
+    "x_from_here": [
+      {
+        "type": "minimum",
+        "units": 6,
+        "courses": [
+          "EMDV8007",
+          "EMDV8013",
+          "EMDV8026",
+          "EMDV8101",
+          "EMDV8108"
+        ]
+      },
+      {
+        "type": "minimum",
+        "units": 6,
+        "courses": [
+          "EMDV8078",
+          "IDEC8003",
+          "IDEC8030"
+        ]
+      },
+      {
+        "type": "minimum",
+        "units": 6,
+        "courses": [
+          "IDEC8011",
+          "IDEC8023",
+          "IDEC8026"
+        ]
+      },
+      {
+        "type": "maximum",
+        "units": 12,
+        "courses": [
+          "POGO8210",
+          "EMDV8080",
+          "POGO8212",
+          "POGO8213",
+          "EMDV8081",
+          "EMDV8082",
+          "IDEC8089",
+          "EMDV8001",
+          "EMDV8002",
+          "EMDV8007",
+          "EMDV8104",
+          "POGO8004",
+          "POGO8057",
+          "POGO8076"
+        ]
+      },
+      {
+        "type": "minimum",
+        "units": 6,
+        "courses": [
+          "ECON8010",
+          "ECON8015",
+          "ECON8022",
+          "ECON8038",
+          "ECON8047",
+          "ECON8050",
+          "EMET8001",
+          "EMET8010",
+          "EMET8012",
+          "EMET8014",
+          "IDEC8008",
+          "IDEC8009",
+          "IDEC8010",
+          "IDEC8011",
+          "IDEC8012",
+          "IDEC8014",
+          "IDEC8020",
+          "IDEC8022",
+          "IDEC8023",
+          "IDEC8025",
+          "IDEC8026",
+          "IDEC8027",
+          "IDEC8028",
+          "IDEC8127",
+          "IDEC8081",
+          "IDEC8088"
+        ]
+      }
+    ],
+    "one_from_m/m/s": [],
+    "required_m/m/s": []
+  }
+}

@@ -1,0 +1,342 @@
+{
+  "code": "MPROM",
+  "2014": [],
+  "2015": [
+    [
+      {
+        "code": "MGMT7001",
+        "level": "Business Communication",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN7024",
+        "level": "Project Management Principles",
+        "units": "6 units"
+      },
+      {
+        "code": "MGMT7170",
+        "level": "Tools and Techniques for Business Project Management",
+        "units": "6 units"
+      },
+      {
+        "code": "MKTG7001",
+        "level": "Marketing",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "MGMT7030",
+        "level": "Foundations of Management",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSI7033",
+        "level": "International Strategic Management",
+        "units": "6 units"
+      },
+      {
+        "code": "MGMT7169",
+        "level": "A Management Framework For Business Projects",
+        "units": "6 units"
+      },
+      {
+        "code": "MGMT7165",
+        "level": "Innovation and Commercialisation",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2016": [
+    [
+      {
+        "code": "MGMT7001",
+        "level": "Business Communication",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN7024",
+        "level": "Project Management Principles",
+        "units": "6 units"
+      },
+      {
+        "code": "MGMT7170",
+        "level": "Tools and Techniques for Business Project Management",
+        "units": "6 units"
+      },
+      {
+        "code": "MKTG7001",
+        "level": "Marketing",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "MGMT7030",
+        "level": "Foundations of Management",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSI7033",
+        "level": "International Strategic Management",
+        "units": "6 units"
+      },
+      {
+        "code": "MGMT7169",
+        "level": "A Management Framework For Business Projects",
+        "units": "6 units"
+      },
+      {
+        "code": "MGMT7165",
+        "level": "Innovation and Commercialisation",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2017": [
+    [
+      {
+        "code": "MGMT7020",
+        "level": "Technology and Project Management",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSI7280",
+        "level": "Managing in a Global Context",
+        "units": "6 units"
+      },
+      {
+        "code": "MKTG7260",
+        "level": "Marketing and Stakeholder Communications",
+        "units": "6 units"
+      },
+      {
+        "code": "MGMT7250",
+        "level": "Evidence-Based Management",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "MGMT7024",
+        "level": "Project Management Principles",
+        "units": "6 units"
+      },
+      {
+        "code": "MGMT8062",
+        "level": "Managing Major Projects: The Cross-Boundary Project Executive",
+        "units": "6 units"
+      },
+      {
+        "code": "ENGN8100",
+        "level": "Introduction to Systems Engineering",
+        "units": "6 units"
+      },
+      {
+        "code": "MGMT7165",
+        "level": "Innovation and Commercialisation",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "MGMT8270",
+        "level": "Leading People and Change",
+        "units": "6 units"
+      },
+      {
+        "code": "MGMT7169",
+        "level": "A Management Framework For Business Projects",
+        "units": "6 units"
+      },
+      {
+        "code": "MGMT8005",
+        "level": "Project Risk and Issues Management",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN8181",
+        "level": "Financial Reporting and Analysis",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Elective"
+      },
+      {
+        "code": "Elective"
+      },
+      {
+        "code": "Elective"
+      },
+      {
+        "code": "Elective"
+      }
+    ]
+  ],
+  "2018": [
+    [
+      {
+        "code": "MGMT7250",
+        "level": "Evidence-Based Management",
+        "units": "6 units"
+      },
+      {
+        "code": "MGMT7020",
+        "level": "Technology and Project Management",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSI7280",
+        "level": "Managing in a Global Context",
+        "units": "6 units"
+      },
+      {
+        "code": "MKTG7260",
+        "level": "Marketing and Stakeholder Communications",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BUSN8181",
+        "level": "Financial Reporting and Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "MGMT8270",
+        "level": "Leading People and Change",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective "
+      },
+      {
+        "code": "Elective"
+      }
+    ],
+    [
+      {
+        "code": "MGMT7170",
+        "level": "Tools and Techniques for Business Project Management",
+        "units": "6 units"
+      },
+      {
+        "code": "MGMT7024",
+        "level": "Project Monitoring and Control",
+        "units": "6 units"
+      },
+      {
+        "code": "MGMT8062",
+        "level": "Managing Major Projects",
+        "units": "6 units"
+      },
+      {
+        "code": "ENGN8100",
+        "level": "Introduction to Systems Engineering",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "MGMT8005",
+        "level": "Project Risk and Issues Management",
+        "units": "6 units"
+      },
+      {
+        "code": "MGMT7169",
+        "level": "A Management Framework For Business Projects",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective"
+      },
+      {
+        "code": "Elective "
+      }
+    ]
+  ],
+  "2019": [
+    [
+      {
+        "code": "MGMT7250",
+        "level": "Evidence-Based Management",
+        "units": "6 units"
+      },
+      {
+        "code": "MGMT7020",
+        "level": "Technology and Project Management",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSI7280",
+        "level": "Managing in a Global Context",
+        "units": "6 units"
+      },
+      {
+        "code": "MKTG7260",
+        "level": "Marketing and Stakeholder Communications",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BUSN8181",
+        "level": "Financial Reporting and Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "MGMT8270",
+        "level": "Leading People and Change",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective "
+      },
+      {
+        "code": "Elective"
+      }
+    ],
+    [
+      {
+        "code": "MGMT7170",
+        "level": "Tools and Techniques for Business Project Management",
+        "units": "6 units"
+      },
+      {
+        "code": "MGMT7024",
+        "level": "Project Monitoring and Control",
+        "units": "6 units"
+      },
+      {
+        "code": "MGMT8062",
+        "level": "Managing Major Projects",
+        "units": "6 units"
+      },
+      {
+        "code": "ENGN8100",
+        "level": "Introduction to Systems Engineering",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "MGMT8005",
+        "level": "Project Risk and Issues Management",
+        "units": "6 units"
+      },
+      {
+        "code": "MGMT7169",
+        "level": "A Management Framework For Business Projects",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective"
+      },
+      {
+        "code": "Elective "
+      }
+    ]
+  ]
+}

@@ -1,0 +1,50 @@
+{
+    "name": "Bachelor of Mathematical Sciences",
+    "units": 144,
+    "required": {
+        "compulsory_courses": [
+            "MATH1115",
+            "MATH1116",
+            "MATH2222",
+            "MATH2305",
+            "MATH2320",
+            "MATH2322"
+        ],
+        "x_from_category": [
+            {
+                "num": 36,
+                "code": [
+                    "MATH"
+                ],
+                "level": [
+                    3000,
+                    4000
+                ]
+            },
+            {
+                "num": 24,
+                "code": [
+                    "ASTR",
+                    "BIOL",
+                    "CHEM",
+                    "EMSC",
+                    "ENVS",
+                    "HLTH",
+                    "MATH",
+                    "MEDN",
+                    "NEUR",
+                    "PHYS",
+                    "HOPH",
+                    "PSYC",
+                    "CVUG",
+                    "SCNC",
+                    "SCOM"
+                ]
+            }
+        ],
+        "max_by_level": {
+            "1000": 60
+        }
+    }
+}
+

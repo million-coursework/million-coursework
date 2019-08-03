@@ -1,0 +1,48 @@
+{
+  "code": "BACCT-BACTS",
+  "2014": [
+    [
+      {
+        "code": "BUSN1001",
+        "level": "Business Reporting and Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "STAT1008",
+        "level": "Quantitative Research Methods",
+        "units": "6 units"
+      },
+      {
+        "code": "FINM1001",
+        "level": "Foundations of Finance",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "BUSN1002",
+        "level": "Accounting Processes and Systems",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1102",
+        "level": "Macroeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "BUSN1101",
+        "level": "Introduction to Commercial Law",
+        "units": "6 units"
+      },
+      {
+        "code": "CBE Elective",
+        "units": "6 units"
+      }
+    ]
+  ]
+}

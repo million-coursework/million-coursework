@@ -1,0 +1,909 @@
+{
+  "code": "BPPE-BIR",
+  "2014": [
+    [
+      {
+        "code": "POLS1005",
+        "level": "Introduction to International Relations: Foundations and Concepts",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective",
+        "level": "1000 level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "POLS1006",
+        "level": "Introduction to International Relations:  Contemporary Global Issues",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective",
+        "level": "1000 level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Elective",
+        "level": "1000 level Course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2015": [
+    [
+      {
+        "code": "POLS1005",
+        "level": "Introduction to International Relations: Foundations and Concepts",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor",
+        "level": "1000/2000 Level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1002",
+        "level": "Introduction to Politics",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1005",
+        "level": "Introduction to International Relations: Foundations and Concepts",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "POLS1006",
+        "level": "Introduction to International Relations:  Contemporary Global Issues",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor",
+        "level": "1000/2000 Level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "PHIL1005",
+        "level": "Logic and Critical Thinking",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Major",
+        "level": "2000 Level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor",
+        "level": "1000/2000 Level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "PHIL1004",
+        "level": "Fundamental Ideas in Philosophy: An Introduction",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Politics list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Major",
+        "level": "2000 Level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Minor",
+        "level": "1000/2000 Level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1008",
+        "level": "PPE Integrative Seminar Year 1: Puzzles in Politics, Philosophy and Economics",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Philosophy list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Major",
+        "level": "2000 Level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Specialisation",
+        "level": "2000/3000 Level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON2101",
+        "level": "Microeconomics 2(P)",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Economics list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Major",
+        "level": "2000 Level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Specialisation",
+        "level": "2000/3000 Level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "PHIL2116",
+        "level": "PPE Integrative Seminar Year 2",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Politics list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Major",
+        "level": "2000/3000 Level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Specialisation",
+        "level": "2000/3000 Level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Philosophy list Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ANIP/ECON/PHIL/POLS",
+        "level": "2000/3000 Level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Major",
+        "level": "2000/3000 Level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "Specialisation",
+        "level": "2000/3000 Level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON3056",
+        "level": "PPE Integrative Seminar Year 3: Classic Literature in PPE",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Economics list Course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2016": [
+    [
+      {
+        "code": "POLS1005",
+        "level": "Introduction to International Relations: Foundations and Concepts",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 1000 level course from ",
+        "level": "the Area Studies or Security Lists or Minor 1000/2000 Level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1002",
+        "level": "Introduction to Politics",
+        "units": "6 units"
+      },
+      {
+        "code": "PHIL1004",
+        "level": "Fundamental Ideas in Philosophy: An Introduction",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "POLS1006",
+        "level": "Introduction to International Relations:  Contemporary Global Issues",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 1000 level course from ",
+        "level": "the Area Studies or Security Lists or Minor 1000/2000 Level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1009",
+        "level": "Research and Writing in Political Science",
+        "units": "6 units"
+      },
+      {
+        "code": "PHIL1005",
+        "level": "Logic and Critical Thinking",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "POLS2133",
+        "level": "International Organisations in World Politics",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level course from ",
+        "level": "the listed award rules",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Politics list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "POLS2094",
+        "level": "Issues in International Political Economy",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level course from ",
+        "level": "the listed award rules",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1008",
+        "level": "PPE Integrative Seminar Year 1: Puzzles in Politics, Philosophy and Economics",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Philosophy list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "POLS3001",
+        "level": "Foreign Policy Analysis: Understanding Global and Australian Foreign Policy Decision-Making",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level course from ",
+        "level": "the listed award rules",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON2101",
+        "level": "Microeconomics 2(P)",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Economics list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "POLS3017",
+        "level": "International Relations Theory",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level course from ",
+        "level": "the listed award rules",
+        "units": "6 units"
+      },
+      {
+        "code": "PHIL2116",
+        "level": "PPE Integrative Seminar Year 2",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Politics list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Any 2000/3000 level course from ",
+        "level": "the listed award rules",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level course from ",
+        "level": "the listed award rules",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Philosophy list Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ANIP/ECON/PHIL/POLS",
+        "level": "2000/3000 Level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Any 2000/3000 level course from ",
+        "level": "the listed award rules",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level course from ",
+        "level": "the listed award rules",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON3056",
+        "level": "PPE Integrative Seminar Year 3: Classic Literature in PPE",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Economics list Course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2017": [
+    [
+      {
+        "code": "POLS1005",
+        "level": "Introduction to International Relations: Foundations and Concepts",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 1000 level course from ",
+        "level": "the Area Studies or Security Lists or Minor 1000/2000 Level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1002",
+        "level": "Introduction to Politics",
+        "units": "6 units"
+      },
+      {
+        "code": "PHIL1004",
+        "level": "Fundamental Ideas in Philosophy: An Introduction",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "POLS1006",
+        "level": "Introduction to International Relations:  Contemporary Global Issues",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 1000 level course from ",
+        "level": "the Area Studies or Security Lists or Minor 1000/2000 Level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1009",
+        "level": "Research and Writing in Political Science",
+        "units": "6 units"
+      },
+      {
+        "code": "PHIL1005",
+        "level": "Logic and Critical Thinking",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "POLS2133",
+        "level": "International Organisations in World Politics",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level course from ",
+        "level": "the listed award rules",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Politics list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "POLS2094",
+        "level": "Issues in International Political Economy",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level course from ",
+        "level": "the listed award rules",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1008",
+        "level": "PPE Integrative Seminar Year 1: Puzzles in Politics, Philosophy and Economics",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Philosophy list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "POLS3001",
+        "level": "Foreign Policy Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level course from ",
+        "level": "the listed award rules",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON2101",
+        "level": "Microeconomics 2(P)",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Economics list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "POLS3017",
+        "level": "International Relations Theory",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level course from ",
+        "level": "the listed award rules",
+        "units": "6 units"
+      },
+      {
+        "code": "PHIL2116",
+        "level": "PPE Integrative Seminar Year 2",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Politics list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Any 2000/3000 level course from ",
+        "level": "the listed award rules",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level course from ",
+        "level": "the listed award rules",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Philosophy list Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ANIP/ECON/PHIL/POLS",
+        "level": "2000/3000 Level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Any 2000/3000 level course from ",
+        "level": "the listed award rules",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level course from ",
+        "level": "the listed award rules",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON3056",
+        "level": "PPE Integrative Seminar Year 3: Classic Literature in PPE",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Economics list Course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2018": [
+    [
+      {
+        "code": "POLS1005",
+        "level": "Introduction to International Relations: Foundations and Concepts",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 1000 level course from ",
+        "level": "the Area Studies or Security Lists or Minor 1000/2000 Level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1002",
+        "level": "Introduction to Politics",
+        "units": "6 units"
+      },
+      {
+        "code": "PHIL1004",
+        "level": "Fundamental Ideas in Philosophy: An Introduction",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "POLS1006",
+        "level": "Introduction to International Relations:  Contemporary Global Issues",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 1000 level course from ",
+        "level": "the Area Studies or Security Lists or Minor 1000/2000 Level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1009",
+        "level": "Research and Writing in Political Science",
+        "units": "6 units"
+      },
+      {
+        "code": "PHIL1005",
+        "level": "Logic and Critical Thinking",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "POLS2133",
+        "level": "International Organisations in World Politics",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level course from ",
+        "level": "the listed award rules",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Politics list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "POLS2094",
+        "level": "Issues in International Political Economy",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level course from ",
+        "level": "the listed award rules",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1008",
+        "level": "PPE Integration 1",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Philosophy list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "POLS3001",
+        "level": "Foreign Policy Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level course from ",
+        "level": "the listed award rules",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON2101",
+        "level": "Microeconomics 2(P)",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Economics list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "POLS3017",
+        "level": "International Relations Theory",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level course from ",
+        "level": "the listed award rules",
+        "units": "6 units"
+      },
+      {
+        "code": "PHIL2116",
+        "level": "PPE Integration 2",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Politics list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Any 2000/3000 level course from ",
+        "level": "the listed award rules",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level course from ",
+        "level": "the listed award rules",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Philosophy list Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ANIP/ECON/PHIL/POLS",
+        "level": "2000/3000 Level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Any 2000/3000 level course from ",
+        "level": "the listed award rules",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level course from ",
+        "level": "the listed award rules",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON3056",
+        "level": "PPE Integration 3: Classic Literature in PPE",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Economics list Course",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2019": [
+    [
+      {
+        "code": "POLS1005",
+        "level": "Introduction to International Relations: Foundations and Concepts",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 1000 level course from ",
+        "level": "the Area Studies or Security Lists or Minor 1000/2000 Level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1002",
+        "level": "Introduction to Politics",
+        "units": "6 units"
+      },
+      {
+        "code": "PHIL1004",
+        "level": "Fundamental Ideas in Philosophy: An Introduction",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "POLS1006",
+        "level": "Introduction to International Relations:  Contemporary Global Issues",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 1000 level course from ",
+        "level": "the Area Studies or Security Lists or Minor 1000/2000 Level Course",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1009",
+        "level": "Research and Writing in Political Science",
+        "units": "6 units"
+      },
+      {
+        "code": "PHIL1005",
+        "level": "Logic and Critical Thinking",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "POLS2133",
+        "level": "International Organisations in World Politics",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level course from ",
+        "level": "the listed award rules",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON1101",
+        "level": "Microeconomics 1",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Politics list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "POLS2094",
+        "level": "Issues in International Political Economy",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level course from ",
+        "level": "the listed award rules",
+        "units": "6 units"
+      },
+      {
+        "code": "POLS1008",
+        "level": "PPE Integration 1",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Philosophy list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "POLS3001",
+        "level": "Foreign Policy Analysis",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level course from ",
+        "level": "the listed award rules",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON2101",
+        "level": "Microeconomics 2(P)",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Economics list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "POLS3017",
+        "level": "International Relations Theory",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level course from ",
+        "level": "the listed award rules",
+        "units": "6 units"
+      },
+      {
+        "code": "PHIL2116",
+        "level": "PPE Integration 2",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Politics list Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Any 2000/3000 level course from ",
+        "level": "the listed award rules",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level course from ",
+        "level": "the listed award rules",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Philosophy list Course",
+        "units": "6 units"
+      },
+      {
+        "code": "ANIP/ECON/PHIL/POLS",
+        "level": "2000/3000 Level Course",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "Any 2000/3000 level course from ",
+        "level": "the listed award rules",
+        "units": "6 units"
+      },
+      {
+        "code": "Any 2000/3000 level course from ",
+        "level": "the listed award rules",
+        "units": "6 units"
+      },
+      {
+        "code": "ECON3056",
+        "level": "PPE Integration 3: Classic Literature in PPE",
+        "units": "6 units"
+      },
+      {
+        "code": "Non-compulsory Economics list Course",
+        "units": "6 units"
+      }
+    ]
+  ]
+}

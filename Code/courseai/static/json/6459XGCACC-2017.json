@@ -1,0 +1,34 @@
+{
+  "name": "Graduate Certificate of Accounting",
+  "code": "6459XGCACC",
+  "year": 2017,
+  "units": 24,
+  "required": {
+    "x_from_here": [
+      {
+        "type": "minimum",
+        "units": 24,
+        "courses": [
+          "BUSN7005",
+          "BUSN7006",
+          "BUSN7008",
+          "BUSN7017",
+          "BUSN7021",
+          "BUSN7031",
+          "BUSN7036",
+          "BUSN7045",
+          "BUSN7049",
+          "BUSN7050",
+          "BUSN7052",
+          "BUSN7054",
+          "BUSN7057",
+          "ECON8069",
+          "FINM7006",
+          "STAT7055"
+        ]
+      }
+    ],
+    "one_from_m/m/s": [],
+    "required_m/m/s": []
+  }
+}

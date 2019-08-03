@@ -1,0 +1,148 @@
+{
+  "name": "Master of Applied Anthropology and Participatory Development (Advanced)",
+  "code": "VAAPD",
+  "year": 2015,
+  "units": 96,
+  "required": {
+    "x_from_here": [
+      {
+        "type": "minimum",
+        "units": 18,
+        "courses": [
+          "ANTH8007",
+          "ANTH8009",
+          "ANTH8038"
+        ]
+      },
+      {
+        "type": "minimum",
+        "units": 6,
+        "courses": [
+          "ANTH8029",
+          "ANTH8032",
+          "ANTH8042",
+          "ANTH8047",
+          "ANTH8049",
+          "ANTH8056",
+          "ANTH8060",
+          "INDG8001"
+        ]
+      },
+      {
+        "type": "minimum",
+        "units": 18,
+        "courses": [
+          "ANTH8006",
+          "ANTH8028"
+        ]
+      },
+      {
+        "type": "minimum",
+        "units": 12,
+        "courses": [
+          "ANTH6065",
+          "ANTH6066",
+          "ANTH8009",
+          "ANTH8016",
+          "ANTH8029",
+          "ANTH8030",
+          "ANTH8032",
+          "ANTH8037",
+          "ANTH8042",
+          "ANTH8047",
+          "ANTH8056",
+          "ANTH8057",
+          "ANTH8060",
+          "CHMD8006",
+          "CRWF8016",
+          "DEMO8048",
+          "DIPL8010",
+          "EMDV8009",
+          "HGEO8001",
+          "HGEO8002",
+          "HUMN8023",
+          "INDG8001",
+          "PASI6003",
+          "POGO8003",
+          "POGO8061",
+          "POGO8898",
+          "STST8032"
+        ]
+      },
+      {
+        "type": "minimum",
+        "units": 24,
+        "courses": [
+          "ANTH6009",
+          "ANTH6026",
+          "ANTH8014",
+          "ANTH8049",
+          "ANTH8106",
+          "ANTH8107",
+          "EMDV8013",
+          "EMDV8101",
+          "SOCY6045"
+        ]
+      },
+      {
+        "type": "minimum",
+        "units": 6,
+        "courses": [
+          "ANTH6065",
+          "ANTH6066",
+          "ANTH8009",
+          "ANTH8016",
+          "ANTH8029",
+          "ANTH8030",
+          "ANTH8032",
+          "ANTH8037",
+          "ANTH8042",
+          "ANTH8047",
+          "ANTH8056",
+          "ANTH8057",
+          "ANTH8060",
+          "CHMD8006",
+          "DEMO8048",
+          "DIPL8010",
+          "EMDV8009",
+          "EMDV8082",
+          "EMDV8124",
+          "HGEO8001",
+          "HUMN8023",
+          "INDG8001",
+          "PASI6003",
+          "POGO8003",
+          "POGO8061",
+          "POGO8898",
+          "STST8032"
+        ]
+      },
+      {
+        "type": "minimum",
+        "units": 18,
+        "courses": [
+          "ANTH8019",
+          "ANTH8008"
+        ]
+      },
+      {
+        "type": "minimum",
+        "units": 12,
+        "courses": [
+          "ANTH8019",
+          "ANTH8028"
+        ]
+      }
+    ],
+    "one_from_m/m/s": [
+      [
+        "HUAC-SPEC",
+        "SOEN-SPEC",
+        "INPO-SPEC",
+        "CODE-SPEC",
+        "GEDE-SPEC"
+      ]
+    ],
+    "required_m/m/s": []
+  }
+}

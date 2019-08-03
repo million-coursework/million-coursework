@@ -1,0 +1,20 @@
+{
+  "name": "Executive Master of Public Administration",
+  "code": "MEMPA",
+  "year": 2016,
+  "units": 72,
+  "required": {
+    "compulsory_courses": [
+      "POGO8057",
+      "POGO8063",
+      "POGO8064",
+      "POGO8065",
+      "POGO8066",
+      "POGO8067",
+      "POGO8123",
+      "POGO8300"
+    ],
+    "one_from_m/m/s": [],
+    "required_m/m/s": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Master of International Relations",
+  "code": "MINTR",
+  "year": 2019,
+  "units": 96,
+  "required": {
+    "compulsory_courses": [
+      "INTR8069",
+      "INTR8071",
+      "INTR8011",
+      "INTR8013"
+    ],
+    "one_from_m/m/s": [],
+    "required_m/m/s": []
+  }
+}

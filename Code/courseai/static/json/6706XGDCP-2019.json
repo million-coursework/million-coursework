@@ -1,0 +1,16 @@
+{
+  "name": "Graduate Diploma of Computing",
+  "code": "6706XGDCP",
+  "year": 2019,
+  "units": 48,
+  "required": {
+    "compulsory_courses": [
+      "COMP6710",
+      "MATH6005",
+      "COMP6250",
+      "COMP6442"
+    ],
+    "one_from_m/m/s": [],
+    "required_m/m/s": []
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Master of Business Administration",
+  "code": "7810XMBA",
+  "year": 2016,
+  "units": 96,
+  "required": {
+    "compulsory_courses": [
+      "BUSI7033",
+      "FINM7006",
+      "INFS7040",
+      "MGMT7001",
+      "MGMT7006",
+      "MGMT7030",
+      "MGMT7170",
+      "MKTG7001",
+      "ECON8069",
+      "BUSN8181",
+      "MGMT8022",
+      "MGMT8003"
+    ],
+    "one_from_m/m/s": [
+      [
+        "BISY-SPEC",
+        "PROM-SPEC",
+        "MKTG-SPEC",
+        "REPG-SPEC",
+        "APFN-SPEC",
+        "LEAD-SPEC",
+        "BUSI-SPEC",
+        "ENIN-SPEC"
+      ]
+    ],
+    "required_m/m/s": []
+  }
+}

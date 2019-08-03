@@ -1,0 +1,131 @@
+{
+  "code": "VINTR",
+  "2014": [],
+  "2015": [],
+  "2016": [],
+  "2017": [],
+  "2018": [
+    [
+      {
+        "code": "INTR8069",
+        "level": "Writing International Relations 12 Units",
+        "units": "12 units"
+      },
+      {
+        "code": "INTR8071",
+        "level": "World Politics 12 Units",
+        "units": "12 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "INTR8032",
+        "level": "Global Security",
+        "units": "6 units"
+      },
+      {
+        "code": "INTR8068",
+        "level": "Making Foreign Policy",
+        "units": "6 units"
+      },
+      {
+        "code": "INTR8072",
+        "level": "Approaches and Methods in International Relations",
+        "units": "6 units"
+      },
+      {
+        "code": "International Relations elective"
+      }
+    ],
+    [
+      {
+        "code": "INTR8011",
+        "level": "International Relations Theory",
+        "units": "12 units"
+      },
+      {
+        "code": "INTR8013",
+        "level": "International Political Economy",
+        "units": "6 units"
+      },
+      {
+        "code": "International Relations elective"
+      },
+      {}
+    ],
+    [
+      {
+        "code": "INTR8038",
+        "level": "Thesis",
+        "units": "24 units"
+      },
+      {},
+      {},
+      {}
+    ]
+  ],
+  "2019": [
+    [
+      {
+        "code": "INTR8069",
+        "level": "Writing International Relations 12 Units",
+        "units": "12 units"
+      },
+      {
+        "code": "INTR8071",
+        "level": "World Politics 12 Units",
+        "units": "12 units"
+      },
+      {},
+      {}
+    ],
+    [
+      {
+        "code": "INTR8032",
+        "level": "Global Security",
+        "units": "6 units"
+      },
+      {
+        "code": "INTR8068",
+        "level": "Making Foreign Policy",
+        "units": "6 units"
+      },
+      {
+        "code": "INTR8072",
+        "level": "Approaches and Methods in International Relations",
+        "units": "6 units"
+      },
+      {
+        "code": "International Relations elective"
+      }
+    ],
+    [
+      {
+        "code": "INTR8011",
+        "level": "International Relations Theory",
+        "units": "12 units"
+      },
+      {
+        "code": "INTR8013",
+        "level": "International Political Economy",
+        "units": "6 units"
+      },
+      {
+        "code": "International Relations elective"
+      },
+      {}
+    ],
+    [
+      {
+        "code": "INTR8038",
+        "level": "Thesis",
+        "units": "24 units"
+      },
+      {},
+      {},
+      {}
+    ]
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "code": "7601XMCPSY",
+  "2014": [],
+  "2015": [],
+  "2016": [],
+  "2017": [
+    [
+      {
+        "code": "PSYC8101",
+        "level": "Clinical Coursework I",
+        "units": "12 units"
+      },
+      {},
+      {
+        "code": "PSYC8201",
+        "level": "Clinical Field Placement I",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC8301",
+        "level": "Clinical Research I",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "PSYC8102",
+        "level": "Clinical Coursework II",
+        "units": "12 units"
+      },
+      {},
+      {
+        "code": "PSYC8202",
+        "level": "Clinical Field Placement II",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC8302",
+        "level": "Clinical Research II",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "PSYC8103",
+        "level": "Clinical Coursework III",
+        "units": "12 units"
+      },
+      {},
+      {
+        "code": "PSYC8203",
+        "level": "Clinical Field Placement III",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC8303",
+        "level": "Clinical Research III",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "PSYC8104",
+        "level": "Clinical Coursework IV",
+        "units": "12 units"
+      },
+      {},
+      {
+        "code": "PSYC8204",
+        "level": "Clinical Field Placement IV",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC8304",
+        "level": "Clinical Research IV",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2018": [
+    [
+      {
+        "code": "PSYC8101",
+        "level": "Clinical Coursework I",
+        "units": "12 units"
+      },
+      {},
+      {
+        "code": "PSYC8201",
+        "level": "Clinical Field Placement I",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC8301",
+        "level": "Clinical Research I",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "PSYC8102",
+        "level": "Clinical Coursework II",
+        "units": "12 units"
+      },
+      {},
+      {
+        "code": "PSYC8202",
+        "level": "Clinical Field Placement II",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC8302",
+        "level": "Clinical Research II",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "PSYC8103",
+        "level": "Clinical Coursework III",
+        "units": "12 units"
+      },
+      {},
+      {
+        "code": "PSYC8203",
+        "level": "Clinical Field Placement III",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC8303",
+        "level": "Clinical Research III",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "PSYC8104",
+        "level": "Clinical Coursework IV",
+        "units": "12 units"
+      },
+      {},
+      {
+        "code": "PSYC8204",
+        "level": "Clinical Field Placement IV",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC8304",
+        "level": "Clinical Research IV",
+        "units": "6 units"
+      }
+    ]
+  ],
+  "2019": [
+    [
+      {
+        "code": "PSYC8101",
+        "level": "Clinical Coursework I",
+        "units": "12 units"
+      },
+      {},
+      {
+        "code": "PSYC8201",
+        "level": "Clinical Field Placement I",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC8301",
+        "level": "Clinical Research I",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "PSYC8102",
+        "level": "Clinical Coursework II",
+        "units": "12 units"
+      },
+      {},
+      {
+        "code": "PSYC8202",
+        "level": "Clinical Field Placement II",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC8302",
+        "level": "Clinical Research II",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "PSYC8103",
+        "level": "Clinical Coursework III",
+        "units": "12 units"
+      },
+      {},
+      {
+        "code": "PSYC8203",
+        "level": "Clinical Field Placement III",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC8303",
+        "level": "Clinical Research III",
+        "units": "6 units"
+      }
+    ],
+    [
+      {
+        "code": "PSYC8104",
+        "level": "Clinical Coursework IV",
+        "units": "12 units"
+      },
+      {},
+      {
+        "code": "PSYC8204",
+        "level": "Clinical Field Placement IV",
+        "units": "6 units"
+      },
+      {
+        "code": "PSYC8304",
+        "level": "Clinical Research IV",
+        "units": "6 units"
+      }
+    ]
+  ]
+}

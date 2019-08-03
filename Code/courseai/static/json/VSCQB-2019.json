@@ -1,0 +1,36 @@
+{
+  "name": "Master of Science (Advanced) in Quantitative Biology and Bioinformatics",
+  "code": "VSCQB",
+  "year": 2019,
+  "units": 12,
+  "required": {
+    "x_from_here": [
+      {
+        "type": "minimum",
+        "units": 18,
+        "courses": [
+          "BIOL6200",
+          "STAT7001"
+        ]
+      },
+      {
+        "type": "maximum",
+        "units": 6,
+        "courses": [
+          "BIOL6035",
+          "BIOL6036"
+        ]
+      },
+      {
+        "type": "maximum",
+        "units": 6,
+        "courses": [
+          "COMP6730",
+          "COMP7230"
+        ]
+      }
+    ],
+    "one_from_m/m/s": [],
+    "required_m/m/s": []
+  }
+}

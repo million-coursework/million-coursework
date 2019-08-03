@@ -1,0 +1,52 @@
+{
+  "name": "Master of Laws",
+  "code": "MLLM",
+  "year": 2019,
+  "units": 48,
+  "required": {
+    "x_from_here": [
+      {
+        "type": "minimum",
+        "units": 12,
+        "courses": [
+          "LAWS8074",
+          "LAWS8076",
+          "LAWS8131",
+          "LAWS8132",
+          "LAWS8143",
+          "LAWS8150",
+          "LAWS8155",
+          "LAWS8156",
+          "LAWS8157",
+          "LAWS8308",
+          "LAWS8317",
+          "LAWS8318",
+          "LAWS8319",
+          "LAWS8321",
+          "LAWS8322",
+          "LAWS8323",
+          "LAWS8324",
+          "LAWS8325",
+          "LAWS8326",
+          "LAWS8327",
+          "LAWS8331",
+          "LAWS8574",
+          "LAWS8580",
+          "LAWS8581",
+          "LAWS8584",
+          "LAWS8591",
+          "LAWS8592",
+          "LAWS8593",
+          "LAWS8653",
+          "LAWS8657",
+          "LAWS8651",
+          "LAWS8652",
+          "LAWS8658",
+          "LAWS8659"
+        ]
+      }
+    ],
+    "one_from_m/m/s": [],
+    "required_m/m/s": []
+  }
+}
