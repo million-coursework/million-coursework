@@ -1,5 +1,0 @@
-"http://programsandcourses.anu.edu.au/2018/course/MKTG2004",
-"http://programsandcourses.anu.edu.au/2018/course/MKTG4500",
-"http://programsandcourses.anu.edu.au/2018/course/MKTG2001",
-"http://programsandcourses.anu.edu.au/2018/course/MKTG2003",
-"http://programsandcourses.anu.edu.au/2018/course/MKTG2023"

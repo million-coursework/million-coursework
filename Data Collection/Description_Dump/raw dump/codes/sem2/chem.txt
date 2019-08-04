@@ -1,9 +1,0 @@
-"http://programsandcourses.anu.edu.au/2018/course/CHEM3206",
-"http://programsandcourses.anu.edu.au/2018/course/CHEM2208",
-"http://programsandcourses.anu.edu.au/2018/course/CHEM2203",
-"http://programsandcourses.anu.edu.au/2018/course/CHEM1201",
-"http://programsandcourses.anu.edu.au/2018/course/CHEM4005",
-"http://programsandcourses.anu.edu.au/2018/course/CHEM3207",
-"http://programsandcourses.anu.edu.au/2018/course/CHEM2213",
-"http://programsandcourses.anu.edu.au/2018/course/CHEM3208",
-"http://programsandcourses.anu.edu.au/2018/course/CHEM3060"

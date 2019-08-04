@@ -1,9 +1,0 @@
-"http://programsandcourses.anu.edu.au/2018/course/ARCH4001",
-"http://programsandcourses.anu.edu.au/2018/course/ARCH2007",
-"http://programsandcourses.anu.edu.au/2018/course/ARCH4002",
-"http://programsandcourses.anu.edu.au/2018/course/ARCH1111",
-"http://programsandcourses.anu.edu.au/2018/course/ARCH2052",
-"http://programsandcourses.anu.edu.au/2018/course/ARCH3030",
-"http://programsandcourses.anu.edu.au/2018/course/ARCH2056",
-"http://programsandcourses.anu.edu.au/2018/course/ARCH4004",
-"http://programsandcourses.anu.edu.au/2018/course/ARCH2060"

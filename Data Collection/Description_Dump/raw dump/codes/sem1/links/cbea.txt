@@ -1,6 +1,0 @@
-"http://programsandcourses.anu.edu.au/2018/course/CBEA3070",
-"http://programsandcourses.anu.edu.au/2018/course/CBEA3001",
-"http://programsandcourses.anu.edu.au/2018/course/CBEA5922",
-"http://programsandcourses.anu.edu.au/2018/course/CBEA5920",
-"http://programsandcourses.anu.edu.au/2018/course/CBEA5921",
-"http://programsandcourses.anu.edu.au/2018/course/CBEA3066"

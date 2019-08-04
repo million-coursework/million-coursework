@@ -1,6 +1,0 @@
-"http://programsandcourses.anu.edu.au/2018/course/INFS2005",
-"http://programsandcourses.anu.edu.au/2018/course/INFS1001",
-"http://programsandcourses.anu.edu.au/2018/course/INFS4500",
-"http://programsandcourses.anu.edu.au/2018/course/INFS3002",
-"http://programsandcourses.anu.edu.au/2018/course/INFS4205",
-"http://programsandcourses.anu.edu.au/2018/course/INFS3059"
