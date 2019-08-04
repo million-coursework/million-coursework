@@ -31,6 +31,16 @@ The Intelligent Course Scheduler is coming soon!
 
 ## Team Members
 
+|  Team member | Uid  |Roles|
+| :-----| :-----| :-----|
+|Kundu Gui|u6738001|Project manager|
+|Rui Zhang |u6545091|Developer and risk manager|
+|Sayed Zulfikar|u6456228|UX Designer|
+|Zifeng Liu| u6745424|Developer|
+|Xiangyu Chen|u6611139|Developer|
+|Lingyu Xia|u6483756|Developer|
+|Yichen Li|u6499990|Client liaison|
+
 ## Tools and Services
 **Project Repository-github repo-"million-coursework":** https://github.com/million-coursework   
 
