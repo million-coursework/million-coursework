@@ -1,5 +1,5 @@
 # Million-coursework
-This project will upgrade the former course selection project in many fields including improving Graphical User Interface (GUI), offering access control for ANU stuff and former bugs fixing. Students could select personalized course depending on their interaction with website and give feedback to Anu stuff directly. 
+This project will upgrade the former course selection project in many fields including improving Graphical User Interface (GUI), offering access control for ANU stuff and former bugs fixing. Students could select personalized course depending on their interaction with website and give feedback to ANU stuff directly. 
 
 The Intelligent Course Scheduler is coming soon!
 
