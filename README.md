@@ -73,7 +73,12 @@ The plan for this semester includes five main work objectives. They are, in a ro
 ## Key Stakeholders
 ![Image of Stakeholders](Documentation/Audit1/Images/Stakeholders.png)
 ## Client and Stakeholder Expectations
-
+* Accenture
+  * Upgrade more functions and optimize the scheduler .
+* The Australian National University
+  * Manage the system by access control function and get students' feedback.
+  * The team will meet all project requirements within the timeline. 
+  * Demonstrate the better GUI and control system could make students get better experience of course selection.
 ## Project Impact
 
 ## Technical and Other Constraints
