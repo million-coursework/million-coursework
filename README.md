@@ -13,23 +13,21 @@ The Intelligent Course Scheduler is coming soon!
 
 4. [Project Schedule](#project-schedule)
 
-5. [Process Changes](#project-changes)
+5. [Client's Vision](#clients-vision)
 
-6. [Client's Vision](#clients-vision)
+6. [Key Stakeholders](#key-stakeholders)
 
-7. [Key Stakeholders](#key-stakeholders)
+7. [Client and Stakeholder Expectations](#client-and-stakeholder-expectations)
 
-8. [Client and Stakeholder Expectations](#client-and-stakeholder-expectations)
+8. [Project Impact](#project-impact)
 
-9. [Project Impact](#project-impact)
+9. [Technical and Other Constraints](#technical-and-other-constraints)
 
-10. [Technical and Other Constraints](#technical-and-other-constraints)
+10. [Resources, Risks and Potential Costs](#resources-risks-and-potential-costs)
 
-11. [Resources, Risks and Potential Costs](#resources-risks-and-potential-costs)
+11. [NDA and IP Concerns](#nda-and-ip-concerns)
 
-12. [NDA and IP Concerns](#nda-and-ip-concerns)
-
-13. [References](#references)
+12. [References](#references)
 
 ## Team Members
 
@@ -65,8 +63,6 @@ The plan for this semester includes five main work objectives. They are, in a ro
 * **Sprint 3**: Weeks 8 - 10. Project Audit 3,paste function,access control and bug fixing.
 
 ![Gantt](Documentation/Audit1/Images/gantt.PNG)
-  
-## Process Changes
 
 ## Client's Vision
 
