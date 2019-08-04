@@ -33,16 +33,18 @@
 
 ## Tools and Services
 **Project Repository-github repo-"million-coursework":** https://github.com/million-coursework   
-**Team communication tool-Slack channel：** https://millioncourse.slack.com  
-**Task management: Trello board "Million Course Project":** https://trello.com/b/NZ6f3hWP/million-course-project  
-**Contribution management: Google excel:** https://docs.google.com/spreadsheets/d/1VDyPTPGakaePHO59xfDXeRE0bjdDeTqzyIgMXlnG3V4/edit?usp=sharing  
 
-Thanks to the advice provided by our clients, what tool to choose can work more efficiently.
-Thanks also to the inspiration that our clients have brought us, and we have established a way to calculate the contribution fairly so that everyone in our team can contribute to the project.  
+**Team communication tool-Slack channel：** https://millioncourse.slack.com  
+
+**Task management: Trello board "Million Course Project":** https://trello.com/b/NZ6f3hWP/million-course-project  
+
+**Contribution management: Google excel:** https://docs.google.com/spreadsheets/d/1VDyPTPGakaePHO59xfDXeRE0bjdDeTqzyIgMXlnG3V4/edit?usp=sharing  
 
 **Related links:**
 GitHub organisation "AICourseSelection"：  https://github.com/AICourseSelection
 
+Thanks to the advice provided by our clients, what tool to choose can work more efficiently.
+Thanks also to the inspiration that our clients have brought us, and we have established a way to calculate the contribution fairly so that everyone in our team can contribute to the project.  
 
 ## Milestones
 The plan for this semester includes five main work objectives. They are, in a rough order of priority, as follows:
