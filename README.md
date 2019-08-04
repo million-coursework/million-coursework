@@ -85,6 +85,9 @@ We have noticed that there are some potential risks in the following aspects. Fi
 Here is a table shows our budget:
 
 
+![Budget](Documentation/Audit1/Images/budget.PNG)
+
+
 
 ## NDA and Ip Concerns
 
