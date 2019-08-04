@@ -69,7 +69,7 @@ The plan for this semester includes five main work objectives. They are, in a ro
 ## Client's Vision
 
 ## Key Stakeholders
-![Image of Stakeholders](Documentation/Audit1/Images/Stakeholders.png)
+
 ## Client and Stakeholder Expectations
 
 ## Project Impact
