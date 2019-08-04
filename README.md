@@ -80,6 +80,13 @@ The plan for this semester includes five main work objectives. They are, in a ro
   * The team will meet all project requirements within the timeline. 
   * Demonstrate the better GUI and control system could make students get better experience of course selection.
 ## Project Impact
+The aim of this project is to upgrade the former course selection project for university students. Good GUI could bring a better experience to students. Compared with invisible code, the graphical user interface could be viewed directly. In fact, optimizing the GUI of course selection system allows university students to retrieve information more efficiently. In addition, we will work on access control, which could help Anu staff to manage the course information easier. There are some bugs existing in course selection system at presents and we will focus on fixing them. Eventually this project could mainly bring students three benefits in summary.
+
+1. Students will be able to experience a better user interface which will make their course selection clear and efficient. The access control function allows Anu staff update the course information as soon as possible which will bring more convenience to students.
+
+2.  For some specific majors, some bugs occur when students select course and this website can not be used normally on the mobile services. After fixing these bugs, it could bring a better experience for university students.
+
+3. We believe that this project will encourage students to explore more about courses and enable students to consider a greater number of options when enrolling. As a result, the proposed project would enhance student experience and university life.
 
 ## Technical and Other Constraints
  The system could now scrap data accurately and efficiently, and we have our own database. However, one thing leave to us is that in order to keep the database up to date, we might need to update it manually, prerequisites change in different years and degrees, we need the latest data to provide a rationally AI system to arrange the degree. Meanwhile, students may start degrees in different semesters, different degrees may have different requirements and rules. Thus, strategies should vary based on different situations or the the data we acquire should be formatted in an universal form.
