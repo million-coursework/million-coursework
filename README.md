@@ -106,3 +106,4 @@ Here is a table shows our budget:
 ## NDA and Ip Concerns
 
 ## References
+Galitz, W. O., & Safari Books Online. (2007). The essential guide to user interface design: An introduction to GUI design principles and techniques (3rd ed.). Indianapolis, IN: Wiley Pub.
