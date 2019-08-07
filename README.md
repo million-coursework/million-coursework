@@ -3,6 +3,8 @@ This project will upgrade the former intelligent Course Scheduler project in man
 
 The Intelligent Course Scheduler is coming soon!
 
+### [Semester 2 Project Progress](Documentation/overview.md)
+
 ## Table of Contents
 
 1. [Team Members](#team-members)
@@ -60,9 +62,9 @@ The plan for this semester includes five main work objectives. They are, in a ro
 
 ![Project Schedule](Documentation/Audit1/Images/Schedule.png)
 * **Kick-Off**: Weeks 1 - 2. Team member recruitment, onboarding, project definition and setup. 
-* **Sprint 1**: Weeks 3 - 5. Project Audit 1,graphical user interface,bug fixing. 
-* **Sprint 2**: Weeks 6 - 7. Project Audit 2, CRUD functions,copy function and bug fixing. 
-* **Sprint 3**: Weeks 8 - 10. Project Audit 3,paste function,access control and bug fixing.
+* **Sprint 1**: Weeks 3 - 5. Project Audit 1, read and update feature for graphical user interface. 
+* **Sprint 2**: Weeks 6 - 7. Project Audit 2, create and delete feature for graphical user interface, access control.
+* **Sprint 3**: Weeks 8 - 10. Project Audit 3, copy and paste feature, project poster.
 
 ![Gantt](Documentation/Audit1/Images/gantt.PNG)
 
