@@ -77,8 +77,14 @@ Some of these features include:
 ## Key Stakeholders
 ![Image of Stakeholders](Documentation/Audit1/Images/MCSStakeHolder.001.png)
 ## Client and Stakeholder Expectations
-* Accenture
+* Clients: Joseph and Safeer
   * Upgrade more functions and optimize the scheduler .
+  * Upgrade more functions and optimize the scheduler.
+	 * Regular timely communication between clients and project team.
+	 * Great Teamwork and strong motivation for project.
+  * Self-reflection and figure out what to do as a team. 
+  * Critical thinking about project design and quality.
+
 * The Australian National University
   * Manage the system by access control function and get students' feedback.
   * The team will meet all project requirements within the timeline. 
@@ -108,6 +114,8 @@ Here is a table shows our budget:
 
 
 ## NDA and Ip Concerns
+There will be no non-disclosure agreement required. 
+Any materials, tools, methods/techniques and software provided by Clients advised and agreed to be Clients’ Copyright, will remain the intellectual property of Clients. New codes developed by project members will be owned by project team.
 
 ## References
 Galitz, W. O., & Safari Books Online. (2007). The essential guide to user interface design: An introduction to GUI design principles and techniques (3rd ed.). Indianapolis, IN: Wiley Pub.
