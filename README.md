@@ -80,8 +80,8 @@ Some of these features include:
 * Clients: Joseph and Safeer
   * Upgrade more functions and optimize the scheduler .
   * Upgrade more functions and optimize the scheduler.
-	 * Regular timely communication between clients and project team.
-	 * Great Teamwork and strong motivation for project.
+  * Regular timely communication between clients and project team.
+  * Great Teamwork and strong motivation for project.
   * Self-reflection and figure out what to do as a team. 
   * Critical thinking about project design and quality.
 
@@ -115,6 +115,7 @@ Here is a table shows our budget:
 
 ## NDA and Ip Concerns
 There will be no non-disclosure agreement required. 
+
 Any materials, tools, methods/techniques and software provided by Clients advised and agreed to be Clients’ Copyright, will remain the intellectual property of Clients. New codes developed by project members will be owned by project team.
 
 ## References
