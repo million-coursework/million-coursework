@@ -69,7 +69,7 @@ The plan for this semester includes five main work objectives. They are, in a ro
 ## Client's Vision
 
 ## Key Stakeholders
-![Image of Stakeholders](Documentation/Audit1/Images/Stakeholders.png)
+![Image of Stakeholders](Documentation/Audit1/Images/MCSStakeHolder.001.png)
 ## Client and Stakeholder Expectations
 * Accenture
   * Upgrade more functions and optimize the scheduler .
