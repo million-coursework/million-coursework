@@ -45,7 +45,7 @@ The Intelligent Course Scheduler is coming soon!
 
 **User Story Point Calculator: Google excel:** https://docs.google.com/spreadsheets/d/1VDyPTPGakaePHO59xfDXeRE0bjdDeTqzyIgMXlnG3V4/edit?usp=sharing  
 
-**Burn Down Chart:** https://anu365-my.sharepoint.com/:x:/g/personal/u6738001_anu_edu_au/EbF5bp3Pf6lMrXNfB57EcGABPOgCS3ocK4o_7AMFwq4cCg?e=zt8mPH
+**Burn Down Chart:** https://drive.google.com/open?id=1YXpoZipWnUfFZUe16BZG64oZYpVcX1il
 
 **Related links:**
 GitHub organisation "AICourseSelection"：  https://github.com/AICourseSelection
