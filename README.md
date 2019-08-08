@@ -115,7 +115,7 @@ For our project, all the resources of codes and how it works are from our client
 
 We have noticed that there are some potential risks in the following aspects. Firstly, there are always some uncontrollable factors in our work. We must define the due time of each small tasks. It is better to allocating enough time for each task and make sure that every member done their work on schedule. Once someone cannot finish their work on time, there should be some extra time for this issue. Secondly, we should guarantee the highest quality of our product in the shortest time. Some mistakes would reduce quality, for example, working on the hardest or the not important tasks first. We use plan poker to allocate our tasks, and make sure that we put the most important task at first. Thirdly, relationship between teammates is also a kind of risks. Members who are not happy with their teammates would not working hard and reduce the communication among the team, then fail the project. 
 
-Base on our situation, we are not a special team, which means that each of us must working on this project at least 10 hours per week. We also have to pay for the could server for our product. The cloud server would be free for a few month，then we could apply for the techlauncher grant.
+Based on our situation, we are not a special team, which means that each of us must working on this project at least 10 hours per week. We also have to pay for the could server for our product. The cloud server would be free for a few months，then we could apply for the techlauncher grant.
 Here is a table shows our budget for the could server:
 
 ![Budget](Documentation/Audit1/Images/budget.PNG)
