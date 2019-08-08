@@ -70,11 +70,16 @@ The plan for this semester includes five main work objectives. They are, in a ro
 
 ## Client's Vision
 Our mission statement is to transform the way students discover and explore their options at university. The Intelligent Course Scheduler, currently known as ANU ICS, offers interactive degree planning and personalised course discovery to make picking courses simple and enjoyable for students. It uses machine learning to recommend courses to students, and provides university administrators with a structured data model of the entire system of courses, majors, and degree requirements.
+
 As it stands, the product is easily usable by students and has been well-received. However, it is still a proof of concept (POC) and still stands to be improved upon in many areas. Our primary goal for this semester is to improve and streamline the ICS to a point where it can be safely and easily handed over to the ANU for simple upkeep. Following this MVP, we envision the product to improve in other auxiliary areas, providing new functionality and quality of life.
 Some of these features include:
 * Improving the recommendation algorithms
 * Dynamically auto-generated degree plans for students
 * More useful information about courses (like reviews)
+* Providing enrolment metrics to ANU staff
+* Streamline administration tasks like graduation and timetabling
+* Improved plan saving and sharing system
+
 
 ## Key Stakeholders
 ![Image of Stakeholders](Documentation/Audit1/Images/MCSStakeHolder.001.png)
