@@ -97,7 +97,7 @@ Some of these features include:
   * The team will meet all project requirements within the timeline. 
   * Demonstrate the better GUI and control system could make students get better experience of course selection.
 ## Project Impact
-The aim of this project is to upgrade the former course selection project for university students. Good GUI could bring a better experience to students. Compared with invisible code, the graphical user interface could be viewed directly. In addition, another important feature is customization for ANU Staff. We will work on access control, which could help ANU staff to manage the course information easier. There are some bugs existing in course selection system at presents and we will focus on fixing them. Eventually this project could mainly bring students three benefits in summary.
+The aim of this project is to upgrade the former course selection project for university students.One of important feature is customization for ANU Staff. Customization includes GUI and database operations like(CRUD). At first, good GUI could bring a better experience to students. Compared with invisible code, the graphical user interface could be viewed directly. In addition, We will work on access control, which could help ANU staff to manage the course information easier. There are some bugs existing in course selection system at presents and we will focus on fixing them. Eventually this project could mainly bring students three benefits in summary.
 
 1. Students will be able to experience a better user interface which will make their course selection clear and efficient. The access control function allows Anu staff update the course information as soon as possible which will bring more convenience to students.
 
