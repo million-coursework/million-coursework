@@ -4,8 +4,8 @@
 
 #### Week 3
 
-* [**Presentation Slides**](Documentation\Audit1\Million_Coursework_Stuednts(temp).pptx)
-* [Meeting Minutes: Client](Documentation\MeetingMinutes\MeetingMinutes3.pdf)
+* [**Presentation Slides**](Audit1/Million_Coursework_Stuednts(temp).pptx)
+* [Meeting Minutes: Client](MeetingMinutes/MeetingMinutes3.pdf)
 
 ## Audit 1
 * **[Statement of Work](Audit1/Documentation/statement%20of%20work.docx)**
@@ -16,8 +16,8 @@
 ## Kick-off: Weeks 1 - 2
 
 #### Week 2
-* [Meeting Minutes: Full Team](Documentation\MeetingMinutes\MeetingMinutes2.pdf)
-* [Meeting Minutes: Client](Documentation\MeetingMinutes\MeetingMinutes1.pdf)
+* [Meeting Minutes: Full Team](MeetingMinutes/MeetingMinutes2.pdf)
+* [Meeting Minutes: Client](MeetingMinutes/MeetingMinutes1.pdf)
 
 
 
