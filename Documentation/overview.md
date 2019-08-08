@@ -4,7 +4,7 @@
 
 #### Week 3
 
-* [**Presentation Slides**](Audit1/Million%20Coursework%20Stuednts.pptx)
+* [**Presentation Slides**](https://docs.google.com/presentation/d/12iSk2AcTRCbvyP3C4sayPEQsADFQmqXq6CN4ENnXApE/edit?usp=sharing)
 * [Meeting Minutes: Client](MeetingMinutes/MeetingMinutes3.pdf)
 
 ## Audit 1
