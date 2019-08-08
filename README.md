@@ -82,9 +82,11 @@ Some of these features include:
 
 ## Key Stakeholders
 ![Image of Stakeholders](Documentation/Audit1/Images/MCSStakeHolder.001.png)
+* ANU Student Service Staff as the user for manage the programs.
+* ANU Students as the user.
+* Joseph and Safeer as the client.
 
 ## Client Expectations
-* Clients: Joseph and Safeer
   * Regular and timely communication.
   * Strong team motivation, teamwork and self-direction.
   * Critical thinking about project design and direction.
