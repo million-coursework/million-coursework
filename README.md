@@ -69,11 +69,9 @@ The plan for this semester includes five main work objectives. They are, in a ro
 ![Gantt](Documentation/Audit1/Images/gantt.PNG)
 
 ## Client's Vision
-Our mission statement is to transform the way students discover and explore their options at university.
-The Intelligent Course Scheduler, currently known as ANU ICS, offers interactive degree planning and personalised course discovery to make picking courses simple and enjoyable for students. It uses machine learning to recommend courses to students, and provides university administrators with a structured data model of the entire system of courses, majors, and degree requirements.
-As it stands, the product is easily usable by students and has been well-received. However, it is still a proof of concept (POC) and still stands to be improved upon in many areas.
-Our primary goal for this semester is to improve and streamline the ICS to a point where it can be safely and easily handed over to the ANU for simple upkeep.
-Following this MVP, we envision the product to improve in other auxiliary areas, providing new functionality and quality of life.
+Our mission statement is to transform the way students discover and explore their options at university. The Intelligent Course Scheduler, currently known as ANU ICS, offers interactive degree planning and personalised course discovery to make picking courses simple and enjoyable for students. It uses machine learning to recommend courses to students, and provides university administrators with a structured data model of the entire system of courses, majors, and degree requirements.
+
+As it stands, the product is easily usable by students and has been well-received. However, it is still a proof of concept (POC) and still stands to be improved upon in many areas. Our primary goal for this semester is to improve and streamline the ICS to a point where it can be safely and easily handed over to the ANU for simple upkeep. Following this MVP, we envision the product to improve in other auxiliary areas, providing new functionality and quality of life.
 Some of these features include:
 * Improving the recommendation algorithms
 * Dynamically auto-generated degree plans for students
@@ -82,17 +80,22 @@ Some of these features include:
 * Streamline administration tasks like graduation and timetabling
 * Improved plan saving and sharing system
 
+
 ## Key Stakeholders
 ![Image of Stakeholders](Documentation/Audit1/Images/MCSStakeHolder.001.png)
-
-## Client Expectations
+## Client and Stakeholder Expectations
 * Clients: Joseph and Safeer
-  * Regular and timely communication.
-  * Strong team motivation, teamwork and self-direction.
-  * Critical thinking about project design and direction.
-  * Delivery of a fully-featured and robust product.
-  * Responsibility for maintenance of the live product.
-  
+  * Upgrade more functions and optimize the scheduler .
+  * Upgrade more functions and optimize the scheduler.
+  * Regular timely communication between clients and project team.
+  * Great Teamwork and strong motivation for project.
+  * Self-reflection and figure out what to do as a team. 
+  * Critical thinking about project design and quality.
+
+* The Australian National University
+  * Manage the system by access control function and get students' feedback.
+  * The team will meet all project requirements within the timeline. 
+  * Demonstrate the better GUI and control system could make students get better experience of course selection.
 ## Project Impact
 The aim of this project is to upgrade the former course selection project for university students.One of important feature is customization for ANU Staff. Customization includes GUI and database operations like(CRUD). At first, good GUI could bring a better experience to students. Compared with invisible code, the graphical user interface could be viewed directly. In addition, We will work on access control, which could help ANU staff to manage the course information easier. There are some bugs existing in course selection system at presents and we will focus on fixing them. Eventually this project could mainly bring students three benefits in summary.
 
@@ -103,15 +106,15 @@ The aim of this project is to upgrade the former course selection project for un
 3. We believe that this project will encourage students to explore more about courses and enable students to consider a greater number of options when enrolling. As a result, the proposed project would enhance student experience and university life.
 
 ## Technical and Other Constraints
- The system could now scrap data accurately and efficiently, and we have our own database. However, one thing leave to us is that in order to keep the database up to date, we might need to update it manually, prerequisites change in different years and degrees, we need the latest data to provide a rationally AI system to arrange the degree. Meanwhile, understanding the former codes can be difficult and we are supposed to modify them while developing new features. Working as a team means we need to communicate with clients after getting agreements in team. In this period, discussion and arguments could be other constraints for us.
+The system could now scrape data accurately and efficiently, and we have our own database. However, one thing leave to us is that in order to keep the database up to date, we might need to update it manually, prerequisites change in different years and degrees, we need the latest data to provide a rationally AI system to arrange the degree. However, we are completely new to the project, and there are many codes and technics that we are not familiar with. Working as a team, we will communicate with clients and they will help us through. Apart from that, since we are a new team, we still need some time to know each other, communication and arguments might be other constraints for us.
 
-Furthermore, we currently lack consideration in safety and access control. Students should only see the courses in their own degree and one may only have access to their own data, meanwhile the data should be maintained separately and safely when constructing the database. On the other hand, we have responsibility to fix the bugs immediately while developing the system for guaranteeing a great user experience of intelligent Course Scheduler.
+Furthermore, we are currently lack of consideration in safety and access control. Students should only see the courses in their own degree and one may only have access to their own data, meanwhile the data should be maintained separately and safely when constructing the database. On the other hand, we have responsibility to fix the bugs immediately while developing the system for guaranteeing a great user experience of intelligent Course Scheduler.
 
 
 ## Resources, Risks and potential Costs
-For our project, all the resources of codes and how it works are from our client. Another helpful resource for us is that our client could help us to get in touch with CECS，and CECS could help us to do the testing. we would also get feedbacks from the testing. Then, for the cloud server, we plan to use one of the three servers in the budget table below. What's more, CECS has offered to pay for server costs if we need.
+For our project, all the resources of codes and how it works are from our client. Another helpful resource for us is that our client could help us to get in touch with CECS，and CECS could help us to do the testing. we would also get feedbacks from the testing. Then, for the cloud server, we plan to use one of the three server in the budget table below. What's more, CECS has offered to pay for server costs.
 
-We have noticed that there are some potential risks in the following aspects. Firstly, there are always some uncontrollable factors in our work. We must define the due time of each small tasks. It is better to allocating enough time for each task and make sure that every member done their work on schedule. Once someone cannot finish their work on time, there should be some extra time for this issue. Secondly, we should guarantee the highest quality of our product in the shortest time. Some mistakes would reduce quality, for example, working on the hardest or the not important tasks first. We use planning poker to allocate our tasks, and make sure that we put the most important task at first. Thirdly, relationship between teammates is also a kind of risks. Members who are not happy with their teammates would not working hard and reduce the communication among the team, then fail the project. 
+We have noticed that there are some potential risks in the following aspects. Firstly, there are always some uncontrollable factors in our work. We must define the due time of each small tasks. It is better to allocating enough time for each task and make sure that every member done their work on schedule. Once someone cannot finish their work on time, there should be some extra time for this issue. Secondly, we should guarantee the highest quality of our product in the shortest time. Some mistakes would reduce quality, for example, working on the hardest or the not important tasks first. We use plan poker to allocate our tasks, and make sure that we put the most important task at first. Thirdly, relationship between teammates is also a kind of risks. Members who are not happy with their teammates would not working hard and reduce the communication among the team, then fail the project. 
 
 Based on our situation, we are not a special team, which means that each of us must working on this project at least 10 hours per week. We also have to pay for the cloud server for our product. The cloud server would be free for a few months，then we could apply for the techlauncher grant.
 Here is a table shows our budget for the cloud server:
