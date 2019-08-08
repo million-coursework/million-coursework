@@ -135,3 +135,5 @@ Any materials, tools, methods/techniques and software provided by Clients advise
 
 ## References
 Galitz, W. O., & Safari Books Online. (2007). The essential guide to user interface design: An introduction to GUI design principles and techniques (3rd ed.). Indianapolis, IN: Wiley Pub.
+
+SFIA Foundation (2017). Levels of responsibility. Retrieved from https://www.sfia-online.org/en/framework/sfia-7/busskills
