@@ -54,7 +54,7 @@ Thanks to the advice provided by our clients, what tool to choose can work more 
 Thanks also to the inspiration that our clients have brought us, and we have established a way to calculate the contribution fairly so that everyone in our team can contribute to the project.  
 
 ## Milestones
-The plan for this semester includes two main work objectives. They are, in a rough order of priority, as follows:
+The plan for this semester includes one main work objective includes some sub-objectives. They are, in a rough order of priority, as follows:
 1. **Customisation Interface**:Customisation includes the graphical user interface and database operations for ANU staff. Good Gui can bring a better user experience. Our job is to improve the existing user interface and add customisation features.
      * **CRUD**:Create, read, update, and delete (CRUD) are the four basic functions for the customisation interface. The website will read the data from the database and provide the information the user needs.These functions are the basis of access control system.
      * **Duplicate feature**: Duplicate function is advanced function for the customisation interface. ANU staff can duplicate existing degree requirements in the database and paste them into the new semester. This function can help ANU staff manage the system more efficient.
