@@ -4,7 +4,7 @@
 
 #### Week 3
 
-* [**Presentation Slides**](https://docs.google.com/presentation/d/12iSk2AcTRCbvyP3C4sayPEQsADFQmqXq6CN4ENnXApE/edit?usp=sharing)
+* [**Presentation Slides**](https://docs.google.com/presentation/d/1cvQcCeFERK6mRaIhDVObRH1uYKA7Y_bVxbJuNkgO7x8/edit?usp=sharing)
 * [Meeting Minutes: Client](MeetingMinutes/MeetingMinutes3.pdf)
 
 ## Audit 1
