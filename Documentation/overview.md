@@ -5,7 +5,8 @@
 #### Week 3
 
 * [**Presentation Slides**](https://docs.google.com/presentation/d/1cvQcCeFERK6mRaIhDVObRH1uYKA7Y_bVxbJuNkgO7x8/edit?usp=sharing)
-* [Meeting Minutes: Client](MeetingMinutes/MeetingMinutes3.pdf)
+* [Meeting Minutes: Full Team](MeetingMinutes/MeetingMinute5.pdf)
+* [Meeting Minutes: Client](MeetingMinutes/MeetingMinute4.pdf)
 
 ## Audit 1
 * **[Statement of Work](Audit1/PDF/Statement%20of%20work,%20initialed.pdf)**
@@ -13,9 +14,11 @@
 * **[Stakeholders](Audit1/Images/MCSStakeHolder.001.png)**
 * **[Timeline with Milestones](Audit1/Images/Schedule.png)**
 * **[Gantt Chart](Audit1/Images/gantt.PNG)**
+
 ## Kick-off: Weeks 1 - 2
 
 #### Week 2
+* [Meeting Minutes: Online Meeting](MeetingMinutes/MeetingMinutes3.pdf)
 * [Meeting Minutes: Full Team](MeetingMinutes/MeetingMinutes2.pdf)
 * [Meeting Minutes: Client](MeetingMinutes/MeetingMinutes1.pdf)
 
