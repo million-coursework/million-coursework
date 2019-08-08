@@ -4,7 +4,7 @@
 
 #### Week 3
 
-* [**Presentation Slides**](https://docs.google.com/presentation/d/1cvQcCeFERK6mRaIhDVObRH1uYKA7Y_bVxbJuNkgO7x8/edit?usp=sharing)
+* [**Presentation Slides**](https://docs.google.com/presentation/d/1cvQcCeFERK6mRaIhDVObRH1uYKA7Y_bVxbJuNkgO7x8/edit#slide=id.p9)
 * [Meeting Minutes: Full Team](MeetingMinutes/MeetingMinute5.pdf)
 * [Meeting Minutes: Client](MeetingMinutes/MeetingMinute4.pdf)
 
