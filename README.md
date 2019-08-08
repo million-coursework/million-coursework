@@ -2,8 +2,9 @@
 This project will upgrade the former intelligent Course Scheduler project in many fields including improving Graphical User Interface (GUI), offering access control for ANU staff and former bugs fixing. The Intelligent Course Scheduler, currently known as ANU ICS, offers interactive degree planning and personalised course discovery to make picking courses simple and enjoyable for students. It uses machine learning to recommend courses to students, and provides university administrators with a structured data model of the entire system of courses, majors, and degree requirements.
 
 The Intelligent Course Scheduler is coming soon!
-
+###[Statement of Work](Documentation/Audit1/PDF/statement%20of%20work.pdf)
 ### [Semester 2 Project Progress](Documentation/overview.md)
+
 
 ## Table of Contents
 
@@ -55,7 +56,7 @@ The plan for this semester includes five main work objectives. They are, in a ro
 1. **Customisation Interface**:Customisation includes the graphical user interface and database operations for ANU staff. Good Gui can bring a better user experience. Our job is to improve the existing user interface and add customisation features.
 2. **CRUD**:Create, read, update, and delete (CRUD) are the four basic functions for this website. The website will read the data from the database and provide the information the user needs.These functions are the basis of access control system.
 3. **Access control**: Access control allow anu staffs to login into the website and change course information. Website administrators can also modify the database by using this system.
-4. **Copy and paste functions**: Copy and paste functions are advanced functions for the website. ANU staff can copy existing timetable from other degree or template. These function can help staff manage the system more efficient.
+4. **Copy function**: Copy function is advanced function for the website. ANU staff can copy existing timetable from other degree or template. This function can help ANU staff manage the system more efficient.
 5. **Bug fixing**: There are some bugs in the website. For example,  in some situations, the website will generate incomplete timetable. Our job is to fix these bugs.
 
 ## Project Schedule
