@@ -36,7 +36,7 @@ The Intelligent Course Scheduler is coming soon!
 ![TeamMember](Documentation/Audit1/Images/MCSTeam.002.png)
 
 ## Tools and Services
-**Project Repository-github repo-"million-coursework":** https://github.com/million-coursework   
+**Project Repository-github repo-"million-coursework":** https://github.com/million-coursework/million-coursework 
 
 **Team communication tool-Slack channel：** https://millioncourse.slack.com  
 
@@ -80,22 +80,17 @@ Some of these features include:
 * Streamline administration tasks like graduation and timetabling
 * Improved plan saving and sharing system
 
-
 ## Key Stakeholders
 ![Image of Stakeholders](Documentation/Audit1/Images/MCSStakeHolder.001.png)
-## Client and Stakeholder Expectations
-* Clients: Joseph and Safeer
-  * Upgrade more functions and optimize the scheduler .
-  * Upgrade more functions and optimize the scheduler.
-  * Regular timely communication between clients and project team.
-  * Great Teamwork and strong motivation for project.
-  * Self-reflection and figure out what to do as a team. 
-  * Critical thinking about project design and quality.
 
-* The Australian National University
-  * Manage the system by access control function and get students' feedback.
-  * The team will meet all project requirements within the timeline. 
-  * Demonstrate the better GUI and control system could make students get better experience of course selection.
+## Client Expectations
+* Clients: Joseph and Safeer
+  * Regular and timely communication.
+  * Strong team motivation, teamwork and self-direction.
+  * Critical thinking about project design and direction.
+  * Delivery of a fully-featured and robust product.
+  * Responsibility for maintenance of the live product.
+  
 ## Project Impact
 The aim of this project is to upgrade the former course selection project for university students.One of important feature is customization for ANU Staff. Customization includes GUI and database operations like(CRUD). At first, good GUI could bring a better experience to students. Compared with invisible code, the graphical user interface could be viewed directly. In addition, We will work on access control, which could help ANU staff to manage the course information easier. There are some bugs existing in course selection system at presents and we will focus on fixing them. Eventually this project could mainly bring students three benefits in summary.
 
