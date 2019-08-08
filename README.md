@@ -33,7 +33,7 @@ The Intelligent Course Scheduler is coming soon!
 
 ## Team Members
 
-![TeamMember](Documentation/Audit1/Images/MCSTeam.001.png)
+![TeamMember](Documentation/Audit1/Images/MCSTeam.002.png)
 
 ## Tools and Services
 **Project Repository-github repo-"million-coursework":** https://github.com/million-coursework   
