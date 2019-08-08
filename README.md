@@ -62,8 +62,8 @@ The plan for this semester includes one main work objective includes some sub-ob
 ## Project Schedule
 
 ![Project Schedule](Documentation/Audit1/Images/Schedule.png)
-* **Kick-Off**: Weeks 1 - 2. Team member recruitment, onboarding, project definition and setup. 
-* **Sprint 1**: Weeks 3 - 5. Project Audit 1, read and update feature for customisation interface. 
+* **Kick-Off**: Weeks 1 - 2. Team member recruitment, project definition and setup. 
+* **Sprint 1**: Weeks 3 - 5. Project Audit 1, onboarding, read and update feature for customisation interface. 
 * **Sprint 2**: Weeks 6 - 7. Project Audit 2, create and delete feature for customisation interface, access control.
 * **Sprint 3**: Weeks 8 - 10. Project Audit 3, duplicate feature and project poster.
 
