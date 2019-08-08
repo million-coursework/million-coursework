@@ -69,9 +69,11 @@ The plan for this semester includes five main work objectives. They are, in a ro
 ![Gantt](Documentation/Audit1/Images/gantt.PNG)
 
 ## Client's Vision
-Our mission statement is to transform the way students discover and explore their options at university. The Intelligent Course Scheduler, currently known as ANU ICS, offers interactive degree planning and personalised course discovery to make picking courses simple and enjoyable for students. It uses machine learning to recommend courses to students, and provides university administrators with a structured data model of the entire system of courses, majors, and degree requirements.
-
-As it stands, the product is easily usable by students and has been well-received. However, it is still a proof of concept (POC) and still stands to be improved upon in many areas. Our primary goal for this semester is to improve and streamline the ICS to a point where it can be safely and easily handed over to the ANU for simple upkeep. Following this MVP, we envision the product to improve in other auxiliary areas, providing new functionality and quality of life.
+Our mission statement is to transform the way students discover and explore their options at university.
+The Intelligent Course Scheduler, currently known as ANU ICS, offers interactive degree planning and personalised course discovery to make picking courses simple and enjoyable for students. It uses machine learning to recommend courses to students, and provides university administrators with a structured data model of the entire system of courses, majors, and degree requirements.
+As it stands, the product is easily usable by students and has been well-received. However, it is still a proof of concept (POC) and still stands to be improved upon in many areas.
+Our primary goal for this semester is to improve and streamline the ICS to a point where it can be safely and easily handed over to the ANU for simple upkeep.
+Following this MVP, we envision the product to improve in other auxiliary areas, providing new functionality and quality of life.
 Some of these features include:
 * Improving the recommendation algorithms
 * Dynamically auto-generated degree plans for students
@@ -80,22 +82,17 @@ Some of these features include:
 * Streamline administration tasks like graduation and timetabling
 * Improved plan saving and sharing system
 
-
 ## Key Stakeholders
 ![Image of Stakeholders](Documentation/Audit1/Images/MCSStakeHolder.001.png)
-## Client and Stakeholder Expectations
-* Clients: Joseph and Safeer
-  * Upgrade more functions and optimize the scheduler .
-  * Upgrade more functions and optimize the scheduler.
-  * Regular timely communication between clients and project team.
-  * Great Teamwork and strong motivation for project.
-  * Self-reflection and figure out what to do as a team. 
-  * Critical thinking about project design and quality.
 
-* The Australian National University
-  * Manage the system by access control function and get students' feedback.
-  * The team will meet all project requirements within the timeline. 
-  * Demonstrate the better GUI and control system could make students get better experience of course selection.
+## Client Expectations
+* Clients: Joseph and Safeer
+  * Regular and timely communication.
+  * Strong team motivation, teamwork and self-direction.
+  * Critical thinking about project design and direction.
+  * Delivery of a fully-featured and robust product.
+  * Responsibility for maintenance of the live product.
+  
 ## Project Impact
 The aim of this project is to upgrade the former course selection project for university students.One of important feature is customization for ANU Staff. Customization includes GUI and database operations like(CRUD). At first, good GUI could bring a better experience to students. Compared with invisible code, the graphical user interface could be viewed directly. In addition, We will work on access control, which could help ANU staff to manage the course information easier. There are some bugs existing in course selection system at presents and we will focus on fixing them. Eventually this project could mainly bring students three benefits in summary.
 
