@@ -7,6 +7,12 @@
 * [**Presentation Slides**](Documentation\Audit1\Million_Coursework_Stuednts(temp).pptx)
 * [Meeting Minutes: Client](Documentation\MeetingMinutes\MeetingMinutes3.pdf)
 
+## Audit 1
+* **[Statement of Work](Audit1/Documentation/statement%20of%20work.docx)**
+* **[Team Members](Audit1/Images/MCSTeam.001.png)**
+* **[Stakeholders](Audit1/Images/MCSStakeHolder.001.png)**
+* **[Timeline with Milestones](Audit1/Images/Schedule.png)**
+* **[Gantt Chart](Audit1/Images/gantt.PNG)**
 ## Kick-off: Weeks 1 - 2
 
 #### Week 2
