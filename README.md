@@ -57,7 +57,7 @@ Thanks also to the inspiration that our clients have brought us, and we have est
 The plan for this semester includes five main work objectives. They are, in a rough order of priority, as follows:
 1. **Customisation Interface**:Customisation includes the graphical user interface and database operations for ANU staff. Good Gui can bring a better user experience. Our job is to improve the existing user interface and add customisation features.
      * **CRUD**:Create, read, update, and delete (CRUD) are the four basic functions for the customisation interface. The website will read the data from the database and provide the information the user needs.These functions are the basis of access control system.
-      * **Duplicate function**: Duplicate function is advanced function for the customisation interface. ANU staff can duplicate existing degree requirements in the database and paste them into the new semester. This function can help ANU staff manage the system more efficient.
+      * **Duplicate feature**: Duplicate function is advanced function for the customisation interface. ANU staff can duplicate existing degree requirements in the database and paste them into the new semester. This function can help ANU staff manage the system more efficient.
 2. **Access control**: Access control allow anu staffs to login into the website and change course information. Website administrators can also modify the database by using this system.
 
 ## Project Schedule
@@ -66,7 +66,7 @@ The plan for this semester includes five main work objectives. They are, in a ro
 * **Kick-Off**: Weeks 1 - 2. Team member recruitment, onboarding, project definition and setup. 
 * **Sprint 1**: Weeks 3 - 5. Project Audit 1, read and update feature for customisation interface. 
 * **Sprint 2**: Weeks 6 - 7. Project Audit 2, create and delete feature for customisation interface, access control.
-* **Sprint 3**: Weeks 8 - 10. Project Audit 3, copy and paste feature, project poster.
+* **Sprint 3**: Weeks 8 - 10. Project Audit 3, duplicate feature and project poster.
 
 ![Gantt](Documentation/Audit1/Images/gantt.PNG)
 
