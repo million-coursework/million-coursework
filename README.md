@@ -57,14 +57,13 @@ The plan for this semester includes five main work objectives. They are, in a ro
 2. **CRUD**:Create, read, update, and delete (CRUD) are the four basic functions for this website. The website will read the data from the database and provide the information the user needs.These functions are the basis of access control system.
 3. **Access control**: Access control allow anu staffs to login into the website and change course information. Website administrators can also modify the database by using this system.
 4. **Copy function**: Copy function is advanced function for the website. ANU staff can copy existing timetable from other degree or template. This function can help ANU staff manage the system more efficient.
-5. **Bug fixing**: There are some bugs in the website. For example,  in some situations, the website will generate incomplete timetable. Our job is to fix these bugs.
 
 ## Project Schedule
 
 ![Project Schedule](Documentation/Audit1/Images/Schedule.png)
 * **Kick-Off**: Weeks 1 - 2. Team member recruitment, onboarding, project definition and setup. 
-* **Sprint 1**: Weeks 3 - 5. Project Audit 1, read and update feature for graphical user interface. 
-* **Sprint 2**: Weeks 6 - 7. Project Audit 2, create and delete feature for graphical user interface, access control.
+* **Sprint 1**: Weeks 3 - 5. Project Audit 1, read and update feature for customisation interface. 
+* **Sprint 2**: Weeks 6 - 7. Project Audit 2, create and delete feature for customisation interface, access control.
 * **Sprint 3**: Weeks 8 - 10. Project Audit 3, copy and paste feature, project poster.
 
 ![Gantt](Documentation/Audit1/Images/gantt.PNG)
