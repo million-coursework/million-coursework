@@ -9,7 +9,7 @@
 
 ## Audit 1
 * **[Statement of Work](Audit1/PDF/statement%20of%20work.pdf)**
-* **[Team Members](Audit1/Images/MCSTeam.001.png)**
+* **[Team Members](Audit1/Images/MCSTeam.002.png)**
 * **[Stakeholders](Audit1/Images/MCSStakeHolder.001.png)**
 * **[Timeline with Milestones](Audit1/Images/Schedule.png)**
 * **[Gantt Chart](Audit1/Images/gantt.PNG)**
