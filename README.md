@@ -1,7 +1,6 @@
 # Million-coursework
-This project will upgrade the former intelligent Course Scheduler project in many fields including improving Customization Interface and offering access control for ANU staff. The Intelligent Course Scheduler, currently known as ANU ICS, offers interactive degree planning and personalised course discovery to make picking courses simple and enjoyable for students. It uses machine learning to recommend courses to students, and provides university administrators with a structured data model of the entire system of courses, majors, and degree requirements.
+This project will enhance the former Intelligent Course Scheduler project in the Customization Interface area so that the ANU Student Services staff could maintain the data. This enhancement will consist of three sub-feature namely CRUD (Create, Read, Update and Delete) functions, Duplicate feature, and Access Control function.
 
-The Intelligent Course Scheduler is coming soon!
 ### [Statement of Work](Documentation/Audit1/PDF/Statement%20of%20work,%20initialed.pdf)
 ### [Semester 2 Project Progress](Documentation/overview.md)
 
