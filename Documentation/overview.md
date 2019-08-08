@@ -8,7 +8,7 @@
 * [Meeting Minutes: Client](MeetingMinutes/MeetingMinutes3.pdf)
 
 ## Audit 1
-* **[Statement of Work](Audit1/Documentation/statement%20of%20work.docx)**
+* **[Statement of Work](Audit1/PDF/statement%20of%20work.pdf)**
 * **[Team Members](Audit1/Images/MCSTeam.001.png)**
 * **[Stakeholders](Audit1/Images/MCSStakeHolder.001.png)**
 * **[Timeline with Milestones](Audit1/Images/Schedule.png)**
