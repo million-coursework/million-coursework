@@ -2,6 +2,10 @@
 
 ## Sprint 1: Weeks 3 - 5
 
+#### Week 4
+
+* [Meeting Minutes: Full Team](MeetingMinutes/MeetingMinute6.pdf)
+
 #### Week 3
 
 * [**Presentation Slides**](https://docs.google.com/presentation/d/1cvQcCeFERK6mRaIhDVObRH1uYKA7Y_bVxbJuNkgO7x8/edit#slide=id.p9)
