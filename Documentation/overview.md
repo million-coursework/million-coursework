@@ -4,7 +4,7 @@
 
 #### Week 4
 
-* [Meeting Minutes: Full Team](MeetingMinutes/MeetingMinute6.pdf)
+* [Meeting Minutes: Full Team](MeetingMinutes/Meeting6.pdf)
 
 #### Week 3
 
