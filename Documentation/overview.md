@@ -6,7 +6,7 @@
 
 * [Meeting Minutes: Full Team](MeetingMinutes/Meeting6.pdf)
 * [Client Meeting Agenda](MeetingMinutes/MeetingAgenda1.pdf)
-
+* [Test Plan](Sprint1/Test%20Plan%20(draft).pdf)
 
 #### Week 3
 
