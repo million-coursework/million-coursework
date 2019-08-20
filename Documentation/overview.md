@@ -2,6 +2,10 @@
 
 ## Sprint 1: Weeks 3 - 5
 
+#### Week 5
+
+* [Client Meeting Agenda](MeetingMinutes/MeetingAgenda2.pdf)
+
 #### Week 4
 
 * [Meeting Minutes: Full Team](MeetingMinutes/Meeting6.pdf)
