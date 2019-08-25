@@ -5,6 +5,7 @@
 #### Week 5
 
 * [Client Meeting Agenda](MeetingMinutes/MeetingAgenda2.pdf)
+* [Information issues report](Sprint1/information%20issues%20report.pdf)
 
 #### Week 4
 
