@@ -1,10 +1,17 @@
 # Semester 2 Progress Overview
+## Sprint 2: Weeks 6 - 7
+#### Week 6
+
+* [Client Meeting Agenda](MeetingMinutes/MeetingAgenda3.pdf)
+* [Meeting Minutes: Full Team](MeetingMinutes/Meeting10.pdf)
+
 
 ## Sprint 1: Weeks 3 - 5
 
 #### Week 5
 
 * [Client Meeting Agenda](MeetingMinutes/MeetingAgenda2.pdf)
+* [Meeting Minutes: Full Team](MeetingMinutes/Meeting9.pdf)
 * [Information issues report](Sprint1/information%20issues%20report.pdf)
 
 #### Week 4
