@@ -42,6 +42,8 @@ This project will enhance the former Intelligent Course Scheduler project in the
 
 **Task management: Trello board "Million Course Project":** https://trello.com/b/NZ6f3hWP/million-course-project  
 
+**Team reflection: Google Docs:** https://docs.google.com/document/d/1w5V7uKrHXdjHAtif8KA3asChxZLq2JJbWDm-GW6H2CQ/edit?usp=sharing
+
 
 Thanks to the advice provided by our clients, what tool to choose can work more efficiently.
 Thanks also to the inspiration that our clients have brought us, and we have established a way to calculate the contribution fairly so that everyone in our team can contribute to the project.  
