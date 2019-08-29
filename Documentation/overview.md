@@ -4,7 +4,7 @@
 
 * [Client Meeting Agenda](Sprint2/MeetingMinutes/MeetingAgenda3.pdf)
 * [Meeting Minutes: Full Team](Sprint2/MeetingMinutes/MeetingMinutes9.pdf)
-
+* [Reflection and Decision](Sprint2/Documentation/DeclogWeek6.pdf)
 
 ## Sprint 1: Weeks 3 - 5
 
@@ -13,12 +13,14 @@
 * [Client Meeting Agenda](Sprint1/MeetingMinutes/MeetingAgenda2.pdf)
 * [Meeting Minutes: Full Team](Sprint1/MeetingMinutes/MeetingMinutes10.pdf)
 * [Information issues report](Sprint1/Documentation/information%20issues%20report.pdf)
+* [Reflection and Decision](Sprint1/Documentation/DeclogWeek5.pdf)
 
 #### Week 4
 
 * [Meeting Minutes: Full Team](Sprint1/MeetingMinutes/MeetingMinutes6.pdf)
 * [Client Meeting Agenda](Sprint1/MeetingMinutes/MeetingAgenda1.pdf)
 * [Test Plan](Sprint1/Documentation/Test%20Plan%20(draft).pdf)
+* [Reflection and Decision](Sprint1/Documentation/DeclogWeek4.pdf)
 
 #### Week 3
 
