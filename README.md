@@ -126,7 +126,7 @@ Here is a table shows our budget for the cloud server:
 ## NDA and Ip Concerns
 There will be no non-disclosure agreement required. 
 
-Any materials, tools, methods/techniques and software provided by Clients advised and agreed to be Clients’ Copyright, will remain the intellectual property of Clients. New codes developed by project members will be owned by project team.
+Any materials, tools, methods/techniques and software provided by Clients advised and agreed to be Clients’ Copyright, will remain the intellectual property of Clients. New codes developed by project members will be owned by project team. Meanwhile, client is drafting an agreement with project team about our contribution in terms of Intellectual Property.
 
 ## References
 Galitz, W. O., & Safari Books Online. (2007). The essential guide to user interface design: An introduction to GUI design principles and techniques (3rd ed.). Indianapolis, IN: Wiley Pub.
