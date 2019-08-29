@@ -63,7 +63,7 @@ The plan for this semester includes one main work objective includes some sub-ob
 * **Sprint 2**: Weeks 6 - 7. Project Audit 2, create feature for customisation interface, access control.
 * **Sprint 3**: Weeks 8 - 10. Project Audit 3, update and delete feature for customisation interface, duplicate feature and project poster.
 
-![Gantt](Documentation/Audit1/Images/gantt.PNG)
+![Gantt](Documentation/Audit1/Images/gantt.png)
 
 ## Client's Vision
 Our mission statement is to transform the way students discover and explore their options at university. The Intelligent Course Scheduler, currently known as ANU ICS, offers interactive degree planning and personalised course discovery to make picking courses simple and enjoyable for students. It uses machine learning to recommend courses to students, and provides university administrators with a structured data model of the entire system of courses, majors, and degree requirements.
