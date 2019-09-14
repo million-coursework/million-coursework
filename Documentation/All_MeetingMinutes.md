@@ -3,7 +3,7 @@
 #### Mid_term Week1
 
 * [Meeting Minutes: Full Team](Sprint2/MeetingMinutes/MeetingMinutesMid1.pdf)
-* [Meeting Minutes: Client Meeting](Sprint2/MeetingMinutes/ClientMeetingMid1.pdf)
+* [Meeting Minutes: Client Meeting](Sprint2/MeetingMinutes/ClientMeetingMid2.pdf)
 
 #### Week 6
 
