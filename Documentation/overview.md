@@ -2,6 +2,15 @@
 ### [All Meeting Minutes](All_MeetingMinutes.md)
 ### [All Reflection and Decision](All_Reflection_and_Decision.md)
 ## Sprint 2: Weeks 6 - 7
+
+#### Mid_term Week1
+
+* [Meeting Minutes: Full Team](Sprint2/MeetingMinutes/MeetingMinutesMid1.pdf)
+* [Meeting Minutes: Client Meeting](Sprint2/MeetingMinutes/ClientMeetingMid1.pdf)
+* [Reflection and Decision](Sprint2/Documentation/Mid-breakWeek1.pdf)
+
+
+
 #### Week 6
 
 * [Client Meeting Agenda](Sprint2/MeetingMinutes/MeetingAgenda3.pdf)

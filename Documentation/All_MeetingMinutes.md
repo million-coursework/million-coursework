@@ -1,4 +1,10 @@
 # All Meeting Minutes
+
+#### Mid_term Week1
+
+* [Meeting Minutes: Full Team](Sprint2/MeetingMinutes/MeetingMinutesMid1.pdf)
+* [Meeting Minutes: Client Meeting](Sprint2/MeetingMinutes/ClientMeetingMid1.pdf)
+
 #### Week 6
 
 * [Client Meeting Agenda](Sprint2/MeetingMinutes/MeetingAgenda3.pdf)
