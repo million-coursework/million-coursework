@@ -7,6 +7,7 @@
 
 * [Meeting Minutes: Full Team](Sprint2/MeetingMinutes/MeetingMinutesMid1.pdf)
 * [Meeting Minutes: Client Meeting](Sprint2/MeetingMinutes/ClientMeetingMid2.pdf)
+* [Reflection and Decision](Sprint2/Documentation/Mid-breakWeek2.pdf)
 
 #### Mid_term Week1
 
