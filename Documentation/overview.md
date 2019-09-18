@@ -1,6 +1,7 @@
 # Semester 2 Progress Overview
 ### [All Meeting Minutes](All_MeetingMinutes.md)
 ### [All Reflection and Decision](All_Reflection_and_Decision.md)
+### [Weekly Self-Review&Reflection](Self-Reflection.md)
 ## Sprint 2: Weeks 6 - 7
 
 #### Mid_term Week2
