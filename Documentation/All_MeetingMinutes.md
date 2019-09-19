@@ -1,9 +1,9 @@
 # All Meeting Minutes
 
-#### Mid_term Week1
+#### Week7
 
 * [Meeting Minutes: Full Team]
-* [Meeting Minutes: Client Meeting](Sprint2/MeetingMinutes/ClientMeetingW7.pdf)
+* [Meeting Minutes: Client Meeting](Sprint2/MeetingMinutes/ClientmeetingW7.pdf)
 
 #### Mid_term Week1
 
