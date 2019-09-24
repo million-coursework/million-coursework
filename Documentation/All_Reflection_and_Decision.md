@@ -1,6 +1,10 @@
 # All Reflection and Decision
 #### [Reflection and Decision on GoogleDrive](https://docs.google.com/document/d/1w5V7uKrHXdjHAtif8KA3asChxZLq2JJbWDm-GW6H2CQ/edit?usp=sharing)
 
+#### Week8
+* [Reflection and Decision]
+#### Week7
+* [Reflection and Decision]
 #### Mid_term Week2
 * [Reflection and Decision](Sprint2/Documentation/Mid-breakWeek2.pdf)
 

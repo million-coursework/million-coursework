@@ -2,7 +2,21 @@
 ### [All Meeting Minutes](All_MeetingMinutes.md)
 ### [All Reflection and Decision](All_Reflection_and_Decision.md)
 ### [Weekly Self-Review&Reflection](Self-Reflection.md)
+
+## Sprint 3: Weeks 8 - 10
+#### Week 8
+* [Client Meeting Agenda](Sprint3/MeetingMinutes/MeetingAgendaWeek8.pdf)
+* [Meeting Minutes: Client Meeting]
+* [Meeting Minutes: Full Team]
+* [Reflection and Decision]
+
 ## Sprint 2: Weeks 6 - 7
+* [Sprint review]
+#### Week7
+* [Meeting Minutes: Full Team]
+* [Client Meeting Agenda]
+* [Meeting Minutes: Client Meeting](Sprint2/MeetingMinutes/ClientmeetingW7.pdf)
+* [Reflection and Decision]
 
 #### Mid_term Week2
 
