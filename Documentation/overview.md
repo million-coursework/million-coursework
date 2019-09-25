@@ -9,6 +9,7 @@
 * [Meeting Minutes: Client Meeting]
 * [Meeting Minutes: Full Team]
 * [Reflection and Decision]
+* [test cases for read function](Sprint3/Documentation/test%20cases(read).pdf)
 
 ## Sprint 2: Weeks 6 - 7
 * [Sprint review]
