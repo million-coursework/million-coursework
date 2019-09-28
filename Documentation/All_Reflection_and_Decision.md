@@ -4,7 +4,8 @@
 #### Week8
 * [Reflection and Decision]
 #### Week7
-* [Reflection and Decision]
+* [Reflection and Decision](Sprint2/Documentation/DeclogWeek7.pdf)
+
 #### Mid_term Week2
 * [Reflection and Decision](Sprint2/Documentation/Mid-breakWeek2.pdf)
 

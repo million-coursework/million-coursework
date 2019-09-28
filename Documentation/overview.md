@@ -17,7 +17,7 @@
 #### Week7
 * [Meeting Minutes: Full Team]
 * [Meeting Minutes: Client Meeting](Sprint2/MeetingMinutes/ClientmeetingW7.pdf)
-* [Reflection and Decision]
+* [Reflection and Decision](Sprint2/Documentation/DeclogWeek7.pdf)
 
 #### Mid_term Week2
 
