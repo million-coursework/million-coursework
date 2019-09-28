@@ -1,4 +1,7 @@
 # All Meeting Minutes
+#### Week8
+* [Client Meeting Agenda](Sprint3/MeetingMinutes/MeetingAgendaWeek8.pdf)
+* [Meeting Minutes: Client Meeting](Sprint3/MeetingMinutes/ClientMeetingWeek8.pdf)
 
 #### Week7
 
