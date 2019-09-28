@@ -1,7 +1,7 @@
 # Semester 2 Progress Overview
 ### [All Meeting Minutes](All_MeetingMinutes.md)
-### [All Reflection and Decision](All_Reflection_and_Decision.md)
-### [Weekly Self-Review&Reflection](Self-Reflection.md)
+### [Reflection and Decision](All_Reflection_and_Decision.md)
+### [Weekly Self-Review](Self-Reflection.md)
 
 ## Sprint 3: Weeks 8 - 10
 #### Week 8
