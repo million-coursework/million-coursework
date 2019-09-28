@@ -7,7 +7,7 @@
 #### Week 8
 * [Client Meeting Agenda](Sprint3/MeetingMinutes/MeetingAgendaWeek8.pdf)
 * [Meeting Minutes: Client Meeting](Sprint3/MeetingMinutes/ClientMeetingWeek8.pdf)
-* [Meeting Minutes: Full Team]
+* [Meeting Minutes: Full Team](Sprint3/MeetingMinutes/TeamMeetingWeek8.pdf)
 * [Reflection and Decision]
 * [test cases for read function](Sprint3/Documentation/test%20cases(read).pdf)
 * [test questionnaire for read function](Sprint3/Documentation/test%20questionnaire(read).pdf)
@@ -15,7 +15,7 @@
 ## Sprint 2: Weeks 6 - 7
 * [Sprint review]
 #### Week7
-* [Meeting Minutes: Full Team]
+* [Meeting Minutes: Full Team](Sprint2/MeetingMinutes/TeamMeetingWeek7.pdf)
 * [Meeting Minutes: Client Meeting](Sprint2/MeetingMinutes/ClientmeetingW7.pdf)
 * [Reflection and Decision](Sprint2/Documentation/DeclogWeek7.pdf)
 
