@@ -1,6 +1,6 @@
 # Self-Reflection
 
-## Sprint 2: Weeks 6 - 7
+## Sprint 3: Weeks 8 - 10
 #### Week8
 *  [Kundu‘s Self-Reflection](Reflection/Kundu/Kundu_Reflection_Week8.pdf)
 *  [Sayed‘s Self-Reflection](Reflection/Sayed/Week8-Sayed.md)
@@ -9,6 +9,8 @@
 *  [Zifeng‘s Self-Reflection](Reflection/Liu/week8_liu.pdf)
 *  [Xiangyu's Self-Reflection](Reflection/Xiangyu/Xiangyu_Reflection_Week8.pdf)
 *  [Ken's Self-Reflection](Reflection/Lingyu/Lingyu_Reflection_Week8.pdf)
+## Sprint 2: Weeks 6 - 7
+
 
 #### Week7
 *  [Kundu‘s Self-Reflection](Reflection/Kundu/Kundu_Reflection_Week7.pdf)
