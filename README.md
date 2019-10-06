@@ -44,6 +44,9 @@ This project will enhance the former Intelligent Course Scheduler project in the
 
 **Team reflection: Google Docs:** https://docs.google.com/document/d/1w5V7uKrHXdjHAtif8KA3asChxZLq2JJbWDm-GW6H2CQ/edit?usp=sharing
 
+Related links:
+
+GitHub organisation "AICourseSelection" https://github.com/AICourseSelection
 
 Thanks to the advice provided by our clients, what tool to choose can work more efficiently.
 Thanks also to the inspiration that our clients have brought us, and we have established a way to calculate the contribution fairly so that everyone in our team can contribute to the project.  
