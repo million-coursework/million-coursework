@@ -7,19 +7,20 @@
 #### Week10
 
 * [Meeting Minutes: Client Meeting](Sprint3/MeetingMinutes/ClientMeetingWeek10.pdf)
-
+* [Reflection and Decision](Sprint3/Documentation/DeclogWeek10.pdf)
 
 
 #### Week9
 * [Meeting Minutes: Client Meeting](Sprint3/MeetingMinutes/ClientMeetingWeek9.pdf)
 * [Meeting Minutes: Full Team](Sprint3/MeetingMinutes/TeamMeetingWeek9.pdf)
+* [Reflection and Decision](Sprint3/Documentation/DeclogWeek9.pdf)
 
 #### Week 8
 * [Client Meeting Agenda](Sprint3/MeetingMinutes/MeetingAgendaWeek8.pdf)
 * [Meeting Minutes: Client Meeting](Sprint3/MeetingMinutes/ClientMeetingWeek8.pdf)
 * [Meeting Minutes: Full Team](Sprint3/MeetingMinutes/TeamMeetingWeek8.pdf)
-* [Reflection and Decision](Sprint3/MeetingMinutes/TeamMeetingWeek8.pdf)
-* [test cases for read function](Sprint3/Documentation/DeclogWeek8.pdf)
+* [Reflection and Decision](Sprint3/Documentation/DeclogWeek8.pdf)
+* [test cases for read function](Sprint3/Documentation/test cases(read).pdf)
 * [test questionnaire for read function](Sprint3/Documentation/test%20questionnaire(read).pdf)
 
 ## Sprint 2: Weeks 6 - 7

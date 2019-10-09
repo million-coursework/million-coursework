@@ -1,6 +1,7 @@
 # Reflection and Decision-log
 #### [Reflection and Decision on GoogleDrive](https://docs.google.com/document/d/1w5V7uKrHXdjHAtif8KA3asChxZLq2JJbWDm-GW6H2CQ/edit?usp=sharing)
-
+#### Week10
+* [Reflection and Decision](Sprint3/Documentation/DeclogWeek10.pdf)
 #### Week9
 * [Reflection and Decision](Sprint3/Documentation/DeclogWeek9.pdf)
 
