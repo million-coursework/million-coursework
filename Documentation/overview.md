@@ -4,6 +4,10 @@
 ### [Weekly Self-Review](Self-Reflection.md)
 
 ## Sprint 3: Weeks 8 - 10
+#### Week9
+* [Meeting Minutes: Client Meeting](Sprint3/MeetingMinutes/ClientMeetingWeek9.pdf)
+* [Meeting Minutes: Full Team](Sprint3/MeetingMinutes/TeamMeetingWeek9.pdf)
+
 #### Week 8
 * [Client Meeting Agenda](Sprint3/MeetingMinutes/MeetingAgendaWeek8.pdf)
 * [Meeting Minutes: Client Meeting](Sprint3/MeetingMinutes/ClientMeetingWeek8.pdf)
