@@ -1,4 +1,7 @@
 # All Meeting Minutes
+#### Week10
+* [Meeting Minutes: Client Meeting](Sprint3/MeetingMinutes/ClientMeetingWeek10.pdf)
+
 #### Week9
 * [Meeting Minutes: Client Meeting](Sprint3/MeetingMinutes/ClientMeetingWeek9.pdf)
 * [Meeting Minutes: Full Team](Sprint3/MeetingMinutes/TeamMeetingWeek9.pdf)
