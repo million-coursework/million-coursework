@@ -4,6 +4,10 @@
 ### [Weekly Self-Review](Self-Reflection.md)
 
 ## Sprint 3: Weeks 8 - 10
+#### Week10
+
+* [Meeting Minutes: Client Meeting](Sprint3/MeetingMinutes/ClientMeetingWeek10.pdf)
+
 
 
 #### Week9
@@ -19,6 +23,7 @@
 * [test questionnaire for read function](Sprint3/Documentation/test%20questionnaire(read).pdf)
 
 ## Sprint 2: Weeks 6 - 7
+
 #### Week7
 * [Meeting Minutes: Full Team](Sprint2/MeetingMinutes/TeamMeetingWeek7.pdf)
 * [Meeting Minutes: Client Meeting](Sprint2/MeetingMinutes/ClientmeetingW7.pdf)
