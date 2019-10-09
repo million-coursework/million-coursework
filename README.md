@@ -3,7 +3,7 @@ This project will enhance the former Intelligent Course Scheduler project in the
 
 ### [Statement of Work](Documentation/Audit1/PDF/Statement%20of%20work,%20initialed.pdf)
 ### [Semester 2 Project Progress](Documentation/overview.md)
-### [Source Code](https://github.com/AICourseSelection/courseai)
+### [Source Code: Million branch](https://github.com/AICourseSelection/courseai)
 
 ## Table of Contents
 

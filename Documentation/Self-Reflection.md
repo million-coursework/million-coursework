@@ -4,7 +4,7 @@
 
 #### Week9
 *  [Kundu‘s Self-Reflection](Reflection/Kundu/Kundu_Reflection_Week9.pdf)
-*  [Sayed‘s Self-Reflection](Reflection/Sayed/Week9-Sayed.md)
+*  [Sayed‘s Self-Reflection](Reflection/Sayed/Self-reflection_Sayed_Week9.pdf)
 *  [Rui‘s Self-Reflection](Reflection/Rui/week9_Rui.pdf)
 *  [Yichen‘s Self-Reflection](Reflection/Yichen/week9_Yichen.pdf)
 *  [Zifeng‘s Self-Reflection](Reflection/Liu/week9_liu.pdf)
@@ -13,8 +13,8 @@
 
 #### Week8
 *  [Kundu‘s Self-Reflection](Reflection/Kundu/Kundu_Reflection_Week8.pdf)
-*  [Sayed‘s Self-Reflection](Reflection/Sayed/Week8-Sayed.md)
-*  [Rui‘s Self-Reflection](Reflection/Rui/week8_Rui.pdf)
+*  [Sayed‘s Self-Reflection](Reflection/Sayed/Self-reflection_Sayed_Week9.pdf)
+*  [Rui‘s Self-Reflection](Reflection/Rui/Week8_Rui.pdf)
 *  [Yichen‘s Self-Reflection](Reflection/Yichen/week8_Yichen.pdf)
 *  [Zifeng‘s Self-Reflection](Reflection/Liu/week8_liu.pdf)
 *  [Xiangyu's Self-Reflection](Reflection/Xiangyu/Xiangyu_Reflection_Week8.pdf)
