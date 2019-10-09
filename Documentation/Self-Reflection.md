@@ -7,7 +7,7 @@
 *  [Sayed‘s Self-Reflection](Reflection/Sayed/Self-reflection_Sayed_Week9.pdf)
 *  [Rui‘s Self-Reflection](Reflection/Rui/week9_Rui.pdf)
 *  [Yichen‘s Self-Reflection](Reflection/Yichen/week9_Yichen.pdf)
-*  [Zifeng‘s Self-Reflection](Reflection/Liu/week9_liu.pdf)
+*  [Zifeng‘s Self-Reflection](Reflection/Liu/WeeK9_Liu.pdf)
 *  [Xiangyu's Self-Reflection](Reflection/Xiangyu/Xiangyu_Reflection_Week9.pdf)
 *  [Ken's Self-Reflection](Reflection/Lingyu/Lingyu_Reflection_Week9.pdf)
 
@@ -16,7 +16,7 @@
 *  [Sayed‘s Self-Reflection](Reflection/Sayed/Self-reflection_Sayed_Week9.pdf)
 *  [Rui‘s Self-Reflection](Reflection/Rui/Week8_Rui.pdf)
 *  [Yichen‘s Self-Reflection](Reflection/Yichen/week8_Yichen.pdf)
-*  [Zifeng‘s Self-Reflection](Reflection/Liu/week8_liu.pdf)
+*  [Zifeng‘s Self-Reflection](Reflection/Liu/Week8_liu.pdf)
 *  [Xiangyu's Self-Reflection](Reflection/Xiangyu/Xiangyu_Reflection_Week8.pdf)
 *  [Ken's Self-Reflection](Reflection/Lingyu/Lingyu_Reflection_Week8.pdf)
 
